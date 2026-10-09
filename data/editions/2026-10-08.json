@@ -1,0 +1,2404 @@
+{
+ "date": "2026-10-08",
+ "number": 1,
+ "generatedAt": "2026-10-08T17:30:00+02:00",
+ "summary": "Muere Maricarmen y entra en vigor el decreto de vivienda que lleva su nombre, mientras España se prepara para votar el 29-N y Bilbao estrena Bellas Artes y hace balance de las inundaciones.",
+ "stories": [
+  {
+   "id": "2026-10-08-maricarmen",
+   "section": "espana",
+   "weight": 3,
+   "title": "Muere Maricarmen, la vecina de 87 años cuyo desahucio encendió la revuelta por la vivienda",
+   "dek": "Vivía desde 1956 en el mismo piso del Retiro. Su caso provocó una acampada en Sol, un decreto con su nombre y, en la práctica, el adelanto electoral.",
+   "figure": {
+    "value": "87",
+    "label": "años tenía Maricarmen"
+   },
+   "place": "Madrid",
+   "body": [
+    "María del Carmen Abascal, Maricarmen, murió el miércoles 7 de octubre en el Hospital Gregorio Marañón de Madrid, donde estaba ingresada desde poco después de ser desahuciada. Tenía 87 años y era funcionaria jubilada. Días antes, la empresa propietaria del piso había aceptado ofrecerle un alquiler social, pero no llegó a volver a casa.",
+    "Su historia empezó en 1956. Con 17 años llegó a un piso de alquiler en el barrio del Retiro. El contrato lo tuvo que firmar su padre, porque durante el franquismo una mujer no podía ser titular de un alquiler. Tras la muerte de su madre en 2007 siguió en la vivienda con un contrato de renta antigua.",
+    "En 2018 el edificio pasó a manos de Renta Corporación, que le ofreció comprar su casa por 250.000 euros. Después lo adquirió Urbagestión, que le propuso un alquiler de 2.600 euros al mes, casi el doble de su pensión de 1.400. Ella decidió quedarse pagando la renta de siempre, y la empresa inició el desahucio alegando que su contrato de 2007 no era válido.",
+    "En 2022 una jueza le dio la razón, pero la Audiencia Provincial y el Tribunal Supremo fallaron después a favor de la propiedad. Hubo dos intentos de desalojo aplazados, el segundo en junio, tras una gran movilización y una petición de la ONU al Estado para que lo impidiera. Hace unas dos semanas la policía entró en la vivienda y la sacó en camilla mientras miles de personas protestaban fuera.",
+    "Su caso dio origen a una acampada en la Puerta del Sol y al llamado «decreto Maricarmen» impulsado por el Sindicato de Inquilinas. Cuando el Congreso tumbó ese decreto con los votos de PP, Vox y Junts, Pedro Sánchez convocó elecciones. El miércoles por la noche, cientos de velas llenaron la Puerta del Sol en su memoria."
+   ],
+   "keys": [
+    "Murió el 7 de octubre, dos semanas después de ser desahuciada.",
+    "Llevaba casi 70 años en el mismo piso de alquiler del Retiro.",
+    "Su caso está detrás del decreto de vivienda y de la huelga general del 11 de noviembre."
+   ],
+   "why": "Es la historia que explica por qué la vivienda va a dominar la campaña electoral y por qué hay una huelga general convocada en noviembre.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/economia/maricarmen-mujer-prendio-revuelta-vivienda-espana-precipito-elecciones_1_13570143.html"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/cientos-personas-marchan-congreso-muerte-maricarmen-no-toleramos-desahucio_1_13570760.html"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/08/la-vigilia-maricarmen-abascal-llena-velas-la-puerta-del-sol/"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/maricarmen-simbolo-reconocido-prensa-internacional-martir-inquilinos-reclaman-vivienda-digna_1_13571051.html"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/economia/20261007/muere-maricarmen-mujer-87-anos-desahuciada-madrid-avivo-protestas_467395.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/07/muere-maricarmen-a-los-87-anos-tras-permanecer-hospitalizada-desde-su-desahucio-en-madrid/"
+    }
+   ],
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   }
+  },
+  {
+   "id": "2026-10-08-decreto-vivienda",
+   "section": "espana",
+   "weight": 3,
+   "title": "El decreto de vivienda ya está en vigor: qué cambia si vives de alquiler",
+   "dek": "Prórroga obligatoria de dos años, subidas congeladas o limitadas al 2%, contratos de habitación con cinco años de duración y préstamos sin intereses para comprar.",
+   "figure": {
+    "value": "2 años",
+    "label": "de prórroga obligatoria"
+   },
+   "place": "España",
+   "body": [
+    "El decreto que el Consejo de Ministros aprobó el martes entró en vigor este jueves, 8 de octubre, tras publicarse en el BOE. Afecta a unos cinco millones de inquilinos que tienen 1,8 millones de contratos con vencimiento antes del 31 de diciembre de 2028.",
+    "La medida principal es una prórroga extraordinaria de dos años. Si tu contrato vence antes de esa fecha, puedes pedirla y el casero está obligado a aceptarla. Solo deja de aplicarse si las dos partes firman un contrato nuevo o si el propietario o un familiar necesitan la casa para vivir en ella. Además, las subidas anuales quedan congeladas cuando el piso ya cuesta más que el índice de referencia; si está por debajo, el aumento máximo es del 2%.",
+    "Cambian también otras dos cosas muy habituales entre la gente joven. Los contratos de alquiler de habitaciones pasan a regirse por la Ley de Arrendamientos Urbanos: tendrán una duración de cinco años y quedan prohibidas cláusulas abusivas, como que el casero entre en la vivienda cuando quiera. Y para firmar un contrato de temporada habrá que demostrar que la estancia es realmente temporal; si no, contará como vivienda habitual.",
+    "El decreto obliga a las administraciones autonómicas y locales a ofrecer alternativa a los inquilinos vulnerables que se enfrenten a un desahucio por impago. Si no lo hacen, tendrán que cubrir la deuda, que luego pagará el Gobierno central. Las empresas solo podrán comprar viviendas a un precio igual o inferior al 70% de su valor de mercado, para frenar la compra de pisos con inquilinos dentro, que suele terminar en desalojos.",
+    "No todos los expertos lo ven igual. Algunos economistas, citados por El Independiente, advierten de que intervenir el mercado puede reducir la oferta de pisos: un estudio de Fedea concluye que los controles de precios moderaron el alquiler donde se aplicaron, pero también redujeron el número de viviendas disponibles.",
+    "Para quien quiera dejar el alquiler y comprar, habrá préstamos de hasta 50.000 euros sin intereses a través del ICO, con hasta 30 años de carencia y diez años para devolverlos. Todo esto es provisional: la Diputación Permanente del Congreso tiene que votarlo en el plazo de un mes. El PNV ya ha anunciado que lo apoyará, lo que en la práctica garantiza que salga adelante."
+   ],
+   "keys": [
+    "En vigor desde el 8 de octubre.",
+    "Prórroga obligatoria de 2 años para contratos que venzan antes de 2029.",
+    "Alquiler de habitaciones: contrato de 5 años y fin de cláusulas abusivas.",
+    "Préstamos de hasta 50.000 € sin intereses para comprar."
+   ],
+   "why": "Si vives o vas a vivir de alquiler, o compartes piso por habitaciones, estas reglas te afectan directamente desde hoy.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/economia/prorrogas-precios-congelados-cambia-inquilinos-caseros-entrada-vigor-decreto-vivienda_1_13571231.html"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/pnv-confirma-salvara-responsabilidad-decreto-desahucios-diputacion-permanente_1_13566946.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/economia/2026/10/08/bbva-research-recorta-20000-pisos-prevision-construccion-viviendas-2027/"
+    }
+   ],
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   }
+  },
+  {
+   "id": "2026-10-08-elecciones-29n",
+   "section": "espana",
+   "weight": 2,
+   "title": "España vota el 29 de noviembre: así se colocan los partidos",
+   "dek": "Feijóo es ratificado como candidato, el PSOE cerrará listas el 17 de octubre y en Euskadi Patxi López se perfila de nuevo como cabeza socialista.",
+   "figure": {
+    "value": "29N",
+    "label": "día de las elecciones"
+   },
+   "place": "Madrid · Bilbao",
+   "body": [
+    "Pedro Sánchez anunció el 5 de octubre el adelanto de las elecciones generales al domingo 29 de noviembre. Con las Cortes disueltas, la Diputación Permanente, formada por 69 diputados, asume sus funciones hasta que se constituya el nuevo Congreso. La campaña oficial empezará en la noche del 12 al 13 de noviembre.",
+    "El PP ratificó este jueves a Alberto Núñez Feijóo como su candidato. En la reunión de la Junta Directiva Nacional pidió a los suyos no confiarse y recordó que en 2023 las encuestas no acertaron. El PSOE aprobará sus candidaturas en el Comité Federal del 17 de octubre. José Luis Rodríguez Zapatero participará en la campaña socialista, aunque sigue investigado en el caso Plus Ultra.",
+    "En Euskadi, Patxi López se perfila de nuevo como cabeza de lista del PSE-EE. En 2023 los socialistas fueron la primera fuerza vasca, con cinco diputados y cuatro senadores. López, nacido en Portugalete, es portavoz socialista en el Congreso y fue lehendakari entre 2009 y 2012.",
+    "La dirección del PNV ha propuesto a Maribel Vaquero y al exalcalde de Vitoria Gorka Urtaran como pesos pesados de sus listas, junto a nombres como Eneko Goia, Amaia del Campo, Jon Andoni Atutxa, Idoia Sagastizabal y Joseba Andoni Agirretxea. Su afiliación puede añadir nombres hasta el domingo. EH Bildu presentará sus candidaturas el 16 de octubre, las votará el 17 y 18 y las proclamará el 19. El PP tiene previsto a Iñaki Oyarzabal por Álava.",
+    "El adelanto electoral también tiene consecuencias en Euskadi: el Parlamento Vasco suspende tres plenos en noviembre por la campaña, y varias transferencias pendientes con el Gobierno central quedan paralizadas."
+   ],
+   "keys": [
+    "Elecciones generales: domingo 29 de noviembre.",
+    "La campaña empieza la noche del 12 al 13 de noviembre.",
+    "EH Bildu presenta listas el 16 de octubre; el PSOE las aprueba el 17."
+   ],
+   "why": "Si quieres votar por correo o comprobar en qué censo estás, conviene hacerlo con tiempo: las elecciones son en siete semanas.",
+   "sources": [
+    {
+     "name": "Por Esto",
+     "url": "https://www.poresto.com/internacional/2026/10/5/pedro-sanchez-adelanta-elecciones-en-espana-seran-el-29-de-noviembre-de-2026.html"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/patxi-lopez-perfila-nuevamente-candidato-pse-ee-generales-despues-victoria-2023_1_13569856.html"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/pnv-apuesta-maribel-vaquero-exalcalde-vitoria-gorka-urtaran-pesos-pesados-generales_1_13568318.html"
+    },
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/actualidad/zapatero-campana-psoe-sanchez-elecciones-29-noviembre/"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/politica/2026/10/07/la-diputacion-permanente-organo-decisivo-este-periodo-preelectoral/"
+    }
+   ],
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   }
+  },
+  {
+   "id": "2026-10-08-feijoo-ayuso-maricarmen",
+   "section": "espana",
+   "weight": 1,
+   "title": "El PP bloquea los minutos de silencio por Maricarmen y Ayuso desata una polémica",
+   "dek": "Feijóo acusa a Sánchez de manipular emocionalmente a los españoles; Ayuso dice que el Gobierno da pisos «a amantes» y no a mujeres como Maricarmen.",
+   "figure": {
+    "value": "1'",
+    "label": "de silencio negado"
+   },
+   "place": "Madrid",
+   "body": [
+    "El PP impidió homenajes a Maricarmen en las instituciones donde tiene mayoría absoluta: el Ayuntamiento de Madrid, la Asamblea de Madrid y el Senado. En el pleno municipal, los concejales del PSOE y Más Madrid usaron su turno para guardar un minuto de silencio, y el alcalde José Luis Martínez-Almeida y los grupos del PP y Vox se quedaron sentados. En la Asamblea, la oposición lo celebró en el exterior del edificio.",
+    "Alberto Núñez Feijóo no mencionó a Maricarmen en su discurso ante la dirección del PP. Acusó a Sánchez de intentar manipular emocionalmente a los españoles con su muerte y dijo que su partido no caerá en esas trampas. Responsabilizó al Gobierno de más de 278.000 desahucios en ocho años, aunque el PP votó en contra de los decretos para frenarlos.",
+    "En la Asamblea de Madrid, Isabel Díaz Ayuso afirmó que el Gobierno central no da viviendas a mujeres como Maricarmen sino a «amantes», en alusión a una supuesta relación. La oposición lo calificó de insulto. La socialista Mar Espinar acusó a Ayuso de favorecer a los fondos buitre, y Manuela Bergerot, de Más Madrid, le pidió que cuidara sus palabras.",
+    "Pedro Sánchez lamentó la muerte y dijo sentirla como propia. Gabriel Rufián fue uno de los más duros en sus críticas al PP."
+   ],
+   "keys": [
+    "PP y Vox no se sumaron a los minutos de silencio.",
+    "Feijóo acusa a Sánchez de «manipulación emocional».",
+    "Las palabras de Ayuso sobre las «amantes» provocan indignación."
+   ],
+   "why": "Ayuda a entender el tono que va a tener la campaña y cómo se está usando el caso de Maricarmen en política.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/feijoo-acusa-sanchez-manipular-emocionalmente-espanoles-muerte-maricarmen-no-caer-trampas_1_13572237.html"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/madrid/muerte-maricarmen-enciende-oposicion-ayuso-no-hay-consuelo-calles-madrid-no-haber-paz_1_13571384.html"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/politica/2026/10/08/reacciones-politicas-ante-la-muerte-maricarmen-desde-las-condolencias-la-indignacion/"
+    }
+   ],
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   }
+  },
+  {
+   "id": "2026-10-08-cis-vivienda",
+   "section": "espana",
+   "weight": 1,
+   "title": "El CIS: tres de cada cuatro españoles quieren que el Estado intervenga en la vivienda",
+   "dek": "El 86% está preocupado y el 41% dice que la situación le perjudica personalmente. El 91% apoya construir vivienda pública.",
+   "figure": {
+    "value": "76%",
+    "label": "pide intervenir el mercado"
+   },
+   "place": "España",
+   "body": [
+    "El Centro de Investigaciones Sociológicos ha publicado una encuesta sobre vivienda hecha a 6.000 personas entre el 22 y el 30 de junio, antes del desahucio de Maricarmen y de la acampada de Sol.",
+    "Al 86% le preocupa mucho o bastante la situación de la vivienda y al 41% le perjudica personalmente. El 76% apoya que el Estado intervenga en el mercado en lo que haga falta, y el 79% cree que debe prevalecer el derecho constitucional a la vivienda frente a tratarla como un bien de mercado.",
+    "Las medidas del decreto tienen un apoyo amplio: el 70% respalda congelar los alquileres dos años, el 76% limitar los pisos turísticos y el 72% subir impuestos a quien tenga diez o más viviendas. La propuesta con más consenso es construir vivienda pública, con un 91%. Expropiar pisos vacíos, en cambio, solo convence al 40%.",
+    "La misma encuesta retrata la dificultad para independizarse: el 85% de quienes quieren hacerlo no han podido por los precios y el 77% no tiene dinero para la entrada de un piso. Entre quienes comparten vivienda con amigos u otras personas, un 13% comparte incluso la habitación con alguien que no es su pareja."
+   ],
+   "keys": [
+    "6.000 entrevistas, hechas en junio.",
+    "91% a favor de construir vivienda pública.",
+    "85% de quienes quieren independizarse no pueden por los precios."
+   ],
+   "why": "Los datos ponen cifras a algo que viven muchas personas de tu edad: independizarse es cada vez más difícil.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/economia/espanoles-apoyan-masivamente-decretos-vivienda-76-cree-hay-intervenir-mercado_1_13572002.html"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/economia/13-comparten-piso-vive-habitacion-personas-no-son-pareja_1_13572222.html"
+    }
+   ],
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   }
+  },
+  {
+   "id": "2026-10-08-frente-amplio",
+   "section": "espana",
+   "weight": 1,
+   "title": "La izquierda alternativa negocia contrarreloj: Colau solo encabezará el Frente Amplio con Podemos dentro",
+   "dek": "Más Madrid y los Comuns apoyan a Colau, pero discuten si debe ir por Madrid o por Barcelona. El plazo acaba el 16 de octubre.",
+   "figure": {
+    "value": "16 oct",
+    "label": "plazo para la lista"
+   },
+   "place": "Madrid · Barcelona",
+   "body": [
+    "Las negociaciones para una candidatura conjunta del Frente Amplio están en su fase final, y la disputa es por los pocos puestos con escaño casi asegurado, sobre todo en Madrid (38 diputados) y Barcelona (32).",
+    "Mónica García renunció a encabezar la lista y apoya a Ada Colau, pero Más Madrid propone que la exalcaldesa se presente por Barcelona y quiere controlar casi toda la lista madrileña. Los Comuns, en cambio, quieren que Colau vaya por Madrid para liberar puestos en Barcelona.",
+    "Colau todavía no ha aceptado formalmente. Ha dicho que estará dispuesta si su figura sirve de consenso y si la coalición incluye a Podemos, porque cree que los votantes castigarían a quien se presente por separado. Podemos se ha abierto a una lista única ratificada en primarias, pero no renuncia a que Irene Montero la encabece.",
+    "IU, Podemos y Movimiento Sumar son los partidos que más tienen que perder en el reparto. La lista unitaria debe cerrarse antes del viernes 16 de octubre a las 23:59."
+   ],
+   "keys": [
+    "Colau pone una condición: que Podemos esté en la coalición.",
+    "Choque entre Más Madrid y Comuns por dónde se presenta.",
+    "Plazo: 16 de octubre."
+   ],
+   "why": "Define cuántas opciones habrá a la izquierda del PSOE en la papeleta del 29-N.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/pugna-escasos-puestos-salida-tensa-negociaciones-frente-amplio-abre-paso-via-colau_1_13570524.html"
+    },
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/actualidad/ada-colau-dispuesta-candidata-consenso-frente-amplio-29n/"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/politica/2026/10/08/colau-dice-aceptara-liderar-el-frente-amplio-es-una-unica-papeleta-incluya-podemos/"
+    }
+   ],
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   }
+  },
+  {
+   "id": "2026-10-08-voto-correo",
+   "section": "espana",
+   "weight": 1,
+   "title": "El PP vasco se suma, sin pruebas, a las sospechas sobre el voto por correo",
+   "dek": "Javier de Andrés habla de «casos extraños» que no supo concretar. Correos lo desmiente y el Gobierno Vasco acusa al PP de cuestionar la democracia.",
+   "figure": {
+    "value": "✉",
+    "label": "voto por correo"
+   },
+   "place": "Vitoria-Gasteiz",
+   "body": [
+    "El presidente del PP vasco, Javier de Andrés, aseguró en Vitoria que el voto por correo siempre ha tenido un halo de sospecha y habló de casos extraños en elecciones anteriores. Preguntado varias veces, no supo concretar ninguno y dijo que lo confirmaría.",
+    "De Andrés relacionó sus dudas con Leire Díez, investigada por corrupción y que fue alto cargo de Correos entre 2022 y 2024. Correos respondió en un comunicado que Díez nunca tuvo responsabilidad sobre el voto por correo. El propio De Andrés acabó admitiendo que no se puede cambiar una saca por otra.",
+    "Las sospechas las habían lanzado antes Isabel Díaz Ayuso y Santiago Abascal, y Feijóo dijo que no confía en los directivos de Correos y que pedirá a la Junta Electoral Central más garantías. Otro dirigente vasco del PP, Borja Sémper, defendió en cambio que el sistema es garantista.",
+    "El consejero vasco de Seguridad, Bingen Zupiria, respondió que el PP está poniendo en cuestión el propio sistema democrático y que esas dudas dañan la legitimidad de las instituciones."
+   ],
+   "keys": [
+    "De Andrés no aportó ningún caso concreto.",
+    "Correos: Leire Díez nunca gestionó el voto por correo.",
+    "El PP pedirá más garantías a la Junta Electoral."
+   ],
+   "why": "Si votas por correo, tu voto sigue siendo válido y seguro; conviene seguir qué medidas decide la Junta Electoral.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/lider-pp-vasco-javier-andres-alimenta-pruebas-sospechas-manipulacion-voto-correo_1_13565289.html"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/politica/2026/10/08/zupiria-el-pp-esta-cuestionando-el-sistema-democratico/"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/politica/2026/10/07/feijoo-se-apunta-las-dudas-el-voto-correo-no-confio-en-los-directivos-correos/"
+    }
+   ],
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   }
+  },
+  {
+   "id": "2026-10-08-begona-gomez",
+   "section": "espana",
+   "weight": 1,
+   "title": "La Fiscalía pide absolver a Begoña Gómez: «sin delito no hay autor»",
+   "dek": "El juez Peinado la envió a juicio con jurado por tráfico de influencias y malversación. El fiscal sostiene que los hechos no son delito.",
+   "figure": {
+    "value": "0",
+    "label": "delitos, según el fiscal"
+   },
+   "place": "Madrid",
+   "body": [
+    "La Fiscalía ha presentado sus conclusiones provisionales en el caso de Begoña Gómez, esposa del presidente del Gobierno, y de su asistente en La Moncloa, Cristina Álvarez. Pide la libre absolución de ambas porque considera que los hechos no constituyen delito.",
+    "El juez Juan Carlos Peinado las envió a juicio con jurado popular por presunto tráfico de influencias y malversación, este último por el uso de la asistente en tareas privadas.",
+    "Según el fiscal, Gómez ya trabajaba en marketing y consultoría antes de 2018, dirigir el máster de la Complutense no estaba remunerado y su cátedra fue aprobada por unanimidad. El software desarrollado en la cátedra nunca se registró a nombre de nadie ni causó perjuicio a la universidad. Sobre la asistente, señala que su cargo es de confianza y que sus tareas ocasionales no supusieron gasto público extra.",
+    "El fiscal pide que declaren unos treinta testigos y que las acusadas lo hagan al final del juicio. Todavía no hay fecha."
+   ],
+   "keys": [
+    "La Fiscalía pide la absolución de Gómez y de su asistente.",
+    "El juicio será con jurado popular y aún no tiene fecha."
+   ],
+   "why": "Es uno de los casos judiciales que más pesan en la campaña.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/fiscalia-pide-absolucion-begona-gomez-juicio-jurado-popular-delito-no-hay-autor_1_13568352.html"
+    }
+   ],
+   "thread": {
+    "id": "tribunales-psoe",
+    "label": "Casos judiciales del PSOE"
+   }
+  },
+  {
+   "id": "2026-10-08-abalos",
+   "section": "espana",
+   "weight": 1,
+   "title": "El Supremo no frena la prisión de Ábalos y Koldo",
+   "dek": "Rechaza suspender la condena del caso Mascarillas mientras resuelve su incidente de nulidad.",
+   "figure": {
+    "value": "TS",
+    "label": "Tribunal Supremo"
+   },
+   "place": "Madrid",
+   "body": [
+    "El Tribunal Supremo ha rechazado suspender la ejecución de la condena del exministro José Luis Ábalos, que se había quejado de que el tribunal tardaba demasiado en responder a su incidente de nulidad contra la sentencia. El presidente de la sala, Andrés Martínez Arrieta, contestó que a esa respuesta solo le falta la firma.",
+    "También rechaza la misma petición de su exasesor Koldo García. Los dos cumplen condena en la prisión de Soto del Real por el caso Mascarillas.",
+    "El incidente de nulidad es un paso obligatorio para poder acudir después en amparo al Tribunal Constitucional."
+   ],
+   "keys": [
+    "Ábalos y Koldo siguen en Soto del Real.",
+    "Su siguiente paso sería el Constitucional."
+   ],
+   "why": "El caso Mascarillas sigue marcando la agenda judicial del PSOE en plena precampaña.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/ultima-hora-reacciones-muerte-maricarmen-directo_6_13571031_1125710.html"
+    }
+   ],
+   "thread": {
+    "id": "tribunales-psoe",
+    "label": "Casos judiciales del PSOE"
+   }
+  },
+  {
+   "id": "2026-10-08-supremo-universidades",
+   "section": "sociedad",
+   "weight": 1,
+   "title": "El Supremo anula el decreto que ponía freno a las universidades privadas",
+   "dek": "No entra en el contenido: tumba la norma porque el Gobierno no justificó la urgencia y se saltó la consulta pública.",
+   "figure": {
+    "value": "4.500",
+    "label": "alumnos mínimos que exigía"
+   },
+   "place": "Madrid",
+   "body": [
+    "El Tribunal Supremo ha anulado el real decreto de 2025 con el que el Gobierno quería frenar la proliferación de universidades privadas autorizadas por las comunidades autónomas sin cumplir requisitos mínimos.",
+    "La norma exigía, entre otras cosas, un mínimo de 4.500 estudiantes, informes vinculantes y que las universidades online pasaran por el Congreso. La recurrieron el Govern balear de Marga Prohens y otras comunidades del PP, como Madrid.",
+    "Los jueces no se pronuncian sobre esos requisitos. Anulan el decreto por la forma: consideran que el Gobierno no explicó por qué era urgente y que, al tramitarlo así, se saltó la consulta pública previa a la ciudadanía. En la práctica, el Gobierno tendrá que repetir todo el proceso."
+   ],
+   "keys": [
+    "Anulado por defectos de tramitación, no por su contenido.",
+    "El Gobierno tendrá que volver a aprobarlo desde cero."
+   ],
+   "why": "Si estudias o vas a estudiar en un centro privado u online, las reglas para autorizarlos siguen sin endurecerse.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/sociedad/supremo-tumba-decreto-universidades-gobierno-acota-centros-privados_1_13572175.html"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/educacion/20261008/supremo-tumba-decreto-universidades-tramitarlo-via-urgente-justificacion_467561.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-rtve-examen",
+   "section": "sociedad",
+   "weight": 1,
+   "title": "Piden hasta seis años de cárcel por filtrar el examen de acceso a RTVE",
+   "dek": "89 de las 120 preguntas llegaron a manos de aspirantes antes de la prueba. Repetirla costó casi 67.000 euros.",
+   "figure": {
+    "value": "89/120",
+    "label": "preguntas filtradas"
+   },
+   "place": "Madrid",
+   "body": [
+    "Dos personas vinculadas a UGT, Julián Pérez y César Moreno, están acusadas de filtrar el examen de acceso a RTVE para plazas de informador de 2024, al que se presentaron miles de aspirantes. Según la investigación, 89 de las 120 preguntas circularon antes de la prueba. Pérez formaba parte del comité que preparó el examen.",
+    "La filtración se descubrió porque una interina que recibió las preguntas avisó a la directora del Canal 24 Horas, Cristina Ónega, y el examen se suspendió.",
+    "La Fiscalía pide tres años de cárcel para Moreno y dos para Pérez por revelación de secretos. CCOO, CGT y USO, que añaden el delito de organización criminal, piden seis y cuatro años. La Abogacía del Estado reclama además 66.791,93 euros, lo que costó repetir la prueba. Aún no hay fecha de juicio."
+   ],
+   "keys": [
+    "Filtradas 89 de 120 preguntas.",
+    "Penas pedidas: de 2 a 6 años.",
+    "El examen tuvo que repetirse."
+   ],
+   "why": "Si preparas oposiciones, este caso muestra cómo se investigan y castigan las filtraciones en un proceso público.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/vertele/noticias/rtve-acusados-filtrar-examen-acceso-oposiciones-enfrentan-peticiones-seis-anos-carcel_1_13568754.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-beiras",
+   "section": "espana",
+   "weight": 1,
+   "title": "Muere Xosé Manuel Beiras, la gran figura del nacionalismo gallego",
+   "dek": "Tenía 90 años. Economista, traductor de Camus y fundador del PSG, llevó al BNG a ser la segunda fuerza de Galicia.",
+   "figure": {
+    "value": "90",
+    "label": "años"
+   },
+   "place": "Santiago de Compostela",
+   "body": [
+    "Xosé Manuel Beiras ha muerto a los 90 años. Nació en Santiago en abril de 1936, en una familia vinculada al galleguismo republicano, y se formó en Derecho en Santiago y en Economía en París.",
+    "Su ensayo O atraso económico de Galiza (1973) aplicó a Galicia la teoría de la dependencia entre centro y periferia. También tradujo al gallego a Albert Camus. En 1963 cofundó en la clandestinidad el Partido Socialista Galego.",
+    "En 1982 participó en la fundación del BNG, y bajo su liderazgo el Bloque llegó a 18 escaños y superó al PSOE como principal partido de la oposición gallega. Más tarde impulsó Anova y, con Alternativa Galega de Esquerda, volvió al Parlamento en 2012 junto a Yolanda Díaz. Dejó la política institucional en 2016."
+   ],
+   "keys": [
+    "Cofundador del PSG (1963) y del BNG (1982).",
+    "Llevó al BNG a ser la segunda fuerza de Galicia."
+   ],
+   "why": "Fue uno de los políticos e intelectuales que más influyeron en la Galicia democrática.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/galicia/muere-90-anos-xose-manuel-beiras-intelectual-dirigente-nacionalismo-gallego-importante-castelao_1_13565454.html"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/politica/2026/10/08/muere-los-90-anos-el-historico-dirigente-nacionalista-gallego-xose-manuel-beiras/"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/08/muere-a-los-90-anos-el-historico-dirigente-nacionalista-gallego-xose-manuel-beiras/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-inundaciones-casco-viejo",
+   "section": "bilbao",
+   "weight": 3,
+   "title": "Casco Viejo: el Ayuntamiento dice que no fallaron las alcantarillas, sino la capacidad del barrio",
+   "dek": "Cayeron 67 litros por metro cuadrado en dos horas. Hubo agua hasta las rodillas, cortes de luz en el Arriaga y comercios con grandes pérdidas.",
+   "figure": {
+    "value": "67 l/m²",
+    "label": "en solo dos horas"
+   },
+   "place": "Bilbao · Casco Viejo",
+   "body": [
+    "La tarde del sábado 3 de octubre el Casco Viejo quedó inundado. Había gente caminando con el agua por los tobillos y, en algunos puntos, por las rodillas. Euskalmet subió el aviso de amarillo a naranja y SOS Deiak registró cerca de 150 incidencias por la lluvia, la mayoría en Bilbao. Una función del Teatro Arriaga se suspendió por un corte de luz y se cerraron los túneles de La Avanzada en Leioa.",
+    "Según el Ayuntamiento, cayeron 67 litros por metro cuadrado en solo dos horas. El concejal de Planificación Urbana defiende que el problema no fueron las alcantarillas, sino que el barrio no puede absorber tanta agua en tan poco tiempo.",
+    "El Consorcio de Aguas explica que la entrada de agua en el saneamiento no tenía precedentes: los colectores del sifón de Deusto pasaron de evacuar unos 650 litros por segundo a 8.000 en media hora.",
+    "Muchos comercios del Casco Viejo perdieron mobiliario, equipos y género, y varios comerciantes aseguran que había alcantarillas sucias y atascadas. El Ayuntamiento habilitó un punto de atención en el Ensanche para presentar reclamaciones. El temporal también abrió un debate sobre los repartidores que siguieron trabajando bajo la lluvia."
+   ],
+   "keys": [
+    "67 l/m² en dos horas el sábado 3 de octubre.",
+    "El sifón de Deusto pasó de 650 a 8.000 litros por segundo.",
+    "Punto de atención para reclamar daños en el Ensanche."
+   ],
+   "why": "Si vives o trabajas en el Casco Viejo, conviene saber dónde reclamar daños. Que el Ayuntamiento lo atribuya a la capacidad del barrio anticipa un debate sobre obras de drenaje.",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/07/inundaciones-en-el-casco-viejo-bilbao-no-fallaron-las-alcantarillas-fallo-la-capacidad-absorber-tanta-agua/"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/agua-rodillas-casco-viejo-cortes-luz-teatro-arriaga-bilbao-fuertes-lluvias_1_13559972.html"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/05/jornada-intentar-volver-la-normalidad-presentar-reclamaciones-hoy-en-el-casco-viejo-bilbao/"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/04/los-comerciantes-del-casco-viejo-la-impotencia-los-danos-tras-las-inundaciones/"
+    }
+   ],
+   "thread": {
+    "id": "inundaciones-bilbao",
+    "label": "Inundaciones en Bilbao"
+   }
+  },
+  {
+   "id": "2026-10-08-tiempo-puente",
+   "section": "bilbao",
+   "weight": 2,
+   "title": "Lluvia hasta el fin de semana y 25 grados para el lunes del Pilar",
+   "dek": "Hoy la máxima se queda en 19 grados, nueve menos que el martes. El calor vuelve el día festivo.",
+   "figure": {
+    "value": "25°",
+    "label": "el lunes 12"
+   },
+   "place": "Bilbao",
+   "body": [
+    "Bilbao ha amanecido con lluvia y cielo cubierto. Según Aemet, la probabilidad de precipitación es del 100% hasta mediodía y del 90% por la tarde, con temperaturas entre 12 y 19 grados, nueve menos que los 28 del martes. No hay ningún aviso activado para Bizkaia interior.",
+    "El viernes seguirá muy nuboso, con un 50% de probabilidad de lluvia por la mañana y mínimas de 11 grados. El sábado y el domingo habrá lluvia escasa y las máximas subirán a 21 y 22 grados.",
+    "El lunes 12, festivo del Pilar, llegarán los intervalos nubosos, la lluvia casi desaparecerá (10% de probabilidad) y el termómetro marcará 25 grados. En la costa, Getxo tendrá rachas de viento del norte de hasta 45 km/h este jueves."
+   ],
+   "keys": [
+    "Jueves: lluvia todo el día, máxima de 19 grados.",
+    "Fin de semana: lluvia débil, 21-22 grados.",
+    "Lunes del Pilar: 25 grados y casi sin lluvia."
+   ],
+   "why": "Para organizar el puente: el mejor día para salir será el lunes.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bilbao/tiempo-bilbao-hoy-jueves-8-octubre-aemet-lluvia-puente-pilar/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-desahucio-atxuri",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "Desahuciada en Atxuri una inquilina de un piso público de Alokabide",
+   "dek": "Llevaba diez años en la vivienda. El sindicato AZET dice que no tiene alternativa; el Gobierno Vasco, que acumula una deuda alta desde 2017.",
+   "figure": {
+    "value": "10",
+    "label": "años en el piso"
+   },
+   "place": "Bilbao · Atxuri",
+   "body": [
+    "Ester, vecina de Atxuri, fue desahuciada el martes 6 de octubre del piso de alquiler social en el que vivía desde hacía diez años. La vivienda pertenece a Alokabide, la sociedad pública de alquiler del Gobierno Vasco.",
+    "La comitiva judicial llegó sobre las 9:30 con un fuerte despliegue policial, ante unas cien personas convocadas por el sindicato de vivienda AZET. Según el sindicato, la mujer salió de la vivienda antes del desalojo y se quedó en el edificio con unas vecinas hasta que se encontró mal y tuvo que acudir una ambulancia. Después, los manifestantes cortaron una carretera y la Ertzaintza identificó al menos a diez personas.",
+    "Fuentes del Departamento de Vivienda aseguran que la inquilina acumulaba una deuda alta desde 2017 pese a tener ingresos para pagar, y que antes de ir a juicio se intentó mediar con los servicios sociales. AZET sostiene que no tiene recursos ni otro lugar donde vivir, y pide parar todos los desahucios.",
+    "Fue el segundo desahucio en Euskadi en 24 horas, tras el de una familia con dos menores en Vitoria. Las protestas continúan, con una acampada en la plaza del Arriaga."
+   ],
+   "keys": [
+    "Desahucio de un piso de alquiler social del Gobierno Vasco.",
+    "Versiones enfrentadas sobre si podía pagar.",
+    "Acampada por la vivienda en la plaza del Arriaga."
+   ],
+   "why": "Muestra que la crisis de la vivienda también llega al parque público, y la acampada está en tu barrio.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/desahucian-bilbao-protestas-mujer-ocupaba-piso-alquiler-social-gobierno-vasco_1_13565335.html"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/06/denuncian-el-intento-desahucio-una-inquilina-una-vivienda-alokabide-en-bilbao/"
+    }
+   ],
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   }
+  },
+  {
+   "id": "2026-10-08-metro-linea-4",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "La línea 4 del metro, de Rekalde a Matiko: obras desde finales de 2027 y seis años de trabajos",
+   "dek": "El Gobierno Vasco calcula un presupuesto de 411,9 millones de euros.",
+   "figure": {
+    "value": "411,9 M€",
+    "label": "presupuesto"
+   },
+   "place": "Bilbao",
+   "body": [
+    "Las obras de la línea 4 de Metro Bilbao, que unirá Rekalde con Matiko, empezarán a finales de 2027 y durarán unos seis años, según el Gobierno Vasco. El presupuesto previsto es de 411,9 millones de euros.",
+    "La nueva línea dará servicio a barrios que hoy no tienen metro y cruzará la ciudad de sur a norte. Si se cumplen los plazos, no estaría operativa antes de 2033."
+   ],
+   "keys": [
+    "Inicio: finales de 2027.",
+    "Duración: unos seis años.",
+    "Coste: 411,9 millones."
+   ],
+   "why": "Cambiará la movilidad en Bilbao, pero también traerá años de obras en varios barrios.",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/05/obras-la-linea-4-metro-bilbao-rekalde-matiko-comenzaran-finales-2027-duraran-seis-anos/"
+    }
+   ],
+   "thread": {
+    "id": "metro-bilbao",
+    "label": "Metro de Bilbao"
+   }
+  },
+  {
+   "id": "2026-10-08-a8-castro",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "Un camión cruzado corta la A-8 en Castro en dirección a Bilbao",
+   "dek": "Es el segundo camión que hace la «tijera» en esta autovía en dos semanas.",
+   "figure": {
+    "value": "A-8",
+    "label": "salida 147, Sámano"
+   },
+   "place": "Castro Urdiales",
+   "body": [
+    "Un camión que hizo la «tijera» obligó el miércoles a cortar por completo la A-8 en sentido Bilbao, a la altura de la salida 147 (Sámano, Castro Urdiales). Coches, furgonetas y camiones quedaron retenidos bajo una lluvia intensa.",
+    "No trascendió si hubo heridos. Para reabrir hay que separar el remolque y la cabeza tractora, a menudo con grúas pesadas. Es el segundo accidente de este tipo en la misma autovía en dos semanas."
+   ],
+   "keys": [
+    "Corte total en sentido Bilbao.",
+    "Segundo camión en «tijera» en dos semanas."
+   ],
+   "why": "Si viajas por la costa hacia Cantabria, conviene revisar el estado del tráfico antes de salir con lluvia.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bizkaia/a8-cortada-castro-samano-camion-tijera-sentido-bilbao/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-estafa-aguas",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "Alerta de estafa: el Consorcio de Aguas nunca cobra en tu casa",
+   "dek": "Cualquier cargo legítimo aparece siempre en la factura del agua.",
+   "figure": {
+    "value": "0 €",
+    "label": "se cobra a domicilio"
+   },
+   "place": "Bilbao Bizkaia",
+   "body": [
+    "El Consorcio de Aguas Bilbao Bizkaia avisa de un intento de estafa. Recuerda que no cobra ningún concepto en los domicilios: todo lo que se factura aparece en el recibo del agua.",
+    "Si alguien llama a la puerta pidiendo dinero en nombre del Consorcio, no hay que pagar y conviene avisar a la Policía Municipal o a la Ertzaintza."
+   ],
+   "keys": [
+    "El Consorcio no cobra en mano ni en casa.",
+    "Todo cargo va en la factura."
+   ],
+   "why": "Útil para avisar a familiares mayores, que suelen ser el blanco de estos timos.",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/08/el-consorcio-aguas-bilbao-bizkaia-alerta-una-estafa-aclara-no-cobra-nunca-en-los-domicilios/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-estafador-alquiler-deusto",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "Detenido el presunto estafador de alquileres de Deusto",
+   "dek": "Se le atribuyen al menos 36 fraudes con pisos de larga estancia. El caso lo destapó EITB.",
+   "figure": {
+    "value": "36",
+    "label": "estafas atribuidas"
+   },
+   "place": "Deusto · Iurreta",
+   "body": [
+    "La Policía ha detenido en Iurreta a un hombre acusado de al menos 36 estafas relacionadas con el alquiler de viviendas de larga estancia en Deusto. Una investigación de EITB había sacado el caso a la luz.",
+    "Este tipo de fraude suele pedir una señal o una fianza antes de enseñar el piso o firmar un contrato, y se aprovecha de la urgencia de quien busca casa."
+   ],
+   "keys": [
+    "Al menos 36 víctimas.",
+    "Detenido en Iurreta."
+   ],
+   "why": "Nunca pagues nada antes de ver el piso y firmar un contrato.",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/07/detenido-el-presunto-estafador-alquiler-viviendas-deusto-destapado-eitb/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-bellas-artes",
+   "section": "cultura",
+   "weight": 3,
+   "title": "El nuevo Bellas Artes de Foster ya está abierto, y es gratis hasta el martes",
+   "dek": "Un puente de cristal sobre los edificios históricos, 6.000 metros cuadrados más y cerca de mil obras de mujeres artistas en Bildu(e)mak.",
+   "figure": {
+    "value": "150",
+    "label": "obras inéditas"
+   },
+   "place": "Bilbao · Abandoibarra",
+   "body": [
+    "El Museo de Bellas Artes de Bilbao reabrió el 6 de octubre tras casi cuatro años de obras, y la entrada es gratuita hasta el martes 13. La ampliación la diseñó Norman Foster junto al estudio del arquitecto bilbaíno Luis María Uriarte.",
+    "El nuevo edificio, llamado Agravitas, se apoya como un puente sobre los edificios de 1945 y 1970 sin tocarlos, salvo para restaurarlos, y suma unos 6.000 metros cuadrados. Bajo él queda el Atrio Arriaga, una gran superficie volada de más de 2.500 metros cuadrados con un óculo de seis metros de diámetro. Las obras costaron 45 millones de euros, pagados a partes iguales por el Ayuntamiento, la Diputación y el Gobierno Vasco, con aportación de la fundación BBK.",
+    "La sala principal, la Galería BBKmuseoa, tiene 1.500 metros cuadrados, seis metros de altura y una terraza de más de 500. Allí suena la instalación Respiración oceánica, de Itziar Okariz.",
+    "La gran exposición de apertura, Bildu(e)mak, reúne cerca de mil obras de la colección, centrada en el arte hecho por mujeres. Las 43 salas se han reordenado e incluyen unas 150 piezas que nunca se habían expuesto. Hay además un homenaje al coleccionista Plácido Arango, un espacio dedicado a Jorge Oteiza y dibujos de Rafael Ruiz Balerdi. El museo guarda más de 18.000 obras, casi el 70% procedentes de legados y donaciones."
+   ],
+   "keys": [
+    "Entrada gratis hasta el martes 13 de octubre.",
+    "Ampliación de Foster: 6.000 m² y 45 millones de euros.",
+    "Bildu(e)mak: cerca de mil obras centradas en artistas mujeres."
+   ],
+   "why": "Es el estreno cultural del año en Bilbao y estos días se puede ver sin pagar, a un paseo del Casco Viejo.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/foster-coloca-nuevo-bilbao-foco-arquitectura-mundial-bellas-artes-renovado-lleno-luz_1_13563555.html"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/cultura/2026/10/05/hoy-se-inaugura-el-museo-bellas-artes-bilbao/"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/cultura/arte/2026/10/05/una-mirada-diferente-la-coleccion-nuevos-espacios-en-el-renovado-museo-bellas-artes-bilbao/"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/cultura/2026/10/05/tres-nuevas-obras-imprescindibles-del-museo-bellas-artes-bilbao/"
+    }
+   ],
+   "thread": {
+    "id": "bellas-artes",
+    "label": "Museo de Bellas Artes"
+   }
+  },
+  {
+   "id": "2026-10-08-anne-carson-nobel",
+   "section": "cultura",
+   "weight": 2,
+   "title": "Anne Carson, Premio Nobel de Literatura",
+   "dek": "La poeta canadiense, de 76 años, convierte a Safo y la tragedia griega en literatura del presente.",
+   "figure": {
+    "value": "Nobel",
+    "label": "de Literatura 2026"
+   },
+   "place": "Estocolmo",
+   "body": [
+    "La Academia Sueca ha concedido el Nobel de Literatura 2026 a la canadiense Anne Carson por una obra audaz e inventiva que, según el jurado, ha creado nuevas formas para la literatura contemporánea. Sucede al húngaro László Krasznahorkai.",
+    "Carson nació en Toronto el 21 de junio de 1950. A los 15 años encontró una edición bilingüe de Safo y ahí empezó su vocación por los clásicos, en los que se doctoró. Es poeta, ensayista, traductora y profesora de literatura clásica y comparada, y buena parte de la crítica la considera la poeta viva más importante en lengua inglesa.",
+    "Entre sus libros están Eros dulce y amargo (1986), la novela en verso Autobiografía de Rojo (1998), La belleza del marido (2001), Nox (2010), un libro-objeto sobre la muerte de su hermano, y Norma enrevesada (2024). Fue la primera mujer en ganar el premio T. S. Eliot y en 2020 recibió el Princesa de Asturias de las Letras."
+   ],
+   "keys": [
+    "Nació en Toronto en 1950.",
+    "Obra clave para empezar: Autobiografía de Rojo.",
+    "Ya tenía el Princesa de Asturias (2020)."
+   ],
+   "why": "Si te interesan las formas narrativas poco convencionales, entre la poesía, el ensayo y la imagen, su obra es un buen punto de partida.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/cultura/anne-carson-gana-premio-nobel-literatura-2026_1_13571892.html"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/cultura/literatura/2026/10/08/anne-carson-nobel-literatura/"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/cultura/20261008/canadiense-anne-carson-recibe-nobel-literatura-2026_467600.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-naza",
+   "section": "cultura",
+   "weight": 1,
+   "title": "Llega a los cines «Naza», el documental sobre Gaza que ha enfurecido a Israel",
+   "dek": "De los autores de «No Other Land», ganadores del Oscar. Reúne testimonios de 24 militares israelíes.",
+   "figure": {
+    "value": "24",
+    "label": "militares hablan"
+   },
+   "place": "Cines · viernes",
+   "body": [
+    "Naza, de Yuval Abraham y Rachel Szor, directores del documental ganador del Oscar No Other Land, se estrena este viernes en España. Ganó el premio especial del jurado en el Festival de Venecia.",
+    "La película recoge el testimonio de 24 miembros del ejército y de la inteligencia israelí, con la cara y la voz distorsionadas, que describen ataques en los que participaron en Gaza. Los directores dicen que durante tres años contrastaron cada relato con más de cien fuentes, con ayuda del diario The Guardian.",
+    "El Gobierno israelí acusa a los cineastas de mentir y ha amenazado con cambiar la ley para retirarles la ciudadanía. Incluso ha difundido un documental propio que copia el título y la estética de Naza para contar su versión. Abraham asegura que no piensa exiliarse."
+   ],
+   "keys": [
+    "Estreno en cines este viernes.",
+    "Premio especial del jurado en Venecia."
+   ],
+   "why": "Un documental de referencia para quien se interesa por el cine de no ficción y su poder político.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/cultura/cine/directores-naza-documental-enfurece-israel-ojala-destituyan-netanyahu_1_13569364.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-bola-negra",
+   "section": "cultura",
+   "weight": 1,
+   "title": "«La bola negra», de Los Javis, supera los dos millones de espectadores y arrasa entre adolescentes",
+   "dek": "Tres historias de jóvenes homosexuales en tres épocas, con Lorca y la Guerra Civil de fondo.",
+   "figure": {
+    "value": "2M",
+    "label": "espectadores"
+   },
+   "place": "Cines",
+   "body": [
+    "La bola negra, la nueva película de Javier Calvo y Javier Ambrossi, Los Javis, ha superado los dos millones de espectadores en su segunda semana. Su primer martes fue la mejor jornada de la historia para una película española, impulsada por la oferta del martes sénior.",
+    "Protagonizada por Guitarricadelafuente y Miguel Bernardeau, cuenta tres historias de cuatro jóvenes homosexuales en tres épocas, una de ellas en la Guerra Civil y con la figura de Federico García Lorca. Habla de memoria, familia, identidad y libertad.",
+    "Orientadores escolares cuentan que se ha convertido en tema de conversación en pasillos y recreos, y que está llevando al cine a adolescentes que antes no se interesaban ni por el cine ni por la Guerra Civil."
+   ],
+   "keys": [
+    "Más de 2 millones de espectadores en dos semanas.",
+    "Récord de un día para una película española."
+   ],
+   "why": "Un fenómeno del cine español actual que mezcla memoria histórica y relato generacional.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/cultura/cine/bola-negra-fenomeno-improbable-conecta-adolescentes-pense-ganas-mundo-vea_1_13568865.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-vaya-semanita",
+   "section": "cultura",
+   "weight": 1,
+   "title": "Vuelve «Vaya Semanita» esta noche a ETB2",
+   "dek": "Tercera temporada de su regreso, con el reparto de siempre y el Top Semanita.",
+   "figure": {
+    "value": "22:15",
+    "label": "jueves en ETB2"
+   },
+   "place": "ETB2",
+   "body": [
+    "Vaya Semanita estrena hoy, jueves 8 de octubre, su tercera temporada desde que volvió en 2024. Se emite los jueves a las 22:15 en ETB2 y en ETB ON.",
+    "Repiten los ocho actores habituales: Maribel Salas, Diego Pérez, Miriam Cabeza, Andoni Agirregomezkorta, Borja Pérez, Javier Antón, Nerea Garmendia y Lorea Intxausti. Mantiene su humor sobre la actualidad y los tópicos vascos, como desde 2003.",
+    "Su cuenta de Instagram supera los 300.000 seguidores, y el sketch «La cita en Osakidetza» acumula 7,5 millones de visualizaciones."
+   ],
+   "keys": [
+    "Jueves a las 22:15 en ETB2 y ETB ON.",
+    "Vuelve el ranking Top Semanita."
+   ],
+   "why": "Plan de sofá para esta noche.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/euskal-herria/vaya-semanita-nueva-temporada-etb2-horario-reparto/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-rosalia-premio",
+   "section": "cultura",
+   "weight": 1,
+   "title": "Rosalía, Premio Nacional de Músicas Actuales por «LUX»",
+   "dek": "El jurado destaca la trascendencia artística de un disco grabado con la London Symphony Orchestra.",
+   "figure": {
+    "value": "LUX",
+    "label": "Premio Nacional"
+   },
+   "place": "Madrid",
+   "body": [
+    "El Ministerio de Cultura ha concedido a Rosalía el Premio Nacional de Músicas Actuales 2026, dotado con 30.000 euros, por la trascendencia artística de LUX, su disco de 2025. El jurado lo describe como una propuesta ambiciosa e innovadora y destaca su proyección internacional.",
+    "LUX se grabó con la London Symphony Orchestra, mezcla música clásica, pop y un tono íntimo y espiritual, e incluye colaboraciones de Björk, Sílvia Pérez Cruz, Estrella Morente y Carminho. Debutó en el número uno mundial de Spotify."
+   ],
+   "keys": [
+    "Premio de 30.000 euros.",
+    "LUX, grabado con la London Symphony Orchestra."
+   ],
+   "why": "Uno de los discos más comentados del año recibe el gran premio estatal de la música.",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/el-cultural/escenarios/musica/20261007/rosalia-gana-premio-nacional-musicas-actuales/1003744411893_0.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-huelga-11n",
+   "section": "economia",
+   "weight": 2,
+   "title": "Huelga general por la vivienda el 11 de noviembre, también en Euskadi",
+   "dek": "ELA y LAB eligen la misma fecha que CCOO, UGT y el Sindicato de Inquilinas. ESK y Steilas estudian sumarse.",
+   "figure": {
+    "value": "11N",
+    "label": "huelga general"
+   },
+   "place": "Euskadi · Estado",
+   "body": [
+    "La mayoría sindical vasca, ELA y LAB, ha elegido el 11 de noviembre para la huelga general por la vivienda en Euskadi, la misma fecha que CCOO, UGT y el Sindicato de Inquilinas para el resto del Estado. ESK ya se ha sumado y Steilas lo está estudiando.",
+    "Aunque coinciden en el día, las reivindicaciones no son idénticas. ELA y LAB exigirán a los gobiernos vasco y navarro que usen sus competencias en vivienda, y LAB añade la exigencia de salarios dignos. CCOO y UGT ponen el foco sobre todo en las empresas, para que paguen sueldos que permitan acceder a una casa.",
+    "La fecha cae justo antes de que empiece la campaña electoral. El sábado 4 de octubre miles de personas ya marcharon por las calles vascas, y en Bilbao la manifestación convocada por LAB se celebró bajo el lema de que la vivienda no es un negocio.",
+    "La convocatoria también tiene críticos. The Objective ha calculado, con datos de Hacienda, que UGT y CCOO y sus organizaciones vinculadas recibieron 569 millones de euros en ayudas públicas entre 2018 y 2025, y relaciona la huelga con el momento electoral. Es un indicador que agrupa distintos tipos de apoyo público y no prueba por sí solo una relación con la convocatoria.",
+    "La última huelga general en Euskadi fue el 17 de marzo, para reclamar un salario mínimo vasco de 1.500 euros."
+   ],
+   "keys": [
+    "Fecha: 11 de noviembre.",
+    "Convocan ELA, LAB, ESK, CCOO, UGT y el Sindicato de Inquilinas.",
+    "Todavía no se conocen los servicios mínimos."
+   ],
+   "why": "Puede afectar al transporte, al comercio y a tu jornada en el trabajo; conviene saber si tu sector la secunda.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/mayoria-sindical-vasca-elige-fecha-ccoo-ugt-huelgas-vivienda-11-noviembre_1_13568126.html"
+    },
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/euskal-herria/huelga-general-11-noviembre-ela-lab-esk-vivienda/"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/04/miles-personas-vuelven-salir-calle-reivindicar-vivienda-no-es-negocio/"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20261007/sindicatos-convocan-huelga-general-noviembre-dias-elecciones-generales/1003744411553_0.html"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/2026-10-08/ugt-ccoo-ayudas-publicas-huelga-general/"
+    }
+   ],
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   }
+  },
+  {
+   "id": "2026-10-08-volotea",
+   "section": "economia",
+   "weight": 2,
+   "title": "Volotea, en preconcurso, cancela más de 300 vuelos en Loiu",
+   "dek": "La aerolínea negocia una deuda de unos 200 millones y reducirá su flota. Facua desaconseja comprarle billetes.",
+   "figure": {
+    "value": "300+",
+    "label": "vuelos cancelados"
+   },
+   "place": "Loiu",
+   "body": [
+    "Volotea ha cancelado más de 300 vuelos en el aeropuerto de Bilbao, según Radio Euskadi. La aerolínea está en preconcurso de acreedores y negocia reestructurar una deuda financiera de unos 200 millones de euros.",
+    "Su plan pasa por reducir la flota de 44 aviones a entre 30 y 35 y por una ampliación de capital con varios inversores. Opera 22 rutas desde Bilbao, cinco desde Hondarribia y tres desde Vitoria. La compañía asegura que el reajuste ya está completo y que no habrá más cancelaciones.",
+    "La asociación de consumidores Erreklamatu ha recibido una cincuentena de consultas de pasajeros que dicen que la aerolínea no responde a sus reclamaciones, y Facua desaconseja comprar billetes de Volotea."
+   ],
+   "keys": [
+    "Más de 300 vuelos cancelados en Bilbao.",
+    "Deuda de unos 200 millones; flota de 44 a 30-35 aviones.",
+    "Facua desaconseja comprar billetes."
+   ],
+   "why": "Si tienes un vuelo con Volotea, revisa tu reserva y guarda todos los justificantes por si tienes que reclamar.",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/08/mas-300-vuelos-volotea-cancelados-en-el-aeropuerto-bilbao/"
+    }
+   ],
+   "thread": {
+    "id": "volotea",
+    "label": "Crisis de Volotea"
+   }
+  },
+  {
+   "id": "2026-10-08-pib-vasco",
+   "section": "economia",
+   "weight": 1,
+   "title": "El Gobierno Vasco mejora su previsión: la economía crecerá un 2,2% este año",
+   "dek": "Se crearán unos 22.000 empleos, pero el paro apenas bajará porque crece la población activa.",
+   "figure": {
+    "value": "2,2%",
+    "label": "crecimiento 2026"
+   },
+   "place": "Vitoria-Gasteiz",
+   "body": [
+    "El vicelehendakari y consejero de Economía, Mikel Torres, ha elevado la previsión de crecimiento de Euskadi al 2,2% para 2026, tres décimas más que antes, y al 1,9% para 2027.",
+    "El motor será el consumo de los hogares, apoyado en el empleo y en la recuperación de los salarios reales. Los servicios seguirán tirando de la economía, mientras que la industria crecerá poco este año. El sector exterior restará, porque las exportaciones avanzan poco.",
+    "Se prevé crear unos 22.000 empleos a tiempo completo entre 2026 y 2027, pero el paro solo bajaría del 6,8% al 6,4% porque aumenta la población activa, en buena parte de origen extranjero. Torres advirtió de riesgos como la energía, la inflación y la situación internacional. Estas cifras servirán de base para los presupuestos vascos de 2027."
+   ],
+   "keys": [
+    "PIB: +2,2% en 2026 y +1,9% en 2027.",
+    "Paro: 6,8% en 2026."
+   ],
+   "why": "Los datos macro van bien, pero eso no significa que los precios dejen de subir más que los sueldos.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/gobierno-vasco-revisa-alza-crecimiento-economia-pese-incertidumbre-preve-subida-2-2_1_13566758.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-bpce-sabadell",
+   "section": "economia",
+   "weight": 1,
+   "title": "Un banco francés entra en el Sabadell para blindarlo ante otra OPA",
+   "dek": "BPCE compra en torno al 7% por unos 1.200 millones, un año después del fracaso de la OPA del BBVA.",
+   "figure": {
+    "value": "7%",
+    "label": "del Sabadell"
+   },
+   "place": "Barcelona · París",
+   "body": [
+    "El grupo francés BPCE, el segundo banco de Francia, se ha hecho con alrededor del 7% de Banco Sabadell por unos 1.200 millones de euros y se compromete a no superar el 9,9%.",
+    "Ambas entidades presentan la operación como amistosa y quieren explorar colaboraciones desde 2027. El mercado la interpreta como una defensa ante un nuevo intento de compra, casi un año después de que la OPA del BBVA fracasara al no alcanzar el 30% del capital.",
+    "BPCE nació en 2009 de la fusión de bancos populares y cajas de ahorro franceses, tiene 36 millones de clientes y no cotiza en bolsa."
+   ],
+   "keys": [
+    "BPCE compra un 7% del Sabadell.",
+    "Tope comprometido: 9,9%."
+   ],
+   "why": "El mapa bancario sigue moviéndose, y eso influye en comisiones y condiciones para los clientes.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/economia/bpce-banco-frances-entrado-sabadell-evitar-opa-bbva_1_13569748.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-tubos-reunidos",
+   "section": "economia",
+   "weight": 1,
+   "title": "Tubos Reunidos recibe siete ofertas de compra",
+   "dek": "Catorce empresas mostraron interés; ahora la compañía elegirá las cinco mejores.",
+   "figure": {
+    "value": "7",
+    "label": "ofertas"
+   },
+   "place": "Amurrio",
+   "body": [
+    "De las catorce empresas interesadas en Tubos Reunidos, siete han presentado una oferta para comprar el grupo. La compañía analiza desde este jueves las propuestas para quedarse con las cinco mejores.",
+    "Tubos Reunidos es una de las industrias históricas del País Vasco y de su venta depende el futuro de su plantilla."
+   ],
+   "keys": [
+    "14 interesados y 7 ofertas.",
+    "Se seleccionarán cinco."
+   ],
+   "why": "Es una de las grandes industrias vascas en un momento delicado para el sector.",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/08/tubos-reunidos-analiza-desde-hoy-las-ofertas-recibidas-comprar-el-grupo-seleccionar-las-cinco-mejores/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-bbva-vivienda",
+   "section": "economia",
+   "weight": 1,
+   "title": "BBVA Research prevé que la vivienda suba un 11,5% este año y que se construya menos de lo esperado",
+   "dek": "Recorta en hasta 20.000 pisos su previsión de viviendas terminadas en 2026 y 2027.",
+   "figure": {
+    "value": "+11,5%",
+    "label": "precio vivienda 2026"
+   },
+   "place": "España",
+   "body": [
+    "El servicio de estudios del BBVA ha rebajado su previsión de viviendas terminadas en 2026 y 2027 hasta entre 130.000 y 140.000 al año, hasta 20.000 menos que antes. Califica de decepcionante la inversión en construcción residencial pese al buen momento del empleo.",
+    "Mantiene que el precio de la vivienda subirá un 11,5% este año y un 5,5% en 2027. Su economista jefe para España, Miguel Cardoso, advierte de que los precios crecen más que la renta de los hogares, sobre todo entre los jóvenes.",
+    "Entre los frenos a la construcción cita la subida de los tipos de interés, la incertidumbre y el fin de los fondos europeos Next Generation."
+   ],
+   "keys": [
+    "Precio de la vivienda: +11,5% en 2026 y +5,5% en 2027.",
+    "Hasta 20.000 viviendas menos de las previstas."
+   ],
+   "why": "Si piensas en comprar algún día, los precios van a seguir subiendo más deprisa que los sueldos.",
+   "sources": [
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/economia/2026/10/08/bbva-research-recorta-20000-pisos-prevision-construccion-viviendas-2027/"
+    }
+   ],
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   }
+  },
+  {
+   "id": "2026-10-08-gernika-90",
+   "section": "euskadi",
+   "weight": 2,
+   "title": "Gernika recuerda a Aguirre 90 años después del primer Gobierno vasco",
+   "dek": "Los cuatro lehendakaris vivos se reunieron en la Casa de Juntas. Pradales repitió el juramento de 1936 y reclamó un nuevo pacto político.",
+   "figure": {
+    "value": "1936",
+    "label": "primer Gobierno vasco"
+   },
+   "place": "Gernika",
+   "body": [
+    "El 7 de octubre de 1936, en plena Guerra Civil, José Antonio Aguirre juró como primer lehendakari bajo el árbol de Gernika. Su gobierno era una coalición del PNV, el PSOE, el PCE, ANV y los republicanos. Noventa años después, unas 250 personas se reunieron en la Casa de Juntas para recordarlo.",
+    "Asistieron los cuatro lehendakaris vivos, Pradales, Urkullu, López e Ibarretxe, junto a familiares de Aguirre y de los miembros de aquel gobierno, y representantes de casi todos los partidos.",
+    "Imanol Pradales repitió el juramento de Aguirre, destacó el trabajo de aquel gobierno en el exilio y lamentó que el Estatuto de 1979 siga sin completarse. Pidió un nuevo pacto político y criticó a ETA y a quienes la justificaron, a los que atribuyó una deuda moral pendiente.",
+    "El 7 de octubre de 2027 será festivo en Euskadi."
+   ],
+   "keys": [
+    "90 años del juramento de Aguirre en Gernika.",
+    "Pradales pide un nuevo pacto político.",
+    "El 7 de octubre de 2027 será festivo."
+   ],
+   "why": "Ya puedes apuntar un festivo nuevo para el año que viene.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/homenaje-solemne-aguirre-generacion-gernika-90-anos-primera-experiencia-autonomica-vasca_1_13568522.html"
+    }
+   ],
+   "thread": {
+    "id": "autogobierno",
+    "label": "Autogobierno vasco"
+   }
+  },
+  {
+   "id": "2026-10-08-zona-tensionada",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "EH Bildu pide declarar zona tensionada toda la CAV y Navarra",
+   "dek": "Permitiría aplicar topes al alquiler en todos los municipios.",
+   "figure": {
+    "value": "100%",
+    "label": "del territorio"
+   },
+   "place": "Gasteiz · Iruñea",
+   "body": [
+    "EH Bildu ha registrado dos iniciativas, en el Parlamento Vasco y en el de Navarra, para que los dos gobiernos inicien el procedimiento para declarar zona tensionada todo su territorio.",
+    "Declarar una zona tensionada permite aplicar los límites al precio del alquiler que contempla la ley estatal de vivienda. Hoy solo algunos municipios vascos tienen esa declaración."
+   ],
+   "keys": [
+    "Propuesta para toda la CAV y Navarra a la vez.",
+    "Abriría la puerta a topes en el alquiler en todas partes."
+   ],
+   "why": "Si se aprobara, afectaría directamente al precio de los alquileres en Bizkaia.",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/politica/2026/10/08/eh-bildu-registra-iniciativas-para-declarar-toda-hego-euskal-herria-zona-tensionada/"
+    }
+   ],
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   }
+  },
+  {
+   "id": "2026-10-08-pts-vivienda",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "El Gobierno Vasco quiere obligar a los ayuntamientos a reservar suelo para 160.000 viviendas",
+   "dek": "Un plan territorial fijará dónde y cuánto construir en cada municipio. Su aprobación definitiva no llegaría hasta 2030.",
+   "figure": {
+    "value": "160.000",
+    "label": "viviendas posibles"
+   },
+   "place": "Euskadi",
+   "body": [
+    "El Departamento de Vivienda prepara el primer plan territorial sectorial de vivienda de Euskadi, que ordenaría en un mapa común los planes urbanísticos municipales. Según el consejero Denis Itxaso, permitiría cierta «coerción» sobre los ayuntamientos para decidir dónde, cuánto y cómo construir.",
+    "El Gobierno calcula que hay capacidad para otras 160.000 viviendas, 75.000 de ellas protegidas. Desde 1983 se han promovido más de 108.000 viviendas protegidas, pero cerca de 40.000 han salido después del régimen de protección. El objetivo es que el alquiler social pase del 3,4% al 5% del parque en 2036.",
+    "El encargo de redactar el plan cuesta 302.500 euros. La aprobación inicial se busca antes del final de la legislatura, en 2028, y la definitiva, en torno a 2030."
+   ],
+   "keys": [
+    "Capacidad estimada: 160.000 viviendas, 75.000 protegidas.",
+    "Aprobación definitiva prevista hacia 2030."
+   ],
+   "why": "Es la principal apuesta del Gobierno Vasco para que haya más vivienda asequible a medio plazo.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/gobierno-vasco-quiere-coercion-municipios-construir-160-000-viviendas-proximos-anos_1_13555595.html"
+    }
+   ],
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   }
+  },
+  {
+   "id": "2026-10-08-transferencias",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "El adelanto electoral deja en el cajón el traspaso de la Seguridad Social a Euskadi",
+   "dek": "Las prestaciones por desempleo se retrasan a julio de 2027. Los puertos y los paradores, sin acuerdo.",
+   "figure": {
+    "value": "12.000 M€",
+    "label": "en pensiones"
+   },
+   "place": "Euskadi · Madrid",
+   "body": [
+    "La gestión económica de la Seguridad Social, con un presupuesto de unos 12.000 millones de euros en pensiones, era el gran traspaso pendiente con el Gobierno central y ya no llegará esta legislatura.",
+    "La gestión de las prestaciones de paro, que hoy lleva el SEPE, estaba firmada para enero de 2027, pero se ha aplazado a julio. El Gobierno Vasco sostiene que un cambio de Gobierno en Madrid no debería afectar a lo ya firmado. También quedan pendientes los puertos de Bilbao y Pasaia y los paradores de turismo.",
+    "Desde 2023 sí se han transferido prisiones, Cercanías, los permisos de trabajo para extranjeros y nuevas funciones para la Ertzaintza, entre otras."
+   ],
+   "keys": [
+    "Pensiones: sin traspaso esta legislatura.",
+    "Paro: traspaso aplazado a julio de 2027."
+   ],
+   "why": "A medio plazo, decidirá quién gestiona tus prestaciones si algún día las necesitas.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/adelanto-electoral-dejara-cajon-traspaso-euskadi-gestion-seguridad-social-negociaciones_1_13563493.html"
+    }
+   ],
+   "thread": {
+    "id": "autogobierno",
+    "label": "Autogobierno vasco"
+   }
+  },
+  {
+   "id": "2026-10-08-euskera-pau",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "La justicia da la razón a la EHU: el euskera cuenta en la nota de acceso a la universidad",
+   "dek": "El TSJPV levanta las medidas cautelares que permitían a algunos estudiantes dejar fuera esa nota.",
+   "figure": {
+    "value": "PAU",
+    "label": "nota de euskera"
+   },
+   "place": "Bilbao",
+   "body": [
+    "El Tribunal Superior de Justicia del País Vasco ha levantado las medidas cautelares que permitían a algunos estudiantes no computar la nota de euskera en las pruebas de acceso a la universidad.",
+    "El tribunal subraya que una resolución provisional no puede crear privilegios frente al resto de estudiantes, y da así la razón a la EHU."
+   ],
+   "keys": [
+    "La nota de euskera vuelve a contar para todos.",
+    "Se anulan las cautelares que la excluían."
+   ],
+   "why": "Afecta a quien prepara el acceso a la universidad en Euskadi.",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/08/la-justicia-da-la-razon-la-ehu-ordena-computar-el-euskera-en-las-pruebas-acceso-la-universidad/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-metro-donostia",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "El «metro» de Donostia abrirá el 21 de noviembre, pero sin inauguración",
+   "dek": "Las normas electorales impiden actos que presuman de gestión en plena campaña.",
+   "figure": {
+    "value": "21 nov",
+    "label": "apertura"
+   },
+   "place": "Donostia",
+   "body": [
+    "El Topo de Euskotren empezará a funcionar como un metro en Donostia el 21 de noviembre, con tres nuevas estaciones subterráneas, entre ellas la de La Concha. Lo ha confirmado la consejera de Movilidad, Susana García Chueca.",
+    "Como coincide con la campaña de las generales, no habrá acto inaugural: la ley electoral prohíbe eventos que destaquen logros de gestión, aunque sí permite informar del nuevo servicio."
+   ],
+   "keys": [
+    "Apertura: 21 de noviembre.",
+    "Tres estaciones subterráneas nuevas."
+   ],
+   "why": "Si vas a Donostia, cambiará cómo te mueves por la ciudad.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/esperado-metro-donostia-pondra-marcha-silencio-21-noviembre-restricciones-electorales_1_13565125.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-taxis-donostia",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "Unos 500 taxistas colapsan Donostia en protesta contra Uber",
+   "dek": "Es la tercera movilización del sector, tras dos en Bilbao. Piden que los VTC solo hagan trayectos interurbanos.",
+   "figure": {
+    "value": "500",
+    "label": "manifestantes"
+   },
+   "place": "Donostia",
+   "body": [
+    "Unos 500 taxistas de Álava, Bizkaia y Gipuzkoa se manifestaron el miércoles en Donostia, convocados por la Federación Vasca del Taxi, contra plataformas como Uber, recién llegadas a la ciudad. La marcha colapsó el tráfico a ratos y algunos manifestantes subieron a las escaleras del Ayuntamiento hasta que los desalojó la Guardia Municipal.",
+    "Es la tercera protesta del sector, después de dos en Bilbao. Piden que se cumpla la ley y que los VTC solo hagan servicios interurbanos, y denuncian que paran en las paradas de taxi y circulan por los carriles bus. No descartan otra protesta en Vitoria."
+   ],
+   "keys": [
+    "Tercera protesta tras dos en Bilbao.",
+    "Piden limitar los VTC a viajes interurbanos."
+   ],
+   "why": "El conflicto también afecta a Bilbao, donde ya operan estas plataformas.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/bocinazos-colapso-donostia-taxistas-manifiestan-uber-plataformas_1_13569349.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-viruela-mono",
+   "section": "sociedad",
+   "weight": 2,
+   "title": "Muere en Donostia el primer paciente con viruela del mono en Euskadi",
+   "dek": "Era un hombre de 61 años con cáncer y las defensas muy bajas. Osakidetza insiste en que la mortalidad de esta infección es muy baja.",
+   "figure": {
+    "value": "25",
+    "label": "personas vacunadas"
+   },
+   "place": "Donostia",
+   "body": [
+    "Un hombre de 61 años, paciente oncológico, ha muerto en el Hospital Donostia por viruela del mono (mpox). Había compartido habitación con otro paciente infectado cuando aún no se sabía que lo estaba. Osakidetza ha vacunado al menos a 25 personas de su entorno.",
+    "El jefe de Enfermedades Infecciosas del hospital recordó que la mortalidad de la mpox es muy baja y que el fallecido tenía otras enfermedades y un sistema inmune muy debilitado.",
+    "La mpox la causa un virus del género Orthopoxvirus. Se transmite sobre todo por contacto estrecho piel con piel, y sus síntomas más habituales son erupciones dolorosas, ganglios inflamados y fiebre."
+   ],
+   "keys": [
+    "Primera muerte por mpox registrada en Euskadi.",
+    "El paciente estaba inmunodeprimido.",
+    "Al menos 25 personas vacunadas como prevención."
+   ],
+   "why": "Puede alarmar, pero los expertos piden calma: el riesgo para la población general sigue siendo bajo.",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/08/un-hombre-61-anos-paciente-oncologico-muere-viruela-del-mono-en-euskadi/"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/08/sepamos-es-el-primer-caso-muerte-viruela-del-mono-en-euskadi/"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/08/es-se-transmite-la-viruela-del-mono/"
+    }
+   ],
+   "thread": {
+    "id": "mpox",
+    "label": "Viruela del mono"
+   }
+  },
+  {
+   "id": "2026-10-08-osakidetza-quirofanos",
+   "section": "sociedad",
+   "weight": 1,
+   "title": "Osakidetza sumará 36 quirófanos para depender menos de la privada",
+   "dek": "Basurto y Cruces están entre los hospitales beneficiados. El plan incluye 21 centros de salud nuevos.",
+   "figure": {
+    "value": "+36",
+    "label": "quirófanos"
+   },
+   "place": "Euskadi",
+   "body": [
+    "El consejero de Salud, Alberto Martínez, ha anunciado en el Parlamento que Osakidetza sumará 36 quirófanos a los 170 que tiene, un 21% más, para reducir las derivaciones de pacientes a la sanidad privada.",
+    "Txagorritxu y el nuevo hospital de Tolosa tendrán siete nuevos cada uno; Basurto, Donostia, Usansolo y Zumarraga, cinco; y Bidasoa y Cruces, uno. Forma parte de un plan de infraestructuras de 1.600 millones de euros hasta 2032 que incluye 21 centros de salud nuevos y la reforma de otros ocho."
+   ],
+   "keys": [
+    "De 170 a 206 quirófanos.",
+    "Basurto: cinco quirófanos nuevos."
+   ],
+   "why": "Más quirófanos públicos deberían reducir las esperas para operarse.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/osakidetza-plantea-sumar-36-nuevos-quirofanos-red-170-reducir-derivaciones-privada_1_13563298.html"
+    }
+   ],
+   "thread": {
+    "id": "sanidad",
+    "label": "Sanidad"
+   }
+  },
+  {
+   "id": "2026-10-08-pisa-lectura",
+   "section": "sociedad",
+   "weight": 1,
+   "title": "Tras el mal resultado en PISA, los colegios vascos dedicarán tiempo a leer en todas las asignaturas",
+   "dek": "Entre 30 y 55 minutos semanales por materia. Euskadi solo superó a Ceuta y Melilla en comprensión lectora.",
+   "figure": {
+    "value": "30-55'",
+    "label": "de lectura a la semana"
+   },
+   "place": "Euskadi",
+   "body": [
+    "La consejera de Educación, Begoña Pedrosa, explicó en el Parlamento los malos resultados de Euskadi en PISA: en comprensión lectora solo quedó por delante de Ceuta y Melilla.",
+    "Como respuesta, los centros tendrán que dedicar entre 30 y 55 minutos semanales de lectura pausada en cada asignatura. Además habrá evaluaciones específicas de comprensión lectora en 2.º y 5.º de Primaria y en 1.º de la ESO, y se revisará el uso de pantallas en las aulas.",
+    "La oposición criticó la falta de autocrítica. EH Bildu recordó que el PNV dirige Educación desde 2012, y el PP atribuyó los resultados a la inmersión en euskera."
+   ],
+   "keys": [
+    "Lectura en todas las asignaturas cada semana.",
+    "Revisión del uso de pantallas en clase."
+   ],
+   "why": "Es un debate sobre el modelo educativo vasco en el que muchas personas se reconocen.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/colegios-vascos-tendran-ofrecer-asignatura-30-55-minutos-semanas-lectura_1_13562732.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-medicos-huelga",
+   "section": "sociedad",
+   "weight": 1,
+   "title": "Los médicos aplazan su huelga indefinida por el adelanto electoral",
+   "dek": "Los paros del 28 de octubre quedan suspendidos, pero los sindicatos avisan de que no renuncian a nada.",
+   "figure": {
+    "value": "28 oct",
+    "label": "huelga aplazada"
+   },
+   "place": "España",
+   "body": [
+    "El comité de huelga de los médicos, formado por la Confederación Estatal de Sindicatos Médicos, el Sindicato Médico de Euskadi y el andaluz, ha desconvocado los paros de la huelga nacional indefinida previstos para el 28 de octubre.",
+    "Lo justifican por la convocatoria de elecciones y aseguran que es solo un aplazamiento: la movilización podría volver si el próximo Gobierno no atiende sus reivindicaciones."
+   ],
+   "keys": [
+    "Suspendida la huelga del 28 de octubre.",
+    "Participaba el sindicato médico vasco."
+   ],
+   "why": "Si tienes una cita médica a finales de mes, no debería verse afectada por la huelga.",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20261007/medicos-desconvocan-huelga-nacional-indefinida-convocatoria-elecciones/1003744411275_0.html"
+    }
+   ],
+   "thread": {
+    "id": "sanidad",
+    "label": "Sanidad"
+   }
+  },
+  {
+   "id": "2026-10-08-marte-nube",
+   "section": "ciencia",
+   "weight": 2,
+   "title": "La nube gigante de Marte que descubrió un investigador de la UPV/EHU es aún más rara de lo que se creía",
+   "dek": "Mide 1.800 km y se forma de un modo que en la Tierra solo se ha visto en laboratorio.",
+   "figure": {
+    "value": "1.800 km",
+    "label": "de largo"
+   },
+   "place": "Marte · Leioa",
+   "body": [
+    "Cada primavera marciana aparece sobre el volcán Arsia Mons, de unos 20 kilómetros de altura, una nube alargada de hielo de unos 1.800 kilómetros de largo y 150 de ancho. La identificó en 2018 Jorge Hernández Bernal, entonces en el grupo de Ciencias Planetarias de la UPV/EHU, en imágenes de la sonda Mars Express.",
+    "Un nuevo estudio en Nature Geoscience, liderado por él mismo desde París, explica cómo se forma. El viento empuja aire húmedo por la ladera del volcán; ese aire se enfría unos 30 grados en diez minutos y el vapor se congela directamente, sin necesidad de partículas de polvo.",
+    "Es la primera vez que se observa este proceso, llamado nucleación homogénea, en la atmósfera de un planeta. En la Tierra, las nubes necesitan polvo u hollín para formarse, y este fenómeno solo se había reproducido en laboratorio."
+   ],
+   "keys": [
+    "Descubierta por un investigador de la UPV/EHU.",
+    "Primer caso de nucleación homogénea en una atmósfera real."
+   ],
+   "why": "Ciencia hecha en Leioa que llega a una de las mejores revistas del mundo.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/sociedad/gigantesca-nube-forma-marte-rara-esperado-consideraba-imposible_1_13564066.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-cenizas-incendios",
+   "section": "ciencia",
+   "weight": 1,
+   "title": "Lluvia sobre ceniza: el daño de los incendios que llega después",
+   "dek": "Tras el gran incendio de Ávila, varios pueblos han restringido el agua del grifo.",
+   "figure": {
+    "value": "+150%",
+    "label": "pérdida de suelo"
+   },
+   "place": "Ávila",
+   "body": [
+    "Las lluvias intensas tras el incendio de Ávila, el mayor de España este año, están arrastrando ceniza a ríos y acuíferos. Mijares, Casavieja y Piedralaves han limitado el uso del agua del grifo por riesgo de contaminación.",
+    "El calor extremo crea en el suelo una capa que repele el agua, de modo que la lluvia corre por la superficie y se lleva la tierra fértil. Un estudio del CTFC y el CREAF calcula que la pérdida de suelo puede aumentar hasta un 150% cuando coinciden en el mismo año un incendio y lluvias fuertes.",
+    "Los expertos recomiendan no meter maquinaria pesada durante el primer año, cubrir el suelo con materiales naturales y dejar los troncos quemados como barrera."
+   ],
+   "keys": [
+    "Pueblos de Ávila con restricciones de agua.",
+    "El suelo quemado repele el agua y se erosiona."
+   ],
+   "why": "Explica por qué un incendio sigue haciendo daño meses después de apagarse.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/sociedad/lluvia-cenizas-bomba-diferido-incendios-forestales_1_13566196.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-kramatorsk",
+   "section": "mundo",
+   "weight": 2,
+   "title": "Al menos 30 muertos en un bombardeo ruso contra un autobús en Kramatorsk",
+   "dek": "Una bomba planeadora alcanzó una parada de transporte público. Ucrania lo investiga como crimen de guerra.",
+   "figure": {
+    "value": "30",
+    "label": "muertos"
+   },
+   "place": "Kramatorsk, Ucrania",
+   "body": [
+    "Un ataque ruso alcanzó este jueves, poco antes de la una de la tarde, una parada de transporte público y un autobús con pasajeros en Kramatorsk, en la región ucraniana de Donetsk. Según la Fiscalía regional, murieron al menos 30 personas y 18 resultaron heridas. Un primer balance hablaba de 12 muertos.",
+    "La Fiscalía atribuye el ataque a una bomba aérea planeadora y lo investiga como crimen de guerra. Volodímir Zelenski lo denunció en las redes sociales.",
+    "Kramatorsk es una de las dos grandes ciudades que Ucrania aún controla en Donetsk. Rusia ha intensificado los ataques contra ella y exige que Kiev le ceda el resto de la región antes de cualquier alto el fuego, algo que Ucrania rechaza."
+   ],
+   "keys": [
+    "30 muertos y 18 heridos.",
+    "Investigado como crimen de guerra."
+   ],
+   "why": "Uno de los ataques más mortíferos contra civiles en meses en una guerra que sigue sin negociación.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/internacional/bombardeo-ruso-autobus-mata-30-personas-ciudad-kramatorsk_1_13571916.html"
+    }
+   ],
+   "thread": {
+    "id": "ucrania",
+    "label": "Guerra de Ucrania"
+   }
+  },
+  {
+   "id": "2026-10-08-gaza-tres-anos",
+   "section": "mundo",
+   "weight": 1,
+   "title": "Tres años del 7 de octubre: la guerra de Gaza supera los 74.000 muertos",
+   "dek": "El ataque de Hamás mató a unas 1.200 personas en Israel; la ofensiva israelí posterior sigue sumando víctimas.",
+   "figure": {
+    "value": "3",
+    "label": "años de guerra"
+   },
+   "place": "Gaza · Israel",
+   "body": [
+    "Se cumplen tres años del ataque de Hamás en Israel del 7 de octubre de 2023, en el que murieron alrededor de 1.200 personas y unas 250 fueron tomadas como rehenes.",
+    "La ofensiva militar israelí en Gaza que siguió ha causado más de 74.230 muertos y 175.200 heridos, según las cifras que recoge Orain. Siguen abiertas muchas preguntas sobre el ataque y sobre el futuro de la Franja."
+   ],
+   "keys": [
+    "7 de octubre de 2023: unas 1.200 víctimas y 250 rehenes.",
+    "Más de 74.000 muertos en Gaza desde entonces."
+   ],
+   "why": "Es el conflicto que más marca la agenda internacional y europea.",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/10/06/tres-anos-del-ataque-del-7-octubre-hamas-preguntas-sin-resolver-sigue-el-genocidio-israel-en-gaza/"
+    }
+   ],
+   "thread": {
+    "id": "gaza",
+    "label": "Guerra de Gaza"
+   }
+  },
+  {
+   "id": "2026-10-08-meloni-ley-electoral",
+   "section": "mundo",
+   "weight": 1,
+   "title": "Meloni aprueba una reforma electoral que premia con 70 escaños a quien supere el 42%",
+   "dek": "La oposición la llama «democracia bloqueada». Las elecciones italianas serán en 2027 o antes.",
+   "figure": {
+    "value": "42%",
+    "label": "umbral del premio"
+   },
+   "place": "Roma",
+   "body": [
+    "El Parlamento italiano aprobó definitivamente el jueves la reforma electoral de Giorgia Meloni, con 227 votos a favor y 164 en contra. La coalición que supere el 42% de los votos recibirá un premio de 70 escaños en la Cámara y 35 en el Senado.",
+    "Desaparecen los distritos uninominales y se pasa a un sistema proporcional con listas cerradas. Los partidos deberán formar coaliciones antes de votar y acordar quién las encabeza.",
+    "La oposición cree que busca perpetuar a Meloni en el poder y prepara recursos ante el Constitucional. Algunas encuestas apuntan a que el nuevo partido del general Roberto Vannacci podría restar votos a la derecha e impedir que llegue al 42%."
+   ],
+   "keys": [
+    "Premio de 70 diputados para quien pase del 42%.",
+    "Listas cerradas y coaliciones obligatorias."
+   ],
+   "why": "Puede cambiar el equilibrio político en uno de los grandes países de la UE.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/internacional/meloni-logra-aprobar-polemica-reforma-electoral-italia-criticas-perpetuarse_1_13571468.html"
+    }
+   ],
+   "thread": {
+    "id": "italia-meloni",
+    "label": "Italia de Meloni"
+   }
+  },
+  {
+   "id": "2026-10-08-regeni",
+   "section": "mundo",
+   "weight": 1,
+   "title": "Condenados en Roma tres agentes egipcios por el secuestro de Giulio Regeni",
+   "dek": "El doctorando italiano apareció torturado y muerto en El Cairo en 2016. Los condenados están en paradero desconocido.",
+   "figure": {
+    "value": "10",
+    "label": "años de condena"
+   },
+   "place": "Roma · El Cairo",
+   "body": [
+    "Giulio Regeni, doctorando de 28 años de la Universidad de Cambridge, desapareció en El Cairo el 25 de enero de 2016 mientras investigaba los sindicatos independientes egipcios. Nueve días después apareció muerto y con signos de tortura.",
+    "El Tribunal Penal de Roma ha condenado en ausencia a diez años de cárcel por secuestro a tres agentes de seguridad egipcios. El cargo de asesinato se desestimó por falta de pruebas y un cuarto acusado fue absuelto. Su extradición es muy improbable.",
+    "La oposición acusa al Gobierno de Meloni de minimizar el papel del régimen egipcio por intereses estratégicos: Italia es el primer socio comercial de Egipto en la UE y la petrolera ENI explota allí un gran yacimiento de gas."
+   ],
+   "keys": [
+    "Tres agentes condenados a 10 años por secuestro.",
+    "Egipto no colabora con la justicia italiana."
+   ],
+   "why": "Un caso clave sobre derechos humanos y sobre hasta dónde llegan los intereses entre Estados.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/internacional/giulio-regeni-condena-crimen-sacudio-italia-aviva-criticas-alianza-meloni-egipto_1_13569732.html"
+    }
+   ],
+   "thread": {
+    "id": "italia-meloni",
+    "label": "Italia de Meloni"
+   }
+  },
+  {
+   "id": "2026-10-08-trump-texas",
+   "section": "mundo",
+   "weight": 1,
+   "title": "Protestas interrumpen a Trump en Texas, donde los republicanos temen perder el Senado",
+   "dek": "El demócrata James Talarico pone en apuros a Ken Paxton a menos de un mes de las elecciones de mitad de mandato.",
+   "figure": {
+    "value": "300M$",
+    "label": "gastados por el GOP"
+   },
+   "place": "San Antonio, EE UU",
+   "body": [
+    "Una docena de manifestantes interrumpió varias veces el mitin de Donald Trump en San Antonio, su tercer viaje a Texas en menos de un mes. Las elecciones de mitad de mandato se celebran en noviembre.",
+    "Trump apoya al republicano Ken Paxton frente al demócrata James Talarico en la carrera al Senado. El Partido Republicano ha tenido que gastar más de 300 millones de dólares en Texas, un estado que Trump ganó por casi 14 puntos en 2024 y donde los demócratas no ganan un escaño de senador desde 1988.",
+    "El artículo atribuye las dificultades republicanas a la baja aprobación de Trump, la guerra con Irán y la subida del combustible."
+   ],
+   "keys": [
+    "Texas, en juego por primera vez en décadas.",
+    "Elecciones de mitad de mandato en noviembre."
+   ],
+   "why": "El resultado decidirá cuánto poder conserva Trump los dos próximos años.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/internacional/trump-interrumpido-protestas-texas-trata-movilizar-votantes-renida-carrera-senado-talarico_1_13570997.html"
+    }
+   ],
+   "thread": {
+    "id": "eeuu-midterms",
+    "label": "Elecciones en EE UU"
+   }
+  },
+  {
+   "id": "2026-10-08-pena-muerte-eeuu",
+   "section": "mundo",
+   "weight": 1,
+   "title": "Texas ejecuta a un preso una semana después de la ejecución fallida de Christa Pike",
+   "dek": "Pike sobrevivió a dos dosis de pentobarbital en Tennessee y ha despertado tras seis días inconsciente.",
+   "figure": {
+    "value": "30",
+    "label": "ejecuciones en 2026"
+   },
+   "place": "Texas · Tennessee",
+   "body": [
+    "Texas ejecutó el miércoles a Jamaal Howard, de 46 años, condenado por matar a tiros a una dependienta durante un atraco en 2000. Es la trigésima ejecución en EE UU este año. Sus abogados intentaron frenarla alegando discapacidad intelectual y el precedente de Christa Pike, porque ambos estados usan el mismo fármaco.",
+    "El 30 de septiembre, en Tennessee, Pike, de 50 años, sobrevivió a dos dosis de pentobarbital. Tras casi seis días inconsciente en un hospital, ha despertado. Sus abogados quieren que se evalúe si es legalmente apta para ser ejecutada, un proceso que puede durar años. El gobernador de Tennessee ha suspendido la otra ejecución prevista este año."
+   ],
+   "keys": [
+    "30 ejecuciones en EE UU en 2026; Florida lidera con 16.",
+    "Pike, viva tras una ejecución fallida."
+   ],
+   "why": "Reabre el debate sobre la pena de muerte y los métodos de ejecución.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/internacional/texas-aplica-pena-muerte-primera-vez-eeuu-fallido-christa-pike-tenessee_1_13570991.html"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/10/07/christa-pike-sobrevivio-dos-inyecciones-letales-futuro-le-espera-la-presa-tennessee/"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/mundo/america/eeuu/20261007/christa-pike-mujer-sobrevivio-ejecucion-fallida-eeuu-encuentra-consciente-puede-hablar/1003744411180_0.html"
+    }
+   ],
+   "thread": {
+    "id": "pena-muerte-eeuu",
+    "label": "Pena de muerte en EE UU"
+   }
+  },
+  {
+   "id": "2026-10-08-peste-rusia",
+   "section": "mundo",
+   "weight": 1,
+   "title": "El Kremlin niega un brote de peste en Siberia tras la muerte de una investigadora",
+   "dek": "La OMS ve el riesgo para Europa como «muy bajo», pero hay un hospital en cuarentena y 60 trabajadores aislados.",
+   "figure": {
+    "value": "60",
+    "label": "trabajadores aislados"
+   },
+   "place": "Irkutsk, Rusia",
+   "body": [
+    "Una técnica de 28 años del Instituto Antipeste de Siberia murió a principios de octubre en Shélejov, cerca de Irkutsk. Varios medios apuntaron a una peste neumónica contraída en el laboratorio, pero la agencia sanitaria rusa lo atribuye a una neumonía de causa desconocida y niega que haya habido incidentes.",
+    "Aun así, el hospital donde la atendieron está en cuarentena, más de 60 empleados del instituto han sido aislados y cinco hospitales de Irkutsk aplican restricciones. El portavoz del Kremlin, Dmitri Peskov, pidió no creer los rumores. La OMS fue notificada y considera el riesgo muy bajo en Europa."
+   ],
+   "keys": [
+    "Rusia niega oficialmente un brote de peste.",
+    "OMS: riesgo muy bajo para Europa."
+   ],
+   "why": "Una noticia a vigilar, aunque por ahora no supone un riesgo aquí.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/actualidad/kremlin-peskov-peste-neumonica-irkutsk-rospotrebnadzor/"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/sociedad/rusia-extiende-manto-silencio-muerte-trabajadora-posible-peste-neumonica_1_13571526.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-athletic-bajas-rayo",
+   "section": "deportes",
+   "weight": 2,
+   "title": "El Athletic viaja a Vallecas con cuatro bajas y la puerta abierta al debut de Imga",
+   "dek": "Sancet, Nico Williams, Djaló y Yuri no entrenan con el grupo. Peio Canales ocupará la mediapunta.",
+   "figure": {
+    "value": "4",
+    "label": "bajas para el sábado"
+   },
+   "place": "Lezama · Vallecas",
+   "body": [
+    "El Athletic visita al Rayo Vallecano el sábado 10 de octubre a las 14:00, en la octava jornada de Liga, con cuatro ausencias: Oihan Sancet, Nico Williams, Álvaro Djaló y Yuri Berchiche. Tres de ellos son jugadores ofensivos, dos de banda.",
+    "Una resonancia ha confirmado que Sancet tiene una lesión muscular moderada en el sóleo de la pierna izquierda. El club no da plazos. Es el jugador de campo con más minutos esta temporada, con un gol en seis partidos. Peio Canales, que ya le sustituyó en la final de la EH Txapela, ocupará su sitio.",
+    "Las bajas abren la puerta a Christian Imga, extremo de 17 años y 1,90 metros del Bilbao Athletic, que llegó a Lezama desde la cantera del Alavés y fue MVP de un torneo internacional con la selección sub-18. Es el canterano que más ha entrenado con el primer equipo.",
+    "El equipo de Edin Terzić suma ocho puntos de 18 y todavía no ha ganado en San Mamés. Unai Simón podría descansar."
+   ],
+   "keys": [
+    "Rayo–Athletic: sábado 10, 14:00.",
+    "Sancet: lesión moderada en el sóleo, sin plazo.",
+    "Imga, de 17 años, podría debutar."
+   ],
+   "why": "Lo que hay que saber antes del partido del sábado.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/deportes/imga-debut-athletic-rayo-vallecano-bajas-nico-djalo-sancet-yuri/"
+    },
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/deportes/sancet-lesion-soleo-athletic-parte-medico/"
+    },
+    {
+     "name": "Kirolak EITB",
+     "url": "https://kirolakeitb.eus/es/futbol/equipos/athletic-club/2026/10/08/oihan-sancet-lesionado-caracter-moderado-soleo/"
+    }
+   ],
+   "thread": {
+    "id": "athletic",
+    "label": "Athletic Club"
+   }
+  },
+  {
+   "id": "2026-10-08-athletic-calendario",
+   "section": "deportes",
+   "weight": 1,
+   "title": "Cinco salidas en siete partidos: el calendario que espera al Athletic",
+   "dek": "Vallecas, Mestalla, Levante, Getafe, la Copa en El Prat, el derbi y Pamplona antes del parón.",
+   "figure": {
+    "value": "5/7",
+    "label": "partidos fuera"
+   },
+   "place": "LaLiga · Copa",
+   "body": [
+    "Entre el 10 de octubre y el 8 de noviembre, el Athletic juega siete partidos y solo dos en San Mamés: Rayo (10 de octubre, 14:00, fuera), Valencia (17, 21:00, fuera), Levante (21, 20:00, fuera, aplazado), Getafe (25, 14:00, en casa), Copa ante el Prat o el Sant Rafel (29 de octubre, 21:00, fuera), Real Sociedad (1 de noviembre, 21:00, en casa) y Osasuna (8 de noviembre, fuera).",
+    "El partido de Copa se ha movido al jueves 29 para que no coincida con la asamblea de socios del 28 en el Euskalduna. El rival más probable es el AE Prat, que ganó la ida 1-5, y se jugaría en El Prat de Llobregat.",
+    "Nico Williams se lesionó con la selección en el recto anterior izquierdo; el club baraja dos o tres semanas de baja. Su hermano Iñaki dijo que Nico peca de querer estar siempre disponible y que tiene que aprender a parar a tiempo."
+   ],
+   "keys": [
+    "Derbi contra la Real: 1 de noviembre a las 21:00.",
+    "Copa: jueves 29 de octubre a las 21:00, previsiblemente en El Prat."
+   ],
+   "why": "Para apuntarte los partidos de las próximas semanas.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/deportes/athletic-calendario-siete-partidos-octubre-terzic-nico-williams/"
+    },
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/deportes/athletic-copa-del-rey-horario-29-octubre-prat-san-rafael/"
+    },
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/deportes/inaki-williams-nico-lesiones-aprender-parar-athletic/"
+    }
+   ],
+   "thread": {
+    "id": "athletic",
+    "label": "Athletic Club"
+   }
+  },
+  {
+   "id": "2026-10-08-alaves-atletico",
+   "section": "deportes",
+   "weight": 1,
+   "title": "El Alavés recibe al Atlético con la permanencia como objetivo",
+   "dek": "Quique Sánchez Flores quiere un equipo intenso desde el primer minuto en Mendizorrotza.",
+   "figure": {
+    "value": "10/10",
+    "label": "Alavés–Atlético"
+   },
+   "place": "Vitoria-Gasteiz",
+   "body": [
+    "El Alavés recibe al Atlético de Madrid este fin de semana en Mendizorrotza. Su entrenador, Quique Sánchez Flores, avisa de que su equipo intentará jugar con mucha energía desde el principio.",
+    "El capitán Carlos Protesoni insiste en que el objetivo es la permanencia, y el defensa Ville Koski vuelve a Vitoria tras lesionarse con Finlandia."
+   ],
+   "keys": [
+    "Alavés–Atlético este fin de semana.",
+    "Koski, de baja."
+   ],
+   "why": "Otro partido de Primera en Euskadi este fin de semana.",
+   "sources": [
+    {
+     "name": "Kirolak EITB",
+     "url": "https://kirolakeitb.eus/es/futbol/equipos/alaves/2026/10/08/sanchez-flores-declaraciones-alaves/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-cuatro-y-medio",
+   "section": "deportes",
+   "weight": 1,
+   "title": "Arranca el Cuatro y Medio: la final será el 22 de noviembre en el Bizkaia",
+   "dek": "Peio Etxeberria defiende la txapela ante once rivales. Los octavos empiezan este viernes en Durango.",
+   "figure": {
+    "value": "22 nov",
+    "label": "final en Bilbao"
+   },
+   "place": "Pelota a mano",
+   "body": [
+    "Doce pelotaris luchan por la txapela del Cuatro y Medio. Los cuatro cabezas de serie, todos de Aspe (Peio Etxeberria, Javi Zabala, Altuna III y Ezkurdia), entran directamente en la liguilla de cuartos.",
+    "Los octavos se juegan del 9 al 12 de octubre: Elordi–Larrazabal en Durango, Jaka–Laso en el Labrit, Darío–Senar en Lekunberri y Artola–Peña II en Tolosa. Las semifinales serán el 7 de noviembre en Donostia y el 8 en Vitoria, y la final, el 22 de noviembre en el Frontón Bizkaia de Bilbao.",
+    "En pala, el bilbaíno Imanol Ibáñez, recuperado de la rotura del tendón de Aquiles, aspira al oro en el Mundial de pelota que se juega del 15 al 24 de octubre en Argentina y Uruguay. En pelota femenina, Mendibil y Zarrabeitia han llevado a Bidebieta al liderato del Campeonato de Bizkaia."
+   ],
+   "keys": [
+    "Octavos del 9 al 12 de octubre.",
+    "Final el 22 de noviembre en el Frontón Bizkaia.",
+    "Mundial de pelota: del 15 al 24 de octubre."
+   ],
+   "why": "Si te apetece ver pelota en directo, la final se juega en Bilbao.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/deportes/cuatro-y-medio-2026-octavos-cabezas-de-serie-calendario/"
+    },
+    {
+     "name": "Kirolak EITB",
+     "url": "https://kirolakeitb.eus/es/pelota/pala/2026/10/08/superada-la-lesion-imanol-ibanez-tiene-la-vista-puesta-en-el-oro-del-mundial/"
+    },
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/deportes/bidebieta-campeonato-bizkaia-mendibil-zarrabeitia-lideres/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-08-jon-rahm",
+   "section": "deportes",
+   "weight": 1,
+   "title": "Jon Rahm deja LIV Golf: considera inaceptables las condiciones de la nueva liga",
+   "dek": "El circuito saudí está en quiebra. El de Barrika negocia su salida y tiene asegurada la Ryder Cup de 2027.",
+   "figure": {
+    "value": "LIV",
+    "label": "abandona la liga"
+   },
+   "place": "Golf",
+   "body": [
+    "Jon Rahm no jugará en la nueva versión de LIV Golf. Su abogado lo comunicó en una audiencia del proceso de quiebra de la liga, que se acogió a la ley de bancarrota de EE UU tras perder el apoyo del fondo saudí PIF.",
+    "Rahm, que llegó a LIV en diciembre de 2023 tras ganar el Masters, negocia un acuerdo de salida y no descarta los tribunales. Para volver al PGA Tour, la norma exige un año sin jugar en LIV, aunque existe una vía excepcional. En mayo pagó 3 millones en multas al circuito europeo, lo que le asegura la Ryder Cup de 2027."
+   ],
+   "keys": [
+    "Rahm sale de LIV, que está en quiebra.",
+    "Tiene asegurada la Ryder Cup 2027."
+   ],
+   "why": "El mejor golfista vasco cambia de rumbo en su carrera.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/deportes/jon-rahm-deja-liv-golf-2-0-terminos-inaceptables-pga-tour/"
+    }
+   ]
+  }
+ ],
+ "briefs": [
+  {
+   "id": "2026-10-08-b01",
+   "section": "bilbao",
+   "tag": "Bizkaia",
+   "text": "Bizkaia ganó 11.818 habitantes por migración en 2025, el 57,7% del saldo de toda Euskadi, según Eustat. Es el cuarto año seguido por encima de 11.600.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/saldo-migratorio-bizkaia-2025-eustat-2/"
+   }
+  },
+  {
+   "id": "2026-10-08-b02",
+   "section": "bilbao",
+   "tag": "Enkarterri",
+   "text": "Las Juntas Generales aprueban crear minibuses a demanda integrados en Bizkaibus para conectar barrios alejados de Enkarterri. Se pagarán con la Barik y a tarifa Bizkaibus; aún no hay rutas ni fechas.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/enkarterri-transporte-publico-rural-bizkaibus-juntas-generales/"
+   }
+  },
+  {
+   "id": "2026-10-08-b03",
+   "section": "bilbao",
+   "tag": "Uribe Kosta",
+   "text": "La casa Lipperheide de Berango es la opción mejor valorada por la Diputación para el futuro centro de día de Uribe Kosta. La Mancomunidad pide una reunión urgente para avanzar.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/centro-dia-uribe-kosta-casa-lipperheide-berango-gorliz/"
+   }
+  },
+  {
+   "id": "2026-10-08-b04",
+   "section": "bilbao",
+   "tag": "Gorliz",
+   "text": "Gorliz cobrará un 50% más de IBI por las viviendas en las que no hay nadie empadronado, como segundas residencias, pisos vacíos o turísticos. La ordenanza ya está publicada en el BOB.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/gorliz-recargo-ibi-viviendas-vacias-segundas-residencias/"
+   }
+  },
+  {
+   "id": "2026-10-08-b05",
+   "section": "bilbao",
+   "tag": "Muskiz",
+   "text": "Petronor exportó 196 millones de euros en julio, casi cuatro veces más que un año antes, por la escasez mundial de diésel. Ya supone el 17% de las ventas de Bizkaia al exterior.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/petronor-escasez-diesel-margen-refino-muskiz/"
+   }
+  },
+  {
+   "id": "2026-10-08-b06",
+   "section": "bilbao",
+   "tag": "Margen Izquierda",
+   "text": "La Guardia Civil desarticula una red de hurtos en supermercados con golpes en Bilbao, Barakaldo y Santurtzi: dos detenidos, cinco investigados y más de 10.000 productos recuperados, por valor de 102.000 euros.",
+   "source": {
+    "name": "Orain (EITB)",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/07/desarticulada-una-organizacion-dedicada-al-hurto-en-supermercados-5-hurtos-en-bizkaia/"
+   }
+  },
+  {
+   "id": "2026-10-08-b07",
+   "section": "bilbao",
+   "tag": "Sucesos · Bilbao",
+   "text": "La Policía Municipal detiene a un joven de 18 años acusado de agredir a su pareja y de herir a un hombre que intentó defenderla.",
+   "source": {
+    "name": "Orain (EITB)",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/07/arrestado-un-joven-en-bilbao-agredir-su-pareja-un-hombre-salio-defenderla/"
+   }
+  },
+  {
+   "id": "2026-10-08-b08",
+   "section": "bilbao",
+   "tag": "Tribunales",
+   "text": "Procesadas seis personas por el incendio del restaurante Burro Canaglia de Madrid en 2023, en el que murieron tres personas, entre ellas dos amigas vizcaínas de 41 y 43 años.",
+   "source": {
+    "name": "Orain (EITB)",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/06/procesan-homicidio-seis-investigados-el-incendio-del-restaurante-madrid-en-el-murieron-dos-mujeres-vascas/"
+   }
+  },
+  {
+   "id": "2026-10-08-b09",
+   "section": "euskadi",
+   "tag": "Memoria",
+   "text": "El catedrático Fernando Reinares, experto en terrorismo, es propuesto como director del Memorial de Víctimas en Vitoria, en sustitución de Florencio Domínguez. El patronato debe ratificarlo el día 13.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/euskadi/catedratico-fernando-reinares-sera-nuevo-director-memorial-victimas-sustitucion-florencio-dominguez_1_13567961.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b10",
+   "section": "euskadi",
+   "tag": "Trabajo",
+   "text": "El Gobierno Vasco crea el premio Juan de los Toyos, dotado con 10.000 euros, para quien destaque por la dignidad y la calidad en el trabajo. Lleva el nombre del consejero de Trabajo del primer Gobierno vasco.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/euskadi/gobierno-vasco-crea-premio-recuerda-juan-toyos-consejero-trabajo-primer-gobierno-euzkadi_1_13565651.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b11",
+   "section": "euskadi",
+   "tag": "Parlamento Vasco",
+   "text": "El Parlamento Vasco suspende los plenos del 19, 20 y 26 de noviembre por la campaña electoral. Los presupuestos de 2027 seguirán su tramitación.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/euskadi/parlamento-vasco-suspende-tres-plenos-noviembre-campana-elecciones-generales_1_13566064.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b12",
+   "section": "euskadi",
+   "tag": "Campo y pesca",
+   "text": "Casi 6 millones en ayudas extraordinarias para el campo y la pesca: hasta 15.000 euros por explotación afectada por la sequía y 825 euros por tripulante tras la mala campaña del verdel.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/euskadi/euskadi-movilizara-seis-millones-ayudas-extraordinarias-sectores-agrario-ganadero-pesquero_1_13559557.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b13",
+   "section": "euskadi",
+   "tag": "Familias",
+   "text": "El Gobierno Vasco insiste en que ampliará antes de 2028 la ayuda de 200 euros al mes por hijo hasta los siete años.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/euskadi/gobierno-vasco-insiste-ampliara-siete-anos-ayudas-200-euros-mensuales-hijos-2028_1_13542638.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b14",
+   "section": "euskadi",
+   "tag": "Gipuzkoa",
+   "text": "Azahara Domínguez será la candidata del PSE-EE a diputada general de Gipuzkoa.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/euskadi/azahara-dominguez-sera-candidata-foral-pse-ee-gipuzkoa-parar-derecha-ultraderecha_1_13568485.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b15",
+   "section": "euskadi",
+   "tag": "Álava",
+   "text": "El PSE-EE propone a Jon Nogales, de 38 años y actual diputado de Movilidad, como candidato a diputado general de Álava.",
+   "source": {
+    "name": "Orain (EITB)",
+    "url": "https://orain.eus/es/politica/2026/10/08/el-pseee-propone-jon-nogales-candidato-diputado-general-alava/"
+   }
+  },
+  {
+   "id": "2026-10-08-b16",
+   "section": "euskadi",
+   "tag": "Gipuzkoa",
+   "text": "El PNV recupera a Aintzane Ezenarro como directora de Derechos Humanos de la Diputación de Gipuzkoa.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/euskadi/pnv-devuelve-primera-linea-politica-aintzane-ezenarro-directora-derechos-humanos-gipuzkoa_1_13566706.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b17",
+   "section": "euskadi",
+   "tag": "Navarra",
+   "text": "Geroa Bai, la coalición del PNV en Navarra, propone a PSN y Contigo/Zurekin buscar una fórmula conjunta para el 29-N, en contra de la línea del PNV en Euskadi.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/navarra/geroa-bai-coalicion-pnv-navarra-amaga-buscar-formulas-colaboracion-izquierda-29n_1_13570301.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b18",
+   "section": "euskadi",
+   "tag": "Donostia",
+   "text": "Jon Insausti cumple un año como alcalde de Donostia con los presupuestos de 2027 y el nuevo plan general como tareas pendientes.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/euskadi/ano-insausti-alcalde-donostia-presupuestos-2027-plan-general-agenda_1_13565698.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b19",
+   "section": "espana",
+   "tag": "Tribunales",
+   "text": "Anticorrupción ve prematuro imputar al PSOE en el caso Leire Díez, como pide el PP: antes quiere que declare Santos Cerdán. Decidirá el juez Pedraz.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/politica/fiscalia-anticorrupcion-opone-prematura-peticion-pp-imputar-psoe-caso-leire_1_13571361.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b20",
+   "section": "espana",
+   "tag": "Tribunales",
+   "text": "La jueza Beatriz Biedma, que instruyó el caso contra David Sánchez, declara que sintió temor por ella y sus hijas, pero que no le influyó en sus decisiones.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/politica/jueza-biedma-declara-pedraz-sintio-temor-no-le-influyo-resoluciones-david-sanchez_1_13571505.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b21",
+   "section": "espana",
+   "tag": "Tribunales",
+   "text": "David Sánchez, hermano del presidente, recurre su condena de inhabilitación.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/extremadura/politica/hermano-pedro-sanchez-recurre-condena-inhabilitacion-persiguen-libro-familia_1_13571448.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b22",
+   "section": "espana",
+   "tag": "Comunitat Valenciana",
+   "text": "La Fiscalía pide archivar la querella contra el president valenciano, Pérez Llorca, por las entradas del Mundial que le regaló la Federación.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/comunitat-valenciana/fiscalia-archiva-querella-asociacion-perez-llorca-federacion-entratada-final-mundial_1_13571215.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b23",
+   "section": "espana",
+   "tag": "Andalucía",
+   "text": "El alcalde de Algeciras, con una nueva denuncia por acoso sexual, se acoge a la presunción de inocencia y anuncia que buscará la reelección.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/andalucia/cadiz/alcalde-algeciras-alude-presuncion-inocencia-denuncia-acoso-sexual-aspirara-reeleccion_1_13571985.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b24",
+   "section": "espana",
+   "tag": "Memoria",
+   "text": "El futuro de Cuelgamuros queda en el aire ante las propuestas de PP y Vox para revertir su resignificación.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/sociedad/futuro-incierto-cuelgamuros-memoria-historica-queda-aire-revisionismo-pp-vox_1_13563442.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b25",
+   "section": "espana",
+   "tag": "29-N",
+   "text": "Junts repite con Míriam Nogueras como cabeza de lista, y Feijóo encarga a Miguel Tellado la dirección de la campaña del PP.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/politica/ultima-hora-reacciones-muerte-maricarmen-directo_6_13571031_1125717.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b26",
+   "section": "espana",
+   "tag": "Paga extra",
+   "text": "Pensionistas y funcionarios cobrarán la paga extra de Navidad entre el 21 y el 25 de noviembre, en plena campaña. The Objective calcula que suma unos 16.700 millones y lo presenta como un golpe de efecto electoral; se trata de un pago que se abona cada año.",
+   "source": {
+    "name": "The Objective",
+    "url": "https://theobjective.com/espana/2026-10-08/sanchez-16700-millones-repartir-jubilados-funcionarios-29-n/"
+   }
+  },
+  {
+   "id": "2026-10-08-b27",
+   "section": "espana",
+   "tag": "Ceuta",
+   "text": "El Gobierno aprobará un segundo decreto de ayudas para Ceuta, de 45,3 millones, tras el de 309 millones de septiembre. El Debate sostiene que la crisis de la ciudad servirá de justificación para aprobar un decreto ómnibus antes de las elecciones.",
+   "source": {
+    "name": "El Debate",
+    "url": "https://www.eldebate.com/espana/20261008/crisis-ceuta-da-cobertura-legal-gobierno-aprobar-decreto-omnibus-in-extremis_467373.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b28",
+   "section": "espana",
+   "tag": "Tribunales",
+   "text": "El juez Pedraz pide detalles sobre presuntas presiones de la cúpula de la Guardia Civil a la UCO, en la causa vinculada a Leire Díez.",
+   "source": {
+    "name": "El Independiente",
+    "url": "https://www.elindependiente.com/espana/2026/10/08/pedraz-apunta-a-presiones-de-cupula-guardia-civil-a-uco-pide-detalles-sobre-informaciones-reservadas-y-expedientes-disciplinarios/"
+   }
+  },
+  {
+   "id": "2026-10-08-b29",
+   "section": "mundo",
+   "tag": "Gaza",
+   "text": "Israel difunde un documental propio que copia el título y la estética de «Naza» para contar su versión de la guerra de Gaza.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/internacional/israel-difunde-documental-copia-estetica-nombre-naza-contar-version-genocidio-gaza_1_13569010.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b30",
+   "section": "mundo",
+   "tag": "Ucrania",
+   "text": "Un día antes de Kramatorsk, Rusia lanzó coincidiendo con el cumpleaños de Putin uno de los mayores ataques con misiles de la guerra, con 19 muertos.",
+   "source": {
+    "name": "El Español",
+    "url": "https://www.elespanol.com/mundo/europa/20261007/putin-lanza-cumpleanos-ataques-misiles-infames-guerra-ucrania-muertos/1003744411297_0.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b31",
+   "section": "cultura",
+   "tag": "Guggenheim",
+   "text": "El Guggenheim presenta «66-76-26», una obra sonora de Steve McQueen que une las versiones de «Wild is the wind» de Nina Simone (1966) y David Bowie (1976).",
+   "source": {
+    "name": "Orain (EITB)",
+    "url": "https://orain.eus/es/cultura/arte/2026/10/08/el-museo-guggenheim-presenta-667626-la-nueva-obra-steve-mcqueen/"
+   }
+  },
+  {
+   "id": "2026-10-08-b32",
+   "section": "cultura",
+   "tag": "Libros",
+   "text": "Las librerías de Gipuzkoa premian «Zaldi bat», «Kontua eta zikina» y «Una mujer a quien amar» con los Euskadi de Plata.",
+   "source": {
+    "name": "Orain (EITB)",
+    "url": "https://orain.eus/es/cultura/literatura/2026/10/07/las-librerias-gipuzkoa-reivindican-zaldi-bat-kontua-zikina-una-mujer-quien-amar/"
+   }
+  },
+  {
+   "id": "2026-10-08-b33",
+   "section": "cultura",
+   "tag": "Álava",
+   "text": "El Bellas Artes de Álava, en un palacio levantado con una fortuna hecha con el tráfico de esclavos en Cuba, estrena «Rastro», una escultura de Irati Antia que recuerda ese pasado.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/euskadi/alava-repara-pasado-esclavista-museo-bellas-artes-memoria-sufrieron-no-borre_1_13563580.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b34",
+   "section": "cultura",
+   "tag": "Libros",
+   "text": "La escritora Tatiana Tîbuleac rechaza el mito de que el alcohol hace mejores a escritores y periodistas.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/cultura/libros/tatiana-tibuleac-alcoholico-no-mejor-escritor-periodista-pintor-haya-vendido-contrario_1_13568693.html"
+   }
+  },
+  {
+   "id": "2026-10-08-b35",
+   "section": "deportes",
+   "tag": "Athletic",
+   "text": "Johaneko Louis-Jean gana el concurso de habilidad de Terzić en Lezama. El club quiere renovar al lateral, de 22 años, antes del mercado de invierno.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/deportes/johaneko-concurso-habilidad-entrenamiento-athletic-terzic/"
+   }
+  },
+  {
+   "id": "2026-10-08-b36",
+   "section": "deportes",
+   "tag": "Athletic",
+   "text": "Unai Simón y Laporte vuelven de la selección entre miércoles y jueves; Simón podría descansar en Vallecas. Dani Vivian recupera protagonismo.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/deportes/athletic-calendario-siete-partidos-octubre-terzic-nico-williams/"
+   }
+  },
+  {
+   "id": "2026-10-08-b37",
+   "section": "deportes",
+   "tag": "Athletic",
+   "text": "La asamblea de socios del Athletic será el 28 de octubre en el Euskalduna; por eso el partido de Copa pasa al jueves 29.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/deportes/athletic-copa-del-rey-horario-29-octubre-prat-san-rafael/"
+   }
+  },
+  {
+   "id": "2026-10-08-b38",
+   "section": "deportes",
+   "tag": "Pelota",
+   "text": "Mendibil y Zarrabeitia ganan a Durango y colocan a Bidebieta como líder del Campeonato de Bizkaia femenino.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/deportes/bidebieta-campeonato-bizkaia-mendibil-zarrabeitia-lideres/"
+   }
+  },
+  {
+   "id": "2026-10-08-b39",
+   "section": "deportes",
+   "tag": "Pelota",
+   "text": "Octavos del Cuatro y Medio: Elordi–Larrazabal el viernes en Durango, Jaka–Laso el sábado en el Labrit, Darío–Senar el domingo en Lekunberri y Artola–Peña II el lunes en Tolosa.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/deportes/cuatro-y-medio-2026-octavos-cabezas-de-serie-calendario/"
+   }
+  },
+  {
+   "id": "2026-10-08-b40",
+   "section": "deportes",
+   "tag": "Alavés",
+   "text": "Ville Koski vuelve a Vitoria lesionado tras jugar con Finlandia.",
+   "source": {
+    "name": "Kirolak EITB",
+    "url": "https://kirolakeitb.eus/es/futbol/equipos/alaves/2026/10/08/sanchez-flores-declaraciones-alaves/"
+   }
+  }
+ ],
+ "essentials": [
+  {
+   "story": "2026-10-08-maricarmen",
+   "text": "Ha muerto Maricarmen, la vecina de 87 años cuyo desahucio en Madrid desató la protesta por la vivienda y precipitó las elecciones."
+  },
+  {
+   "story": "2026-10-08-decreto-vivienda",
+   "text": "Si vives de alquiler, desde hoy puedes pedir dos años más de contrato y la subida anual queda congelada o limitada al 2%."
+  },
+  {
+   "story": "2026-10-08-elecciones-29n",
+   "text": "Elecciones generales el 29 de noviembre: los partidos cierran listas este mes y la campaña empieza el 13."
+  },
+  {
+   "story": "2026-10-08-huelga-11n",
+   "text": "Huelga general por la vivienda el 11 de noviembre, también en Euskadi, con ELA, LAB, CCOO y UGT."
+  },
+  {
+   "story": "2026-10-08-inundaciones-casco-viejo",
+   "text": "El Ayuntamiento atribuye las inundaciones del Casco Viejo a la capacidad del barrio; hay un punto para reclamar daños en el Ensanche."
+  },
+  {
+   "story": "2026-10-08-tiempo-puente",
+   "text": "Lluvia hasta el domingo y 25 grados el lunes del Pilar."
+  },
+  {
+   "story": "2026-10-08-bellas-artes",
+   "text": "El Bellas Artes reabre con la ampliación de Foster: entrada gratis hasta el martes 13."
+  },
+  {
+   "story": "2026-10-08-volotea",
+   "text": "Volotea, en apuros, cancela más de 300 vuelos en Loiu: revisa tu reserva si tienes billete."
+  },
+  {
+   "story": "2026-10-08-kramatorsk",
+   "text": "Al menos 30 muertos en un ataque ruso contra un autobús en Kramatorsk, en Ucrania."
+  },
+  {
+   "story": "2026-10-08-athletic-bajas-rayo",
+   "text": "El Athletic juega el sábado a las 14:00 en Vallecas sin Sancet, Nico, Djaló ni Yuri."
+  }
+ ],
+ "markets": {
+  "asOf": "Cierre del miércoles 7 de octubre",
+  "items": [
+   {
+    "name": "Ibex 35",
+    "value": "19.118,7",
+    "change": -1.67
+   },
+   {
+    "name": "Iberdrola",
+    "value": "20,86 €",
+    "change": -0.62
+   },
+   {
+    "name": "BBVA",
+    "value": "23,43 €",
+    "change": -3.5
+   },
+   {
+    "name": "Santander",
+    "value": "12,26 €",
+    "change": -2.06
+   },
+   {
+    "name": "Repsol",
+    "value": "28,70 €",
+    "change": -0.21
+   },
+   {
+    "name": "Sabadell",
+    "value": "3,60 €",
+    "change": -1.59
+   },
+   {
+    "name": "Inditex",
+    "value": "53,36 €",
+    "change": -0.85
+   },
+   {
+    "name": "Euríbor 12 meses",
+    "value": "3,329 %",
+    "change": null,
+    "note": "1 oct"
+   }
+  ],
+  "comment": "Mal día para la bolsa: el Ibex cayó un 1,7% y BBVA fue de los más castigados, con un 3,5% menos.",
+  "sources": [
+   {
+    "name": "Bolsamanía",
+    "url": "https://www.bolsamania.com/indice/IBEX-35"
+   },
+   {
+    "name": "Rankia",
+    "url": "https://www.rankia.com/blog/euribor/6886601-euribor-hoy-valor-diario"
+   }
+  ]
+ }
+}

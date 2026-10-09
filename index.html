@@ -1,0 +1,1028 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="El diario de Haizea: las noticias del día de Bilbao, Euskadi, España y el mundo.">
+<meta name="theme-color" content="#EDF1EF" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0E1514" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="La Ría">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<style>:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>La Ría</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500;700;900&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,500&display=swap">
+<style>
+/* Layout: masthead con línea de agua → índice de secciones fijo (su filete inferior es la "marea": mezcla de secciones del día) → portada con cifra gigante → En un minuto → cada sección: una destacada + listado uniforme. Barra inferior con 4 vistas. */
+:root{
+  --paper:#EDF1EF; --paper-2:#E2E8E5; --card:#F7F9F8; --ink:#13201E; --muted:#56655F; --line:#C7D1CD;
+  --ria:#0E6B5E; --hierro:#B4271F; --up:#1D7A3A; --down:#B3261E; --sun:#C98A00; --wet:#2C4E8A;
+  --s-bilbao:#0E6B5E; --s-euskadi:#3E6A26; --s-espana:#8C5A00; --s-mundo:#2C4E8A;
+  --s-economia:#664A98; --s-cultura:#A0346A; --s-sociedad:#22758A; --s-deportes:#B4271F; --s-ciencia:#7A4E2D;
+  --f-mast:"Big Shoulders Display", "Arial Narrow", "Roboto Condensed", sans-serif;
+  --f-text:"Newsreader", Georgia, "Times New Roman", serif;
+  --f-mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --r:14px;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --paper:#0E1514; --paper-2:#16201E; --card:#131C1A; --ink:#E3EAE7; --muted:#97A7A1; --line:#27342F;
+  --ria:#4DB5A3; --hierro:#F06A5F; --up:#5CC97E; --down:#F07A70; --sun:#E8B54A; --wet:#7FA3E6;
+  --s-bilbao:#4DB5A3; --s-euskadi:#8BBE6A; --s-espana:#E0A847; --s-mundo:#7FA3E6;
+  --s-economia:#B39BE6; --s-cultura:#E781B2; --s-sociedad:#6BC2D6; --s-deportes:#F06A5F; --s-ciencia:#D49A6A;
+  color-scheme:dark;
+}}
+:root[data-theme="dark"]{
+  --paper:#0E1514; --paper-2:#16201E; --card:#131C1A; --ink:#E3EAE7; --muted:#97A7A1; --line:#27342F;
+  --ria:#4DB5A3; --hierro:#F06A5F; --up:#5CC97E; --down:#F07A70; --sun:#E8B54A; --wet:#7FA3E6;
+  --s-bilbao:#4DB5A3; --s-euskadi:#8BBE6A; --s-espana:#E0A847; --s-mundo:#7FA3E6;
+  --s-economia:#B39BE6; --s-cultura:#E781B2; --s-sociedad:#6BC2D6; --s-deportes:#F06A5F; --s-ciencia:#D49A6A;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html,body{background:var(--paper);color:var(--ink)}
+body{font-family:var(--f-text);font-size:17px;line-height:1.5;-webkit-font-smoothing:antialiased}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;padding:0}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--ria);outline-offset:3px;border-radius:4px}
+.wrap{max-width:1080px;margin:0 auto;padding-inline:16px;padding-block:8px 112px}
+.mono{font-family:var(--f-mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase}
+
+/* Masthead */
+.mast{padding-top:10px}
+.mast-meta{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;color:var(--muted)}
+.mast-meta b{color:var(--ink);font-weight:500}
+.mast svg{display:block;width:100%;height:auto;margin-top:2px}
+.mast .word{font-family:var(--f-mast);font-weight:900}
+.wave{animation:drift 9s linear infinite}
+@keyframes drift{from{transform:translateX(0)}to{transform:translateX(-200px)}}
+@media (prefers-reduced-motion: reduce){.wave{animation:none}}
+.mast-sub{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap;border-top:2px solid var(--ink);padding-top:8px;margin-top:2px}
+.mast-sub em{font-style:italic;color:var(--muted)}
+
+/* Índice de secciones */
+.index{position:sticky;top:env(safe-area-inset-top, 0px);z-index:4;background:var(--paper);margin-top:14px;margin-inline:-16px;padding-inline:16px}
+.index-row{display:flex;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.index-row::-webkit-scrollbar{display:none}
+.index-row button{flex:none;position:relative;font-family:var(--f-mast);font-weight:700;font-size:16px;letter-spacing:.08em;text-transform:uppercase;padding:13px 14px 12px;color:var(--muted);transition:color .15s}
+.index-row button:first-child{padding-left:0}
+.index-row button+button::before{content:"";position:absolute;left:0;top:15px;bottom:15px;width:1px;background:var(--line)}
+.index-row button:hover{color:var(--ink)}
+.index-row button[aria-current="true"]{color:var(--ink)}
+.index-row button[aria-current="true"]::after{content:"";position:absolute;left:14px;right:14px;bottom:0;height:3px;background:var(--sec, var(--ink))}
+.index-row button:first-child[aria-current="true"]::after{left:0}
+.index-tide{display:flex;height:4px;background:var(--ink)}
+.index-tide span{flex-grow:var(--n);background:var(--sec)}
+.index-tide.on span{opacity:.22}
+.index-tide.on span.hit{opacity:1}
+
+/* Notices */
+.note{margin-top:14px;padding:10px 14px;border-radius:10px;background:var(--paper-2);font-size:15px;display:flex;gap:10px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.note button{font-family:var(--f-mono);font-size:12px;text-transform:uppercase;letter-spacing:.06em;text-decoration:underline;text-underline-offset:3px}
+
+/* Cover */
+.cover{position:relative;overflow:hidden;background:color-mix(in oklab, var(--sec) 15%, var(--card));color:var(--sec);border-radius:var(--r);aspect-ratio:16/10;max-width:100%}
+.cover svg{position:absolute;inset:0;width:100%;height:100%}
+.fig b.long{zoom:.7}
+.fig{position:absolute;left:16px;bottom:12px;right:16px;display:flex;flex-direction:column;line-height:.86}
+.fig b{font-family:var(--f-mast);font-weight:900;font-size:clamp(56px,13vw,112px);letter-spacing:-.01em;color:var(--sec);text-shadow:0 0 0 transparent;white-space:nowrap}
+.fig span{font-family:var(--f-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink);background:var(--card);align-self:flex-start;padding:4px 7px;border-radius:4px;margin-top:6px;line-height:1.2}
+.sec-tag{font-family:var(--f-mast);font-weight:700;font-size:14px;letter-spacing:.12em;text-transform:uppercase;color:var(--sec)}
+
+/* Lead */
+.day-line{margin-top:22px;font-size:20px;line-height:1.4;font-style:italic;text-wrap:pretty;max-width:60ch}
+.day-line::before{content:"El día en una frase";display:block;font-style:normal;font-family:var(--f-mono);font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+.lead{display:grid;grid-template-areas:"cover" "head" "body";gap:12px 28px;margin-top:22px;text-align:left;width:100%}
+.lead .cover{grid-area:cover}.l-head{grid-area:head;min-width:0}.l-body{grid-area:body;min-width:0}
+.lead-ex{display:none;margin:12px 0 0;font-size:17px;line-height:1.55;color:var(--ink);max-width:62ch}
+.lead .cover{aspect-ratio:16/11}
+.lead .fig b{font-size:clamp(84px,24vw,190px)}
+.lead h2{font-size:clamp(28px,6.4vw,44px);line-height:1.08;font-weight:700;margin:6px 0 0;text-wrap:balance;letter-spacing:-.01em}
+.lead p{margin:10px 0 0;font-size:18px;color:var(--muted);max-width:60ch}
+.byline{display:flex;gap:10px;flex-wrap:wrap;color:var(--muted);margin-top:10px}
+
+/* En un minuto */
+.minute{margin-top:34px;background:var(--ink);color:var(--paper);border-radius:var(--r);padding:18px 18px 8px}
+.minute h3{margin:0 0 6px;font-family:var(--f-mast);font-weight:900;font-size:30px;letter-spacing:.02em;text-transform:uppercase;line-height:1}
+.minute-top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:6px}
+.minute-top h3{margin:0}
+.minute .listen{display:inline-flex;width:auto;padding:8px 14px;line-height:1;font-size:12px}
+.listen{display:inline-flex;align-items:center;gap:8px;padding:8px 14px;border-radius:999px;border:1px solid color-mix(in oklab, var(--paper) 40%, transparent);font-family:var(--f-mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase}
+.listen svg{width:14px;height:14px;fill:currentColor}
+.listen[aria-pressed="true"]{background:var(--paper);color:var(--ink)}
+.minute .done{opacity:.5}
+.minute .done .kick::after{content:" · leída"}
+.minute h3 small{font-family:var(--f-mono);font-size:11px;font-weight:400;letter-spacing:.06em;opacity:.65;margin-left:8px;vertical-align:middle}
+.minute ol{list-style:none;margin:0;padding:0}
+.minute li+li{border-top:1px solid color-mix(in oklab, var(--paper) 18%, transparent)}
+.minute button{display:grid;grid-template-columns:96px 1fr;gap:14px;align-items:baseline;text-align:left;width:100%;padding:11px 0;font-size:16.5px;line-height:1.35}
+.minute .kick{font-family:var(--f-mast);font-weight:700;font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:color-mix(in oklab, var(--sec) 60%, var(--paper))}
+@media (max-width:420px){.minute button{grid-template-columns:1fr;gap:2px}}
+
+/* Section blocks */
+.block{margin-top:40px}
+.block-h{display:flex;align-items:baseline;justify-content:space-between;gap:12px;border-bottom:3px solid var(--sec);padding-bottom:6px;margin-bottom:16px}
+.block-h h3{margin:0;font-family:var(--f-mast);font-weight:900;font-size:34px;line-height:1;text-transform:uppercase;letter-spacing:.01em;color:var(--sec)}
+.feature{display:grid;gap:14px;text-align:left;width:100%}
+.feature h4{margin:4px 0 0;font-size:clamp(23px,5vw,30px);line-height:1.12;font-weight:700;text-wrap:balance}
+.feature p{margin:8px 0 0;color:var(--muted);font-size:17px;line-height:1.45;max-width:60ch}
+.feature .meta{margin-top:10px}
+.feature .fig b{font-size:clamp(60px,15vw,110px)}
+.list{display:grid;column-gap:32px;margin-top:6px}
+.row{display:grid;grid-template-columns:1fr 76px;gap:14px;align-items:start;text-align:left;width:100%;padding-block:14px;border-top:1px solid var(--line)}
+.row h4{margin:2px 0 0;font-size:18.5px;line-height:1.25;font-weight:600;text-wrap:pretty}
+.row .cover{aspect-ratio:1;border-radius:10px}
+.row .fig{left:6px;right:6px;bottom:4px}
+.row .fig b{font-size:22px;white-space:normal;line-height:.95;overflow-wrap:anywhere}
+.row .fig span{display:none}
+.is-read h4,.is-read h2{color:var(--muted)}
+.read-tag{color:var(--ria)}
+.feature:hover h4,.row:hover h4,.lead:hover h2{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
+.meta{display:flex;gap:8px;flex-wrap:wrap;color:var(--muted)}
+.saved-dot{color:var(--hierro)}
+@media (min-width:760px){
+  .lead{grid-template-areas:"head head" "cover body";grid-template-columns:1.25fr 1fr;align-items:start}
+  .lead h2{font-size:clamp(34px,4.6vw,54px)}
+  .lead .fig b{font-size:clamp(64px,8vw,130px)}
+  .lead-ex{display:block}
+  .feature{grid-template-columns:1.1fr 1fr;align-items:center;gap:28px}
+  .list{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (min-width:1000px){ .list{grid-template-columns:repeat(3,minmax(0,1fr))} }
+
+/* Mercados */
+.mkt{border:1px solid var(--line);border-radius:var(--r);background:var(--card);padding:14px 16px;margin-bottom:22px}
+.mkt-top{display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap;margin-bottom:6px}
+.mkt-top h4{margin:0;font-family:var(--f-mast);font-weight:900;font-size:20px;letter-spacing:.06em;text-transform:uppercase}
+.mkt-grid{display:grid;grid-template-columns:minmax(0,1fr);column-gap:28px}
+@media (min-width:600px){ .mkt-grid{grid-template-columns:repeat(2,minmax(0,1fr))} }
+.mkt-row{display:flex;justify-content:space-between;gap:8px;padding:8px 0;border-top:1px solid var(--line);font-variant-numeric:tabular-nums}
+.mkt-row b{font-weight:600;font-size:15.5px;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.mkt-row span{font-family:var(--f-mono);font-size:13px;white-space:nowrap}
+.mkt-row .up{color:var(--up)} .mkt-row .down{color:var(--down)}
+.mkt p{margin:10px 0 4px;font-size:15.5px}
+.mkt-src{font-family:var(--f-mono);font-size:11px;color:var(--muted)}
+.mkt-src a{color:inherit}
+@media (min-width:1000px){ .mkt-grid{grid-template-columns:repeat(3,minmax(0,1fr))} }
+
+/* Breves */
+.briefs{columns:1;column-gap:32px}
+.briefs h5{font-family:var(--f-mast);font-weight:900;font-size:18px;letter-spacing:.08em;text-transform:uppercase;color:var(--sec);margin:20px 0 0;padding-bottom:4px;border-bottom:2px solid var(--sec);break-after:avoid}
+.briefs h5:first-child{margin-top:0}
+.brief{break-inside:avoid;padding-block:10px;border-bottom:1px solid var(--line)}
+.b-tag{font-family:var(--f-mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--sec)}
+.brief p{margin:3px 0 4px;font-size:16px;line-height:1.42;text-wrap:pretty}
+.brief a{font-family:var(--f-mono);font-size:11px;letter-spacing:.03em;color:var(--muted);text-decoration:none}
+.brief a:hover{text-decoration:underline;text-underline-offset:3px}
+.block-h.ink{--sec:var(--ink)}
+.block-h.ink h3{color:var(--ink)}
+@media (min-width:760px){ .briefs{columns:2} }
+@media (min-width:1000px){ .briefs{columns:3} }
+
+/* Search / lists */
+.view-h{margin:26px 0 6px;font-family:var(--f-mast);font-weight:900;font-size:44px;line-height:1;text-transform:uppercase}
+.view-p{margin:0 0 16px;color:var(--muted);max-width:60ch}
+.search{display:flex;align-items:center;gap:10px;border:2px solid var(--ink);border-radius:999px;padding:4px 6px 4px 16px;background:var(--card)}
+.search input{flex:1;min-width:0;border:0;background:none;font:inherit;font-size:18px;color:var(--ink);padding:8px 0;outline:none}
+.search button{font-family:var(--f-mono);font-size:12px;text-transform:uppercase;padding:8px 10px;color:var(--muted)}
+.hits{margin-top:8px}
+mark{background:color-mix(in oklab, var(--ria) 28%, transparent);color:inherit;border-radius:3px;padding:0 1px}
+.ed-list{display:grid;gap:12px;margin-top:8px}
+.ed{display:grid;grid-template-columns:auto 1fr;gap:16px;align-items:center;text-align:left;width:100%;padding:14px;border-radius:var(--r);background:var(--card);border:1px solid var(--line)}
+.ed[aria-current="true"]{border-color:var(--ria);box-shadow:inset 0 0 0 1px var(--ria)}
+.ed-date{font-family:var(--f-mast);font-weight:900;font-size:44px;line-height:.85;text-align:center;min-width:58px}
+.ed-date small{display:block;font-family:var(--f-mono);font-size:11px;font-weight:400;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-top:4px}
+.ed p{margin:4px 0 0;font-size:15px;color:var(--muted);line-height:1.4}
+.mini-tide{display:flex;height:6px;border-radius:99px;overflow:hidden;gap:2px;margin-top:8px}
+.mini-tide span{flex-grow:var(--n);background:var(--sec)}
+.empty{margin-top:30px;padding:28px 20px;border:2px dashed var(--line);border-radius:var(--r);text-align:center;color:var(--muted)}
+.empty b{display:block;font-family:var(--f-mast);font-weight:900;font-size:30px;color:var(--ink);text-transform:uppercase;margin-bottom:6px}
+
+/* Bottom bar */
+.tabs{position:fixed;left:0;right:0;bottom:0;z-index:5;background:color-mix(in oklab, var(--paper) 88%, transparent);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-top:1px solid var(--line);padding:6px 8px calc(6px + env(safe-area-inset-bottom, 0px))}
+.tabs div{max-width:560px;margin:0 auto;display:grid;grid-template-columns:repeat(4,1fr)}
+.tabs button{display:flex;flex-direction:column;align-items:center;gap:3px;padding:6px 0;font-family:var(--f-mono);font-size:10.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);border-radius:10px}
+.tabs svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.tabs button[aria-current="page"]{color:var(--ink)}
+.tabs button[aria-current="page"] svg{stroke:var(--ria);stroke-width:2.2}
+
+/* Sigue la historia */
+.thread{margin-top:22px;border-top:3px solid var(--ink);padding-top:12px}
+.thread h5{margin:0 0 2px;font-family:var(--f-mast);font-weight:900;font-size:20px;letter-spacing:.06em;text-transform:uppercase}
+.thread .t-label{font-family:var(--f-mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--sec)}
+.thread ol{list-style:none;margin:8px 0 0;padding:0;position:relative}
+.thread li{position:relative;padding-left:22px}
+.thread li::before{content:"";position:absolute;left:5px;top:0;bottom:0;width:2px;background:var(--line)}
+.thread li::after{content:"";position:absolute;left:1px;top:18px;width:10px;height:10px;border-radius:50%;background:var(--paper);border:2px solid var(--sec)}
+.thread li button{display:block;text-align:left;width:100%;padding:12px 0;border-bottom:1px solid var(--line)}
+.thread li button b{display:block;font-size:17px;line-height:1.3;font-weight:600}
+.thread li button small{font-family:var(--f-mono);font-size:11px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+.thread .t-empty{margin:6px 0 0;color:var(--muted);font-size:15px}
+.t-chip{color:var(--sec)}
+/* La semana */
+.minute.week{background:var(--card);color:var(--ink);border:2px solid var(--ink)}
+.minute.week .kick{color:var(--sec)}
+.minute.week li+li{border-top:1px solid var(--line)}
+.minute.week .listen{border-color:var(--line)}
+.minute.week .listen[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.week-period{font-family:var(--f-mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:-2px 0 6px}
+.offline{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(76px + env(safe-area-inset-bottom, 0px));z-index:6;background:var(--ink);color:var(--paper);padding:8px 14px;border-radius:999px;font-family:var(--f-mono);font-size:11.5px;letter-spacing:.05em;text-transform:uppercase}
+
+/* El tiempo */
+.wx{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));margin-top:10px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.wx-d{display:flex;align-items:center;gap:8px;padding:8px 8px;min-width:0;overflow:hidden}
+.wx-d+.wx-d{border-left:1px solid var(--line)}
+.wx-d svg{width:28px;height:28px;flex:none;fill:none;stroke:var(--ink);stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.wx-d svg .sun{stroke:var(--sun);fill:color-mix(in oklab, var(--sun) 35%, transparent)}
+.wx-d svg .drop{stroke:var(--wet)}
+.wx-t{display:flex;flex-direction:column;line-height:1.1;min-width:0;max-width:100%}
+.wx-t b{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500}
+.wx-t span{font-family:var(--f-mast);font-weight:700;font-size:20px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.wx-t span small{font-size:15px;color:var(--muted);font-weight:500}
+.wx-t i{font-style:normal;font-family:var(--f-mono);font-size:10.5px;color:var(--wet);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+.wx-src{display:flex;justify-content:space-between;gap:8px;margin-top:4px;font-family:var(--f-mono);font-size:10.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+.wx-src a{color:inherit}
+@media (max-width:480px){ .wx-d{flex-direction:column;align-items:flex-start;gap:2px;padding:7px 6px} .wx-d svg{width:24px;height:24px} }
+
+/* Barra de vista: sin leer + tamaño de letra */
+.viewbar{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-top:14px;flex-wrap:wrap}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;padding:2px;background:var(--card)}
+.seg button{padding:6px 12px;border-radius:999px;font-family:var(--f-mono);font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);transition:background .2s,color .2s}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.seg small{opacity:.75;margin-left:4px}
+.fz{display:inline-flex;align-items:center;gap:7px;padding:5px 12px;border:1px solid var(--line);border-radius:999px;background:var(--card);font-family:var(--f-text);font-size:17px;font-weight:600;line-height:1}
+.fz small{display:inline-flex;gap:3px}
+.fz small i{width:5px;height:5px;border-radius:50%;background:var(--line)}
+.fz small i.on{background:var(--ink)}
+#view,.article{zoom:var(--fz,1)}
+
+/* Te lo perdiste */
+.lost{margin-top:18px;border:2px solid var(--hierro);border-radius:var(--r);padding:16px 18px 10px;background:var(--card)}
+.lost-top{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.lost h3{margin:0;font-family:var(--f-mast);font-weight:900;font-size:28px;line-height:1;text-transform:uppercase;color:var(--hierro)}
+.lost .view-p{margin:6px 0 2px;font-size:15.5px}
+.lost-day h4{margin:12px 0 0;font-family:var(--f-mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500}
+.lost ul{margin:0;padding:0;list-style:none}
+.lost li button{display:block;width:100%;text-align:left;padding:9px 0;border-bottom:1px solid var(--line);font-size:16px;line-height:1.35}
+.lost li:last-child button{border-bottom:0}
+
+/* Portada (front) */
+.front{display:flex;flex-direction:column;gap:24px;margin-top:22px}
+.front .minute,.front .lead{margin-top:0}
+.f-side,.f-main{display:flex;flex-direction:column;gap:22px;min-width:0}
+.f-side{order:-1}
+.f-seconds{display:grid;gap:22px}
+.second{display:grid;gap:8px;text-align:left;width:100%;align-content:start;min-width:0}
+.second .cover{aspect-ratio:16/10}
+.second .fig b{font-size:clamp(44px,12vw,64px)}
+.second h4{margin:2px 0 0;font-size:21px;line-height:1.18;font-weight:700;text-wrap:balance}
+.second p{margin:0;color:var(--muted);font-size:15.5px;line-height:1.42}
+.second:hover h4{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
+@media (min-width:640px){ .f-seconds{grid-template-columns:repeat(3,minmax(0,1fr));gap:0} .second{padding-inline:16px} .second:first-child{padding-left:0} .second:last-child{padding-right:0} .second+.second{border-left:1px solid var(--line)} .second .fig b{font-size:clamp(36px,4.6vw,56px)} }
+@media (min-width:1000px){
+  .front{display:grid;grid-template-columns:minmax(0,2.2fr) minmax(0,1fr);gap:0 30px;align-items:start}
+  .f-main{grid-column:1;grid-row:1}
+  .f-side{grid-column:2;grid-row:1;border-left:1px solid var(--line);padding-left:28px}
+  .f-seconds{border-top:3px solid var(--ink);padding-top:16px}
+  .lead{border-bottom:0}
+}
+
+/* Mapa de Bizkaia */
+.bzk{margin:2px 0 18px}
+.bzk-h{display:flex;justify-content:space-between;align-items:baseline;gap:4px 10px;margin-bottom:8px;flex-wrap:wrap}
+.bzk-h b{font-family:var(--f-mast);font-weight:900;font-size:18px;letter-spacing:.06em;text-transform:uppercase}
+.bzk-h span{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+.bzk-grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));grid-auto-rows:56px;gap:3px;max-width:560px}
+.bzk-t{border-radius:8px;border:1px solid var(--line);background:color-mix(in oklab, var(--s-bilbao) calc(var(--k) * 1%), var(--card));display:flex;flex-direction:column;justify-content:space-between;padding:5px 6px;text-align:left;min-width:0;overflow:hidden;transition:transform .15s,outline-color .15s}
+.bzk-t b{font-family:var(--f-mast);font-weight:900;font-size:20px;line-height:1}
+.bzk-t span{font-family:var(--f-mast);font-weight:700;font-size:11.5px;letter-spacing:.03em;text-transform:uppercase;line-height:1.05;hyphens:manual}
+@media (max-width:480px){ .bzk-t{padding:4px 4px} .bzk-t span{font-size:9.5px;letter-spacing:.01em} }
+.bzk-t.hot{color:var(--paper);border-color:transparent}
+.bzk-t[disabled]{cursor:default;color:var(--muted)}
+.bzk-t[disabled] b{opacity:.35}
+.bzk-t[aria-pressed="true"]{outline:2px solid var(--ink);outline-offset:1px}
+.bzk-t:not([disabled]):active{transform:scale(.95)}
+.bzk-sel{display:flex;justify-content:space-between;align-items:center;gap:10px;margin:0 0 6px}
+.bzk-sel b{font-family:var(--f-mast);font-weight:900;font-size:22px;text-transform:uppercase;color:var(--s-bilbao)}
+
+/* Movimiento */
+@keyframes viewIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@keyframes sheetIn{from{opacity:0;transform:translateY(32px)}to{opacity:1;transform:none}}
+@keyframes sheetOut{from{opacity:1;transform:none}to{opacity:0;transform:translateY(24px)}}
+@keyframes underIn{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+#view.enter{animation:viewIn .32s cubic-bezier(.2,.8,.2,1) both}
+.reader:not([hidden]){animation:sheetIn .34s cubic-bezier(.2,.8,.2,1) both}
+.reader.closing{animation:sheetOut .2s ease-in both}
+.index-row button[aria-current="true"]::after{transform-origin:left;animation:underIn .28s cubic-bezier(.2,.8,.2,1)}
+.lead,.feature,.row,.minute li button,.ed,.tabs button,.index-row button,.pill,.listen{transition:transform .16s ease, opacity .2s ease, color .15s}
+.lead:active,.feature:active,.row:active,.ed:active{transform:scale(.985)}
+.minute li button:active,.tabs button:active,.pill:active,.listen:active{transform:scale(.96)}
+.cover svg{transition:transform .5s cubic-bezier(.2,.8,.2,1)}
+.lead:hover .cover svg,.feature:hover .cover svg{transform:scale(1.03)}
+@media (prefers-reduced-motion: reduce){
+  #view.enter,.reader:not([hidden]),.reader.closing,.index-row button[aria-current="true"]::after{animation:none}
+  .lead,.feature,.row,.minute li button,.ed,.tabs button,.index-row button,.pill,.listen,.cover svg{transition:none}
+  .lead:active,.feature:active,.row:active,.ed:active,.minute li button:active{transform:none}
+}
+
+/* Reader */
+.reader{position:fixed;inset:0;z-index:10;background:var(--paper);overflow-y:auto;overscroll-behavior:contain}
+.reader-bar{position:sticky;top:0;z-index:2;display:flex;justify-content:space-between;align-items:center;gap:10px;padding:calc(10px + env(safe-area-inset-top, 0px)) 16px 10px;background:color-mix(in oklab, var(--paper) 90%, transparent);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.pill{display:inline-flex;align-items:center;gap:6px;padding:8px 14px;border-radius:999px;border:1px solid var(--line);font-family:var(--f-mono);font-size:12px;letter-spacing:.05em;text-transform:uppercase;background:var(--card)}
+.pill[aria-pressed="true"]{background:var(--hierro);border-color:var(--hierro);color:#fff}
+.pill.speak[aria-pressed="true"]{background:var(--ria);border-color:var(--ria);color:var(--paper)}
+.bar-right{display:flex;gap:8px}
+.article{max-width:680px;margin:0 auto;padding-inline:16px;padding-block:18px 60px}
+.article .cover{aspect-ratio:16/9}
+.article .fig b{font-size:clamp(76px,20vw,150px)}
+.article h1{font-size:clamp(30px,7vw,46px);line-height:1.08;font-weight:700;margin:14px 0 0;text-wrap:balance;letter-spacing:-.01em}
+.article .dek{font-size:20px;font-style:italic;color:var(--muted);margin:12px 0 0;line-height:1.4}
+.article .body p{margin:0 0 1em;font-size:19px;line-height:1.62}
+.article .body{margin-top:22px}
+.article .body p:first-child::first-letter{font-family:var(--f-mast);font-weight:900;float:left;font-size:4.1em;line-height:.8;margin:6px 10px 0 0;color:var(--sec)}
+.box{border-radius:var(--r);padding:16px 18px;margin-top:22px}
+.box h5{margin:0 0 8px;font-family:var(--f-mast);font-weight:900;font-size:20px;letter-spacing:.06em;text-transform:uppercase}
+.keys{background:color-mix(in oklab, var(--sec) 12%, var(--card))}
+.keys h5{color:var(--sec)}
+.keys ul{margin:0;padding-left:20px}
+.keys li{margin:4px 0;font-size:17px}
+.why{background:var(--ink);color:var(--paper)}
+.why p{margin:0;font-size:17.5px}
+.sources{margin-top:22px}
+.sources h5{margin:0 0 8px}
+.sources ol{margin:0;padding:0;list-style:none;display:grid;gap:8px}
+.sources a{display:flex;justify-content:space-between;gap:12px;align-items:center;padding:12px 14px;border:1px solid var(--line);border-radius:10px;text-decoration:none;background:var(--card);min-width:0}
+.sources a span:first-child{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:15px}
+.sources a b{font-family:var(--f-mono);font-weight:500;font-size:11.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--ria);flex:none}
+.ask{margin-top:22px;border:1px solid var(--line);border-radius:var(--r);padding:16px 18px;background:var(--card)}
+.ask-top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.ask h5{margin:0;font-family:var(--f-mast);font-weight:900;font-size:20px;letter-spacing:.06em;text-transform:uppercase}
+.ask-btn{padding:10px 16px;border-radius:999px;background:var(--ria);color:var(--paper);font-family:var(--f-mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase}
+.ask-btn:disabled{opacity:.5;cursor:default}
+.ask-out p{margin:12px 0 0;font-size:17px;line-height:1.55}
+.ask-note{margin:10px 0 0;font-size:13.5px;color:var(--muted)}
+.foot{margin-top:46px;color:var(--muted);font-size:14px;max-width:60ch}
+</style>
+</head>
+<body>
+
+
+<div class="wrap" id="app">
+  <header class="mast">
+    <div class="mast-meta mono"><span id="m-place">Bilbao · Bizkaia</span><span id="m-date">&nbsp;</span><span id="m-num"><b>Edición</b> —</span></div>
+    <svg viewBox="0 0 600 132" role="img" aria-label="La Ría">
+      <defs>
+        <clipPath id="water"><path class="wave" d="M0 78 q25 -10 50 0 t50 0 t50 0 t50 0 t50 0 t50 0 t50 0 t50 0 t50 0 t50 0 t50 0 t50 0 t50 0 t50 0 t50 0 t50 0 V132 H0 Z"/></clipPath>
+      </defs>
+      <text class="word" x="0" y="124" textLength="600" lengthAdjust="spacingAndGlyphs" font-size="150" fill="var(--ink)">LA RÍA</text>
+      <g clip-path="url(#water)"><text class="word" x="0" y="124" textLength="600" lengthAdjust="spacingAndGlyphs" font-size="150" fill="var(--ria)">LA RÍA</text></g>
+    </svg>
+    <div class="mast-sub"><em>El diario de Haizea</em><span class="mono" id="m-count">&nbsp;</span></div>
+    <div id="wx"></div>
+  </header>
+
+  <nav class="index" id="index" hidden aria-label="Secciones">
+    <div class="index-row" id="index-row"></div>
+    <div class="index-tide" id="index-tide" aria-hidden="true"></div>
+  </nav>
+
+  <main id="view"></main>
+</div>
+
+<nav class="tabs" aria-label="Vistas">
+  <div>
+    <button data-tab="hoy" aria-current="page"><svg viewBox="0 0 24 24"><path d="M4 5h13v14H6a2 2 0 0 1-2-2z"/><path d="M17 9h3v8a2 2 0 0 1-2 2"/><path d="M7.5 9h6M7.5 12.5h6M7.5 16h4"/></svg>Hoy</button>
+    <button data-tab="buscar"><svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6"/><path d="m15 15 5 5"/></svg>Buscar</button>
+    <button data-tab="guardado"><svg viewBox="0 0 24 24"><path d="M6 4h12v16l-6-4-6 4z"/></svg>Guardado</button>
+    <button data-tab="hemeroteca"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="5" rx="1"/><path d="M5 9v10h14V9M10 13h4"/></svg>Archivo</button>
+  </div>
+</nav>
+
+<div class="reader" id="reader" hidden role="dialog" aria-modal="true" aria-labelledby="r-title"></div>
+
+<script>
+(() => {
+const SECTIONS = [
+  ["bilbao","Bilbao"],["euskadi","Euskadi"],["espana","España"],["mundo","Internacional"],
+  ["economia","Economía"],["sociedad","Sociedad"],["cultura","Cultura"],["ciencia","Ciencia"],["deportes","Deportes"]
+];
+const SEC = Object.fromEntries(SECTIONS);
+const secOf = s => SEC[s] ? s : "sociedad";
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const MADRID = "Europe/Madrid";
+
+const state = {
+  editions: [],      // sorted desc
+  current: null,     // date string
+  section: null,
+  tab: "hoy",
+  query: "",
+  saved: [],         // [{id,date}]
+  read: [],          // story ids read
+  unread: false,     // solo sin leer
+  fz: 0,             // tamaño de letra (0,1,2)
+  comarca: null,     // filtro del mapa de breves
+  missed: [],        // ediciones que no abrió
+  loaded: false,
+  dbOk: true,
+};
+let db = null, uid = null, sample = null;
+const STANDALONE = !(window.claude && typeof window.claude.use === "function");
+const DATA = "data/";
+const fullLoading = {};
+function ensureFull(date){
+  const e = state.editions.find(x => x.date === date);
+  if (!e || !e._partial) return Promise.resolve(e);
+  if (!fullLoading[date]) fullLoading[date] = fetch(`${DATA}editions/${date}.json`, { cache: "no-cache" })
+    .then(r => { if (!r.ok) throw new Error("no"); return r.json(); })
+    .then(full => { const i = state.editions.findIndex(x => x.date === date); if (i >= 0) state.editions[i] = full; return full; })
+    .finally(() => { delete fullLoading[date]; });
+  return fullLoading[date];
+}
+
+/* ---------- dates ---------- */
+const todayISO = () => new Intl.DateTimeFormat("en-CA",{timeZone:MADRID,year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date());
+const dateObj = iso => { const [y,m,d] = iso.split("-").map(Number); return new Date(y, m-1, d, 12); };
+const fmtLong = iso => new Intl.DateTimeFormat("es-ES",{weekday:"long",day:"numeric",month:"long",year:"numeric"}).format(dateObj(iso));
+const fmtDay = iso => new Intl.DateTimeFormat("es-ES",{day:"numeric"}).format(dateObj(iso));
+const fmtMon = iso => new Intl.DateTimeFormat("es-ES",{month:"short",weekday:"short"}).format(dateObj(iso));
+const readMin = st => st.min || Math.max(1, Math.round(((st.body||[]).join(" ") + " " + (st.keys||[]).join(" ")).split(/\s+/).length / 200));
+
+const addDays = (iso, n) => { const d = dateObj(iso); d.setDate(d.getDate() + n); return new Intl.DateTimeFormat("en-CA",{year:"numeric",month:"2-digit",day:"2-digit"}).format(d); };
+const FZ = [1, 1.12, 1.25];
+function applyFz(){ document.documentElement.style.setProperty("--fz", FZ[state.fz] || 1); }
+
+/* ---------- el tiempo ---------- */
+function wxIcon(sky){
+  const cloud = `<path d="M8 19h9.5a3.8 3.8 0 0 0 .4-7.6A5.6 5.6 0 0 0 7.2 10 4.6 4.6 0 0 0 8 19z"/>`;
+  const sunSmall = `<circle class="sun" cx="8" cy="8" r="3.2"/><path class="sun" d="M8 2.2v1.4M2.2 8h1.4M3.9 3.9l1 1M12.1 3.9l-1 1"/>`;
+  const map = {
+    sun: `<circle class="sun" cx="12" cy="12" r="4.5"/><path class="sun" d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M5.3 18.7l1.6-1.6M17.1 6.9l1.6-1.6"/>`,
+    partly: sunSmall + cloud,
+    cloud: cloud,
+    "rain-light": `<path d="M8 16h9.5a3.8 3.8 0 0 0 .4-7.6A5.6 5.6 0 0 0 7.2 7 4.6 4.6 0 0 0 8 16z"/><path class="drop" d="M10 19l-.8 2M14.5 19l-.8 2"/>`,
+    rain: `<path d="M8 15h9.5a3.8 3.8 0 0 0 .4-7.6A5.6 5.6 0 0 0 7.2 6 4.6 4.6 0 0 0 8 15z"/><path class="drop" d="M8.5 18l-1 2.6M12.5 18l-1 2.6M16.5 18l-1 2.6"/>`,
+    storm: `<path d="M8 15h9.5a3.8 3.8 0 0 0 .4-7.6A5.6 5.6 0 0 0 7.2 6 4.6 4.6 0 0 0 8 15z"/><path class="sun" d="M12.5 15.5l-2 3.5h3l-2 3.5"/>`,
+    fog: `<path d="M4 9h16M6 13h13M4 17h15"/>`,
+    wind: `<path d="M3 9h11a3 3 0 1 0-3-3M3 14h15a3 3 0 1 1-3 3"/>`
+  };
+  return `<svg viewBox="0 0 24 24" aria-hidden="true">${map[sky] || map.cloud}</svg>`;
+}
+function weatherStrip(e){
+  const w = e && e.weather; if (!w || !(w.days||[]).length) return "";
+  const t = todayISO(), days = w.days.filter(d => d.date >= t).slice(0, 4);
+  if (days.length < 2) return "";
+  const lbl = d => d.date === t ? "Hoy" : d.date === addDays(t, 1) ? "Mañana" : new Intl.DateTimeFormat("es-ES",{weekday:"short", day:"numeric"}).format(dateObj(d.date)).replace(".", "");
+  return `<div class="wx" role="list" aria-label="El tiempo en ${esc(w.place || "Bilbao")}">${days.map(d => `<div class="wx-d" role="listitem" title="${esc(d.text || "")}">${wxIcon(d.sky)}<div class="wx-t"><b>${esc(lbl(d))}</b><span>${d.max != null ? `${d.max}°` : ""}${d.min != null ? ` <small>${d.min}°</small>` : ""}</span>${d.rain ? `<i>${d.rain}% lluvia</i>` : `<i style="color:var(--muted)">${esc(d.text || "")}</i>`}</div></div>`).join("")}</div>
+    <div class="wx-src"><span>${esc(w.place || "Bilbao")}</span>${w.source?.url ? `<a href="${esc(w.source.url)}" target="_blank" rel="noopener">${esc(w.source.name || "Fuente")} ↗</a>` : ""}</div>`;
+}
+
+/* ---------- mapa de Bizkaia ---------- */
+const COMARCAS = [
+  { id:"mi", label:"Margen Izquierda", short:"Margen Izq.", c:2, r:1, k:["barakaldo","sestao","portugalete","santurtzi","muskiz","ortuella","trapagaran","abanto","zierbena","rontegi","margen izquierda","ezkerraldea","meatzaldea","petronor","bec"] },
+  { id:"md", label:"Margen Derecha", short:"Margen Dcha.", c:3, r:1, k:["getxo","leioa","erandio","margen derecha","algorta","las arenas","areeta","avanzada"] },
+  { id:"uk", label:"Uribe Kosta", short:"Uribe Kosta", c:4, r:1, k:["uribe kosta","sopela","sopelana","berango","barrika","plentzia","gorliz","lemoiz","urduliz"] },
+  { id:"mu", label:"Mungialdea", short:"Mungia", c:5, r:1, k:["mungia","bakio","gamiz","fika","maruri","meñaka","mungialdea","bi-631"] },
+  { id:"bu", label:"Busturialdea", short:"Bustu\u00ADria", c:6, r:1, k:["bermeo","gernika","mundaka","busturia","urdaibai","sukarrieta","elantxobe","ibarrangelu","busturialdea","forua","muxika"] },
+  { id:"la", label:"Lea-Artibai", short:"Lea-Artibai", c:7, r:1, k:["lekeitio","ondarroa","markina","berriatua","lea-artibai","lea artibai","etxebarria"] },
+  { id:"en", label:"Enkarterri", short:"Enkarterri", c:1, r:2, w:2, h:2, k:["balmaseda","zalla","gueñes","sopuerta","karrantza","gordexola","artzentales","turtzioz","galdames","enkarterri","encartaciones"] },
+  { id:"tx", label:"Txorierri", short:"Txori\u00ADerri", c:4, r:2, k:["txorierri","sondika","derio","loiu","zamudio","lezama","larrabetzu","aeropuerto"] },
+  { id:"du", label:"Durangaldea", short:"Durangaldea", c:5, r:2, w:3, k:["durango","iurreta","elorrio","abadiño","amorebieta","zornotza","berriz","garai","mañaria","atxondo","durangaldea"] },
+  { id:"ar", label:"Arratia-Nerbioi", short:"Arratia-Nerbioi", c:3, r:3, w:3, k:["basauri","galdakao","etxebarri","arrigorriaga","ugao","orozko","igorre","zeanuri","dima","usansolo","arratia","nerbioi","zaratamo","lemoa","areatza"] },
+  { id:"bi", label:"Bilbao", short:"Bilbao", c:3, r:2, k:["bilbao","deusto","casco viejo","atxuri","rekalde","abando","indautxu","santutxu","txurdinaga","otxarkoaga","zorrotza","basurto","begoña","bolueta","san ignacio","miribilla","ensanche","intermodal","abandoibarra","arriaga"] }
+];
+const COM = Object.fromEntries(COMARCAS.map(c => [c.id, c]));
+let _comK = null;
+function briefComarca(b){
+  if (b.comarca === "none") return null;
+  if (b.comarca && COM[b.comarca]) return b.comarca;
+  if (!_comK) _comK = COMARCAS.map(c => [c.id, c.k.map(foldStr)]);
+  const t = " " + foldStr(`${b.tag || ""} ${b.text || ""}`) + " ";
+  for (const [id, ks] of _comK) if (ks.some(k => t.includes(k))) return id;
+  return null;
+}
+function bizkaiaMap(list){
+  const cnt = {}; list.forEach(b => { const c = briefComarca(b); if (c) cnt[c] = (cnt[c]||0) + 1; });
+  const total = Object.values(cnt).reduce((a, b) => a + b, 0); if (total < 2) return "";
+  const max = Math.max(...Object.values(cnt));
+  return `<div class="bzk"><div class="bzk-h"><b>Bizkaia hoy</b><span>Toca una comarca · esquema</span></div><div class="bzk-grid">${COMARCAS.map(c => { const n = cnt[c.id] || 0, k = n ? Math.round(28 + 72 * n / max) : 0;
+    return `<button class="bzk-t${k > 60 ? " hot" : ""}" style="grid-column:${c.c} / span ${c.w||1};grid-row:${c.r} / span ${c.h||1};--k:${k}" data-com="${c.id}" aria-pressed="${state.comarca===c.id}" ${n ? "" : "disabled"} aria-label="${esc(c.label)}: ${n} breves"><b>${n || "·"}</b><span>${esc(c.short)}</span></button>`; }).join("")}</div></div>`;
+}
+
+/* ---------- covers: grabados generados por sección ---------- */
+function rng(seed){ let h = 2166136261; for (const c of seed) { h ^= c.charCodeAt(0); h = Math.imul(h, 16777619); } return () => { h ^= h << 13; h ^= h >>> 17; h ^= h << 5; return ((h >>> 0) % 10000) / 10000; }; }
+function figKind(v){
+  v = String(v ?? "").trim();
+  if (!v) return "none";
+  if (/°/.test(v)) return "temp";
+  if (/%/.test(v)) return "pct";
+  if (/[€$]/.test(v)) return "money";
+  if (/^\d{1,2}\s?(N|ene|feb|mar|abr|may|jun|jul|ago|sep|oct|nov|dic)\b/i.test(v) || /^\d{1,2}N$/.test(v)) return "date";
+  if (/^\d{1,3}$/.test(v) && +v >= 8 && +v <= 150) return "count";
+  return "other";
+}
+function pattern(sec, id, fig){
+  const r = rng(id), W = 320, H = 200; let s = "";
+  const kind = figKind(fig), down = /^[-−▼]/.test(String(fig||"").trim());
+  if (kind === "count") { // tantas marcas como la cifra
+    const n = +fig, cols = Math.ceil(Math.sqrt(n * W / H)), rows = Math.ceil(n / cols), cw = (W - 20) / cols, ch = (H - 20) / rows, rr = Math.min(cw, ch) * .32;
+    for (let i = 0; i < cols * rows; i++) { const cx = 10 + cw * (i % cols + .5), cy = 10 + ch * (Math.floor(i / cols) + .5);
+      s += i < n ? `<circle cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="${rr.toFixed(1)}" fill="currentColor" opacity=".55"/>` : `<circle cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="${rr.toFixed(1)}" fill="none" stroke="currentColor" stroke-width="1.2" opacity=".25"/>`; }
+  } else if (kind === "pct" || kind === "money") { // línea o barras con la tendencia
+    let y = down ? 50 : 160; const pts = [];
+    for (let x = 0; x <= W; x += 16) { y += (down ? 1 : -1) * (3 + r() * 9) + (r() - .5) * 14; y = Math.max(18, Math.min(186, y)); pts.push([x, y]); }
+    if (kind === "pct") { const d = pts.map((p, i) => `${i ? "L" : "M"}${p[0]} ${p[1].toFixed(1)}`).join(" ");
+      s += `<path d="${d} L${W} ${H} L0 ${H} Z" fill="currentColor" opacity=".16"/><path d="${d}" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round" opacity=".75"/>`;
+      for (let g = 40; g < H; g += 40) s += `<line x1="0" x2="${W}" y1="${g}" y2="${g}" stroke="currentColor" stroke-width="1" opacity=".18"/>`;
+    } else pts.forEach((p, i) => { s += `<rect x="${p[0] + 2}" y="${p[1].toFixed(1)}" width="11" height="${(H - p[1]).toFixed(1)}" rx="2" fill="currentColor" opacity="${(.2 + i * .03).toFixed(2)}"/>`; });
+  } else if (kind === "temp") { // sol e isotermas
+    const cx = 255, cy = 52;
+    for (let i = 8; i >= 1; i--) s += `<circle cx="${cx}" cy="${cy}" r="${30 + i * 34}" fill="none" stroke="currentColor" stroke-width="${(1 + r() * 2.5).toFixed(1)}" opacity="${(.12 + (8 - i) * .05).toFixed(2)}"/>`;
+    s += `<circle cx="${cx}" cy="${cy}" r="24" fill="currentColor" opacity=".75"/>`;
+    for (let i = 0; i < 12; i++) { const a = i * Math.PI / 6; s += `<line x1="${(cx + Math.cos(a) * 32).toFixed(1)}" y1="${(cy + Math.sin(a) * 32).toFixed(1)}" x2="${(cx + Math.cos(a) * 42).toFixed(1)}" y2="${(cy + Math.sin(a) * 42).toFixed(1)}" stroke="currentColor" stroke-width="3" stroke-linecap="round" opacity=".7"/>`; }
+  } else if (kind === "date") { // hoja de calendario con el día marcado
+    const day = parseInt(fig, 10) || 1, off = Math.floor(r() * 7), x0 = 120, y0 = 14, cw = 27, ch = 28;
+    s += `<rect x="${x0 - 8}" y="${y0 - 4}" width="${cw * 7 + 16}" height="186" rx="8" fill="currentColor" opacity=".08"/><rect x="${x0 - 8}" y="${y0 - 4}" width="${cw * 7 + 16}" height="22" rx="8" fill="currentColor" opacity=".6"/>`;
+    for (let i = 0; i < 35; i++) { const n = i - off + 1, cx = x0 + (i % 7) * cw, cy = y0 + 24 + Math.floor(i / 7) * ch; if (n < 1 || n > 31) continue;
+      s += n === day ? `<rect x="${cx}" y="${cy}" width="${cw - 5}" height="${ch - 6}" rx="4" fill="currentColor" opacity=".85"/>` : `<rect x="${cx}" y="${cy}" width="${cw - 5}" height="${ch - 6}" rx="4" fill="none" stroke="currentColor" stroke-width="1.3" opacity=".3"/>`; }
+  } else if (r() < .5) {
+    s = patternA(sec, r, W, H);
+  } else {
+    s = patternB(sec, r, W, H);
+  }
+  return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid slice" aria-hidden="true">${s}</svg>`;
+}
+function patternA(sec, r, W, H){ let s = "";
+
+  if (sec === "bilbao") { // ría: olas + puente
+    for (let i = 0; i < 9; i++) { const y = 26 + i*21, a = 4 + r()*7, k = .02 + r()*.02, ph = r()*6; let d = `M0 ${y}`;
+      for (let x = 0; x <= W; x += 10) d += ` L${x} ${(y + Math.sin(x*k+ph)*a).toFixed(1)}`;
+      s += `<path d="${d}" fill="none" stroke="currentColor" stroke-width="${(1 + r()*3).toFixed(1)}" opacity="${(.25 + r()*.5).toFixed(2)}"/>`; }
+    s += `<path d="M150 70 Q225 -10 300 70" fill="none" stroke="currentColor" stroke-width="5" opacity=".7"/>`;
+  } else if (sec === "euskadi") { // curvas de nivel de montes
+    for (let i = 0; i < 8; i++) { let d = `M0 ${70+i*18}`; let y = 70 + i*18;
+      for (let x = 0; x <= W; x += 20) { y = 70 + i*18 - Math.sin((x/W)*Math.PI*(1.3+i*.08))*(48 - i*4) - r()*8; d += ` L${x} ${y.toFixed(1)}`; }
+      s += `<path d="${d}" fill="none" stroke="currentColor" stroke-width="2" opacity="${(.3 + i*.08).toFixed(2)}"/>`; }
+  } else if (sec === "espana") { // papeletas / escaños
+    for (let x = 0; x < 12; x++) for (let y = 0; y < 8; y++) { const on = r() < .32;
+      s += `<rect x="${10+x*26}" y="${8+y*24}" width="18" height="16" rx="2" ${on ? `fill="currentColor" opacity=".75"` : `fill="none" stroke="currentColor" stroke-width="1.5" opacity=".3"`}/>`; }
+  } else if (sec === "mundo") { // meridianos
+    const cx = 230, cy = 100, R = 110;
+    s += `<circle cx="${cx}" cy="${cy}" r="${R}" fill="currentColor" opacity=".12"/><circle cx="${cx}" cy="${cy}" r="${R}" fill="none" stroke="currentColor" stroke-width="2.5" opacity=".7"/>`;
+    for (let i = 1; i < 6; i++) s += `<ellipse cx="${cx}" cy="${cy}" rx="${R*i/6}" ry="${R}" fill="none" stroke="currentColor" stroke-width="1.4" opacity=".45"/>`;
+    for (let i = -2; i <= 2; i++) { const y = cy + i*R/3, w = Math.sqrt(R*R - (i*R/3)**2); s += `<line x1="${cx-w}" y1="${y}" x2="${cx+w}" y2="${y}" stroke="currentColor" stroke-width="1.4" opacity=".45"/>`; }
+  } else if (sec === "economia") { // barras
+    let h = 40 + r()*30;
+    for (let i = 0; i < 16; i++) { h = Math.max(20, Math.min(170, h + (r()-.42)*40));
+      s += `<rect x="${8+i*20}" y="${H-h}" width="13" height="${h}" fill="currentColor" opacity="${(.18 + i*.035).toFixed(2)}"/>`; }
+  } else if (sec === "cultura") { // arcos
+    for (let i = 0; i < 9; i++) s += `<circle cx="${W}" cy="${H}" r="${30 + i*28 + r()*10}" fill="none" stroke="currentColor" stroke-width="${(2 + r()*6).toFixed(1)}" opacity="${(.2+r()*.5).toFixed(2)}"/>`;
+    for (let i = 0; i < 4; i++) s += `<circle cx="${(r()*W*.6).toFixed(0)}" cy="${(r()*H*.6).toFixed(0)}" r="${(4+r()*12).toFixed(0)}" fill="currentColor" opacity=".6"/>`;
+  } else if (sec === "deportes") { // rayas
+    for (let i = 0; i < 14; i += 2) s += `<rect x="${i*26}" y="0" width="26" height="${H}" fill="currentColor" opacity=".55"/>`;
+    s += `<circle cx="${80 + r()*160}" cy="${60 + r()*60}" r="34" fill="none" stroke="currentColor" stroke-width="4"/>`;
+  } else if (sec === "ciencia") { // órbitas
+    const cx = 210 + r()*40, cy = 100;
+    for (let i = 0; i < 6; i++) s += `<ellipse cx="${cx}" cy="${cy}" rx="${40+i*30}" ry="${14+i*11}" transform="rotate(-18 ${cx} ${cy})" fill="none" stroke="currentColor" stroke-width="1.6" opacity="${(.25+i*.08).toFixed(2)}"/>`;
+    s += `<circle cx="${cx}" cy="${cy}" r="18" fill="currentColor" opacity=".8"/>`;
+    for (let i = 0; i < 5; i++) { const a = r()*Math.PI*2, k = 1+Math.floor(r()*5); s += `<circle cx="${(cx + Math.cos(a)*(40+k*30)).toFixed(0)}" cy="${(cy + Math.sin(a)*(14+k*11)).toFixed(0)}" r="${(3+r()*4).toFixed(1)}" fill="currentColor"/>`; }
+  } else { // sociedad: trama de puntos
+    for (let x = 0; x < 18; x++) for (let y = 0; y < 11; y++) { const big = r() < .06;
+      s += `<circle cx="${10+x*18}" cy="${10+y*18}" r="${big ? 7 : (1.5 + r()*2.5).toFixed(1)}" fill="currentColor" opacity="${big ? .8 : .35}"/>`; }
+  }
+    return s;
+}
+function patternB(sec, r, W, H){ let s = "";
+  if (sec === "bilbao") { // fachadas del Casco Viejo
+    let x = -6;
+    while (x < W) { const w = 30 + r() * 16, h = 90 + r() * 70, top = H - h;
+      s += `<path d="M${x} ${H} V${top + 14} L${x + w / 2} ${top} L${x + w} ${top + 14} V${H} Z" fill="currentColor" opacity="${(.12 + r() * .2).toFixed(2)}" stroke="currentColor" stroke-width="1.5" stroke-opacity=".55"/>`;
+      for (let wy = top + 24; wy < H - 14; wy += 20) for (let k = 0; k < 2; k++) s += `<rect x="${(x + 6 + k * (w / 2 - 2)).toFixed(1)}" y="${wy.toFixed(1)}" width="${(w / 2 - 10).toFixed(1)}" height="11" rx="1" fill="currentColor" opacity=".5"/>`;
+      x += w + 2; }
+  } else if (sec === "euskadi") { // crestas de montes
+    for (let l = 0; l < 4; l++) { let d = `M0 ${H}`, y = 60 + l * 30;
+      for (let x = 0; x <= W; x += 20) { y = Math.max(20 + l * 25, Math.min(H - 20, y + (r() - .5) * 46)); d += ` L${x} ${y.toFixed(1)}`; }
+      s += `<path d="${d} L${W} ${H} Z" fill="currentColor" opacity="${(.14 + l * .16).toFixed(2)}"/>`; }
+  } else if (sec === "espana") { // hemiciclo
+    const cx = W / 2, cy = H - 6;
+    for (let row = 0; row < 6; row++) { const R = 60 + row * 22, n = Math.round(R / 7);
+      for (let i = 0; i <= n; i++) { const a = Math.PI - i * Math.PI / n; s += `<circle cx="${(cx + Math.cos(a) * R).toFixed(1)}" cy="${(cy - Math.sin(a) * R).toFixed(1)}" r="4.2" fill="currentColor" opacity="${r() < .55 ? .8 : .22}"/>`; } }
+  } else if (sec === "mundo") { // retícula con ciudades y rutas
+    for (let x = 0; x <= W; x += 32) s += `<line x1="${x}" x2="${x}" y1="0" y2="${H}" stroke="currentColor" stroke-width="1" opacity=".22"/>`;
+    for (let y = 16; y <= H; y += 33) s += `<line x1="0" x2="${W}" y1="${y}" y2="${y}" stroke="currentColor" stroke-width="1" opacity=".22"/>`;
+    const pts = Array.from({ length: 9 }, () => [20 + r() * 280, 20 + r() * 160]);
+    for (let i = 1; i < pts.length; i += 2) { const [a1, b1] = pts[i - 1], [a2, b2] = pts[i]; s += `<path d="M${a1.toFixed(0)} ${b1.toFixed(0)} Q${((a1 + a2) / 2).toFixed(0)} ${(Math.min(b1, b2) - 40).toFixed(0)} ${a2.toFixed(0)} ${b2.toFixed(0)}" fill="none" stroke="currentColor" stroke-width="2" stroke-dasharray="5 4" opacity=".6"/>`; }
+    pts.forEach(([x, y]) => { s += `<circle cx="${x.toFixed(0)}" cy="${y.toFixed(0)}" r="${(3 + r() * 4).toFixed(1)}" fill="currentColor" opacity=".8"/>`; });
+  } else if (sec === "economia") { // línea con área
+    let y = 120; const pts = [];
+    for (let x = 0; x <= W; x += 12) { y = Math.max(20, Math.min(185, y + (r() - .5) * 30)); pts.push([x, y]); }
+    const d = pts.map((p, i) => `${i ? "L" : "M"}${p[0]} ${p[1].toFixed(1)}`).join(" ");
+    s += `<path d="${d} L${W} ${H} L0 ${H} Z" fill="currentColor" opacity=".18"/><path d="${d}" fill="none" stroke="currentColor" stroke-width="3" opacity=".7"/>`;
+  } else if (sec === "cultura") { // marcos de una sala de museo
+    let x = 10;
+    while (x < W - 30) { const w = 34 + r() * 60, h = 40 + r() * 90, y = 100 - h / 2 + (r() - .5) * 20;
+      s += `<rect x="${x.toFixed(0)}" y="${y.toFixed(0)}" width="${w.toFixed(0)}" height="${h.toFixed(0)}" fill="currentColor" opacity=".14" stroke="currentColor" stroke-width="4" stroke-opacity=".6"/>`;
+      x += w + 12 + r() * 10; }
+    s += `<line x1="0" x2="${W}" y1="186" y2="186" stroke="currentColor" stroke-width="2" opacity=".4"/>`;
+  } else if (sec === "deportes") { // campo de fútbol
+    s += `<rect x="14" y="14" width="${W - 28}" height="${H - 28}" fill="currentColor" opacity=".1" stroke="currentColor" stroke-width="3" stroke-opacity=".6"/>`;
+    s += `<line x1="${W / 2}" x2="${W / 2}" y1="14" y2="${H - 14}" stroke="currentColor" stroke-width="3" opacity=".6"/><circle cx="${W / 2}" cy="${H / 2}" r="32" fill="none" stroke="currentColor" stroke-width="3" opacity=".6"/>`;
+    s += `<rect x="14" y="${H / 2 - 40}" width="44" height="80" fill="none" stroke="currentColor" stroke-width="3" opacity=".6"/><rect x="${W - 58}" y="${H / 2 - 40}" width="44" height="80" fill="none" stroke="currentColor" stroke-width="3" opacity=".6"/>`;
+    s += `<circle cx="${(60 + r() * 200).toFixed(0)}" cy="${(40 + r() * 120).toFixed(0)}" r="7" fill="currentColor" opacity=".85"/>`;
+  } else if (sec === "ciencia") { // molécula
+    const nodes = Array.from({ length: 8 }, (_, i) => { const a = i * Math.PI / 4 + r() * .4, R = 50 + r() * 50; return [200 + Math.cos(a) * R, 100 + Math.sin(a) * R * .8]; });
+    nodes.forEach((n, i) => { const m = nodes[(i + 1) % nodes.length]; s += `<line x1="${n[0].toFixed(0)}" y1="${n[1].toFixed(0)}" x2="${m[0].toFixed(0)}" y2="${m[1].toFixed(0)}" stroke="currentColor" stroke-width="3" opacity=".5"/><line x1="200" y1="100" x2="${n[0].toFixed(0)}" y2="${n[1].toFixed(0)}" stroke="currentColor" stroke-width="1.5" opacity=".3"/>`; });
+    nodes.forEach(n => { s += `<circle cx="${n[0].toFixed(0)}" cy="${n[1].toFixed(0)}" r="${(7 + r() * 9).toFixed(1)}" fill="currentColor" opacity=".7"/>`; });
+    s += `<circle cx="200" cy="100" r="18" fill="currentColor" opacity=".85"/>`;
+  } else { // sociedad: personas
+    for (let row = 0; row < 5; row++) for (let c = 0; c < 14; c++) { const x = 12 + c * 22 + (row % 2) * 8, y = 18 + row * 38, on = r() < .14;
+      s += `<circle cx="${x}" cy="${y}" r="6" fill="currentColor" opacity="${on ? .85 : .3}"/><rect x="${x - 7}" y="${y + 8}" width="14" height="16" rx="6" fill="currentColor" opacity="${on ? .85 : .3}"/>`; }
+  }
+  return s;
+}
+const cover = st => { const sec = secOf(st.section); const f = st.figure || {};
+  return `<div class="cover" style="--sec:var(--s-${sec})">${pattern(sec, st.id, f.value)}${f.value ? `<div class="fig"><b${String(f.value).length > 5 ? ' class="long"' : ""}>${esc(f.value)}</b>${f.label ? `<span>${esc(f.label)}</span>` : ""}</div>` : ""}</div>`; };
+
+/* ---------- data ---------- */
+const edition = () => state.editions.find(e => e.date === state.current) || null;
+const allStories = () => state.editions.flatMap(e => (e.stories||[]).map(s => ({...s, _date:e.date})));
+const findStory = (id, date) => { const e = state.editions.find(x => x.date === date); return e && (e.stories||[]).find(s => s.id === id); };
+const isSaved = id => state.saved.some(s => s.id === id);
+const threadOf = st => !st?.thread ? null : (typeof st.thread === "string" ? { id: st.thread, label: st.thread } : st.thread);
+function threadItems(st){ const t = threadOf(st); if (!t) return [];
+  return state.editions.flatMap(e => (e.stories||[]).filter(s => s.id !== st.id && threadOf(s)?.id === t.id).map(s => ({ s, date: e.date })))
+    .sort((a,b) => b.date.localeCompare(a.date) || (b.s.weight||1) - (a.s.weight||1)).slice(0, 12); }
+const isRead = id => state.read.includes(id);
+function markRead(id){
+  if (isRead(id)) return;
+  state.read = [...state.read, id].slice(-2500);
+  try { localStorage.setItem("laria.read", JSON.stringify(state.read)); } catch {}
+  clearTimeout(markRead.t);
+  markRead.t = setTimeout(() => { if (db && uid) saving = saving.then(() => db.doc(`data/users/${uid}/read`).set({ ids: state.read })).catch(() => {}); }, 1500);
+}
+/* lectura en voz alta */
+const canSpeak = "speechSynthesis" in window && "SpeechSynthesisUtterance" in window;
+let speakingBtn = null;
+function pickVoice(){ const vs = speechSynthesis.getVoices(); return vs.find(v => v.lang === "es-ES") || vs.find(v => /^es/i.test(v.lang)) || null; }
+function stopSpeak(){ if (!canSpeak) return; speechSynthesis.cancel(); if (speakingBtn) { speakingBtn.setAttribute("aria-pressed","false"); speakingBtn.querySelector("span").textContent = speakingBtn.dataset.label; } speakingBtn = null; }
+function speak(parts, btn){
+  if (!canSpeak) return;
+  if (speakingBtn === btn) { stopSpeak(); return; }
+  stopSpeak();
+  const voice = pickVoice(); const q = parts.filter(Boolean);
+  speakingBtn = btn; btn.setAttribute("aria-pressed","true"); btn.querySelector("span").textContent = "Parar";
+  q.forEach((t, i) => { const u = new SpeechSynthesisUtterance(t); u.lang = "es-ES"; if (voice) u.voice = voice; u.rate = 1.02;
+    if (i === q.length - 1) u.onend = () => { if (speakingBtn === btn) stopSpeak(); };
+    speechSynthesis.speak(u); });
+}
+const playIcon = `<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 2.5v11l10-5.5z"/></svg>`;
+
+/* ---------- render ---------- */
+function renderMast(){
+  const e = edition();
+  $("#m-date").textContent = e ? fmtLong(e.date) : fmtLong(todayISO());
+  $("#m-num").innerHTML = e ? `<b>Edición</b> nº ${esc(e.number ?? "—")}` : `<b>Edición</b> —`;
+  const nr = e ? e.stories.filter(s => isRead(s.id)).length : 0;
+  $("#wx").innerHTML = state.tab === "hoy" && e && e.date === state.editions[0]?.date ? weatherStrip(e) : "";
+  $("#m-count").textContent = e ? `${e.stories.length} noticias${(e.briefs||[]).length ? ` · ${e.briefs.length} breves` : ""}${nr ? ` · ${nr} leídas` : ""}` : " ";
+}
+function counts(e){ const c = {}; (e?.stories||[]).forEach(s => { const k = secOf(s.section); c[k] = (c[k]||0)+1; }); return c; }
+function renderIndex(){
+  const e = edition(), nav = $("#index");
+  const show = !!e && (state.tab === "hoy" || state.tab === "buscar");
+  nav.hidden = !show; if (!show) return;
+  const c = counts(e), present = SECTIONS.filter(([k]) => c[k]);
+  $("#index-row").innerHTML = `<button data-sec="" aria-current="${!state.section}">${state.tab === "buscar" ? "Todas" : "Portada"}</button>` +
+    present.map(([k,l]) => `<button style="--sec:var(--s-${k})" data-sec="${k}" aria-current="${state.section===k}">${esc(l)}</button>`).join("") +
+    ((e.briefs||[]).length && state.tab === "hoy" ? `<button data-sec="breves" aria-current="${state.section==="breves"}">Breves</button>` : "");
+  const tide = $("#index-tide");
+  tide.classList.toggle("on", !!state.section);
+  tide.innerHTML = present.map(([k]) => `<span class="${state.section===k ? "hit" : ""}" style="--sec:var(--s-${k});--n:${c[k]}"></span>`).join("");
+  const act = $("#index-row [aria-current='true']");
+  if (act) { const row = $("#index-row"); const l = act.offsetLeft - 16, r = l + act.offsetWidth + 32; if (l < row.scrollLeft || r > row.scrollLeft + row.clientWidth) row.scrollTo({left: Math.max(0, l - 40), behavior: "smooth"}); }
+}
+const srcNames = st => [...new Set((st.sources||[]).map(x => x.name))];
+const metaLine = (st, date) => { const sn = srcNames(st);
+  return `<div class="meta mono"><span>${readMin(st)} min</span>${sn.length ? `<span>· ${esc(sn[0])}${sn.length > 1 ? ` +${sn.length-1}` : ""}</span>` : ""}${date ? `<span>· ${esc(fmtDay(date))} ${esc(fmtMon(date))}</span>` : ""}${isRead(st.id) ? `<span class="read-tag">· leída</span>` : ""}${isSaved(st.id) ? `<span class="saved-dot">· guardada</span>` : ""}</div>`; };
+const feature = (st, date) => { const sec = secOf(st.section);
+  return `<button class="feature${isRead(st.id) ? " is-read" : ""}" style="--sec:var(--s-${sec})" data-open="${esc(st.id)}" data-date="${esc(date)}">${cover(st)}<span style="min-width:0"><span class="sec-tag">${esc(st.place || SEC[sec])}</span><h4>${esc(st.title)}</h4><p>${esc(st.dek)}</p>${metaLine(st)}</span></button>`; };
+const row = (st, date, hl, showDate, tagPlace) => { const sec = secOf(st.section);
+  return `<button class="row${isRead(st.id) ? " is-read" : ""}" style="--sec:var(--s-${sec})" data-open="${esc(st.id)}" data-date="${esc(date)}"><span style="min-width:0"><span class="sec-tag">${esc(tagPlace ? (st.place || SEC[sec]) : SEC[sec])}</span><h4>${hl ? hl(st.title) : esc(st.title)}</h4>${hl ? `<p style="margin:4px 0 0;color:var(--muted);font-size:15px">${hl(st.dek)}</p>` : ""}${metaLine(st, showDate ? date : null)}</span>${cover(st)}</button>`; };
+const sortW = (a,b) => (b.weight||1) - (a.weight||1);
+const excerpt = (t, n = 300) => { t = String(t || ""); if (t.length <= n) return t; const cut = t.slice(0, n); return cut.slice(0, cut.lastIndexOf(" ")) + "…"; };
+const leadHTML = (lead, date) => { const lsec = secOf(lead.section);
+  return `<button class="lead${isRead(lead.id) ? " is-read" : ""}" style="--sec:var(--s-${lsec})" data-open="${esc(lead.id)}" data-date="${esc(date)}">${cover(lead)}<div class="l-head"><span class="sec-tag">Portada · ${esc(SEC[lsec])}${threadOf(lead) ? ` · ${esc(threadOf(lead).label)}` : ""}</span><h2>${esc(lead.title)}</h2></div><div class="l-body"><p>${esc(lead.dek)}</p>${lead.body?.[0] ? `<p class="lead-ex">${esc(excerpt(lead.body[0]))}</p>` : ""}<div class="byline mono"><span>${readMin(lead)} min</span>${lead.place ? `<span>· ${esc(lead.place)}</span>` : ""}<span>· ${lead.sources?.length||0} fuentes</span>${isRead(lead.id) ? `<span class="read-tag">· leída</span>` : ""}</div></div></button>`; };
+const second = (st, date) => { const sec = secOf(st.section);
+  return `<button class="second${isRead(st.id) ? " is-read" : ""}" style="--sec:var(--s-${sec})" data-open="${esc(st.id)}" data-date="${esc(date)}">${cover(st)}<span class="sec-tag">${esc(SEC[sec])}</span><h4>${esc(st.title)}</h4><p>${esc(st.dek)}</p>${metaLine(st)}</button>`; };
+const emptyRead = () => `<div class="empty"><b>Lo has leído todo</b>Toca «Todo» arriba para ver también lo que ya has leído.</div>`;
+function viewBar(stories){
+  const left = stories.filter(s => !isRead(s.id)).length;
+  return `<div class="viewbar"><div class="seg" role="group" aria-label="Qué mostrar"><button data-unread="0" aria-pressed="${!state.unread}">Todo</button><button data-unread="1" aria-pressed="${state.unread}">Sin leer<small>${left}</small></button></div><button class="fz" data-fz aria-label="Tamaño de letra: ${["normal","grande","muy grande"][state.fz]}">Aa<small>${[0,1,2].map(i => `<i class="${i <= state.fz ? "on" : ""}"></i>`).join("")}</small></button></div>`;
+}
+function lostBlock(){
+  if (!state.missed.length || state.missedOff) return "";
+  const eds = state.missed.map(d => state.editions.find(x => x.date === d)).filter(Boolean).slice(0, 5);
+  if (!eds.length) return "";
+  return `<section class="lost"><div class="lost-top"><h3>Te lo perdiste</h3><button class="pill" data-lost-off>Cerrar</button></div><p class="view-p">No abriste La Ría ${eds.length === 1 ? "un día" : `${eds.length} días`}. Esto es lo esencial de cada uno:</p>${eds.map(x => {
+    const items = (x.essentials && x.essentials.length) ? x.essentials.slice(0, 4).map(i => ({ id: i.story, text: i.text })) : (x.stories||[]).slice().sort(sortW).slice(0, 4).map(s => ({ id: s.id, text: s.title }));
+    return `<div class="lost-day"><h4>${esc(fmtLong(x.date))}</h4><ul>${items.map(i => `<li><button data-open="${esc(i.id)}" data-date="${esc(x.date)}">${esc(i.text)}</button></li>`).join("")}</ul></div>`; }).join("")}</section>`;
+}
+function computeMissed(){
+  if (!state.editions.length) return;
+  const newest = state.editions[0].date; let last = null;
+  try { last = localStorage.getItem("laria.lastSeen"); } catch {}
+  if (!state._missedDone) { state._missedDone = true;
+    if (last && last < newest) state.missed = state.editions.filter(x => x.date > last && x.date < newest).map(x => x.date); }
+  try { localStorage.setItem("laria.lastSeen", newest); } catch {}
+}
+
+function viewToday(){
+  const e = edition();
+  if (!state.loaded) return `<div class="empty"><b>Abriendo la edición</b>Un momento…</div>`;
+  if (!e) return `<div class="empty"><b>Todavía no hay edición</b>Cada mañana, antes de las 7, llega aquí la edición del día con las noticias de Bilbao, Euskadi, España y el mundo, ordenadas por secciones.</div>`;
+  let h = "";
+  const t = todayISO(), newest = state.editions[0]?.date;
+  if (e.date !== newest) h += `<div class="note"><span>Estás leyendo la edición del ${esc(fmtLong(e.date))}.</span><button data-go-latest>Ir a la última</button></div>`;
+  else if (e.date !== t) h += `<div class="note"><span>La edición de hoy aún no ha llegado. Esta es la del ${esc(fmtLong(e.date))}.</span></div>`;
+  if (e._partial) { ensureFull(e.date).then(() => render()).catch(() => { e._failed = true; render(); });
+    return h + (e._failed ? `<div class="empty"><b>No se ha podido abrir</b>Comprueba tu conexión e inténtalo de nuevo.</div>` : `<div class="empty"><b>Abriendo la edición</b>Un momento…</div>`); }
+  const all = [...e.stories];
+  const pool = (state.unread ? all.filter(s => !isRead(s.id)) : all).slice().sort(sortW);
+  const briefs = e.briefs || [];
+  if (state.section === "breves") return h + briefsBlock(briefs, "Breves");
+  h += viewBar(all);
+  if (state.section) {
+    const list = pool.filter(s => secOf(s.section) === state.section);
+    const bl = briefs.filter(b => secOf(b.section) === state.section);
+    const cnt = all.filter(s => secOf(s.section) === state.section).length;
+    return h + `<div class="block" style="--sec:var(--s-${state.section})"><div class="block-h"><h3>${esc(SEC[state.section])}</h3><span class="mono">${cnt} noticias</span></div>${state.section === "economia" ? marketsBox(e) : ""}${list.length ? group(list, e.date) : emptyRead()}</div>` +
+      (bl.length ? briefsSection(bl, state.section === "bilbao") : "");
+  }
+  if (e.date === newest) h += lostBlock();
+  if (e.summary) h += `<p class="day-line">${esc(e.summary)}</p>`;
+  // Hoy en 5 minutos (+ la semana)
+  const ess = (e.essentials && e.essentials.length) ? e.essentials.map(x => ({ st: all.find(s => s.id === x.story), text: x.text })).filter(x => x.text)
+    : all.slice().sort(sortW).slice(0, 8).map(s => ({ st: s, text: s.title }));
+  let side = `<section class="minute"><div class="minute-top"><h3>Hoy en 5 minutos</h3>${canSpeak ? `<button class="listen" id="listen5" data-label="Escuchar" aria-pressed="false">${playIcon}<span>Escuchar</span></button>` : ""}</div><ol>${ess.map(x => { const sec = secOf(x.st?.section);
+    return `<li><button class="${x.st && isRead(x.st.id) ? "done" : ""}" style="--sec:var(--s-${sec})" ${x.st ? `data-open="${esc(x.st.id)}" data-date="${esc(e.date)}"` : ""}><span class="kick">${esc(SEC[sec])}</span><span>${esc(x.text)}</span></button></li>`; }).join("")}</ol></section>`;
+  state._ess = ess.map(x => x.text);
+  if (e.weekly && (e.weekly.items||[]).length) {
+    const w = e.weekly;
+    side += `<section class="minute week"><div class="minute-top"><h3>${esc(w.title || "La semana en 10 minutos")}</h3>${canSpeak ? `<button class="listen" id="listenW" data-label="Escuchar" aria-pressed="false">${playIcon}<span>Escuchar</span></button>` : ""}</div>${w.period ? `<div class="week-period">${esc(w.period)}</div>` : ""}<ol>${w.items.map(x => { const sec = secOf(x.section);
+      return `<li><button class="${x.story && isRead(x.story) ? "done" : ""}" style="--sec:var(--s-${sec})" ${x.story && x.date ? `data-open="${esc(x.story)}" data-date="${esc(x.date)}"` : ""}><span class="kick">${esc(SEC[sec])}${x.date ? ` · ${esc(fmtMon(x.date).split(" ")[0])} ${esc(fmtDay(x.date))}` : ""}</span><span>${esc(x.text)}</span></button></li>`; }).join("")}</ol></section>`;
+    state._week = w.items.map(x => x.text);
+  }
+  if (!pool.length) return h + `<div class="front"><div class="f-side">${side}</div><div class="f-main">${emptyRead()}</div></div>` + (briefs.length ? briefsBlock(briefs, "Breves") : "");
+  // Portada: principal + tres destacadas de secciones distintas
+  const lead = pool[0], seconds = [], usedSec = new Set([secOf(lead.section)]);
+  for (const s of pool.slice(1)) { if (seconds.length >= 3) break; if ((s.weight||1) >= 2 && !usedSec.has(secOf(s.section))) { seconds.push(s); usedSec.add(secOf(s.section)); } }
+  const used = new Set([lead.id, ...seconds.map(s => s.id)]);
+  h += `<div class="front"><div class="f-main">${leadHTML(lead, e.date)}${seconds.length ? `<div class="f-seconds">${seconds.map(s => second(s, e.date)).join("")}</div>` : ""}</div><div class="f-side">${side}</div></div>`;
+  for (const [k,l] of SECTIONS) {
+    const list = pool.filter(s => secOf(s.section) === k && !used.has(s.id));
+    const mk = k === "economia" ? marketsBox(e) : "";
+    if (!list.length && !mk) continue;
+    h += `<section class="block" style="--sec:var(--s-${k})"><div class="block-h"><h3>${esc(l)}</h3><span class="mono">${list.length} ${list.length===1?"noticia":"noticias"}</span></div>${mk}${list.length ? group(list, e.date) : ""}</section>`;
+  }
+  if (briefs.length) h += briefsBlock(briefs, "Breves");
+  h += `<p class="foot">Resúmenes redactados a partir de medios de distintas líneas editoriales; cada noticia enlaza a sus fuentes originales para leerla completa.</p>`;
+  return h;
+}
+const allBriefs = () => state.editions.flatMap(e => (e.briefs||[]).map(b => ({...b, _date:e.date})));
+const briefItem = (b, hl) => `<div class="brief" style="--sec:var(--s-${secOf(b.section)})"><span class="b-tag">${esc(b.tag || SEC[secOf(b.section)])}</span><p>${hl ? hl(b.text) : esc(b.text)}</p>${b.source?.url ? `<a href="${esc(b.source.url)}" target="_blank" rel="noopener">${esc(b.source.name || "Fuente")} ↗</a>` : ""}</div>`;
+function briefsList(list, hl, grouped = true){
+  if (!grouped) return `<div class="briefs">${list.map(b => briefItem(b, hl)).join("")}</div>`;
+  let h = "";
+  for (const [k,l] of SECTIONS) { const g = list.filter(b => secOf(b.section) === k); if (!g.length) continue;
+    h += `<h5 style="--sec:var(--s-${k})">${esc(l)}</h5>` + g.map(b => briefItem(b, hl)).join(""); }
+  return `<div class="briefs">${h}</div>`;
+}
+function briefsBlock(list, title){
+  const map = bizkaiaMap(list);
+  if (state.comarca) { const c = COM[state.comarca], sel = list.filter(b => briefComarca(b) === state.comarca);
+    if (sel.length) return `<section class="block" id="breves"><div class="block-h ink"><h3>${esc(title)}</h3><span class="mono">${list.length} breves</span></div>${map}<div class="bzk-sel" style="--sec:var(--s-bilbao)"><b>${esc(c.label)}</b><button class="pill" data-com="">Ver todos</button></div>${briefsList(sel, null, false)}</section>`; }
+  return `<section class="block" id="breves"><div class="block-h ink"><h3>${esc(title)}</h3><span class="mono">${list.length} breves · lectura rápida</span></div>${map}${briefsList(list, null, true)}</section>`;
+}
+function briefsSection(bl, withMap){
+  let map = withMap ? bizkaiaMap(bl) : "", list = bl, sel = "";
+  if (withMap && state.comarca) { const f = bl.filter(b => briefComarca(b) === state.comarca); if (f.length) { list = f; sel = `<div class="bzk-sel"><b>${esc(COM[state.comarca].label)}</b><button class="pill" data-com="">Ver todos</button></div>`; } }
+  return `<section class="block"><div class="block-h ink"><h3>Breves</h3><span class="mono">${bl.length}</span></div>${map}${sel}${briefsList(list, null, false)}</section>`;
+}
+function marketsBox(e){
+  const m = e.markets; if (!m || !(m.items||[]).length) return "";
+  const fmt = c => c == null ? "" : `${c > 0 ? "▲ +" : c < 0 ? "▼ " : ""}${String(c.toFixed(2)).replace(".", ",")}%`;
+  return `<div class="mkt"><div class="mkt-top"><h4>Mercados</h4><span class="mono" style="color:var(--muted)">${esc(m.asOf || "")}</span></div>
+    <div class="mkt-grid">${m.items.map(i => `<div class="mkt-row"><b>${esc(i.name)}</b><span>${esc(i.value)} ${i.change != null ? `<span class="${i.change > 0 ? "up" : i.change < 0 ? "down" : ""}">${fmt(i.change)}</span>` : `<span style="color:var(--muted)">${esc(i.note||"")}</span>`}</span></div>`).join("")}</div>
+    ${m.comment ? `<p>${esc(m.comment)}</p>` : ""}${(m.sources||[]).length ? `<div class="mkt-src">Datos: ${m.sources.map(x => `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>`).join(" · ")}. Informativo, no es consejo de inversión.</div>` : ""}</div>`;
+}
+function group(list, date){
+  const [top, ...rest] = list;
+  return feature(top, date) + (rest.length ? `<div class="list">${rest.map(s => row(s, date, null, false, true)).join("")}</div>` : "");
+}
+
+/* búsqueda sin acentos, con resaltado */
+const fold = c => (c.normalize("NFD").replace(/[̀-ͯ]/g,"")[0] || c).toLowerCase();
+const foldStr = s => [...s].map(fold).join("");
+function highlighter(q){
+  const fq = foldStr(q.trim()); if (!fq) return null;
+  return text => { text = String(text||""); const chars = [...text], f = chars.map(fold).join(""); let out = "", i = 0, j;
+    while ((j = f.indexOf(fq, i)) !== -1) { out += esc(chars.slice(i,j).join("")) + "<mark>" + esc(chars.slice(j, j+fq.length).join("")) + "</mark>"; i = j + fq.length; }
+    return out + esc(chars.slice(i).join("")); };
+}
+function viewSearch(){
+  let h = `<h2 class="view-h">Buscar</h2><p class="view-p">Busca en todas las ediciones guardadas: personas, lugares, temas.</p>
+  <form class="search" id="sform" role="search"><input id="q" type="search" placeholder="Athletic, alquiler, metro…" autocomplete="off" value="${esc(state.query)}" aria-label="Buscar noticias"><button type="button" id="qclear" ${state.query?"":"hidden"}>Borrar</button></form><div class="hits" id="hits"></div>`;
+  return h;
+}
+function renderHits(){
+  const box = $("#hits"); if (!box) return;
+  const q = state.query.trim(); const hl = highlighter(q);
+  let list = allStories();
+  if (state.section) list = list.filter(s => secOf(s.section) === state.section);
+  if (hl) { const fq = foldStr(q); list = list.filter(s => foldStr([s.title, s.dek, ...(s.body||[]), ...(s.keys||[]), s.place, SEC[secOf(s.section)]].join(" ")).includes(fq)); }
+  else if (!state.section) { box.innerHTML = `<p class="view-p" style="margin-top:16px">Escribe una palabra o toca una sección arriba para ver todas sus noticias.</p>`; return; }
+  let bl = allBriefs();
+  if (state.section) bl = bl.filter(b => secOf(b.section) === state.section);
+  if (hl) { const fq = foldStr(q); bl = bl.filter(b => foldStr([b.text, b.tag, SEC[secOf(b.section)]].join(" ")).includes(fq)); }
+  const n = list.length + bl.length;
+  box.innerHTML = n ? `<p class="mono" style="color:var(--muted);margin:16px 0 0">${list.length} noticia${list.length===1?"":"s"}${bl.length ? ` · ${bl.length} breve${bl.length===1?"":"s"}` : ""}</p>` + list.map(s => row(s, s._date, hl || null, true)).join("") +
+      (bl.length ? `<h3 class="mono" style="margin:26px 0 4px;color:var(--muted)">En breves</h3>${briefsList(bl, hl || null, false)}` : "")
+    : `<div class="empty"><b>Sin resultados</b>Prueba con otra palabra o quita el filtro de sección.</div>`;
+}
+function viewSaved(){
+  let h = `<h2 class="view-h">Guardado</h2><p class="view-p">Las noticias que marcas para leer con calma.${uid ? " Se sincronizan entre tu móvil y tu tablet." : STANDALONE ? " Se guardan en este dispositivo." : ""}</p>`;
+  const items = state.saved.map(s => ({ st: findStory(s.id, s.date), date: s.date })).filter(x => x.st);
+  if (!items.length) return h + `<div class="empty"><b>Nada guardado aún</b>Abre una noticia y toca «Guardar» para tenerla aquí.</div>`;
+  return h + items.map(x => row(x.st, x.date, null, true)).join("");
+}
+function viewArchive(){
+  let h = `<h2 class="view-h">Archivo</h2><p class="view-p">Todas las ediciones. Toca una para leerla como el día que salió.</p>`;
+  if (!state.editions.length) return h + `<div class="empty"><b>Archivo vacío</b>Las ediciones se irán guardando aquí cada día.</div>`;
+  return h + `<div class="ed-list">` + state.editions.map(e => { const c = counts(e);
+    return `<button class="ed" data-ed="${esc(e.date)}" aria-current="${e.date===state.current}"><div class="ed-date">${esc(fmtDay(e.date))}<small>${esc(fmtMon(e.date))}</small></div><div style="min-width:0"><span class="mono" style="color:var(--muted)">Nº ${esc(e.number ?? "—")} · ${e.stories.length} noticias${(e.briefs?.length || e.briefsCount) ? ` · ${e.briefs?.length || e.briefsCount} breves` : ""}${(e.weekly || e.hasWeekly) ? " · resumen semanal" : ""}</span><p>${esc(e.summary || e.stories[0]?.title || "")}</p><div class="mini-tide">${SECTIONS.filter(([k])=>c[k]).map(([k]) => `<span style="--sec:var(--s-${k});--n:${c[k]}"></span>`).join("")}</div></div></button>`; }).join("") + `</div>`;
+}
+function render(){
+  renderMast(); renderIndex();
+  const v = $("#view");
+  v.innerHTML = state.tab === "buscar" ? viewSearch() : state.tab === "guardado" ? viewSaved() : state.tab === "hemeroteca" ? viewArchive() : viewToday();
+  if (state.tab === "buscar") renderHits();
+  if (state._anim) { state._anim = false; v.classList.remove("enter"); void v.offsetWidth; v.classList.add("enter"); }
+  document.querySelectorAll(".tabs button").forEach(b => b.setAttribute("aria-current", b.dataset.tab === state.tab ? "page" : "false"));
+}
+
+/* ---------- reader ---------- */
+let askCtl = null, lastFocus = null, openKey = null;
+function openReader(id, date){
+  const st = findStory(id, date); if (!st) return;
+  lastFocus = document.activeElement; openKey = {id, date};
+  const sec = secOf(st.section), r = $("#reader"); r.classList.remove("closing");
+  r.style.setProperty("--sec", `var(--s-${sec})`);
+  r.innerHTML = `<div class="reader-bar"><button class="pill" id="r-close" aria-label="Cerrar noticia">← Volver</button><div class="bar-right"><button class="pill" id="r-fz" aria-label="Tamaño de letra">Aa</button>${canSpeak ? `<button class="pill speak" id="r-speak" data-label="Escuchar" aria-pressed="false"><span>Escuchar</span></button>` : ""}<button class="pill" id="r-save" aria-pressed="${isSaved(st.id)}">${isSaved(st.id) ? "Guardada" : "Guardar"}</button></div></div>
+  <article class="article">${cover(st)}
+    <div class="meta mono" style="margin-top:14px"><span class="sec-tag">${esc(SEC[sec])}</span>${threadOf(st) ? `<span class="t-chip">· ${esc(threadOf(st).label)}</span>` : ""}<span>· ${esc(fmtLong(date))}</span>${st.place ? `<span>· ${esc(st.place)}</span>` : ""}<span>· ${readMin(st)} min</span></div>
+    <h1 id="r-title">${esc(st.title)}</h1><p class="dek">${esc(st.dek)}</p>
+    <div class="body">${(st.body||[]).map(p => `<p>${esc(p)}</p>`).join("")}</div>
+    ${st.keys?.length ? `<div class="box keys"><h5>Las claves</h5><ul>${st.keys.map(k => `<li>${esc(k)}</li>`).join("")}</ul></div>` : ""}
+    ${st.why ? `<div class="box why"><h5>Por qué importa</h5><p>${esc(st.why)}</p></div>` : ""}
+    ${threadBlock(st)}
+    <div class="ask" id="ask" hidden><div class="ask-top"><h5>Profundizar</h5><button class="ask-btn" id="ask-btn">Explícame el contexto</button></div><div class="ask-out" id="ask-out"><p class="ask-note">Claude te explica los antecedentes y qué está en juego, a partir de esta noticia.</p></div></div>
+    <div class="sources"><h5 class="mono" style="color:var(--muted)">Fuentes · leer la noticia completa</h5><ol>${(st.sources||[]).map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener"><span>${esc(s.title || prettyUrl(s.url))}</span><b>${esc(s.name)} ↗</b></a></li>`).join("")}</ol></div>
+  </article>`;
+  r.hidden = false; r.scrollTop = 0; document.body.style.overflow = "hidden";
+  $("#r-close").focus();
+  $("#r-close").onclick = closeReader;
+  $("#r-save").onclick = () => toggleSave(st.id, date);
+  $("#r-fz").onclick = cycleFz;
+  if (canSpeak) $("#r-speak").onclick = ev => speak([st.title, st.dek, ...(st.body||[]), st.keys?.length ? "Las claves. " + st.keys.join(" ") : ""], ev.currentTarget);
+  markRead(st.id);
+  if (sample) { $("#ask").hidden = false; $("#ask-btn").onclick = () => askContext(st, date); }
+}
+function threadBlock(st){ const t = threadOf(st); if (!t) return "";
+  const items = threadItems(st);
+  return `<div class="thread"><h5>Sigue la historia</h5><span class="t-label">${esc(t.label)}</span>${items.length ? `<ol>${items.map(x => `<li style="--sec:var(--s-${secOf(x.s.section)})"><button data-open="${esc(x.s.id)}" data-date="${esc(x.date)}"><small>${esc(fmtLong(x.date))}</small><b>${esc(x.s.title)}</b></button></li>`).join("")}</ol>` : `<p class="t-empty">Es la primera noticia de este tema en La Ría. Las siguientes aparecerán aquí, por orden.</p>`}</div>`; }
+async function openStory(id, date){
+  let st = findStory(id, date);
+  if (STANDALONE && (!st || st.body === undefined)) { try { await ensureFull(date); } catch {} }
+  openReader(id, date);
+}
+const prettyUrl = u => { try { const x = new URL(u); return x.hostname.replace(/^www\./,"") + x.pathname.replace(/\/$/,"").split("/").slice(-1)[0].replace(/-/g," ").slice(0,80); } catch { return u; } };
+function closeReader(){ askCtl?.abort(); stopSpeak(); const r = $("#reader"); if (r.hidden || r.classList.contains("closing")) return;
+  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const finish = () => { r.classList.remove("closing"); r.hidden = true; r.innerHTML = ""; };
+  r.classList.add("closing"); if (reduce) finish(); else setTimeout(finish, 190);
+  render(); openKey = null; document.body.style.overflow = ""; lastFocus?.focus?.(); }
+async function askContext(st, date){
+  const btn = $("#ask-btn"), out = $("#ask-out"); askCtl?.abort(); askCtl = new AbortController();
+  btn.disabled = true; out.innerHTML = `<p class="ask-note">Pensando…</p>`;
+  const prompt = `Eres la editora de contexto de un diario personal de Bilbao. Explica en español, en 3 o 4 párrafos breves y claros, el contexto y los antecedentes de esta noticia para una lectora de Bilbao de 20 años que quiere entenderla a fondo: de dónde viene, quiénes son los actores y qué está en juego. Usa solo la información de la noticia y conocimiento general bien establecido. Si un dato puede haber cambiado o no estás segura, dilo claramente. No inventes cifras, fechas ni citas. No uses títulos ni listas. Termina con una línea que empiece por "Para seguir leyendo:" y sugiera qué buscar.\n\nNOTICIA (${date}):\n${JSON.stringify({titular: st.title, entradilla: st.dek, texto: st.body, claves: st.keys, lugar: st.place, fuentes: (st.sources||[]).map(s=>s.name)})}`;
+  const paint = t => { out.innerHTML = t.replace(/\*\*/g,"").split(/\n\s*\n|\n/).filter(x=>x.trim()).map(p => `<p>${esc(p)}</p>`).join(""); };
+  try {
+    const { truncated } = await sample(prompt, { signal: askCtl.signal, cache: { gcTime: 86400000 }, onText: ({text}) => paint(text) });
+    out.insertAdjacentHTML("beforeend", `<p class="ask-note">${truncated ? "La respuesta se cortó; vuelve a pedirla más tarde. " : ""}Explicación generada por Claude: contrasta los datos con las fuentes.</p>`);
+  } catch (e) {
+    if (e.text) paint(e.text); else if (e.code !== "cancelled") out.innerHTML = "";
+    const msg = { not_granted: "Has preferido no usar Claude en esta página.", sampling_disabled: "Claude no está disponible en esta cuenta.", rate_limited: "Has hecho muchas preguntas seguidas. Prueba de nuevo en un rato.", session_expired: "Tu sesión ha caducado. Vuelve a entrar en Claude.", refused: "Claude no ha podido responder sobre esta noticia." }[e.code] || (e.code === "cancelled" ? "" : "No se ha podido generar la explicación. Prueba de nuevo.");
+    if (msg) out.insertAdjacentHTML("beforeend", `<p class="ask-note">${esc(msg)}</p>`);
+    if (["not_granted","sampling_disabled","not_declared","capability_disabled","capability_removed"].includes(e.code)) { sample = null; }
+  } finally { if (btn.isConnected) btn.disabled = !sample; }
+}
+
+/* ---------- saved ---------- */
+let saving = Promise.resolve();
+function toggleSave(id, date){
+  state.saved = isSaved(id) ? state.saved.filter(s => s.id !== id) : [{id, date}, ...state.saved].slice(0, 300);
+  const b = $("#r-save"); if (b) { b.setAttribute("aria-pressed", isSaved(id)); b.textContent = isSaved(id) ? "Guardada" : "Guardar"; }
+  persistSaved(); render();
+}
+function persistSaved(){
+  const data = { saved: state.saved };
+  try { localStorage.setItem("laria.saved", JSON.stringify(state.saved)); } catch {}
+  if (db && uid) saving = saving.then(() => db.doc(`data/users/${uid}/prefs`).set(data)).catch(() => {});
+}
+
+/* ---------- events ---------- */
+document.addEventListener("click", ev => {
+  const t = ev.target.closest("[data-open],[data-sec],[data-tab],[data-ed],[data-go-latest]"); if (!t) return;
+  if (t.dataset.open) return openStory(t.dataset.open, t.dataset.date);
+  if (t.dataset.sec !== undefined) { state.section = t.dataset.sec || null; state.comarca = null; state._anim = true; render(); const y = $(".mast").offsetTop + $(".mast").offsetHeight; if (window.scrollY > y) window.scrollTo({top: y, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth"}); return; }
+  if (t.dataset.tab) { stopSpeak(); state._anim = state.tab !== t.dataset.tab; state.tab = t.dataset.tab; if (state.section === "breves") state.section = null; if (t.dataset.tab !== "buscar") state.section = state.tab === "hoy" ? state.section : null; render(); window.scrollTo({top:0}); if (state.tab === "buscar") $("#q")?.focus(); try { localStorage.setItem("laria.tab", state.tab); } catch {} return; }
+  if (t.dataset.ed) { state.current = t.dataset.ed; state.section = null; state.tab = "hoy"; state._anim = true; render(); window.scrollTo({top:0}); return; }
+  if (t.dataset.goLatest !== undefined) { state.current = state.editions[0]?.date; state._anim = true; render(); }
+});
+function cycleFz(){ state.fz = (state.fz + 1) % 3; applyFz(); try { localStorage.setItem("laria.fz", state.fz); } catch {} if ($("#reader").hidden) render(); else { const b = $("[data-fz]"); if (b) render(); } }
+document.addEventListener("click", ev => {
+  const u = ev.target.closest("[data-unread]"); if (u) { state.unread = u.dataset.unread === "1"; try { localStorage.setItem("laria.unread", state.unread ? "1" : "0"); } catch {} state._anim = true; render(); return; }
+  if (ev.target.closest("[data-fz]")) { cycleFz(); return; }
+  const c = ev.target.closest("[data-com]"); if (c && !c.disabled) { const id = c.dataset.com || null; state.comarca = state.comarca === id ? null : id; render(); return; }
+  if (ev.target.closest("[data-lost-off]")) { state.missedOff = true; state._anim = true; render(); }
+});
+document.addEventListener("input", ev => { if (ev.target.id === "q") { state.query = ev.target.value; $("#qclear").hidden = !state.query; renderHits(); } });
+document.addEventListener("submit", ev => { ev.preventDefault(); });
+document.addEventListener("click", ev => { if (ev.target.id === "qclear") { state.query = ""; const q = $("#q"); q.value = ""; q.focus(); ev.target.hidden = true; renderHits(); } });
+document.addEventListener("click", ev => { const b = ev.target.closest("#listen5"); if (b) speak(["Hoy en cinco minutos.", ...(state._ess||[])], b);
+  const w = ev.target.closest("#listenW"); if (w) speak(["La semana en diez minutos.", ...(state._week||[])], w); });
+document.addEventListener("keydown", ev => { if (ev.key === "Escape" && !$("#reader").hidden) closeReader(); });
+
+/* ---------- boot ---------- */
+try { const s = JSON.parse(localStorage.getItem("laria.saved") || "[]"); if (Array.isArray(s)) state.saved = s; } catch {}
+try { const r = JSON.parse(localStorage.getItem("laria.read") || "[]"); if (Array.isArray(r)) state.read = r; } catch {}
+try { state.unread = localStorage.getItem("laria.unread") === "1"; const f = +localStorage.getItem("laria.fz"); if (f >= 0 && f <= 2) state.fz = f; } catch {}
+applyFz();
+render();
+
+(async () => {
+  const timeout = setTimeout(() => { if (!state.loaded) { state.loaded = true; render(); } }, 12000);
+  try {
+    if (STANDALONE) {
+      clearTimeout(timeout);
+      try {
+        const idx = await fetch(`${DATA}index.json`, { cache: "no-cache" }).then(r => { if (!r.ok) throw new Error("no"); return r.json(); });
+        state.editions = (idx.editions || []).map(e => ({ ...e, _partial: true }));
+        state.current = state.editions[0]?.date || null;
+        if (state.current) await ensureFull(state.current).catch(() => {});
+        computeMissed();
+      } catch {}
+      state.loaded = true; render();
+      const flag = () => { let el = $("#offline"); if (!navigator.onLine) { if (!el) document.body.insertAdjacentHTML("beforeend", `<div class="offline" id="offline">Sin conexión · leyendo lo guardado</div>`); } else el?.remove(); };
+      addEventListener("online", flag); addEventListener("offline", flag); flag();
+      if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+      return;
+    }
+    claude.use("sample").then(s => { sample = s; if (openKey && s) { const a = $("#ask"); if (a) { a.hidden = false; const st = findStory(openKey.id, openKey.date); $("#ask-btn").onclick = () => askContext(st, openKey.date); } } });
+    const user = await claude.use("user");
+    uid = user ? await user.id().catch(() => null) : null;
+    db = await claude.use("db");
+    if (!db) { state.loaded = true; render(); return; }
+    db.collection("editions").orderBy("date","desc").limit(400).onSnapshot(snap => {
+      clearTimeout(timeout);
+      const prevNewest = state.editions[0]?.date;
+      state.editions = snap.docs.map(d => d.data()).filter(e => e && e.date && Array.isArray(e.stories) && e.stories.length);
+      if (!state.current || state.current === prevNewest || !state.editions.some(e => e.date === state.current)) state.current = state.editions[0]?.date || null;
+      computeMissed();
+      state.loaded = true; render();
+      if (openKey && !$("#reader").hidden && !findStory(openKey.id, openKey.date)) closeReader();
+    }, () => { state.loaded = true; render(); });
+    if (uid) {
+      const snap = await db.doc(`data/users/${uid}/prefs`).get().catch(() => null);
+      const remote = snap?.exists ? snap.data()?.saved : null;
+      if (Array.isArray(remote)) {
+        const merged = [...remote]; state.saved.forEach(s => { if (!merged.some(m => m.id === s.id)) merged.push(s); });
+        const changed = merged.length !== remote.length; state.saved = merged; render(); if (changed) persistSaved();
+      } else if (state.saved.length) persistSaved();
+      const rs = await db.doc(`data/users/${uid}/read`).get().catch(() => null);
+      const rr = rs?.exists ? rs.data()?.ids : null;
+      if (Array.isArray(rr)) { state.read = [...new Set([...rr, ...state.read])].slice(-2500); render(); }
+    }
+  } catch { state.loaded = true; render(); }
+})();
+})();
+</script>
+
+</body>
+</html>

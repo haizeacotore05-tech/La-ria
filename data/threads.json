@@ -1,0 +1,116 @@
+{
+ "vivienda": {
+  "label": "Crisis de la vivienda",
+  "last": "2026-10-09",
+  "first": "2026-10-08",
+  "count": 14
+ },
+ "elecciones-29n": {
+  "label": "Elecciones 29-N",
+  "last": "2026-10-09",
+  "first": "2026-10-08",
+  "count": 9
+ },
+ "tribunales-psoe": {
+  "label": "Casos judiciales del PSOE",
+  "last": "2026-10-09",
+  "first": "2026-10-08",
+  "count": 3
+ },
+ "juicio-maduro": {
+  "label": "Juicio a Maduro",
+  "last": "2026-10-09",
+  "first": "2026-10-09",
+  "count": 1
+ },
+ "guerra-iran": {
+  "label": "Guerra de Irán",
+  "last": "2026-10-09",
+  "first": "2026-10-09",
+  "count": 2
+ },
+ "protestas-francia": {
+  "label": "Protestas estudiantiles en Francia",
+  "last": "2026-10-09",
+  "first": "2026-10-09",
+  "count": 1
+ },
+ "bellas-artes": {
+  "label": "Museo de Bellas Artes",
+  "last": "2026-10-09",
+  "first": "2026-10-08",
+  "count": 2
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-10-09",
+  "first": "2026-10-08",
+  "count": 3
+ },
+ "inundaciones-bilbao": {
+  "label": "Inundaciones en Bilbao",
+  "last": "2026-10-08",
+  "first": "2026-10-08",
+  "count": 1
+ },
+ "metro-bilbao": {
+  "label": "Metro de Bilbao",
+  "last": "2026-10-08",
+  "first": "2026-10-08",
+  "count": 1
+ },
+ "volotea": {
+  "label": "Crisis de Volotea",
+  "last": "2026-10-08",
+  "first": "2026-10-08",
+  "count": 1
+ },
+ "autogobierno": {
+  "label": "Autogobierno vasco",
+  "last": "2026-10-08",
+  "first": "2026-10-08",
+  "count": 2
+ },
+ "mpox": {
+  "label": "Viruela del mono",
+  "last": "2026-10-08",
+  "first": "2026-10-08",
+  "count": 1
+ },
+ "sanidad": {
+  "label": "Sanidad",
+  "last": "2026-10-08",
+  "first": "2026-10-08",
+  "count": 2
+ },
+ "ucrania": {
+  "label": "Guerra de Ucrania",
+  "last": "2026-10-08",
+  "first": "2026-10-08",
+  "count": 1
+ },
+ "gaza": {
+  "label": "Guerra de Gaza",
+  "last": "2026-10-08",
+  "first": "2026-10-08",
+  "count": 1
+ },
+ "italia-meloni": {
+  "label": "Italia de Meloni",
+  "last": "2026-10-08",
+  "first": "2026-10-08",
+  "count": 2
+ },
+ "eeuu-midterms": {
+  "label": "Elecciones en EE UU",
+  "last": "2026-10-08",
+  "first": "2026-10-08",
+  "count": 1
+ },
+ "pena-muerte-eeuu": {
+  "label": "Pena de muerte en EE UU",
+  "last": "2026-10-08",
+  "first": "2026-10-08",
+  "count": 1
+ }
+}
