@@ -1,21 +1,57 @@
 {
  "vivienda": {
   "label": "Crisis de la vivienda",
-  "last": "2026-10-09",
+  "last": "2026-10-10",
   "first": "2026-10-08",
-  "count": 14
+  "count": 16
+ },
+ "pnv-bizkaia": {
+  "label": "PNV de Bizkaia",
+  "last": "2026-10-10",
+  "first": "2026-10-10",
+  "count": 1
+ },
+ "autogobierno": {
+  "label": "Autogobierno vasco",
+  "last": "2026-10-10",
+  "first": "2026-10-08",
+  "count": 3
  },
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-10-09",
+  "last": "2026-10-10",
   "first": "2026-10-08",
-  "count": 9
+  "count": 13
  },
  "tribunales-psoe": {
   "label": "Casos judiciales del PSOE",
-  "last": "2026-10-09",
+  "last": "2026-10-10",
+  "first": "2026-10-08",
+  "count": 4
+ },
+ "marruecos-ceuta": {
+  "label": "Crisis de Ceuta",
+  "last": "2026-10-10",
+  "first": "2026-10-10",
+  "count": 1
+ },
+ "guerra-iran": {
+  "label": "Guerra de Irán",
+  "last": "2026-10-10",
+  "first": "2026-10-09",
+  "count": 3
+ },
+ "bellas-artes": {
+  "label": "Museo de Bellas Artes",
+  "last": "2026-10-10",
   "first": "2026-10-08",
   "count": 3
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-10-10",
+  "first": "2026-10-08",
+  "count": 5
  },
  "juicio-maduro": {
   "label": "Juicio a Maduro",
@@ -23,29 +59,11 @@
   "first": "2026-10-09",
   "count": 1
  },
- "guerra-iran": {
-  "label": "Guerra de Irán",
-  "last": "2026-10-09",
-  "first": "2026-10-09",
-  "count": 2
- },
  "protestas-francia": {
   "label": "Protestas estudiantiles en Francia",
   "last": "2026-10-09",
   "first": "2026-10-09",
   "count": 1
- },
- "bellas-artes": {
-  "label": "Museo de Bellas Artes",
-  "last": "2026-10-09",
-  "first": "2026-10-08",
-  "count": 2
- },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-10-09",
-  "first": "2026-10-08",
-  "count": 3
  },
  "inundaciones-bilbao": {
   "label": "Inundaciones en Bilbao",
@@ -64,12 +82,6 @@
   "last": "2026-10-08",
   "first": "2026-10-08",
   "count": 1
- },
- "autogobierno": {
-  "label": "Autogobierno vasco",
-  "last": "2026-10-08",
-  "first": "2026-10-08",
-  "count": 2
  },
  "mpox": {
   "label": "Viruela del mono",

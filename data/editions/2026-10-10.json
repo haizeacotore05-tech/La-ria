@@ -1,0 +1,1472 @@
+{
+ "briefs": [
+  {
+   "comarca": "ar",
+   "id": "2026-10-10-b01",
+   "section": "euskadi",
+   "source": {
+    "name": "BilbaoHiria",
+    "url": "https://bilbaohiria.com/bizkaia/fiestas-basauri-2026-sanfaustos-programa-txupinazo/"
+   },
+   "tag": "Basauri",
+   "text": "Basauri lanza hoy el txupinazo de los Sanfaustos: nueve días de fiestas que arrancan este sábado."
+  },
+  {
+   "comarca": "md",
+   "id": "2026-10-10-b02",
+   "section": "euskadi",
+   "source": {
+    "name": "BilbaoHiria",
+    "url": "https://bilbaohiria.com/bizkaia/getxo-monitora-comedor-escolar-maltrato-nino-fiscalia-delito-grave/"
+   },
+   "tag": "Getxo",
+   "text": "La Fiscalía investiga a una monitora de comedor escolar de Getxo por un presunto maltrato a un alumno, según BilbaoHiria."
+  },
+  {
+   "comarca": "mi",
+   "id": "2026-10-10-b03",
+   "section": "euskadi",
+   "source": {
+    "name": "BilbaoHiria",
+    "url": "https://bilbaohiria.com/bizkaia/tk-maxx-megapark-barakaldo-apertura-19-noviembre/"
+   },
+   "tag": "Barakaldo",
+   "text": "TK Maxx abrirá su tienda en Megapark Barakaldo el 19 de noviembre, con descuentos de hasta el 60%."
+  },
+  {
+   "comarca": "en",
+   "id": "2026-10-10-b04",
+   "section": "euskadi",
+   "source": {
+    "name": "BilbaoHiria",
+    "url": "https://bilbaohiria.com/bizkaia/enkarterri-transporte-publico-rural-bizkaibus-juntas-generales/"
+   },
+   "tag": "Enkarterri",
+   "text": "Enkarterri tendrá transporte público rural integrado en la red de Bizkaibus, tras la aprobación en las Juntas Generales."
+  },
+  {
+   "id": "2026-10-10-b05",
+   "section": "euskadi",
+   "source": {
+    "name": "BilbaoHiria",
+    "url": "https://bilbaohiria.com/bizkaia/que-es-etxetic-como-solicitar-bizkaia-pecef-2/"
+   },
+   "tag": "Cuidados",
+   "text": "EtxeTIC, el servicio de la Diputación de Bizkaia para cuidar en casa a personas dependientes, es gratuito; BilbaoHiria explica cómo solicitarlo."
+  },
+  {
+   "id": "2026-10-10-b06",
+   "section": "euskadi",
+   "source": {
+    "name": "Orain (EITB)",
+    "url": "https://orain.eus/es/politica/2026/10/09/la-ertzaintza-incauta-247-armas-blancas-en-lo-va-2026/"
+   },
+   "tag": "Seguridad",
+   "text": "La Ertzaintza ha incautado 247 armas blancas en lo que va de 2026, y el consejero defiende en el Parlamento el plan de prevención."
+  },
+  {
+   "id": "2026-10-10-b07",
+   "section": "euskadi",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/euskadi/parlamento-vasco-rechaza-generalizar-veto-viviendas-protegidas-pierdan-calificacion-permanente_1_13571414.html"
+   },
+   "tag": "Parlamento Vasco",
+   "text": "El Parlamento Vasco rechaza generalizar el veto a que las viviendas protegidas pierdan su calificación permanente, según elDiario.es."
+  },
+  {
+   "id": "2026-10-10-b08",
+   "section": "euskadi",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/euskadi/trabajadores-ets-incrementan-protestas-puesta-marcha-nuevo-topo-donostia_1_13571690.html"
+   },
+   "tag": "Donostia",
+   "text": "Los trabajadores de ETS intensifican sus protestas ante la puesta en marcha del nuevo Topo de Donostia, según elDiario.es."
+  },
+  {
+   "id": "2026-10-10-b09",
+   "section": "espana",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/politica/psoe-estudia-candidaturas-conjuntas-senado-fuerzas-izquierda-evitar-mayoria-pp_1_13576621.html"
+   },
+   "tag": "PSOE",
+   "text": "El PSOE estudia listas conjuntas al Senado con otras fuerzas de izquierda; el viernes 16 vence el plazo para comunicar coaliciones y el 17 se reúne el Comité Federal."
+  },
+  {
+   "id": "2026-10-10-b10",
+   "section": "espana",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13574155_1125748.html"
+   },
+   "tag": "Frente Amplio",
+   "text": "Colau invita a Rufián a sumarse al Frente Amplio, según elDiario.es; BilbaoHiria dice que decidirá su candidatura en ERC el mismo día que se defina la coalición."
+  },
+  {
+   "id": "2026-10-10-b11",
+   "section": "espana",
+   "source": {
+    "name": "El Independiente",
+    "url": "https://www.elindependiente.com/espana/2026/10/09/albiol-el-duro-en-okupacion-seguridad-e-inmigracion-ilegal-que-feijoo-baraja-para-la-lista-barcelonesa/"
+   },
+   "tag": "PP",
+   "text": "El Independiente cuenta que Feijóo baraja a Xavier García Albiol, conocido por sus posturas duras sobre okupación y seguridad, para la lista del PP en Barcelona."
+  },
+  {
+   "id": "2026-10-10-b12",
+   "section": "espana",
+   "source": {
+    "name": "The Objective",
+    "url": "https://theobjective.com/espana/politica/2026-10-09/torres-listas-psoe-canarias/"
+   },
+   "tag": "PSOE",
+   "text": "Según The Objective, el ministro Ángel Víctor Torres renuncia a ir en las listas del PSOE por Canarias; el medio habla de relevo de fieles de Sánchez."
+  },
+  {
+   "id": "2026-10-10-b13",
+   "section": "espana",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/politica/fiscalia-pide-supremo-permita-votar-nacionalizados-ley-nietos_1_13575579.html"
+   },
+   "tag": "Ley de nietos",
+   "text": "La Fiscalía pide al Supremo que permita votar a todos los nacionalizados por la ley de nietos, mientras Iustitia Europa solicita suspender las elecciones."
+  },
+  {
+   "id": "2026-10-10-b14",
+   "section": "espana",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/politica/juez-cita-directivo-quiron-presunto-soborno-pareja-ayuso-negocio-mascarillas_1_13576042.html"
+   },
+   "tag": "Madrid",
+   "text": "Un juez cita a un directivo de Quirón por un presunto soborno vinculado a la pareja de Isabel Díaz Ayuso en un negocio de mascarillas, según elDiario.es."
+  },
+  {
+   "id": "2026-10-10-b15",
+   "section": "mundo",
+   "source": {
+    "name": "El Español",
+    "url": "https://www.elespanol.com/mundo/america/eeuu/20261009/pentagono-retransmitira-directo-primera-ejecucion-militar-fusilamiento-ii-guerra-mundial/1003744414536_0.html"
+   },
+   "tag": "Pena de muerte",
+   "text": "El Pentágono emitirá en directo el fusilamiento de Nidal Hasan, autor del ataque de Fort Hood, previsto para el 3 de diciembre; la ONU lo equipara a una ejecución pública."
+  },
+  {
+   "id": "2026-10-10-b16",
+   "section": "mundo",
+   "source": {
+    "name": "El Español",
+    "url": "https://www.elespanol.com/motor/20261009/china-promete-ue-reducir-mitad-exportaciones-coches-hibridos-solo-primer-paso-no-solucion/1003744415395_0.html"
+   },
+   "tag": "UE-China",
+   "text": "China promete a la UE reducir a la mitad sus exportaciones de coches híbridos, aunque Pekín lo describe solo como un primer paso, según El Español."
+  },
+  {
+   "id": "2026-10-10-b17",
+   "section": "mundo",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/internacional/agente-ice-dispara-migrante-dominicano-nueva-york-iba-coche-hijo-5-anos_1_13574058.html"
+   },
+   "tag": "EE UU",
+   "text": "Un agente de ICE dispara y hiere en Nueva York a un hombre dominicano que conducía con su hijo de 5 años en el asiento trasero, según elDiario.es."
+  },
+  {
+   "id": "2026-10-10-b18",
+   "section": "economia",
+   "source": {
+    "name": "El Español",
+    "url": "https://www.elespanol.com/invertia/medios/20261009/netflix-planea-despedir-trabajadores-alrededor-plantilla/1003744415775_0.html"
+   },
+   "tag": "Empleo",
+   "text": "Netflix planea despedir a unas 850 personas, alrededor del 5% de su plantilla, según El Español."
+  },
+  {
+   "id": "2026-10-10-b19",
+   "section": "economia",
+   "source": {
+    "name": "El Independiente",
+    "url": "https://www.elindependiente.com/economia/2026/10/09/trabajadores-pagaran-255-euros-irpf-hacienda-adaptar-impuesto-inflacion/"
+   },
+   "tag": "IRPF",
+   "text": "Según El Independiente, los trabajadores podrían pagar hasta 255 euros más de IRPF porque Hacienda no ha ajustado el impuesto a la inflación."
+  },
+  {
+   "id": "2026-10-10-b20",
+   "section": "economia",
+   "source": {
+    "name": "The Objective",
+    "url": "https://theobjective.com/espana/cataluna/2026-10-09/barcelona-ibi-pisos-turisticos-150-decretos/"
+   },
+   "tag": "Turismo",
+   "text": "Barcelona subirá el IBI de los pisos turísticos hasta el 150% tras publicarse los decretos en el BOE, según The Objective."
+  },
+  {
+   "id": "2026-10-10-b21",
+   "section": "sociedad",
+   "source": {
+    "name": "El Independiente",
+    "url": "https://www.elindependiente.com/espana/2026/10/09/cirujano-asesinado-malaga-amenazas-dia-antes-tiroteo/"
+   },
+   "tag": "Sucesos",
+   "text": "El cirujano asesinado en su clínica de Marbella había recibido amenazas de un paciente el día antes del tiroteo, según El Independiente."
+  },
+  {
+   "comarca": "bi",
+   "id": "2026-10-10-b22",
+   "section": "cultura",
+   "source": {
+    "name": "BilbaoHiria",
+    "url": "https://bilbaohiria.com/bilbao/balerdi-linea-infinita-museo-bellas-artes-bilbao-gabinete/"
+   },
+   "tag": "Bellas Artes",
+   "text": "El Gabinete del Museo de Bellas Artes de Bilbao se estrena con 72 obras de Balerdi bajo el título «Línea infinita»."
+  },
+  {
+   "id": "2026-10-10-b23",
+   "section": "deportes",
+   "source": {
+    "name": "Kirolak EITB",
+    "url": "https://kirolakeitb.eus/es/ultimas-noticias.kosner-baskonia-presenta-pivot-marcio-santos-aporto-energia-estilo-brasileno-sonreir-cada-cosa-hacemos/"
+   },
+   "tag": "Baskonia",
+   "text": "El Kosner Baskonia presenta al pívot brasileño Márcio Santos, que promete aportar energía y estilo brasileño."
+  },
+  {
+   "id": "2026-10-10-b24",
+   "section": "deportes",
+   "source": {
+    "name": "Kirolak EITB",
+    "url": "https://kirolakeitb.eus/es/ultimas-noticias.euskalteleuskadi-ficha-david-gonzalez-2028/"
+   },
+   "tag": "Ciclismo",
+   "text": "Euskaltel-Euskadi ficha al ciclista David González hasta 2028."
+  },
+  {
+   "id": "2026-10-10-b25",
+   "section": "deportes",
+   "source": {
+    "name": "Kirolak EITB",
+    "url": "https://kirolakeitb.eus/es/ciclismo/2026/10/07/ion-izagirre-correra-el-giro-lombardia-una-ferula-en-la-muneca/"
+   },
+   "tag": "Ciclismo",
+   "text": "Ion Izagirre correrá el Giro de Lombardía pese a llevar una férula en la muñeca."
+  }
+ ],
+ "date": "2026-10-10",
+ "essentials": [
+  {
+   "story": "2026-10-10-pnv-relevo-etxanobe",
+   "text": "El PNV de Bizkaia releva a Etxanobe y propone a Ibone Bengoetxea como candidata a diputada general de 2027; los afiliados deberán ratificarla desde mediados de octubre."
+  },
+  {
+   "story": "2026-10-10-athletic-rayo-hoy",
+   "text": "El Athletic juega hoy a las 14:00 en Vallecas sin Nico Williams, Djaló, Yuri ni Sancet, y podría debutar el juvenil Imga."
+  },
+  {
+   "story": "2026-10-10-tiempo-puente-pilar",
+   "text": "Hoy hace 21 grados y no llueve; el domingo hay un 50% de probabilidad de lluvia débil, y el lunes y el martes habrá niebla con 23 y 25 grados."
+  },
+  {
+   "story": "2026-10-10-bellas-artes-ultimos-dias-gratis",
+   "text": "La entrada al nuevo Museo de Bellas Artes es gratis hasta el martes 13 de octubre, incluido el puente del Pilar."
+  },
+  {
+   "story": "2026-10-10-calculadora-alquiler",
+   "text": "El Gobierno ha lanzado una calculadora oficial: si tu alquiler supera el índice de referencia no puede subir, y si no, la subida máxima es del 2% hasta fin de 2027."
+  },
+  {
+   "story": "2026-10-10-pedraz-psoe-leire",
+   "text": "El juez Pedraz no investiga al PSOE como partido por ahora; antes quiere la declaración de Santos Cerdán y revisar los pagos."
+  },
+  {
+   "story": "2026-10-10-banco-espana-previsiones",
+   "text": "El Banco de España prevé una inflación del 3,9% este año y un déficit de un millón de viviendas en 2028, aunque mejora su previsión de crecimiento."
+  },
+  {
+   "story": "2026-10-10-pillay-nobel-cpi",
+   "text": "Navi Pillay gana el Nobel de la Paz y EE UU sanciona a la Corte Penal Internacional a las pocas horas; la ONU lo condena."
+  }
+ ],
+ "generatedAt": "2026-10-10T06:23:31+02:00",
+ "markets": {
+  "asOf": "Cierre del viernes 9 de octubre",
+  "comment": "El Ibex 35 cerró la semana en 19.033 puntos tras subir en torno a un 0,5%, con ArcelorMittal y Cellnex entre los valores que más subieron y Telefónica como principal lastre.",
+  "items": [
+   {
+    "change": 0.55,
+    "name": "Ibex 35",
+    "note": "Variación calculada frente al cierre del jueves (18.928,9)",
+    "value": "19.033,1"
+   },
+   {
+    "change": 1.04,
+    "name": "Iberdrola",
+    "note": "17:29, antes de la subasta",
+    "value": "21,33 €"
+   },
+   {
+    "change": 0.56,
+    "name": "BBVA",
+    "note": "17:29, antes de la subasta",
+    "value": "23,15 €"
+   },
+   {
+    "change": 1.39,
+    "name": "Santander",
+    "note": "17:29, antes de la subasta",
+    "value": "12,08 €"
+   },
+   {
+    "change": -1.4,
+    "name": "Repsol",
+    "note": "17:28, antes de la subasta",
+    "value": "29,67 €"
+   },
+   {
+    "change": -0.34,
+    "name": "Sabadell",
+    "note": "17:28, antes de la subasta",
+    "value": "3,50 €"
+   },
+   {
+    "change": 1.89,
+    "name": "Inditex",
+    "note": "17:28, antes de la subasta",
+    "value": "53,84 €"
+   },
+   {
+    "change": null,
+    "name": "Euro/dólar",
+    "note": "Cotización de la cabecera de la web, viernes",
+    "value": "1,1202"
+   }
+  ],
+  "sources": [
+   {
+    "name": "Estrategias de Inversión",
+    "url": "https://www.estrategiasdeinversion.com/actualidad/la-bolsa-hoy-en-directo/09-10-2026"
+   },
+   {
+    "name": "Bolsamanía",
+    "url": "https://www.bolsamania.com/indice/IBEX-35"
+   }
+  ]
+ },
+ "number": 3,
+ "stories": [
+  {
+   "body": [
+    "Hoy sábado 10 de octubre Bilbao tendrá nubes y claros, con una máxima de 21 grados y una mínima de 10, según la previsión de Meteored. La probabilidad de lluvia es del 0% en las horas de la tarde y la noche, así que el día es bueno para pasear por el Casco Viejo o para ver el partido del Athletic en un bar sin preocuparse del paraguas.",
+    "El domingo 11 cambia el panorama: Meteored anuncia lluvia débil con cielo parcialmente nuboso, con un 50% de probabilidad de precipitación, una máxima de 22 grados y una mínima de 12. No se espera un temporal, pero conviene salir con algo impermeable, sobre todo si hay plan nocturno, como el concierto de Teenage Fanclub en el Kafe Antzokia.",
+    "El lunes 12, festivo del Pilar, el pronóstico es de niebla, con 23 grados de máxima y 12 de mínima. El martes 13 se repite la niebla, pero el termómetro sube hasta los 25 grados, una temperatura muy alta para mediados de octubre en Bilbao.",
+    "El jueves BilbaoHiria recogía una previsión de AEMET que ya hablaba de 25 grados para el lunes del Pilar, con lluvia en los días anteriores; la lectura de Meteored, que se consultó con datos del viernes, rebaja ese lunes a 23 grados y no apunta lluvia. Las previsiones a más de tres días cambian con frecuencia, de modo que conviene volver a mirarlas antes de organizar excursiones."
+   ],
+   "dek": "Las temperaturas suben a lo largo del puente: de 21 grados hoy a 25 el martes, aunque con niebla el lunes festivo.",
+   "figure": {
+    "label": "máxima hoy en Bilbao",
+    "value": "21°"
+   },
+   "id": "2026-10-10-tiempo-puente-pilar",
+   "keys": [
+    "Hoy: nubes y claros, 21/10 grados, sin lluvia.",
+    "Domingo: lluvia débil con un 50% de probabilidad.",
+    "Lunes del Pilar: niebla y 23 grados; martes, 25."
+   ],
+   "place": "Bilbao",
+   "section": "bilbao",
+   "sources": [
+    {
+     "name": "Meteored",
+     "url": "https://www.tiempo.com/bilbao.htm"
+    },
+    {
+     "name": "BilbaoHiria",
+     "url": "https://bilbaohiria.com/bilbao/tiempo-bilbao-hoy-jueves-8-octubre-aemet-lluvia-puente-pilar/"
+    }
+   ],
+   "title": "Sábado de nubes y claros, domingo con lluvia débil y niebla el lunes del Pilar",
+   "weight": 2,
+   "why": "Si quieres aprovechar el puente al aire libre, el sábado es el mejor día; el domingo lleva el paraguas."
+  },
+  {
+   "body": [
+    "Vecinos de Bilbao dejaron flores y velas anoche en la plaza del Arriaga en recuerdo de Maricarmen Abascal, la mujer de 87 años que murió en el hospital tras el desahucio de su vivienda en Madrid, según Orain (EITB). En el acto se recordaron unas palabras suyas que se han convertido en lema de las protestas: «Luchad por lo que es vuestro».",
+    "Su caso ha pasado en pocos días de ser un desahucio concreto a convertirse en símbolo de la crisis de la vivienda. El jueves miles de personas marcharon en silencio en Madrid hasta la que fue su casa, según El Español.",
+    "En Euskadi la movilización tiene ya una fecha fija: ELA, LAB y ESK se han sumado a la huelga general por la vivienda convocada para el 11 de noviembre, según Orain, mientras que Cebek, la patronal vizcaína, la considera una huelga política cuyo coste no deben asumir las empresas. El propio Pedro Sánchez ha respaldado la convocatoria en una entrevista con elDiario.es y ha pedido no politizar el dolor por la muerte de Maricarmen."
+   ],
+   "dek": "Vecinos de Bilbao recordaron anoche a Maricarmen Abascal, cuya muerte ha avivado la protesta por la vivienda.",
+   "figure": {
+    "label": "años tenía Maricarmen",
+    "value": "87"
+   },
+   "id": "2026-10-10-maricarmen-arriaga",
+   "keys": [
+    "Concentración en el Arriaga con flores y velas.",
+    "Huelga general por la vivienda el 11 de noviembre.",
+    "ELA, LAB y ESK se suman a la convocatoria."
+   ],
+   "place": "Bilbao",
+   "section": "bilbao",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/09/recuerdan-desahuciada-maricarmen-abascal-plaza-del-arriaga-bilbao/"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/07/ela-lab-esk-tambien-iran-huelga-general-11-noviembre/"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/pedro-sanchez-hora-parlamento-parezca-calle-no-viven-aticazos_1_13569153.html"
+    }
+   ],
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   },
+   "title": "Flores y velas en el Arriaga en memoria de Maricarmen, la mujer desahuciada de 87 años",
+   "weight": 1,
+   "why": "Si trabajas el 11 de noviembre, ve preguntando en tu empresa cómo afectará la huelga a tu jornada."
+  },
+  {
+   "body": [
+    "Los precios de los carburantes han bajado esta semana por primera vez tras 13 semanas de subidas, según BilbaoHiria con datos del Ministerio para la Transición Ecológica. La gasolina 95 cuesta de media en España 1,849 euros el litro (un 4,64% menos que hace una semana) y el gasóleo A, 1,917 euros (un 0,88% menos).",
+    "El medio atribuye el respiro a la bonificación fiscal sobre el combustible, que desde el 1 de octubre pasó de 5 a 20 céntimos por litro. Esa ayuda no es permanente: según la misma información, bajará a 13 céntimos en noviembre y a 6 en diciembre, así que el efecto en el surtidor podría revertirse.",
+    "En Bizkaia, las gasolineras más baratas de la gasolina 95 son Alcampo en Mungia (1,639 euros) y Ballenoil en Berriz (1,659). En gasóleo, Euskadi Low Cost y Ballenoil, ambas en Berriz, cobran 1,697 y 1,699 euros. En Bilbao la más barata es BP Santo Domingo, con 1,829 euros la gasolina y 1,929 el gasóleo, de modo que llenar un depósito de 55 litros de diésel en Berriz sale 12,76 euros más barato."
+   ],
+   "dek": "El descuento fiscal sobre el combustible sube a 20 céntimos por litro desde el 1 de octubre y frena la escalada.",
+   "figure": {
+    "label": "litro de gasolina en Mungia",
+    "value": "1,639€"
+   },
+   "id": "2026-10-10-gasolina-baja-13-semanas",
+   "keys": [
+    "Gasolina 95: 1,849 €/l de media (-4,64% semanal).",
+    "Gasóleo: 1,917 €/l (-0,88%).",
+    "Descuento fiscal: 20 cts ahora, 13 en noviembre, 6 en diciembre."
+   ],
+   "place": "Bizkaia",
+   "section": "bilbao",
+   "sources": [
+    {
+     "name": "BilbaoHiria",
+     "url": "https://bilbaohiria.com/bizkaia/gasolineras-mas-baratas-bizkaia-hoy-precio-gasolina-diesel/"
+    }
+   ],
+   "title": "La gasolina baja por primera vez en 13 semanas: la más barata de Bizkaia, en Mungia y Berriz",
+   "weight": 1,
+   "why": "Si tienes coche, repostar fuera de Bilbao compensa si vas de paso; el descuento fiscal bajará en noviembre."
+  },
+  {
+   "body": [
+    "La Autoridad Portuaria de Bilbao ha reabierto el acceso de Punta Lucero, una de las cinco entradas por carretera al puerto, que estaba cerrado por las obras de un poliducto de Petronor, según BilbaoHiria. Esta vía conecta el recinto con la red general desde el nudo de La Arena.",
+    "El cierre fue progresivo: del 1 de junio al 15 de julio hubo un corte parcial, con un solo carril de entrada, y desde el 16 de julio hasta el 8 de octubre el corte fue total. Durante ese tiempo, los vehículos tuvieron que salir por El Kalero, Ugaldebieta, Landeta e Higarillo. Las obras, de unos cuatro meses, terminaron en el plazo previsto.",
+    "El poliducto unirá la refinería de Petronor en Muskiz con una nueva planta en el muelle de Punta Sollana. Con la reapertura, los transportes especiales vuelven a utilizar La Arena, cerrada desde principios de junio. El mismo medio recuerda que Petronor es el mejor cliente del puerto y que prevé invertir 80 millones en dos proyectos de descarbonización, 60 en una planta de combustibles de cero emisiones netas y 20 en otra que producirá gas a partir de residuos urbanos."
+   ],
+   "dek": "Terminan las obras del poliducto de Petronor y el puerto recupera sus cinco entradas por carretera.",
+   "figure": {
+    "label": "accesos por carretera",
+    "value": "5"
+   },
+   "id": "2026-10-10-punta-lucero-reabre",
+   "keys": [
+    "Corte total entre el 16 de julio y el 8 de octubre.",
+    "El puerto recupera sus cinco accesos.",
+    "Petronor invertirá 80 millones en descarbonización."
+   ],
+   "place": "Zierbena",
+   "section": "bilbao",
+   "sources": [
+    {
+     "name": "BilbaoHiria",
+     "url": "https://bilbaohiria.com/bizkaia/punta-lucero-acceso-puerto-bilbao-reapertura-poliducto-petronor/"
+    }
+   ],
+   "title": "Reabre el acceso al puerto de Bilbao por Punta Lucero tras casi cuatro meses cortado",
+   "weight": 1,
+   "why": "Si te mueves por la zona del Abra y Zierbena, el tráfico de camiones debería repartirse mejor."
+  },
+  {
+   "body": [
+    "El Ayuntamiento de Bilbao mantiene abierto hasta el 18 de octubre el plazo para proponer candidatos al título de Persona Ilustre de 2026, según BilbaoHiria. Puede hacerlo cualquier persona empadronada en la villa con 16 años o más, en las oficinas municipales o por internet con certificado digital o BakQ. Cada propuesta debe incluir los datos del candidato, su ámbito de actuación y una memoria que justifique sus méritos.",
+    "El Ayuntamiento comprobará que las candidaturas cumplen las normas y buscará variedad en los reconocimientos. Si se validan más de tres, el Consejo Cívico elegirá tres finalistas por voto secreto. Después, entre el 19 y el 29 de noviembre, será la ciudadanía quien vote, y quien reúna más apoyos recibirá el título.",
+    "No pueden repetirse los galardonados anteriores: Ernesto Valverde, distinguido en 2024, queda fuera. En 2023 se reconoció a cuatro personas, entre ellas el diseñador Javier Barroeta, y en 2024 a Valverde y a la empresaria Inés Anitua. La fuente no indica la fecha de la entrega del título."
+   ],
+   "dek": "Cualquier vecino empadronado de 16 años o más puede presentar una candidatura; la votación popular será del 19 al 29 de noviembre.",
+   "figure": {
+    "label": "fin del plazo",
+    "value": "18 oct"
+   },
+   "id": "2026-10-10-persona-ilustre-2026",
+   "keys": [
+    "Plazo: del 5 al 18 de octubre.",
+    "Pueden proponer los empadronados de 16 años o más.",
+    "Voto ciudadano: del 19 al 29 de noviembre."
+   ],
+   "place": "Bilbao",
+   "section": "bilbao",
+   "sources": [
+    {
+     "name": "BilbaoHiria",
+     "url": "https://bilbaohiria.com/bilbao/persona-ilustre-bilbao-2026-candidaturas-plazo/"
+    }
+   ],
+   "title": "Hasta el 18 de octubre se puede proponer a la Persona Ilustre de Bilbao 2026",
+   "weight": 1,
+   "why": "Puedes proponer a quien te parezca, sin hacer cola: basta con el certificado digital o BakQ."
+  },
+  {
+   "body": [
+    "La ejecutiva del PNV de Bizkaia (BBB) decidió el jueves 8 de octubre proponer a Ibone Bengoetxea como candidata a diputada general en las elecciones forales de 2027, en lugar de Elixabete Etxanobe, que ocupa el cargo en la actualidad. Etxanobe dice, según Orain, que se enteró ese mismo día y que desconoce los motivos del cambio; recuerda que Iñigo Ansola, responsable del PNV vizcaíno, le propuso en marzo ser candidata.",
+    "Ansola defendió la decisión con un argumento sencillo: Etxanobe habría sido una muy buena candidata, pero el partido debe presentar «lo mejor que tiene». Bengoetxea, que según elDiario.es es vicelehendakari, respondió desde un viaje oficial a Argentina que el PNV es un partido democrático, que hay que respetar los procesos y que ahora empieza «una nueva etapa». La propuesta debe ser ratificada por los afiliados en un proceso interno que arrancará a mediados de octubre.",
+    "La lectura política varía según el medio. El Independiente habla de «cisma» en el PNV y sostiene que la ejecutiva vizcaína actuó a espaldas de Aitor Esteban. BilbaoHiria, por su parte, relaciona la caída de Etxanobe con el proyecto del Guggenheim de Urdaibai y la reforma fiscal, dos asuntos que marcaron su mandato; son interpretaciones de esos medios, no hechos confirmados por el partido.",
+    "El relevo llega en plena precampaña de las generales del 29 de noviembre, con el PNV ya perfilando sus cabezas de lista en Euskadi, y unos meses antes de las forales de 2027. Las fuentes consultadas no precisan qué papel tendrá Etxanobe a partir de ahora ni si seguirá en el partido."
+   ],
+   "dek": "La decisión, tomada el jueves por la ejecutiva vizcaína, ha sorprendido a la propia diputada general y abre fricciones internas.",
+   "figure": {
+    "label": "elecciones forales",
+    "value": "2027"
+   },
+   "id": "2026-10-10-pnv-relevo-etxanobe",
+   "keys": [
+    "BBB propone a Bengoetxea en lugar de Etxanobe.",
+    "Etxanobe: sorpresa y sin explicación de los motivos.",
+    "Los afiliados deben ratificarla desde mediados de octubre."
+   ],
+   "place": "Bilbao",
+   "section": "euskadi",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/politica/2026/10/09/etxanobe-no-conozco-los-motivos-en-marzo-me-propuso-ser-candidato-en-una-reunion-ansola/"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/politica/2026/10/09/ansola-etxanobe-podia-haber-sido-una-muy-buena-candidata-tenemos-presentar-lo-mejor-tenemos/"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/vicelehendakari-ibone-bengoetxea-sera-candidata-pnv-bizkaia-elecciones-forales-2027_1_13573141.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/09/cisma-en-el-pnv-la-ejecutiva-vizcaina-releva-como-candidata-a-la-diputada-general-a-espaldas-de-aitor-esteban/"
+    },
+    {
+     "name": "BilbaoHiria",
+     "url": "https://bilbaohiria.com/bizkaia/por-que-etxanobe-no-repite-guggenheim-urdaibai-reforma-fiscal/"
+    }
+   ],
+   "thread": {
+    "id": "pnv-bizkaia",
+    "label": "PNV de Bizkaia"
+   },
+   "title": "El PNV de Bizkaia releva a Etxanobe y propone a Ibone Bengoetxea para las forales de 2027",
+   "weight": 3,
+   "why": "La próxima diputada general decidirá en 2027 sobre transporte, vivienda y fiscalidad en Bizkaia, así que importa quién se presenta."
+  },
+  {
+   "body": [
+    "El lehendakari, Imanol Pradales, ha pedido al Gobierno central que muestre «la misma velocidad y valentía» para cerrar las transferencias pendientes al País Vasco que mostró al aprobar dos decretos contra la crisis de la vivienda, según Orain (EITB). También se dirigió a EH Bildu, a la que pidió empujar el cumplimiento del Estatuto de Autonomía.",
+    "El mismo día, la vivienda centró la sesión de control en el Parlamento Vasco. Pradales dijo a EH Bildu que tiene «la llave» a través de los más de 100 municipios que gobierna, donde, según sus cifras, se podrían construir 42.000 viviendas si los ayuntamientos cedieran suelo al Ejecutivo vasco.",
+    "El contexto estatal explica el tono. El Congreso tumbó el 2 de octubre los dos decretos de vivienda, y el Consejo de Ministros los volvió a aprobar ese mismo día con algunas modificaciones, según El Debate; el 5 de octubre Pedro Sánchez anunció elecciones generales para el 29 de noviembre. elDiario.es recuerda que el adelanto electoral dejará en el cajón el traspaso a Euskadi de la gestión de la Seguridad Social y otras negociaciones.",
+    "Con el calendario parlamentario paralizado por la campaña (el Parlamento Vasco ha suspendido tres plenos de noviembre), la discusión sobre competencias pendientes queda, de hecho, en manos del resultado del 29-N y del Gobierno que salga de él."
+   ],
+   "dek": "El lehendakari reclama cumplir el Estatuto y pide a EH Bildu que ponga suelo municipal a disposición del Gobierno Vasco.",
+   "figure": {
+    "label": "viviendas posibles",
+    "value": "42.000"
+   },
+   "id": "2026-10-10-pradales-transferencias",
+   "keys": [
+    "Pradales: transferencias con la misma rapidez que los decretos.",
+    "Pide suelo municipal a EH Bildu: 42.000 viviendas.",
+    "El adelanto electoral aparca la transferencia de la Seguridad Social."
+   ],
+   "place": "Vitoria-Gasteiz",
+   "section": "euskadi",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/politica/2026/10/09/pradales-pide-sanchez-la-misma-velocidad-las-transferencias-los-decretos/"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/politica/2026/10/09/el-problema-la-vivienda-centra-la-sesion-control-en-el-parlamento-vasco/"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/economia/20261009/cuanto-pueden-subirte-alquiler-gobierno-lanza-calculadora-topes-decreto-vivienda-cns_467891.html"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/adelanto-electoral-dejara-cajon-traspaso-euskadi-gestion-seguridad-social-negociaciones_1_13563493.html"
+    }
+   ],
+   "thread": {
+    "id": "autogobierno",
+    "label": "Autogobierno vasco"
+   },
+   "title": "Pradales pide a Sánchez la misma «velocidad» con las transferencias que con los decretos de vivienda",
+   "weight": 2,
+   "why": "Si buscas piso en Euskadi, la disputa sobre el suelo público decide cuántas viviendas protegidas habrá en los próximos años."
+  },
+  {
+   "body": [
+    "Un total de 1.824.886 personas tienen derecho a voto en Euskadi en las elecciones generales del 29 de noviembre, según los datos del INE que recoge Orain (EITB). De ellos, 1.728.228 residen en la comunidad y 96.658 viven en el extranjero.",
+    "Por territorios, Bizkaia tiene 959.702 electores (50.401 en el extranjero), Gipuzkoa 597.859 y Álava 267.325. Entre todos hay 70.571 jóvenes que cumplieron 18 años desde las generales de julio de 2023, de los que 35.505 son de Bizkaia, 24.516 de Gipuzkoa y 10.550 de Álava. En el conjunto de España los electores son 38.728.356, de los que 2.769.645 residen fuera.",
+    "Las tarjetas censales, que indican mesa y local de votación, se enviarán a partir del 2 de noviembre. Orain también ha publicado una guía sobre cuándo y cómo se notifica la composición de las mesas electorales y qué sanciones prevé la ley para quien rechace formar parte de ellas."
+   ],
+   "dek": "El INE publica las cifras del censo: Bizkaia suma 959.702 electores.",
+   "figure": {
+    "label": "votan por primera vez",
+    "value": "70.571"
+   },
+   "id": "2026-10-10-censo-euskadi-29n",
+   "keys": [
+    "1.824.886 electores en Euskadi.",
+    "70.571 votan por primera vez.",
+    "Tarjetas censales desde el 2 de noviembre."
+   ],
+   "place": "Euskadi",
+   "section": "euskadi",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/politica/2026/10/09/un-total-1824886-personas-podran-votar-en-euskadi-en-las-elecciones-generales-70571-primera-vez/"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/politica/2026/10/09/se-notificara-la-composicion-las-mesas-electorales-del-29n-fechas-plazos-evitarlo/"
+    }
+   ],
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "title": "1,82 millones de vascos podrán votar el 29-N, 70.571 por primera vez",
+   "weight": 1,
+   "why": "Si cumpliste 18 años desde 2023, esta es tu primera generales: comprueba tu mesa cuando llegue la tarjeta."
+  },
+  {
+   "body": [
+    "El juez de la Audiencia Nacional Santiago Pedraz ha rechazado «en este momento» la petición del PP, presentada el 6 de octubre, de que el PSOE sea investigado como persona jurídica en la causa que instruye por la presunta trama de la ex dirigente socialista Leire Díez. Según elDiario.es, el magistrado sigue el criterio de la Fiscalía Anticorrupción: no se acredita todavía un principio de prueba suficiente. Reconoce, sin embargo, que los hechos podrían tener en abstracto apariencia delictiva.",
+    "Para investigar a un partido, recuerda el juez, no basta con que sus empleados o dirigentes cometan un delito: la jurisprudencia del Supremo exige además un defecto estructural de organización, control y supervisión, y que el partido obtenga algún beneficio directo o indirecto. Antes de decidir quiere recibir la declaración de Santos Cerdán como investigado, analizar la documentación pedida al partido y el material incautado en su domicilio, y aclarar quién autorizó y ejecutó los pagos y cómo se registraron.",
+    "El escrito de los fiscales Elisa Lamelas y Mar Scharfhausen, que cita El Español, va más lejos en la descripción: sostiene que el PSOE, a través de Cerdán, habría puesto su infraestructura logística y financiera a disposición de la organización criminal, con reuniones en Ferraz y pagos de viajes y alojamientos, y considera el uso de fondos del partido un indicio de «singular relevancia». La trama habría intentado, según la Fiscalía, desbaratar procedimientos judiciales que afectaban al partido y al Gobierno, incluido el apartamiento de la jueza Beatriz Biedma.",
+    "Los medios leen la decisión de forma distinta. El Debate destaca que el juez ve una «base objetiva» para actuar en el futuro, mientras que El Independiente y The Objective subrayan que deja en suspenso la imputación. El PSOE, por su parte, no ha respondido a estos escritos en las informaciones consultadas. Con las elecciones del 29-N en el horizonte, la decisión definitiva dependerá del calendario de declaraciones que fije Pedraz.",
+    "Conviene separar hechos de lectura política: de momento el PSOE no es investigado como partido, y las personas imputadas, entre ellas la gerente del partido, Ana Fuentes, no han sido condenadas por esta causa."
+   ],
+   "dek": "Sigue el criterio de Anticorrupción: hay indicios, pero imputar al PSOE es «prematuro» hasta que declare Santos Cerdán.",
+   "figure": {
+    "label": "el PP pidió imputarlo",
+    "value": "6 oct"
+   },
+   "id": "2026-10-10-pedraz-psoe-leire",
+   "keys": [
+    "Pedraz no imputa al PSOE «por el momento».",
+    "Pendiente: declaración de Santos Cerdán y análisis de pagos.",
+    "La Fiscalía ve indicios, pero considera prematuro imputar."
+   ],
+   "place": "Madrid",
+   "section": "espana",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/juez-pedraz-rechaza-imputar-momento-psoe-caso-leire-diez_1_13574529.html"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/tribunales/20261009/psoe-puso-disposicion-organizacion-criminal-leire-estructura-finanzas-dice-fiscalia/1003744414822_0.html"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/espana/20261009/juezpedraz-rechaza-imputar-psoe-momento-aunque-considera-hay-base-objetiva-futuro_467926.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/09/pedraz-deja-suspenso-imputacion-psoe-hasta-avanzar-investigacion-cloacas/"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/tribunales/2026-10-09/juez-pedraz-psoe-financiacion/"
+    }
+   ],
+   "thread": {
+    "id": "tribunales-psoe",
+    "label": "Casos judiciales del PSOE"
+   },
+   "title": "El juez Pedraz rechaza, por ahora, investigar al PSOE como partido en el caso Leire Díez",
+   "weight": 3,
+   "why": "Es el expediente judicial que más pesa en la campaña del 29-N; el próximo paso es la declaración de Cerdán."
+  },
+  {
+   "body": [
+    "Mohamed VI afirmó el viernes 9 de octubre, en la apertura del curso parlamentario en Rabat, que la cooperación migratoria con España ha llegado a su «límite» por unas disposiciones legales «obsoletas» y unas decisiones judiciales «alejadas de la realidad», según El Español. Fue su primera intervención pública sobre la llegada masiva de personas a Ceuta, y rechazó que esa colaboración se someta a presiones o chantajes, según elDiario.es y Orain.",
+    "El monarca reconoció avances conjuntos, incluida la lucha contra la inmigración ilegal, pero criticó que el marco actual dificulte la repatriación de menores y de quienes usurpan el estatus de refugiado, y que favorezca a las redes criminales. Denunció también la «instrumentalización política» del asunto por sectores extranjeros; El Español vincula esa frase con las críticas del PP y Vox al papel de Marruecos.",
+    "Anunció además que Marruecos presentará a los países europeos un «documento marco» sobre codesarrollo, competitividad y estabilidad regional. El Español cita datos recientes: Ceuta acoge a 2.827 menores, frente a una capacidad ordinaria de 29 plazas, y los ganadores de las elecciones marroquíes pidieron el 25 de septiembre el regreso de esos menores, culpando a España del desacuerdo.",
+    "En paralelo, Felipe VI y Letizia visitan Ceuta: serán los primeros reyes de la democracia en dormir en la ciudad y rendirán homenaje en el cementerio musulmán a los fallecidos en la crisis, según El Español y The Objective. ",
+    "Las informaciones consultadas no recogen todavía la respuesta oficial del Gobierno español ni de la oposición al discurso, que llega en plena precampaña del 29-N."
+   ],
+   "dek": "El rey marroquí habló por primera vez de la entrada masiva en Ceuta, mientras Felipe VI y Letizia visitan la ciudad.",
+   "figure": {
+    "label": "menores en Ceuta",
+    "value": "2.827"
+   },
+   "id": "2026-10-10-mohamed-vi-ceuta",
+   "keys": [
+    "Mohamed VI: la cooperación migratoria llega a su «límite».",
+    "Ceuta acoge 2.827 menores para 29 plazas ordinarias.",
+    "Los Reyes visitan Ceuta; no hay aún respuesta oficial del Gobierno."
+   ],
+   "place": "Rabat",
+   "section": "espana",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/mundo/africa/20261009/mohamed-vi-declara-cooperacion-migratoria-espana-llegado-limite-pide-vuelta-menores/1003744415756_0.html"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/internacional/mohamed-vi-rechaza-cooperacion-espana-vea-sometida-presion-amenaza-chantaje_1_13576569.html"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/politica/2026/10/09/el-rey-marruecos-mohamed-vi-carga-contra-la-instrumentalizacion-ceuta-avisa-no-caben-chantajes-en-la-relacion-espana/"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-10-09/reyes-cementerio-musulman-ceuta/"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/reportajes/20261009/felipe-vi-letizia-primeros-reyes-democracia-dormir-ceuta-viaje-visitaran-cementerio-musulman/1003744414931_0.html"
+    }
+   ],
+   "thread": {
+    "id": "marruecos-ceuta",
+    "label": "Crisis de Ceuta"
+   },
+   "title": "Mohamed VI dice que la cooperación con España ha llegado a su «límite» y rechaza el «chantaje»",
+   "weight": 2,
+   "why": "La política migratoria con Marruecos será uno de los temas fuertes de la campaña; si viajas a Ceuta, ten en cuenta la visita real."
+  },
+  {
+   "body": [
+    "Cuatro encuestas publicadas el viernes 9 de octubre, tras la convocatoria de elecciones, coinciden en que el PP y Vox sumarían mayoría absoluta el 29-N, según El Independiente: NC Report (La Razón), IMOP (El Confidencial), 40dB (Grupo Prisa) y DYM (Grupo Henneo). La suma de los dos partidos oscila entre el 50,8% y el 52,3% de los votos.",
+    "El Independiente calcula una media de 202 escaños para PP y Vox frente a los 176 necesarios y habla de «victoria aplastante»; The Objective cifra en torno a 200 los escaños de los dos partidos juntos, y elDiario.es resume dos de esos sondeos (40dB e IMOP) como una mayoría absoluta «cómoda» y un hundimiento de la izquierda a la izquierda del PSOE. Son lecturas de cada medio sobre unos mismos datos.",
+    "Hay matices importantes. El Independiente subraya que los sondeos no incluyen todavía al Frente Amplio, la coalición de izquierda en formación, y que a su juicio la movilización electoral está por decidir. El Debate informa de que el PSOE ha difundido sus propios sondeos, que según ese diario darían la victoria a Sánchez sobre Feijóo; no hemos podido verificarlos. Una encuesta es una fotografía con margen de error y con más de siete semanas de campaña por delante: ninguna de ellas es un resultado."
+   ],
+   "dek": "Cuatro sondeos publicados el viernes coinciden en que la derecha supera los 176 escaños, pero no incluyen a la nueva coalición Frente Amplio.",
+   "figure": {
+    "label": "escaños PP+Vox (media)",
+    "value": "202"
+   },
+   "id": "2026-10-10-encuestas-pp-vox-202",
+   "keys": [
+    "Cuatro sondeos: PP+Vox entre el 50,8% y el 52,3%.",
+    "El Independiente calcula una media de 202 escaños.",
+    "No incluyen al Frente Amplio."
+   ],
+   "place": "Madrid",
+   "section": "espana",
+   "sources": [
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/09/las-primeras-encuestas-tras-la-convocatoria-de-generales-deja-a-pp-y-vox-en-una-mayoria-absoluta-de-202-escanos/"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-10-09/encuestas-pp-vox-200-escanos/"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13574155_1125741.html"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/espana/20261009/psoe-difunde-supuestos-sondeos-dan-sanchez-ganador-frente-feijoo_468033.html"
+    }
+   ],
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "title": "Las primeras encuestas tras la convocatoria dan a PP y Vox una mayoría absoluta de en torno a 202 escaños",
+   "weight": 1,
+   "why": "Si te interesa cómo quedará el Congreso, fíjate en cuándo se confirme la candidatura conjunta de la izquierda."
+  },
+  {
+   "body": [
+    "El PP ha respondido por carta a los grupos audiovisuales sobre los debates de la campaña del 29-N. Según El Español, acepta un cara a cara el lunes 16 de noviembre propuesto por Mediaset, un debate a cuatro el jueves 26 de noviembre propuesto por Atresmedia y un debate de portavoces el lunes 23 de noviembre en RTVE. El PP quiere que el debate a cuatro esté lo más cerca posible de las votaciones.",
+    "Para el debate a cuatro, el partido plantea que participen PP, PSOE, Vox y una cuarta fuerza que recoja el espacio de Podemos, IU y Sumar, sin precisar cuál. Sobre RTVE, Feijóo irá a entrevistas de TVE y RNE solo si se hacen en espacios de producción propia y con profesionales de la corporación, no con productoras externas. El PP acusa a la dirección de la televisión pública de «parcialidad y sumisión» al Gobierno.",
+    "Los medios resumen la respuesta de forma distinta: elDiario.es titula que el PP rechaza los debates de TVE, citando la falta de garantías de neutralidad de la dirección pública, mientras que El Independiente subraya que Feijóo acepta debatir en Telecinco y Antena 3 pero no en TVE ni con entrevistadores como Intxaurrondo o Cintora. El comunicado habla de entrevistas, no de un rechazo total. El comunicado, firmado por Miguel Tellado, director de campaña, alega la imposibilidad de atender todas las propuestas recibidas. Las entrevistas en medios públicos las regula la Junta Electoral Central. Las informaciones consultadas no recogen todavía la respuesta del PSOE."
+   ],
+   "dek": "Feijóo propone un cara a cara el 16 de noviembre y un debate a cuatro el 26; solo irá a entrevistas de TVE con profesionales de la casa.",
+   "figure": {
+    "label": "cara a cara en Mediaset",
+    "value": "16 nov"
+   },
+   "id": "2026-10-10-feijoo-debates-tve",
+   "keys": [
+    "Cara a cara en Mediaset: 16 de noviembre.",
+    "Debate a cuatro en Atresmedia: 26 de noviembre.",
+    "RTVE: portavoces el 23, y entrevistas solo con su plantilla."
+   ],
+   "place": "Madrid",
+   "section": "espana",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/politica/20261009/pp-acepta-debates-television-exige-tve-entrevista-feijoo-hagan-trabajadores-informativos/1003744415257_0.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/09/feijoo-acepta-debates-en-telecinco-y-antena3-pero-no-en-tve-y-se-niega-a-ser-entrevistado-por-intxaurrondo-o-cintora/"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13574155_1125747.html"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/espana/20261009/feijoo-solicita-participar-debate-cuatro-cara-cara-sanchez_467875.html"
+    }
+   ],
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "title": "El PP acepta debates con Mediaset y Atresmedia, pero pone condiciones a RTVE",
+   "weight": 1,
+   "why": "Los debates serán, probablemente, la mejor forma de comparar programas en cinco minutos antes de votar."
+  },
+  {
+   "body": [
+    "Pedro Sánchez ha afirmado en una entrevista con elDiario.es que no descarta que el Gobierno indulte al exfiscal general Álvaro García Ortiz antes de las elecciones del 29 de noviembre. Preguntado directamente, respondió «no lo descarto», según el resumen de El Español. Moncloa, añadió, estudia qué leyes y medidas pendientes pueden aprobarse en la Diputación Permanente o por el Consejo de Ministros.",
+    "La idea ha provocado una reacción crítica en la prensa conservadora. El Español recoge que jueces y juristas están «escandalizados» con lo que describe como un globo sonda del Gobierno, y The Objective destaca que Sánchez abre la puerta al indulto en plena campaña. La entrevista, sin embargo, se limita a no descartar la medida: no hay una decisión adoptada.",
+    "Sánchez habló también de vivienda. Dijo que ya es hora de que el Parlamento se parezca más a la calle y no a quienes viven en «aticazos», culpó del bloqueo a PP, Vox y Junts y respaldó la huelga general del 11 de noviembre, a la que describió como una respuesta legítima de la sociedad frente a los fondos buitre. Además, rechazó cualquier «politización del dolor» por la muerte de Maricarmen. Las informaciones consultadas no incluyen aún la respuesta de PP, Vox, Junts ni de otras fuerzas a estas declaraciones, que seguían actualizándose a primera hora."
+   ],
+   "dek": "En una entrevista con elDiario.es defiende que el Parlamento «se parezca a la calle» y apoya la huelga general por la vivienda.",
+   "figure": {
+    "label": "huelga general",
+    "value": "11 nov"
+   },
+   "id": "2026-10-10-sanchez-indulto-garcia-ortiz",
+   "keys": [
+    "No descarta indultar a García Ortiz.",
+    "Defiende llevar decretos a la Diputación Permanente.",
+    "Respalda la huelga general del 11 de noviembre."
+   ],
+   "place": "Madrid",
+   "section": "espana",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/politica/20261009/sanchez-dice-hora-parlamento-parezca-calle-no-descarta-indultar-fiscal-general/1003744414548_0.html"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/pedro-sanchez-hora-parlamento-parezca-calle-no-viven-aticazos_1_13569153.html"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/tribunales/20261009/jueces-juristas-escandalizados-globo-sonda-sanchez-bolanos-indulto-garcia-ortiz-elecciones/1003744415387_0.html"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-10-09/sanchez-indultar-exfiscal-general-estado-29-n/"
+    }
+   ],
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "title": "Sánchez no descarta indultar al exfiscal general García Ortiz antes del 29-N",
+   "weight": 1,
+   "why": "Un indulto o decretos en plena campaña marcarán la agenda política hasta el 29 de noviembre."
+  },
+  {
+   "body": [
+    "El Comité Noruego del Nobel concedió el viernes 9 de octubre el Premio Nobel de la Paz de 2026 a la jurista sudafricana Navanethem «Navi» Pillay, exjueza de la Corte Penal Internacional y antigua alta comisionada de la ONU para los derechos humanos. El presidente del comité, Jørgen Watne Frydnes, hizo el anuncio. Este año se recibieron 287 candidaturas; el comité solo publica el total y mantiene secretos los nombres durante 50 años.",
+    "Pocas horas después, el Gobierno de Donald Trump sancionó a la propia CPI, según Orain y El Español. Washington ya había sancionado a 17 personas vinculadas a la Corte, entre ellas jueces y fiscales; ahora el bloqueo alcanza a los bienes de la institución en EE UU, aunque el Tesoro ha aprobado una licencia general de 180 días para ciertas operaciones imprescindibles para su funcionamiento. Entre los sancionados figura su presidenta, la jueza japonesa Tomoko Akane.",
+    "Marco Rubio justificó las medidas porque EE UU no forma parte del Estatuto de Roma y rechaza que se procese a militares, agentes de frontera o dirigentes electos estadounidenses. Las sanciones se apoyan en una orden ejecutiva de febrero de 2025 que citaba las órdenes de arresto de noviembre de 2024 contra Benjamin Netanyahu y Yoav Gallant. La CPI las rechazó «firmemente» y pidió a sus 125 Estados miembros medidas concretas; António Guterres las condenó como un golpe severo a la justicia.",
+    "La lectura de los medios difiere. elDiario.es recuerda que Pillay presidió la comisión de expertos de la ONU que acusó a Israel de genocidio; Orain recoge que el premio ha irritado a Trump y a Netanyahu; El Independiente lo presenta como un contrapunto al enfoque de Trump. Sánchez, según El Español y The Objective, tardó unas horas en felicitar a Pillay, y la prensa conservadora recuerda que no lo hizo con María Corina Machado el año pasado.",
+    "El Nobel de la Paz se entrega en Oslo; las fuentes consultadas no precisan aún la fecha de la ceremonia."
+   ],
+   "dek": "Washington incluye a la Corte Penal Internacional en su lista de sanciones; la ONU lo condena.",
+   "figure": {
+    "label": "candidaturas recibidas",
+    "value": "287"
+   },
+   "id": "2026-10-10-pillay-nobel-cpi",
+   "keys": [
+    "Pillay, Nobel de la Paz 2026.",
+    "EE UU sanciona a la CPI con licencia de 180 días.",
+    "Guterres condena; la CPI llama a sus 125 miembros a actuar."
+   ],
+   "place": "Oslo",
+   "section": "mundo",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/internacional/jueza-corte-penal-internacional-navanethem-navi-pillay-premio-nobel-paz-2026_1_13574390.html"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/10/09/la-admnistracion-trump-sanciona-la-corte-penal-internacional-tras-nobel-la-paz-una-sus-exjuezas/"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/10/09/el-nobel-la-paz-pillay-irrita-trump-netanyahu/"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/internacional/2026/10/09/navanethem-pillay-premio-nobel-paz-2026/"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/mundo/america/eeuu/20261009/administracion-trump-impone-sanciones-cpi-horas-despues-exjuez-ganara-premio-nobel-paz/1003744415517_0.html"
+    }
+   ],
+   "title": "Navi Pillay, exjueza de la CPI, gana el Nobel de la Paz y EE UU sanciona a la Corte horas después",
+   "weight": 2,
+   "why": "Si sigues la actualidad internacional, el choque entre EE UU y la justicia internacional será un tema de fondo en los próximos meses."
+  },
+  {
+   "body": [
+    "Un terremoto de magnitud 7,7, según el Servicio Geológico de EE UU, sacudió Panamá a las 12:56 hora local del viernes 9 de octubre (17:56 GMT). Inicialmente se informó de una magnitud de 7,6. El epicentro se situó a unos 12 kilómetros de Tonosí, en la costa sur, a unos 239 kilómetros de la capital, y a 10 kilómetros de profundidad, según El Español.",
+    "Se emitió una alerta de posibles olas en las costas del Pacífico americano que se retiró unas tres horas después. Hubo réplicas de hasta magnitud 6,6. Los daños incluyen un edificio derrumbado en Penonomé (Coclé), una casa caída en Aguadulce, vehículos aplastados, la cúpula de una iglesia dañada y carreteras agrietadas en Veraguas; varios edificios del antiguo distrito bancario de Ciudad de Panamá fueron evacuados.",
+    "Las autoridades no habían precisado aún el alcance de los daños cuando se publicó la información, y el alcalde de Pedasí aseguró a medios locales que no se habían registrado pérdidas humanas. Marco Rubio dijo que EE UU movilizaba recursos y personal para ayudar. El Español recuerda una serie de grandes terremotos recientes en Latinoamérica: dos en Venezuela el 24 de junio (magnitudes 7,2 y 7,5) y uno en Colombia el 10 de agosto (7,4)."
+   ],
+   "dek": "El sismo activó una alerta de tsunami que se levantó unas tres horas después.",
+   "figure": {
+    "label": "magnitud (USGS)",
+    "value": "7,7"
+   },
+   "id": "2026-10-10-terremoto-panama",
+   "keys": [
+    "Magnitud 7,7 a 10 km de profundidad.",
+    "Alerta de tsunami levantada a las tres horas.",
+    "Daños materiales; sin víctimas confirmadas en las primeras horas."
+   ],
+   "place": "Panamá",
+   "section": "mundo",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/mundo/america/20261009/fuerte-terremoto-magnitud-sacude-panama/1003744415885_0.html"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/internacional/terremoto-magnitud-7-6-sacude-panama_1_13576652.html"
+    }
+   ],
+   "title": "Un terremoto de magnitud 7,7 sacude Panamá y deja daños materiales",
+   "weight": 1,
+   "why": "Si tienes familia o planes en Panamá, comprueba cuanto antes que están bien y sigue los avisos locales."
+  },
+  {
+   "body": [
+    "Donald Trump anunció el viernes 9 de octubre un acuerdo con Vladimir Putin para que Rusia suministre de inmediato más de 300.000 toneladas de diésel a los mercados estadounidense y mundial, según Orain. Después enviaría 500.000 toneladas durante noviembre y un millón justo a continuación. El Kremlin confirmó el anuncio en un comunicado, en el que Putin afirmó que Rusia está dispuesta a suministrar petróleo y derivados.",
+    "Trump vincula la medida con la guerra en Irán: sostiene que, junto con el «control total» del estrecho de Ormuz, hará bajar los precios del diésel de forma drástica y rápida, sobre todo para agricultores, ganaderos y camioneros estadounidenses. elDiario.es interpreta el pacto como un intento de abaratar el combustible antes de las elecciones de EE UU; es la lectura de ese medio, no un dato del anuncio. La nota añade que ambos mandatarios hablaron también de Ucrania e Irán.",
+    "El trasfondo es una escasez mundial de gasóleo: según BilbaoHiria, Rusia prohibió sus exportaciones en julio, China las suspendió el 1 de octubre y Trump ha dicho que EE UU vetará también las suyas. Las informaciones consultadas no precisan cuánto bajarían los precios, ni mencionan sanciones o reacciones de otros países."
+   ],
+   "dek": "Habla de más de 300.000 toneladas de inmediato, 500.000 en noviembre y un millón después; el Kremlin lo confirma.",
+   "figure": {
+    "label": "toneladas de diésel",
+    "value": "300.000"
+   },
+   "id": "2026-10-10-diesel-trump-putin",
+   "keys": [
+    "Más de 300.000 toneladas de inmediato.",
+    "500.000 en noviembre y un millón después.",
+    "Trump lo liga a la guerra de Irán y al control de Ormuz."
+   ],
+   "place": "Washington",
+   "section": "mundo",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/10/09/trump-putin-acuerdan-el-suministro-mas-300-000-toneladas-diesel-ruso-al-mercado-mundial/"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/internacional/trump-anuncia-acuerdo-putin-regar-crudo-ruso-mercados-bajar-precio-diesel-elecciones_1_13576679.html"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/mundo/america/eeuu/20261009/trump-anuncia-acuerdo-putin-rusia-inyecte-inmediato-toneladas-diesel-mercado/1003744415954_0.html"
+    }
+   ],
+   "thread": {
+    "id": "guerra-iran",
+    "label": "Guerra de Irán"
+   },
+   "title": "Trump anuncia un acuerdo con Putin para inyectar diésel ruso en el mercado",
+   "weight": 1,
+   "why": "El diésel se paga también en Bilbao: si el acuerdo se cumple, podría notarse en gasolineras y transporte, pero no hay cifras aún."
+  },
+  {
+   "body": [
+    "El Banco de España ha publicado sus proyecciones trimestrales con una inflación media del 3,9% en 2026, tres décimas más que en junio, y del 3,7% en 2027, 1,1 puntos más. Para el final de este año calcula que ronde el 5%, incluso contando las medidas fiscales del Gobierno contra el impacto de la guerra de Irán, según El Independiente. La subyacente, sin energía ni alimentos, sería del 3,4% este año y del 3,5% el próximo.",
+    "El principal motor, explica el informe, es la energía: el petróleo ha subido un 4% y el gas un 52% desde la anterior previsión, lo que arrastra el precio mayorista de la electricidad. España se aleja de la zona euro: en septiembre su inflación superó a la europea en 1,2 puntos, frente a 0,5 en abril, y el BCE espera un 3% para 2026 y un 2,5% para 2027.",
+    "La actividad aguanta mejor de lo previsto: el PIB crecería un 2,6% en 2026 (tres décimas más) y un 2,2% en 2027 (cinco décimas más), aunque el consumo privado se frenaría hasta el 1,9% en 2027. El banco advierte de que subidas de tipos del BCE podrían frenar consumo e inversión y de que los precios podrían presionar los salarios en la negociación colectiva de 2027; el aumento pactado este año es del 3%, por debajo de la inflación prevista.",
+    "En vivienda, el Banco de España mantiene su estimación de un déficit de un millón de viviendas en 2028, por la lentitud de la inversión residencial: menos licencias ejecutadas, costes de construcción más altos, falta de mano de obra y dificultades urbanísticas y de conexión a la red. Señala los programas de vivienda protegida pública como una de las vías de mejora. The Objective y El Debate destacan este mismo dato del déficit de vivienda y la advertencia sobre las restricciones a la construcción."
+   ],
+   "dek": "El organismo mejora a la vez su previsión de crecimiento: 2,6% en 2026 y 2,2% en 2027.",
+   "figure": {
+    "label": "inflación media 2026",
+    "value": "3,9%"
+   },
+   "id": "2026-10-10-banco-espana-previsiones",
+   "keys": [
+    "Inflación: 3,9% en 2026 y 3,7% en 2027.",
+    "PIB: 2,6% en 2026 y 2,2% en 2027.",
+    "Déficit de un millón de viviendas en 2028."
+   ],
+   "place": "Madrid",
+   "section": "economia",
+   "sources": [
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/economia/2026/10/09/banco-espana-inflacion-construccion-vivienda/"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20261009/bde-preve-anos-inflacion-alta-avisa-precios-vivienda-subiran-falta-obra-nueva/1003744414534_0.html"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/economia/2026-10-09/banco-espana-millon-deficit-vivienda-2028/"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/economia/20261009/banco-espana-mantiene-millon-deficit-vivienda-2028-avisa-restricciones-construccion_468016.html"
+    }
+   ],
+   "title": "El Banco de España eleva la inflación de este año al 3,9% y avisa de un déficit de un millón de viviendas en 2028",
+   "weight": 2,
+   "why": "Con salarios pactados del 3% e inflación del 3,9%, tu poder adquisitivo cae este año; pide que tu convenio incluya cláusula de revisión."
+  },
+  {
+   "body": [
+    "Iberdrola ha anunciado una inversión de 20.000 millones de euros en los próximos ocho años en las redes eléctricas de transporte y distribución de Escocia, según El Español. Esa cifra supone alrededor del 60% de su inversión total prevista en el Reino Unido en ese periodo, y su objetivo es evacuar la electricidad de los parques eólicos escoceses (más de 11 GW en cartera) y atender una demanda creciente.",
+    "ScottishPower, la filial británica del grupo vasco, emplea a unos 5.500 personas en Escocia y espera incorporar otras 2.000 en los próximos dos años, sobre todo en ingeniería, construcción, mantenimiento y digitalización. Desde 2023 sus inversiones han generado compras por unos 3.100 millones de euros a empresas escocesas. El regulador británico, Ofgem, aprobó el marco de estas inversiones y en mayo de 2026 adelantó unos 173 millones para dos proyectos de transporte.",
+    "El mismo diario menciona otros 14.000 millones previstos en proyectos de redes británicas, sobre todo interconexiones submarinas entre Escocia, Inglaterra y Gales, aunque advierte de que las cifras totales del Reino Unido no quedan del todo claras en el texto. En Bolsa, Iberdrola cotizaba el viernes a 21,33 euros, con una subida del 1,04% a las 17:29, antes de la subasta de cierre, según Bolsamanía."
+   ],
+   "dek": "ScottishPower prevé sumar unos 2.000 empleos en dos años; la acción subió un 1,04% el viernes.",
+   "figure": {
+    "label": "millones de euros",
+    "value": "20.000"
+   },
+   "id": "2026-10-10-iberdrola-escocia-20000",
+   "keys": [
+    "20.000 millones en ocho años.",
+    "ScottishPower sumará unos 2.000 empleos.",
+    "Iberdrola subía un 1,04% el viernes."
+   ],
+   "place": "Glasgow",
+   "section": "economia",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/invertia/empresas/energia/20261009/iberdrola-sube-apuesta-reino-unido-millones-euros-inversion-redes-electricas-escocia/1003744413892_0.html"
+    },
+    {
+     "name": "Bolsamanía",
+     "url": "https://www.bolsamania.com/indice/IBEX-35"
+    }
+   ],
+   "title": "Iberdrola invertirá 20.000 millones en las redes eléctricas de Escocia durante ocho años",
+   "weight": 1,
+   "why": "Iberdrola tiene su sede en Bilbao: la apuesta fuera de España marca dónde crecen sus inversiones y empleo."
+  },
+  {
+   "body": [
+    "La refinería de Petronor en Muskiz, propiedad de Repsol, procesa unos 12 millones de toneladas de crudo al año y exportó en julio productos por 196 millones de euros, casi cuatro veces más que un año antes y el 17% de las exportaciones vizcaínas, según BilbaoHiria. El medio sostiene que el problema mundial es de capacidad de refino: faltan instalaciones para convertir el crudo en gasóleo.",
+    "Los márgenes han roto registros. En julio el margen europeo del diésel superó por primera vez los 60 dólares por barril, y a principios de septiembre el diferencial de Ámsterdam-Róterdam-Amberes alcanzó casi 98 dólares, cuando antes de la guerra con Irán solía moverse entre 10 y 30. BilbaoHiria precisa que es un margen bruto, sin descontar energía, personal y transporte.",
+    "Detrás está una combinación de restricciones: Rusia prohibió exportar diésel en julio y tres de sus seis mayores refinerías de gasóleo se pararon o recortaron por ataques con drones ucranianos; China suspendió sus exportaciones el 1 de octubre, y Trump ha dicho que EE UU vetará las suyas. Estados Unidos, que recibía el 7% del producto de Petronor a finales de 2025, pasó a recibir cerca del 23% en junio. El medio señala como próxima señal para Muskiz la entrada en vigor del veto estadounidense."
+   ],
+   "dek": "Los márgenes de refino se han disparado por las restricciones de Rusia, China y EE UU.",
+   "figure": {
+    "label": "millones exportados en julio",
+    "value": "196"
+   },
+   "id": "2026-10-10-petronor-diesel-escasez",
+   "keys": [
+    "Exportaciones de 196 millones en julio (x4).",
+    "Margen del diésel: hasta ~98 dólares por barril.",
+    "EE UU recibe ya cerca del 23% del producto."
+   ],
+   "place": "Muskiz",
+   "section": "economia",
+   "sources": [
+    {
+     "name": "BilbaoHiria",
+     "url": "https://bilbaohiria.com/bizkaia/petronor-escasez-diesel-margen-refino-muskiz/"
+    }
+   ],
+   "title": "Petronor se beneficia de la escasez mundial de diésel: exportó 196 millones en julio",
+   "weight": 1,
+   "why": "Una refinería vizcaína que gana con la escasez explica por qué el diésel sigue tan caro para el resto."
+  },
+  {
+   "body": [
+    "El Ministerio de Vivienda ha actualizado su «Calculadora del alquiler» para aplicar los topes del decreto de vivienda, según El Debate. Está en la web del ministerio (mivau.gob.es/vivienda/calculadora-precio-alquiler). Pide el precio que pagas, si supera los valores de referencia y la fecha en que termina el contrato, y calcula la subida máxima permitida y cómo quedaría la cuota mensual.",
+    "Las reglas son dos: si el alquiler está por encima del índice de referencia del ministerio, no puede subir y la renta queda congelada; si está por debajo, la actualización máxima es del 2%. Los topes se aplican a las revisiones que se produzcan hasta el 31 de diciembre de 2027 y afectan sobre todo a contratos con actualización anual.",
+    "El decreto tiene un recorrido accidentado: el Congreso tumbó los dos reales decretos de vivienda el 2 de octubre y el Consejo de Ministros los aprobó de nuevo ese mismo día con algunas modificaciones; después Pedro Sánchez convocó elecciones para el 29 de noviembre. elDiario.es destaca que el nuevo texto limita también el Plan Vive de Ayuso al prohibir gastos extras que encarezcan los alquileres asequibles.",
+    "El Debate señala que el artículo no detalla cómo se calcula el índice de referencia ni las posibles excepciones a los topes, por lo que conviene consultar la herramienta oficial antes de dar por buena una cifra. Y como el decreto fue aprobado por el Gobierno tras perder la votación en el Congreso, su permanencia dependerá de lo que ocurra después de las elecciones."
+   ],
+   "dek": "Si tu renta supera el índice de referencia, queda congelada; si no, la subida máxima es del 2% hasta el 31 de diciembre de 2027.",
+   "figure": {
+    "label": "subida máxima",
+    "value": "2%"
+   },
+   "id": "2026-10-10-calculadora-alquiler",
+   "keys": [
+    "Renta sobre el índice de referencia: congelada.",
+    "Renta por debajo: subida máxima del 2%.",
+    "Topes hasta el 31 de diciembre de 2027."
+   ],
+   "place": "Madrid",
+   "section": "sociedad",
+   "sources": [
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/economia/20261009/cuanto-pueden-subirte-alquiler-gobierno-lanza-calculadora-topes-decreto-vivienda-cns_467891.html"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/economia/decreto-vivienda-pone-coto-plan-vive-ayuso-prohibe-gastos-extras-suban-alquileres-asequibles_1_13569109.html"
+    }
+   ],
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   },
+   "title": "El Gobierno lanza una calculadora para saber cuánto te pueden subir el alquiler con el nuevo decreto",
+   "weight": 2,
+   "why": "Si eres inquilina, introduce tu contrato en la calculadora oficial antes de aceptar cualquier subida."
+  },
+  {
+   "body": [
+    "El Ministerio de Sanidad ha convocado para el 14 de octubre, de forma telemática, un Consejo Interterritorial extraordinario cuyo único punto es informar sobre un proyecto de real decreto del aborto, según El Español. Lo elaboran Sanidad e Igualdad; el Consejo de Ministros le dio luz verde el martes y salió a audiencia pública el 7 de octubre con tramitación urgente. Los temas previstos para el Consejo del viernes 9, suspendido por el adelanto electoral, pasan al ordinario del 23 de octubre.",
+    "El proyecto fija qué información debe recibir toda mujer antes de abortar: la naturaleza de la intervención, los métodos quirúrgico y farmacológico, los centros acreditados, los trámites y sus derechos. Si la interrupción es por causas médicas y pasa de la semana 14, se informará de los procedimientos posibles para que elija. La información adicional, como anticoncepción o ayudas públicas, será voluntaria y nunca requisito para acceder a la prestación, con especial atención a menores de 16 años, mujeres extranjeras y con discapacidad.",
+    "También regula los comités clínicos: paridad entre mujeres y hombres y exclusión de quienes figuren en el registro de objetores o lo hayan estado en los últimos tres años. El Español recuerda el conflicto con la Comunidad de Madrid, a la que el Tribunal Superior de Justicia ordenó en marzo crear el registro de objetores; en septiembre, Sanidad pidió a la Abogacía del Estado que actúe para obligarla. El texto consultado no detalla las objeciones de sectores médicos ni de partidos."
+   ],
+   "dek": "El proyecto regula la información previa a una interrupción voluntaria del embarazo y los comités clínicos.",
+   "figure": {
+    "label": "Consejo Interterritorial",
+    "value": "14 oct"
+   },
+   "id": "2026-10-10-decreto-aborto-interterritorial",
+   "keys": [
+    "Consejo Interterritorial extraordinario el 14 de octubre.",
+    "Información obligatoria y voluntaria diferenciadas.",
+    "Comités clínicos sin objetores recientes."
+   ],
+   "place": "Madrid",
+   "section": "sociedad",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20261009/sanidad-convoca-interterritorial-extraordinario-acelerar-aprobacion-decreto-aborto/1003744415100_0.html"
+    }
+   ],
+   "title": "Sanidad convoca un Consejo Interterritorial extraordinario el 14 de octubre para el decreto del aborto",
+   "weight": 1,
+   "why": "Es un cambio de procedimiento sanitario que conviene conocer si te tocara pedir información o acompañar a alguien."
+  },
+  {
+   "body": [
+    "El Museo de Bellas Artes de Bilbao reabrió al público el 6 de octubre tras casi cuatro años de obras y mantiene la entrada gratuita hasta el 13 de octubre, según Orain. Este sábado, el domingo, el lunes festivo del Pilar y el martes son, por tanto, los últimos días sin pagar. Las fuentes consultadas no indican el precio de la entrada después ni los horarios, por lo que conviene consultarlos en la web del museo.",
+    "La ampliación, llamada Agravitas y firmada por Norman Foster y Luis María Uriarte, cuesta unos 45 millones de euros, suma unos 6.000 metros cuadrados y se levanta como un puente de acero sobre los edificios originales, con una estructura de 55 metros según BilbaoHiria. Incluye el atrio Arriaga, una plaza cubierta de acceso libre con una fuente en memoria de Juan Crisóstomo de Arriaga; BBKmuseoa, una galería de 1.500 metros cuadrados para exposiciones temporales, y una terraza de escultura.",
+    "El museo, ahora distribuido en tres edificios (1945, 1970 y el actual), suma 13 espacios de arte. Orain cuenta 43 salas renovadas con 150 piezas que no se habían exhibido, y una exposición permanente de casi mil obras propias con el título «Bildu(e)mak»; también hay una nueva colección de Diseño y Arquitectura en la planta inferior. BilbaoHiria destaca además el nuevo Gabinete, que abre con 72 obras de Balerdi.",
+    "La inauguración oficial fue el lunes 5 de octubre; horas antes, el propio Norman Foster recorrió la ampliación, según Orain."
+   ],
+   "dek": "La ampliación de Foster y Uriarte se levanta como un puente sobre los edificios históricos.",
+   "figure": {
+    "label": "fin de la entrada gratuita",
+    "value": "13 oct"
+   },
+   "id": "2026-10-10-bellas-artes-ultimos-dias-gratis",
+   "keys": [
+    "Entrada gratuita hasta el 13 de octubre.",
+    "Ampliación de unos 45 millones y 6.000 m².",
+    "43 salas renovadas y 150 piezas inéditas."
+   ],
+   "place": "Bilbao",
+   "section": "cultura",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/cultura/2026/10/05/hoy-se-inaugura-el-museo-bellas-artes-bilbao/"
+    },
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/cultura/2026/10/05/tres-nuevas-obras-imprescindibles-del-museo-bellas-artes-bilbao/"
+    },
+    {
+     "name": "BilbaoHiria",
+     "url": "https://bilbaohiria.com/bilbao/agravitas-ampliacion-museo-bellas-artes-bilbao-foster-uriarte/"
+    },
+    {
+     "name": "BilbaoHiria",
+     "url": "https://bilbaohiria.com/bilbao/balerdi-linea-infinita-museo-bellas-artes-bilbao-gabinete/"
+    }
+   ],
+   "thread": {
+    "id": "bellas-artes",
+    "label": "Museo de Bellas Artes"
+   },
+   "title": "Último fin de semana (y puente) con entrada gratuita al nuevo Bellas Artes: hasta el 13 de octubre",
+   "weight": 2,
+   "why": "Si no lo has visto, este puente es el momento de entrar gratis; mejor ir a primera hora para evitar colas."
+  },
+  {
+   "body": [
+    "El Museo Guggenheim Bilbao presentó el jueves 8 de octubre «66-76-26», la nueva obra de Steve McQueen, según Orain (EITB). Se trata de una pieza sonora que invita al visitante a escuchar la canción de amor «Wild Is the Wind» en las versiones que grabaron Nina Simone en 1966 y David Bowie en 1976; McQueen las combina en 2026, de ahí el título.",
+    "BilbaoHiria destaca que la propuesta presenta a los dos intérpretes cantando a capela. El artista, según Orain, defiende que el amor es la única forma de afrontar los tiempos turbulentos que vivimos, una idea que da sentido a reunir dos voces de épocas distintas sobre la misma canción.",
+    "Las fuentes consultadas no indican las fechas de la exposición, la sala en que se instala ni el precio de la entrada. Antes de ir, conviene consultar la web del museo."
+   ],
+   "dek": "Une las versiones de «Wild Is the Wind» de Nina Simone (1966) y David Bowie (1976) en una pieza de 2026.",
+   "figure": {
+    "label": "obra sonora",
+    "value": "66-76-26"
+   },
+   "id": "2026-10-10-mcqueen-66-76-26",
+   "keys": [
+    "Obra sonora de Steve McQueen.",
+    "Combina Nina Simone (1966) y David Bowie (1976).",
+    "Fechas y sala, por confirmar en el museo."
+   ],
+   "place": "Bilbao",
+   "section": "cultura",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/cultura/arte/2026/10/08/el-museo-guggenheim-presenta-667626-la-nueva-obra-steve-mcqueen/"
+    },
+    {
+     "name": "BilbaoHiria",
+     "url": "https://bilbaohiria.com/bilbao/steve-mcqueen-guggenheim-bilbao-nina-simone-bowie-66-76-26/"
+    }
+   ],
+   "title": "Steve McQueen presenta en el Guggenheim «66-76-26», una obra sonora sobre el amor",
+   "weight": 1,
+   "why": "Si te gusta la música o el arte sonoro, es una visita corta que se puede combinar con el Bellas Artes."
+  },
+  {
+   "body": [
+    "Teenage Fanclub toca el domingo 11 de octubre en el Kafe Antzokia de Bilbao, según BilbaoHiria. Las puertas abren a las 20:00, el teloneo empieza a las 20:30 y el concierto a las 21:30. Las entradas cuestan 34 euros más gastos de gestión, y la promotora es Muskerra. Abre la noche Euros Childs, músico galés que ha colaborado con la banda en sus tres últimos discos.",
+    "La cita forma parte de una gira europea de 12 fechas en España que arrancó el 4 de octubre en Granada y termina en el país el 17 de octubre en Barcelona. Coincide con la salida de «Do not dare to dream», decimotercer disco de estudio del grupo, que llega tres años después del anterior.",
+    "El álbum se grabó en la isla escocesa de Great Bernera e incluye diez temas. La fuente consultada no menciona ninguna actuación de otros grupos este fin de semana."
+   ],
+   "dek": "El grupo escocés presenta «Do Not Dare to Dream», su decimotercer álbum, publicado ayer.",
+   "figure": {
+    "label": "domingo, Kafe Antzokia",
+    "value": "11 oct"
+   },
+   "id": "2026-10-10-teenage-fanclub-kafe",
+   "keys": [
+    "Domingo 11, puertas a las 20:00.",
+    "34 euros más gastos; telonero Euros Childs.",
+    "Nuevo álbum publicado el 9 de octubre."
+   ],
+   "place": "Bilbao",
+   "section": "cultura",
+   "sources": [
+    {
+     "name": "BilbaoHiria",
+     "url": "https://bilbaohiria.com/bilbao/teenage-fanclub-concierto-bilbao-kafe-antzokia-2026/"
+    }
+   ],
+   "title": "Teenage Fanclub actúa mañana domingo en el Kafe Antzokia con su nuevo disco",
+   "weight": 1,
+   "why": "Plan de domingo con entrada asequible; con probabilidad de lluvia débil, lleva paraguas."
+  },
+  {
+   "body": [
+    "El 2 de agosto de 2027 habrá un eclipse total de Sol visible desde España, considerado el «eclipse del siglo» por su duración máxima, según Orain (EITB). En Euskadi se verá solo de forma parcial. La banda de totalidad cruza el Estrecho de Gibraltar y el mar de Alborán, con el sur de Andalucía (costas de Cádiz, Málaga, Granada y Almería), Ceuta y Melilla dentro de la franja.",
+    "En España empezará hacia las 9:30 y la totalidad llegará entre las 10:45 y las 10:50, según la localidad. En el sur peninsular la oscuridad total superará en algunos puntos los cuatro minutos, y la duración máxima del fenómeno es de unos seis minutos; cerca de Luxor, en Egipto, se superarán los seis. Fuera de Europa pasa por Marruecos, Argelia, Túnez, Libia, Arabia Saudí, Yemen y Somalia.",
+    "El artículo recuerda que no habrá otro eclipse total visible desde España hasta 2053 y que en 2028 habrá uno anular, para el que sí hace falta una protección ocular adecuada. Orain sugiere que las gafas compradas para el eclipse de 2026 podrían reutilizarse en 2027, aunque no detalla los requisitos de seguridad; lo prudente es comprobar que cumplan la norma antes de mirar.",
+    "Como referencia del impacto, Orain cita las cifras del eclipse de agosto de 2026: 26 millones de desplazamientos extra en un día de agosto (un 21% más) y más de 2,1 millones de personas desplazadas hacia la franja de totalidad."
+   ],
+   "dek": "Será el 2 de agosto de 2027 y no habrá otro total visible desde España hasta 2053.",
+   "figure": {
+    "label": "eclipse total de 2027",
+    "value": "2 ago"
+   },
+   "id": "2026-10-10-eclipse-2027",
+   "keys": [
+    "2 de agosto de 2027, hacia las 10:45 la totalidad.",
+    "Parcial en Euskadi; total en el sur de España.",
+    "Siguiente total en España: 2053."
+   ],
+   "place": "España",
+   "section": "ciencia",
+   "sources": [
+    {
+     "name": "Orain (EITB)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/08/las-gafas-buen-recaudo-sabemos-ya-del-eclipse-del-siglo-2027/"
+    }
+   ],
+   "title": "El «eclipse del siglo» de 2027: parcial en Euskadi y total en el sur de España",
+   "weight": 2,
+   "why": "Si quieres verlo entero, tendrás que viajar al sur: conviene reservar alojamiento con mucha antelación."
+  },
+  {
+   "body": [
+    "El Athletic visita hoy sábado 10 de octubre al Rayo Vallecano a las 14:00 en Vallecas, en la octava jornada de Liga, con DAZN como televisión, según BilbaoHiria. Para el Rayo será el primer partido liguero en su estadio esta temporada, después de jugar sus primeros encuentros como local en Butarque.",
+    "Edin Terzić tiene cuatro bajas: Nico Williams, Álvaro Djaló, Yuri Berchiche y Oihan Sancet. Sancet, titular en los seis partidos de Liga disputados, sufre una lesión muscular moderada en el sóleo de la pierna izquierda y el club no ha dado plazo de recuperación, según Kirolak EITB. BilbaoHiria publica hoy un análisis sobre las lesiones recurrentes de Sancet y Nico, en el que Dani Aguado niega que sean una casualidad.",
+    "En la delantera, Peio Canales, que marcó con la sub-21 en el 7-1 a Rumanía, es el candidato para ocupar el puesto de Sancet. BilbaoHiria apunta además a Christian Imga, extremo de 17 años y 1,90 metros del Bilbao Athletic, que entrena con el primer equipo, como posible debutante.",
+    "Las alineaciones se conocerán poco antes del partido. El Rayo vende entradas desde 45 euros. El Athletic tendrá cinco salidas en los próximos siete partidos, según otro análisis del calendario publicado por BilbaoHiria."
+   ],
+   "dek": "Terzić no cuenta con Nico Williams, Djaló, Yuri ni Sancet para visitar al Rayo en la octava jornada.",
+   "figure": {
+    "label": "hoy, DAZN",
+    "value": "14:00"
+   },
+   "id": "2026-10-10-athletic-rayo-hoy",
+   "keys": [
+    "Hoy a las 14:00 en Vallecas (DAZN).",
+    "Bajas: Nico, Djaló, Yuri y Sancet (sóleo).",
+    "Imga, 17 años, puede debutar."
+   ],
+   "place": "Madrid",
+   "section": "deportes",
+   "sources": [
+    {
+     "name": "BilbaoHiria",
+     "url": "https://bilbaohiria.com/deportes/imga-debut-athletic-rayo-vallecano-bajas-nico-djalo-sancet-yuri/"
+    },
+    {
+     "name": "BilbaoHiria",
+     "url": "https://bilbaohiria.com/deportes/sancet-nico-williams-lesiones-athletic-critica-dani-aguado/"
+    },
+    {
+     "name": "Kirolak EITB",
+     "url": "https://kirolakeitb.eus/es/futbol/equipos/athletic-club/2026/10/08/oihan-sancet-lesionado-caracter-moderado-soleo/"
+    },
+    {
+     "name": "Unión Rayo",
+     "url": "https://unionrayo.es/entradas-rayo-vallecano-athletic-laliga-vallecas/"
+    }
+   ],
+   "thread": {
+    "id": "athletic",
+    "label": "Athletic Club"
+   },
+   "title": "El Athletic juega hoy a las 14:00 en Vallecas, con cuatro bajas y posible debut del juvenil Imga",
+   "weight": 2,
+   "why": "Parte del partido coincide con la comida: si lo ves en un bar del Casco Viejo, reserva mesa."
+  },
+  {
+   "body": [
+    "Manex Lozano ha renovado con el Athletic, según BilbaoHiria. El club no ha hecho públicos la duración del contrato ni la cláusula. El medio recuerda que en junio se informó de que el club trabajaba en una mejora del contrato con una cláusula de 60 millones de euros, con el Real Oviedo y el Racing de Santander interesados en el jugador.",
+    "Lozano se rompió el ligamento cruzado anterior en febrero, mientras estaba cedido en el Racing de Santander, y fue operado a mediados de ese mes. En junio, el director deportivo, Mikel González, dijo que no creían que pudiera volver a jugar hasta noviembre. Retomó el trabajo con el Bilbao Athletic en julio y han pasado unos ocho meses desde la operación.",
+    "La fuente no da una fecha oficial para su vuelta. Cuando regrese, jugará con el filial antes de un posible ascenso al primer equipo, según BilbaoHiria, que no precisa su edad."
+   ],
+   "dek": "El club no ha hecho públicos los términos; el jugador se rompió el ligamento en febrero cedido en el Racing.",
+   "figure": {
+    "label": "regreso previsto en junio",
+    "value": "nov"
+   },
+   "id": "2026-10-10-manex-lozano-renueva",
+   "keys": [
+    "Renueva; contrato y cláusula, sin publicar.",
+    "Cruzado roto en febrero, cedido en el Racing.",
+    "Volvería con el Bilbao Athletic."
+   ],
+   "place": "Bilbao",
+   "section": "deportes",
+   "sources": [
+    {
+     "name": "BilbaoHiria",
+     "url": "https://bilbaohiria.com/deportes/manex-lozano-renueva-athletic-recuperacion-cruzado/"
+    }
+   ],
+   "thread": {
+    "id": "athletic",
+    "label": "Athletic Club"
+   },
+   "title": "Manex Lozano renueva con el Athletic mientras termina de recuperarse del cruzado",
+   "weight": 1,
+   "why": "El club asegura a un jugador joven mientras se recupera; falta conocer las condiciones del contrato."
+  },
+  {
+   "body": [
+    "La consultora Técnicos de Tasación (Tecnitasa), contratada por la Diputación de Álava, ha fijado en 54,8 millones de euros el valor del pabellón Fernando Buesa Arena y las parcelas de aparcamiento de su entorno, según elDiario.es. El pabellón vale unos 40,1 millones y tiene capacidad para 15.290 espectadores; la antigua cúpula retirada se valora en unos 6,3 millones y el resto corresponde a los aparcamientos.",
+    "La tasación, de 159 folios, la encargaron el diputado general, Ramiro González (PNV), y el grupo Saski Baskonia-Deportivo Alavés, de Josean Querejeta, inquilino del recinto, para que el club pueda quedarse con las instalaciones. González se comprometió a no vender por debajo del precio de tasación y a buscar el aval de las Juntas Generales, donde su gobierno no tiene mayoría absoluta.",
+    "El club presentó en julio un plan de unos 150 millones que incluye la compra del recinto y el aparcamiento, nuevas edificaciones en la zona de Zurbano (el «distrito Ondare») y una reforma interior sin ampliar el aforo para acoger eventos todo el año. La información no indica el plazo para la compra ni la fecha de una posible votación en las Juntas."
+   ],
+   "dek": "La Diputación de Álava, propietaria, buscará el aval de las Juntas Generales, donde no tiene mayoría absoluta.",
+   "figure": {
+    "label": "valor del Buesa Arena",
+    "value": "54,8 M€"
+   },
+   "id": "2026-10-10-buesa-arena-baskonia",
+   "keys": [
+    "Valor fijado: 54,8 millones de euros.",
+    "La Diputación de Álava es la propietaria.",
+    "Falta el aval de las Juntas Generales."
+   ],
+   "place": "Vitoria-Gasteiz",
+   "section": "deportes",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/fijan-54-8-millones-pabellon-buesa-arena-aparcamiento-pueda-comprar-baskonia_1_13572798.html"
+    }
+   ],
+   "title": "El Buesa Arena y su aparcamiento, tasados en 54,8 millones para que Baskonia pueda comprarlos",
+   "weight": 1,
+   "why": "Si sigues al Baskonia, es el paso previo para que el club sea dueño de su pabellón."
+  }
+ ],
+ "summary": "El PNV de Bizkaia releva a Etxanobe, el juez Pedraz no investiga por ahora al PSOE y Pillay gana el Nobel de la Paz; el Athletic juega hoy en Vallecas.",
+ "weather": {
+  "days": [
+   {
+    "date": "2026-10-10",
+    "max": 21,
+    "min": 10,
+    "rain": 0,
+    "sky": "partly",
+    "text": "Nubes y claros"
+   },
+   {
+    "date": "2026-10-11",
+    "max": 22,
+    "min": 12,
+    "rain": 50,
+    "sky": "rain-light",
+    "text": "Lluvia débil"
+   },
+   {
+    "date": "2026-10-12",
+    "max": 23,
+    "min": 12,
+    "sky": "fog",
+    "text": "Niebla"
+   },
+   {
+    "date": "2026-10-13",
+    "max": 25,
+    "min": 12,
+    "sky": "fog",
+    "text": "Niebla"
+   }
+  ],
+  "place": "Bilbao",
+  "source": {
+   "name": "Meteored",
+   "url": "https://www.tiempo.com/bilbao.htm"
+  }
+ }
+}
