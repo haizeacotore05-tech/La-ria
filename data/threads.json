@@ -1,15 +1,57 @@
 {
+ "inundaciones-bilbao": {
+  "label": "Inundaciones en Bilbao",
+  "last": "2026-10-11",
+  "first": "2026-10-08",
+  "count": 2
+ },
  "vivienda": {
   "label": "Crisis de la vivienda",
-  "last": "2026-10-10",
+  "last": "2026-10-11",
   "first": "2026-10-08",
-  "count": 16
+  "count": 20
  },
  "pnv-bizkaia": {
   "label": "PNV de Bizkaia",
-  "last": "2026-10-10",
+  "last": "2026-10-11",
   "first": "2026-10-10",
-  "count": 1
+  "count": 2
+ },
+ "sanidad": {
+  "label": "Sanidad",
+  "last": "2026-10-11",
+  "first": "2026-10-08",
+  "count": 3
+ },
+ "elecciones-29n": {
+  "label": "Elecciones 29-N",
+  "last": "2026-10-11",
+  "first": "2026-10-08",
+  "count": 17
+ },
+ "marruecos-ceuta": {
+  "label": "Crisis de Ceuta",
+  "last": "2026-10-11",
+  "first": "2026-10-10",
+  "count": 2
+ },
+ "ucrania": {
+  "label": "Guerra de Ucrania",
+  "last": "2026-10-11",
+  "first": "2026-10-08",
+  "count": 2
+ },
+ "eeuu-midterms": {
+  "label": "Elecciones en EE UU",
+  "last": "2026-10-11",
+  "first": "2026-10-08",
+  "count": 2
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-10-11",
+  "first": "2026-10-08",
+  "count": 6
  },
  "autogobierno": {
   "label": "Autogobierno vasco",
@@ -17,23 +59,11 @@
   "first": "2026-10-08",
   "count": 3
  },
- "elecciones-29n": {
-  "label": "Elecciones 29-N",
-  "last": "2026-10-10",
-  "first": "2026-10-08",
-  "count": 13
- },
  "tribunales-psoe": {
   "label": "Casos judiciales del PSOE",
   "last": "2026-10-10",
   "first": "2026-10-08",
   "count": 4
- },
- "marruecos-ceuta": {
-  "label": "Crisis de Ceuta",
-  "last": "2026-10-10",
-  "first": "2026-10-10",
-  "count": 1
  },
  "guerra-iran": {
   "label": "Guerra de Irán",
@@ -47,12 +77,6 @@
   "first": "2026-10-08",
   "count": 3
  },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-10-10",
-  "first": "2026-10-08",
-  "count": 5
- },
  "juicio-maduro": {
   "label": "Juicio a Maduro",
   "last": "2026-10-09",
@@ -63,12 +87,6 @@
   "label": "Protestas estudiantiles en Francia",
   "last": "2026-10-09",
   "first": "2026-10-09",
-  "count": 1
- },
- "inundaciones-bilbao": {
-  "label": "Inundaciones en Bilbao",
-  "last": "2026-10-08",
-  "first": "2026-10-08",
   "count": 1
  },
  "metro-bilbao": {
@@ -89,18 +107,6 @@
   "first": "2026-10-08",
   "count": 1
  },
- "sanidad": {
-  "label": "Sanidad",
-  "last": "2026-10-08",
-  "first": "2026-10-08",
-  "count": 2
- },
- "ucrania": {
-  "label": "Guerra de Ucrania",
-  "last": "2026-10-08",
-  "first": "2026-10-08",
-  "count": 1
- },
  "gaza": {
   "label": "Guerra de Gaza",
   "last": "2026-10-08",
@@ -112,12 +118,6 @@
   "last": "2026-10-08",
   "first": "2026-10-08",
   "count": 2
- },
- "eeuu-midterms": {
-  "label": "Elecciones en EE UU",
-  "last": "2026-10-08",
-  "first": "2026-10-08",
-  "count": 1
  },
  "pena-muerte-eeuu": {
   "label": "Pena de muerte en EE UU",
