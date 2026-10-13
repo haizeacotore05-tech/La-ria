@@ -1,0 +1,1554 @@
+{
+ "briefs": [
+  {
+   "comarca": "bi",
+   "id": "2026-10-13-b01",
+   "section": "bilbao",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bilbao/ruta-guiada-artxanda-ekologistak-martxan-17-octubre/"
+   },
+   "tag": "Naturaleza",
+   "text": "Ekologistak Martxan guía una ruta gratuita por Artxanda el sábado 17 de octubre; Bilbao Hiria no detalla en su avance la hora ni el punto de salida de la actividad."
+  },
+  {
+   "comarca": "bu",
+   "id": "2026-10-13-b02",
+   "section": "euskadi",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/12/dos-personas-resultan-heridas-en-un-choque-frontal-en-la-bi635-la-altura-muxika/"
+   },
+   "tag": "Tráfico",
+   "text": "Dos personas resultaron heridas en un choque frontal en la BI-635, a la altura de Muxika; una quedó atrapada y fue evacuada en helicóptero, y el tráfico se retuvo en ambos sentidos."
+  },
+  {
+   "comarca": "du",
+   "id": "2026-10-13-b03",
+   "section": "euskadi",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/12/el-ayuntamiento-durango-denuncia-el-lanzamiento-botellas-contra-la-policia-local-en-la-zona-txosnas/"
+   },
+   "tag": "Durango",
+   "text": "El Ayuntamiento de Durango denuncia el lanzamiento de botellas contra la Policía Local en la zona de las txosnas, adonde acudieron los agentes tras recibir amenazas."
+  },
+  {
+   "id": "2026-10-13-b04",
+   "section": "euskadi",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/12/un-incendio-calcina-un-edificio-viviendas-en-san-sebastian/"
+   },
+   "tag": "Incendio",
+   "text": "Un incendio en un edificio de viviendas de Donostia obliga a desalojar a nueve personas y deja a una ingresada por inhalación de humo; según Orain, el inmueble probablemente tendrá que demolerse."
+  },
+  {
+   "id": "2026-10-13-b05",
+   "section": "euskadi",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/12/detenido-en-alegriadulantzi-tras-tirar-un-hombre-al-rio-durante-una-pelea/"
+   },
+   "tag": "Sucesos",
+   "text": "Detenido en Alegría-Dulantzi un hombre acusado de tirar a otro al río durante una pelea; se le imputa un delito de homicidio en grado de tentativa."
+  },
+  {
+   "id": "2026-10-13-b06",
+   "section": "euskadi",
+   "source": {
+    "name": "elDiario.es Euskadi",
+    "url": "https://www.eldiario.es/euskadi/juez-obliga-osakidetza-actual-empresa-ambulancias-cubrir-deudas-salariales-dejo-grup-pau_1_13575779.html"
+   },
+   "tag": "Ambulancias",
+   "text": "Un juez obliga a Osakidetza y a la actual empresa de ambulancias a cubrir también las deudas salariales que dejó Grup La Pau, según elDiario.es."
+  },
+  {
+   "id": "2026-10-13-b07",
+   "section": "euskadi",
+   "source": {
+    "name": "elDiario.es Euskadi",
+    "url": "https://www.eldiario.es/euskadi/permanente-falta-medicos-andoain-enfrenta-ayuntamiento-eh-bildu-gobierno-vasco_1_13573747.html"
+   },
+   "tag": "Sanidad",
+   "text": "La falta permanente de médicos en Andoain enfrenta al Ayuntamiento de EH Bildu con el Gobierno vasco, según elDiario.es."
+  },
+  {
+   "id": "2026-10-13-b08",
+   "section": "euskadi",
+   "source": {
+    "name": "elDiario.es Euskadi",
+    "url": "https://www.eldiario.es/euskadi/donostia-creara-zonas-sombra-playas-despues-verano-excepcionalmente-calido_1_13563922.html"
+   },
+   "tag": "Donostia",
+   "text": "Donostia creará más zonas de sombra en sus playas tras un verano calificado de excepcionalmente cálido, según elDiario.es."
+  },
+  {
+   "id": "2026-10-13-b09",
+   "section": "espana",
+   "source": {
+    "name": "The Objective",
+    "url": "https://theobjective.com/economia/transporte/2026-10-12/adif-comunica-restablecimiento-parcial-linea-ave-madrid-barcelona/"
+   },
+   "tag": "Transporte",
+   "text": "Se interrumpió el lunes la circulación del AVE entre Madrid y Barcelona por el incendio de un tren; Adif comunicó después el restablecimiento parcial de la línea, según The Objective."
+  },
+  {
+   "id": "2026-10-13-b10",
+   "section": "espana",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/12/tension-en-la-acampada-sol-ultras-realizan-saludos-fascistas-arrojan-huevos-les-ensenan-jabon/"
+   },
+   "tag": "Sol",
+   "text": "Según Orain, tras el desfile del 12-O hubo tensión en la acampada de la Puerta del Sol, con manifestantes con banderas, saludos fascistas y fuerte presencia policial; The Objective la describe como tensión entre acampados y manifestantes."
+  },
+  {
+   "id": "2026-10-13-b11",
+   "section": "espana",
+   "source": {
+    "name": "The Objective",
+    "url": "https://theobjective.com/espana/politica/2026-10-12/pp-bruselas-jueza-david-sanchez/"
+   },
+   "tag": "Tribunales",
+   "text": "El PP pide a Bruselas que investigue las presuntas presiones a la jueza que instruye el caso del hermano del presidente, David Sánchez, según The Objective."
+  },
+  {
+   "id": "2026-10-13-b12",
+   "section": "espana",
+   "source": {
+    "name": "The Objective",
+    "url": "https://theobjective.com/espana/politica/2026-10-12/page-ferraz-listas-senado/"
+   },
+   "tag": "Listas",
+   "text": "El presidente de Castilla-La Mancha, Emiliano García-Page, delega en Ferraz las listas del 29-N y ve arriesgada la operación para el Senado, según The Objective."
+  },
+  {
+   "id": "2026-10-13-b13",
+   "section": "espana",
+   "source": {
+    "name": "El Independiente",
+    "url": "https://www.elindependiente.com/espana/2026/10/13/la-tregua-preelectoral-de-vox-con-el-pp-se-traslada-a-los-gobiernos-autonomicos-aunque-nunca-hay-que-fiarse/"
+   },
+   "tag": "PP y Vox",
+   "text": "Según El Independiente, la tregua preelectoral de Vox con el PP se traslada a los gobiernos autonómicos, aunque en la formación «nunca hay que fiarse»."
+  },
+  {
+   "id": "2026-10-13-b14",
+   "section": "mundo",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/12/vuelta-las-aulas-en-los-liceos-iparralde-francia-tras-las-protestas/"
+   },
+   "tag": "Francia",
+   "text": "Los liceos de Iparralde y de toda Francia retoman las clases tras las protestas estudiantiles de las últimas semanas, según Orain."
+  },
+  {
+   "id": "2026-10-13-b15",
+   "section": "mundo",
+   "source": {
+    "name": "El Independiente",
+    "url": "https://www.elindependiente.com/internacional/2026/10/13/racismo-inmigrantes-norte-africa-indicios-claros-violencia-discriminacion/"
+   },
+   "tag": "Migración",
+   "text": "Los inmigrantes subsaharianos son víctimas de abusos, violencia y discriminación desde Marruecos hasta Libia en su camino hacia Europa, según un reportaje de El Independiente."
+  },
+  {
+   "id": "2026-10-13-b16",
+   "section": "economia",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/espana/agencias/2026/10/12/la-bolsa-sube-el-133-mayor-alza-en-dos-meses-y-medio-y-se-acerca-a-19300-puntos/"
+   },
+   "tag": "Bolsas",
+   "text": "La Bolsa de Seúl cayó un 3,65 % el lunes después de que OpenAI informara de ingresos de septiembre inferiores a los de agosto, según EFE."
+  },
+  {
+   "id": "2026-10-13-b17",
+   "section": "economia",
+   "source": {
+    "name": "El Español",
+    "url": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20261012/cnmv-niega-blazquez-restitucion-ceo-antigua-beka-values-pese-audiencia-provincial-obliga/1003744415580_0.html"
+   },
+   "tag": "CNMV",
+   "text": "La CNMV rechaza devolver a Blázquez el cargo de consejero delegado de Beka Values pese a una orden de la Audiencia Provincial, según El Español."
+  },
+  {
+   "id": "2026-10-13-b18",
+   "section": "economia",
+   "source": {
+    "name": "El Español",
+    "url": "https://www.elespanol.com/invertia/empresas/energia/20261012/espana-unico-pais-ue-no-cerrado-refinerias-aumentado-produccion-diesel/1003744415638_0.html"
+   },
+   "tag": "Energía",
+   "text": "España es el único país de la UE que no ha cerrado refinerías y ha aumentado su producción, sobre todo de diésel, según El Español."
+  },
+  {
+   "id": "2026-10-13-b19",
+   "section": "economia",
+   "source": {
+    "name": "El Independiente",
+    "url": "https://www.elindependiente.com/economia/2026/10/13/uso-cajeros-sacar-efectivo-minimos/"
+   },
+   "tag": "Efectivo",
+   "text": "El uso de los cajeros automáticos para sacar efectivo cae a mínimos, según un análisis de El Independiente."
+  },
+  {
+   "id": "2026-10-13-b20",
+   "section": "sociedad",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/12/manifestacion-en-iruna-reivindicar-la-multiculturalidad-frente-al-racismo/"
+   },
+   "tag": "Navarra",
+   "text": "Una marcha festiva en Iruña reivindicó la multiculturalidad frente al racismo, con música y danza de distintas procedencias, según Orain."
+  },
+  {
+   "comarca": "bi",
+   "id": "2026-10-13-b21",
+   "section": "cultura",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/bilbao/octubre-2026"
+   },
+   "tag": "Conciertos",
+   "text": "Agenda musical en Bilbao: viernes 16, Rat-Zinger y Lion's Law (Stage Live) y Ruslana (Santana 27); sábado 17, Dirty Suc (Santana 27) y Levitants (Azkena); domingo 18, Hällas (Kafe Antzokia)."
+  },
+  {
+   "id": "2026-10-13-b22",
+   "section": "deportes",
+   "source": {
+    "name": "Kirolak EITB",
+    "url": "https://kirolakeitb.eus/es/futbol/equipos/osasuna/2026/10/11/demasiado-betis-osasuna-5-2/"
+   },
+   "tag": "Liga",
+   "text": "El Betis ganó 5-2 a Osasuna, que se había acercado con goles de Budimir y García de Haro; los navarros solo han sumado un punto en sus últimos cinco partidos, según Kirolak."
+  },
+  {
+   "id": "2026-10-13-b23",
+   "section": "deportes",
+   "source": {
+    "name": "Kirolak EITB",
+    "url": "https://kirolakeitb.eus/es/ciclismo/otras-competiciones/2026/10/11/per-strand-hagenes-ganador-paris-tours-ciclismo/"
+   },
+   "tag": "Ciclismo",
+   "text": "El noruego Per Strand Hagenes ganó la París-Tours, según Kirolak de EITB, que no ofrece más detalles de la carrera."
+  }
+ ],
+ "date": "2026-10-13",
+ "essentials": [
+  {
+   "story": "2026-10-13-supremo-nacionalizados-29n",
+   "text": "El Supremo mantiene sin voto el 29-N a los nacionalizados por la ley de nietos que no acrediten el exilio de sus ascendientes; el Gobierno estudia recurrir al Constitucional."
+  },
+  {
+   "story": "2026-10-13-tiempo-martes-niebla",
+   "text": "Hoy hay niebla por la mañana y 24 grados en Bilbao; miércoles y jueves subirá a 28 y el viernes llegará la lluvia con solo 20 grados."
+  },
+  {
+   "story": "2026-10-13-sanchez-ceuta-buques-marroquies",
+   "text": "Sánchez admite que buques de guerra marroquíes entraron en aguas de Ceuta el 30 y 31 de julio; el Rey visita hoy la ciudad."
+  },
+  {
+   "story": "2026-10-13-erc-podemos-colau",
+   "text": "Podemos no se presentará en Cataluña y hará campaña con ERC, el Frente Amplio designa a Colau y las coaliciones tienen hasta el viernes 16 para registrarse."
+  },
+  {
+   "story": "2026-10-13-ucrania-tregua-sanciones-ue",
+   "text": "Moscú no confirma la tregua energética de Trump y sigue atacando infraestructuras ucranianas; la UE sanciona a casi 1.600 personas y empresas de su industria militar."
+  },
+  {
+   "story": "2026-10-13-tubos-reunidos-decisiva",
+   "text": "El viernes 16 se conocerán las cinco ofertas finalistas por Tubos Reunidos, con unos 1.200 empleos en Trapagaran y Amurrio pendientes de la operación."
+  },
+  {
+   "story": "2026-10-13-athletic-rayo-4-noviembre",
+   "text": "Athletic y Rayo apuntan al 4 de noviembre, a puerta cerrada, para jugar los 65 minutos pendientes; antes, el sábado 17, el Athletic visita al Valencia."
+  },
+  {
+   "story": "2026-10-13-gripe-219000-citas",
+   "text": "Osakidetza ya ha dado 219.000 citas para vacunarse de la gripe; se pide vacunarse sobre todo a mayores de 60, enfermos crónicos, embarazadas y menores de 5 años."
+  }
+ ],
+ "generatedAt": "2026-10-13T06:26:30+02:00",
+ "markets": {
+  "asOf": "Cierre del lunes 12 de octubre",
+  "comment": "El Ibex 35 subió un 1,33 % el lunes, con la banca y Iberdrola al alza, mientras Repsol cedió pese a que el Brent subió hasta 106,8 dólares.",
+  "items": [
+   {
+    "change": 1.33,
+    "name": "Ibex 35",
+    "note": "Mayor subida diaria desde el 30 de julio, según EFE",
+    "value": "19.285,8"
+   },
+   {
+    "change": 1.88,
+    "name": "Iberdrola",
+    "note": "Cotización a las 17:19 del lunes, antes del cierre",
+    "value": "21,66 €"
+   },
+   {
+    "change": 1.69,
+    "name": "BBVA",
+    "note": "Cotización a las 17:19 del lunes, antes del cierre",
+    "value": "23,50 €"
+   },
+   {
+    "change": 1.63,
+    "name": "Santander",
+    "note": "Cotización a las 17:19 del lunes, antes del cierre",
+    "value": "12,22 €"
+   },
+   {
+    "change": -0.97,
+    "name": "Repsol",
+    "note": "Cotización a las 17:19 del lunes, antes del cierre",
+    "value": "29,24 €"
+   },
+   {
+    "change": 1.06,
+    "name": "Sabadell",
+    "note": "Cotización a las 17:19 del lunes, antes del cierre",
+    "value": "3,53 €"
+   },
+   {
+    "change": 0.11,
+    "name": "Inditex",
+    "note": "Cotización a las 17:19 del lunes, antes del cierre",
+    "value": "53,92 €"
+   },
+   {
+    "change": 0.16,
+    "name": "Euro/dólar",
+    "note": "Cotización de la cabecera de Estrategias de Inversión",
+    "value": "1,1175"
+   },
+   {
+    "change": 2,
+    "name": "Brent",
+    "note": "Según EFE; por la mañana cotizaba cerca de 104 $",
+    "value": "106,8 $"
+   }
+  ],
+  "sources": [
+   {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/espana/agencias/2026/10/12/la-bolsa-sube-el-133-mayor-alza-en-dos-meses-y-medio-y-se-acerca-a-19300-puntos/"
+   },
+   {
+    "name": "El Periódico de Ceuta",
+    "url": "https://www.elperiodicodeceuta.es/cierre-ibex-35-bolsa-espana-hoy-lunes-12-de-octubre-de-2026/"
+   },
+   {
+    "name": "Bolsamanía",
+    "url": "https://www.bolsamania.com/indice/IBEX-35"
+   },
+   {
+    "name": "Estrategias de Inversión",
+    "url": "https://www.estrategiasdeinversion.com/actualidad/la-bolsa-hoy-en-directo/12-10-2026"
+   }
+  ]
+ },
+ "number": 6,
+ "stories": [
+  {
+   "body": [
+    "Meteored sitúa hoy, martes 13 de octubre, niebla por la mañana en Bilbao y nubes y claros por la tarde, con 24 grados de máxima y 13 de mínima. La web no marca probabilidad de lluvia en las horas detalladas de hoy.",
+    "El miércoles 14 y el jueves 15 se mantiene el cielo de nubes y claros, pero las temperaturas suben: 28 grados de máxima los dos días, con mínimas de 16 y 15. Son cuatro grados más que hoy y tres más que el máximo que dio Bilbao Hiria para el festivo del lunes, que cifró en 25.",
+    "El cambio llega el viernes 16. Meteored anuncia lluvia débil con cielo cubierto, 20 grados de máxima y 17 de mínima, con un 70 % de probabilidad de precipitación y en torno a 3,4 litros por metro cuadrado. Bilbao Hiria ya había titulado esa caída como el «bajón del viernes».",
+    "La diferencia entre el jueves y el viernes es de ocho grados en la máxima. Meteored no da porcentajes de lluvia para el miércoles ni el jueves, solo a partir del viernes, de modo que el paraguas solo parece necesario al final de la semana."
+   ],
+   "dek": "Meteored prevé tres días templados y un cambio brusco el viernes 16, con lluvia débil y solo 20 grados de máxima.",
+   "figure": {
+    "label": "máxima miércoles y jueves",
+    "value": "28°"
+   },
+   "id": "2026-10-13-tiempo-martes-niebla",
+   "keys": [
+    "Hoy: niebla matinal, 24 y 13 grados",
+    "Miércoles y jueves: nubes y claros, 28 grados",
+    "Viernes: lluvia débil (70 %) y 20 grados"
+   ],
+   "place": "Bilbao",
+   "section": "bilbao",
+   "sources": [
+    {
+     "name": "Meteored",
+     "url": "https://www.tiempo.com/bilbao.htm"
+    },
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bilbao/tiempo-bilbao-hoy-lunes-12-octubre-2026/"
+    }
+   ],
+   "title": "Niebla por la mañana y 24 grados en Bilbao; miércoles y jueves, hasta 28, y el viernes vuelve la lluvia",
+   "weight": 2,
+   "why": "Para ir al trabajo en el Casco Viejo: ropa ligera mañana y pasado, y el viernes paraguas y una capa más."
+  },
+  {
+   "body": [
+    "Bilbao es zona de mercado residencial tensionado desde el 31 de octubre de 2025. Según los datos de Idealista que cita el analista Josean Paunero en su canal República Económica, en septiembre de 2026 solo cinco capitales de provincia anunciaban alquileres más baratos que un año antes, entre ellas Bilbao, Donostia, Vitoria-Gasteiz y Barcelona, todas con topes. Los precios anunciados bajan un 3 % en Bizkaia y un 0,3 % en Euskadi, mientras suben un 5,6 % en el conjunto de España.",
+    "Paunero advierte de que Idealista mide anuncios, no contratos: si los pisos caros dejan de publicarse en larga duración, la media baja sin que ninguna vivienda haya bajado de precio. En Bilbao, 436 de los 540 anuncios de Idealista de junio eran de temporada, y en verano ocho de cada diez.",
+    "Para sostener su tesis recurre a una revisión de 112 estudios del investigador Konstantin Kholodilin (DIW, 2024). En las viviendas con tope el alquiler baja de media un 9,4 %, pero en las que quedan fuera sube un 4,8 %, la gente se muda menos y la calidad suele empeorar. Es la lectura de un analista de opinión, no una conclusión oficial; el debate sigue abierto en Euskadi, donde EH Bildu ha registrado en el Parlamento Vasco una iniciativa para declarar zona tensionada todo el territorio."
+   ],
+   "dek": "Josean Paunero sostiene, con datos de Idealista y estudios internacionales, que la zona tensionada beneficia a quien ya tiene contrato y perjudica a quien busca piso.",
+   "figure": {
+    "label": "alquiler anunciado en Bizkaia",
+    "value": "-3 %"
+   },
+   "id": "2026-10-13-tope-alquiler-bilbao",
+   "keys": [
+    "Bilbao, zona tensionada desde el 31-10-2025",
+    "Alquiler anunciado en Bizkaia: -3 % interanual (Idealista)",
+    "El analista ve menos oferta y más temporada",
+    "En verano, 8 de cada 10 anuncios eran de temporada"
+   ],
+   "place": "Bilbao",
+   "section": "bilbao",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bilbao/tope-alquiler-bilbao-zona-tensionada-josean-paunero/"
+    }
+   ],
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   },
+   "title": "Un analista avisa de que el tope al alquiler abarata los pisos de Bilbao, pero reduce la oferta",
+   "weight": 1,
+   "why": "Si buscas piso en Bilbao es normal ver pocos anuncios de larga duración: pregunta siempre por el tipo de contrato antes de visitar."
+  },
+  {
+   "body": [
+    "EH Bildu llamó el lunes 12 de octubre a una gran movilización en Bilbao el sábado 14 de noviembre. Su lema es mandar un mensaje claro al «bloque reaccionario», y la coalición asegura que en Euskal Herria hay fuerza suficiente para pararlo.",
+    "El llamamiento pide a la ciudadanía llenar las calles de la capital vizcaína y construir un «cinturón de lucha» frente a la ultraderecha. Orain, que publica la convocatoria, no detalla el recorrido, la hora ni los oradores, y no consta que esos datos estén ya cerrados.",
+    "La cita llega en plena precampaña de las generales del 29 de noviembre y tres días después de la huelga general por la vivienda del 11 de noviembre, a la que se han sumado ELA, LAB y ESK."
+   ],
+   "dek": "La coalición pide llenar las calles de la capital vizcaína frente a la extrema derecha, quince días antes de las elecciones del 29-N.",
+   "figure": {
+    "label": "movilización en Bilbao",
+    "value": "14N"
+   },
+   "id": "2026-10-13-ehbildu-14n-bilbao",
+   "keys": [
+    "Sábado 14 de noviembre en Bilbao",
+    "Lema: parar al «bloque reaccionario»",
+    "Recorrido y hora, sin publicar"
+   ],
+   "place": "Bilbao",
+   "section": "bilbao",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/politica/2026/10/12/eh-bildu-llama-mandar-mensaje-claro-bloque-reaccionario-14-noviembre-bilbao/"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/07/ela-lab-esk-tambien-iran-huelga-general-11-noviembre/"
+    }
+   ],
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "title": "EH Bildu convoca una movilización en Bilbao el 14 de noviembre contra el «bloque reaccionario»",
+   "weight": 1,
+   "why": "Si vives o trabajas en el Casco Viejo, ese sábado puede haber mucha gente y cortes; el recorrido aún no se conoce."
+  },
+  {
+   "body": [
+    "El acceso de Punta Lucero, una de las cinco entradas por carretera del puerto de Bilbao, volvió a abrirse al tráfico rodado el 8 de octubre. Conecta la dársena con la red viaria desde el nudo de La Arena y llevaba cerrado por completo desde el 16 de julio.",
+    "La causa son las obras de Petronor para instalar un poliducto que unirá su refinería de Muskiz con una nueva planta en el muelle de Punta Sollana. Hubo un cierre parcial del 1 de junio al 15 de julio, con un solo carril de entrada, y un corte total del 16 de julio al 8 de octubre, durante el cual los vehículos tuvieron que usar El Kalero, Ugaldebieta, Landeta e Higarillo.",
+    "Los transportes especiales, que desde principios de junio no podían pasar por La Arena por sus dimensiones, recuperan ese acceso. Según Bilbao Hiria, la obra terminó dentro del plazo previsto, y Petronor prevé invertir 80 millones de euros en dos proyectos de descarbonización en Euskadi, el primero de ellos de 60 millones."
+   ],
+   "dek": "El puerto recupera sus cinco entradas por carretera; el acceso estaba totalmente cerrado desde el 16 de julio.",
+   "figure": {
+    "label": "accesos por carretera",
+    "value": "5"
+   },
+   "id": "2026-10-13-punta-lucero-reabre",
+   "keys": [
+    "Reapertura el 8 de octubre",
+    "Cerrado del 16 de julio al 8 de octubre",
+    "Obra del poliducto de Petronor"
+   ],
+   "place": "Puerto de Bilbao",
+   "section": "bilbao",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bizkaia/punta-lucero-acceso-puerto-bilbao-reapertura-poliducto-petronor/"
+    }
+   ],
+   "title": "Reabre el acceso de Punta Lucero al puerto de Bilbao tras más de cuatro meses de obras de Petronor",
+   "weight": 1,
+   "why": "Afecta sobre todo a camiones y transportes especiales; para el tráfico diario del Gran Bilbao no cambia nada, pero cierra una obra larga."
+  },
+  {
+   "body": [
+    "El plazo para presentar ofertas por Tubos Reunidos terminó el 7 de octubre. Según Orain, catorce empresas habían mostrado interés y al menos siete presentaron oferta; elDiario.es señala que no ha trascendido el número exacto. Desde el viernes 16 de octubre la administración concursal comunicará las cinco seleccionadas, que deberán ser vinculantes en precio y llevar un depósito del 5 % de lo ofrecido.",
+    "Entre los interesados figuran José Antonio Jainaga, a través de Sidenor, Tubacex y grandes fabricantes asiáticos. Según elDiario.es, los asiáticos podrían ofrecer más dinero, pero generan más dudas sobre el empleo y el arraigo. La clave es si la oferta incluye solo Trapagaran, con unos 300 empleos y el producto con más salida, o también Amurrio, con unos 900 y una acería afectada por los aranceles de Estados Unidos.",
+    "Tras la selección, los cinco candidatos tendrán una ronda de preguntas sobre aspectos financieros y legales y enviarán después ofertas finales vinculantes. En paralelo se abrirá una consulta sobre el empleo entre la empresa, la administración concursal y los representantes de los trabajadores. La plantilla ha sido informada de que algunas ofertas garantizan la continuidad de las plantas.",
+    "La deuda ronda los 300 millones de euros, de los que unos 150 corresponden al crédito de la SEPI. Según el diario, la SEPI descarta una quita y, como mucho, aceptaría aplazamientos, con el argumento de que no puede dar a Tubos Reunidos un trato distinto al de otras empresas del fondo de solvencia de la pandemia.",
+    "La Audiencia Nacional investiga además presuntos sobornos para lograr el rescate de la SEPI, que inyectó 113 millones. Según elDiario.es, la causa está prácticamente parada en lo que afecta a la empresa y avanza solo en la parte vinculada a las «cloacas» del PSOE, con la que comparte procedimiento; hay tres directivos imputados."
+   ],
+   "dek": "La administración concursal analiza las ofertas de compra mientras la deuda, unos 300 millones, sigue siendo el mayor obstáculo.",
+   "figure": {
+    "label": "se conocen las 5 ofertas",
+    "value": "16 oct"
+   },
+   "id": "2026-10-13-tubos-reunidos-decisiva",
+   "keys": [
+    "Cinco ofertas finalistas desde el 16 de octubre",
+    "Trapagaran (300 empleos) y Amurrio (900) en juego",
+    "Deuda de unos 300 millones, 150 con la SEPI",
+    "Investigación judicial casi parada"
+   ],
+   "place": "Trapagaran y Amurrio",
+   "section": "euskadi",
+   "sources": [
+    {
+     "name": "elDiario.es Euskadi",
+     "url": "https://www.eldiario.es/euskadi/tubos-reunidos-entra-etapa-decisiva-salvarse-disolucion-investigacion-judicial-pausa_1_13576192.html"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/08/tubos-reunidos-analiza-desde-hoy-las-ofertas-recibidas-comprar-el-grupo-seleccionar-las-cinco-mejores/"
+    }
+   ],
+   "thread": {
+    "id": "tubos-reunidos",
+    "label": "Tubos Reunidos"
+   },
+   "title": "Tubos Reunidos entra en la fase decisiva: el 16 de octubre se conocerán las cinco ofertas finalistas",
+   "weight": 2,
+   "why": "Si tienes familia o conocidos en el sector del acero en Bizkaia, estas semanas deciden qué plantas siguen abiertas."
+  },
+  {
+   "body": [
+    "Según elDiario.es, el 28 de septiembre, a las 19:13, un hombre armado con un cuchillo en la calle San Pedro de Hondarribia fue acompañado por agentes municipales y ertzainas. El relato recogido por el diario dice que se abalanzó sobre una ertzaina sin alcanzarla por escasos centímetros y que un agente local disparó varias veces cuando volvió a correr hacia ella. Murió pese a los intentos de reanimación.",
+    "La comisión de control y transparencia, que analiza las actuaciones de la Ertzaintza y de las policías locales, pide ahora «aprobación» al Tribunal de Instancia de Irún para acceder a documentos vinculados a una eventual investigación judicial. Solicita también al Ayuntamiento copias del atestado, una cronología, la justificación del uso del arma y las grabaciones de videovigilancia y de cámaras corporales, si existían.",
+    "El diario subraya que con la nueva presidencia, a cargo del exvocal del CGPJ Enrique Lucas desde 2026, cambió el criterio: no se emiten conclusiones hasta que haya sentencia firme, lo que según su lectura retrasará años la revisión. Bajo la presidencia anterior, de Juan Luis Ibarra, la comisión defendía que su labor era distinta de la penal. Con el nuevo criterio se han paralizado tres investigaciones: Rekalde (Bilbao), Vitoria y Sestao."
+   ],
+   "dek": "El organismo ha cambiado de criterio con su nueva presidencia y no emitirá conclusiones hasta que haya sentencia firme.",
+   "figure": {
+    "label": "casos suspendidos",
+    "value": "3"
+   },
+   "id": "2026-10-13-hondarribia-comision-control",
+   "keys": [
+    "Hondarribia, 28 de septiembre",
+    "Pide aprobación judicial para ver documentos",
+    "Tres investigaciones paralizadas con el nuevo criterio"
+   ],
+   "place": "Hondarribia",
+   "section": "euskadi",
+   "sources": [
+    {
+     "name": "elDiario.es Euskadi",
+     "url": "https://www.eldiario.es/euskadi/comision-control-policia-vasca-pide-aprobacion-justicia-seguir-investigando-muerte-hondarribia_1_13576947.html"
+    }
+   ],
+   "title": "La comisión de control de la Policía vasca pide permiso a la Justicia para investigar la muerte de un hombre en Hondarribia",
+   "weight": 1,
+   "why": "Es un asunto sobre control de la actuación policial en Euskadi; sigue abierto y dependerá de que se abra causa judicial."
+  },
+  {
+   "body": [
+    "El Movimiento de Pensionistas de Euskal Herria respaldó el lunes 12 de octubre la huelga general convocada para el 11 de noviembre, que vincula al derecho a la vivienda y a salarios dignos. El colectivo advierte de un «grave riesgo de involución de derechos conquistados» si el PP y Vox llegan a gobernar tras las elecciones del 29 de noviembre, y pide a Pedro Sánchez que no deje compromisos pendientes sin cumplir.",
+    "La convocatoria cuenta con los sindicatos estatales, que confirmaron la fecha, y con ELA, LAB y ESK, que se sumaron a ella. Orain no recoge en su texto reivindicaciones concretas sobre pensiones más allá de ese aviso electoral.",
+    "En el lado empresarial, el presidente de Cebek, Guillermo Buces, dijo el 8 de octubre que no ve de recibo que las empresas asuman el coste de una huelga que califica de política, y que el absentismo laboral en Euskadi es un problema social que va más allá de las empresas."
+   ],
+   "dek": "Cebek, la patronal vizcaína, considera política esa huelga y rechaza que las empresas paguen su coste.",
+   "figure": {
+    "label": "huelga general por la vivienda",
+    "value": "11N"
+   },
+   "id": "2026-10-13-pensionistas-huelga-11n",
+   "keys": [
+    "Huelga general el 11 de noviembre",
+    "ELA, LAB y ESK se suman a la convocatoria",
+    "Cebek la considera política"
+   ],
+   "place": "Euskadi",
+   "section": "euskadi",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/12/el-movimiento-pensionistas-euskal-herria-apoya-la-huelga-la-vivienda-avisa-del-grave-riesto-involucion-en-las-elecciones/"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/08/cebek-no-ve-recibo-las-empresas-paguen-un-coste-una-huelga-es-politica/"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/07/ela-lab-esk-tambien-iran-huelga-general-11-noviembre/"
+    }
+   ],
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   },
+   "title": "Los pensionistas vascos apoyan la huelga general por la vivienda del 11 de noviembre y avisan de un «grave riesgo de involución»",
+   "weight": 1,
+   "why": "Si trabajas por cuenta ajena, apunta la fecha: puede afectar al transporte y a los servicios ese día."
+  },
+  {
+   "body": [
+    "El Tribunal Supremo acordó el lunes 12 de octubre, por cinco votos a uno, mantener la suspensión cautelar del voto de los nacionalizados por la «ley de nietos» que no demuestren que sus ascendientes sufrieron exilio. La ponencia es del magistrado Antonio Narváez y la magistrada Alicia Millán firmó un voto particular, según El Español: sostiene que el recurso del Estado debió prosperar y que las cautelares debieron levantarse con la convocatoria electoral.",
+    "En la práctica, los inscritos en el censo de españoles en el exterior (CERA) tras esa ley no podrán votar el 29 de noviembre, salvo que los registros consulares certifiquen que cumplen la norma: nacidos fuera de España de ascendientes españoles que se exiliaron por razones políticas, ideológicas o de orientación sexual. Quedan fuera quienes se acogieron a la instrucción de Justicia de 2022, que presumía la condición de exiliado a quien salió entre 1936 y 1955.",
+    "El Tribunal argumenta que la limpieza del censo electoral pesa más que el interés particular de cada ciudadano, que el sufragio no es un derecho absoluto y que existe un peligro «real y serio» de alteración del CERA por inscripciones que podrían ser ilegales. Añade que la Administración no aportó el desglose de expedientes un mes después de las cautelares y que el cumplimiento de lo ordenado es inexistente o, al menos, desconocido.",
+    "Según la Abogacía del Estado, citada por El Español, hay 168.896 nuevos nacionales por esta vía, y 163.020 ya figuraban en el censo del 1 de agosto que regirá el 29-N. El CERA tenía 2.736.522 electores el 1 de julio, frente a 2.328.260 en las generales de 2023. El Supremo ordena emplazar a los afectados mediante edictos en el BOE y pide a los consulados que den publicidad a la resolución.",
+    "El Gobierno lamenta la decisión y estudia con la Abogacía del Estado si cabe recurrirla ante el Constitucional antes de las elecciones, según El Independiente, El Debate y The Objective. El ministro del Interior, Fernando Grande-Marlaska, la criticó, según El Español. El Debate la celebra en un editorial, que es opinión, como un freno a las maniobras del Ejecutivo."
+   ],
+   "dek": "La Sala de lo Contencioso confirma por cinco votos a uno la suspensión cautelar del 10 de septiembre; el Gobierno estudia recurrir al Constitucional.",
+   "figure": {
+    "label": "votos de la Sala",
+    "value": "5-1"
+   },
+   "id": "2026-10-13-supremo-nacionalizados-29n",
+   "keys": [
+    "Voto suspendido salvo certificación consular de exilio",
+    "Unos 168.900 nuevos nacionales, según la Abogacía del Estado",
+    "El Gobierno estudia recurrir al Constitucional",
+    "Un voto particular en contra"
+   ],
+   "place": "Madrid",
+   "section": "espana",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/tribunales/20261012/nacionalizados-ley-nietos-no-votaran-ts-dice-prevalece-interes-general-censo-legal-derechos-particulares/1003744416695_0.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/12/gobierno-supremo-ley-nietos-recurso-abogacia-estado/"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/tribunales/2026-10-12/tribunal-supremo-ley-de-nietos/"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/opinion/editoriales/20261012/supremo-frena-apanos-antidemocraticos-sanchez_468847.html"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/politica/2026/10/12/el-tribunal-supremo-mantiene-la-suspension-del-derecho-voto-los-nacionalizados-la-ley-nietos/"
+    }
+   ],
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "title": "El Supremo mantiene sin voto el 29-N a los nacionalizados por la «ley de nietos» que no acrediten el exilio de sus ascendientes",
+   "weight": 3,
+   "why": "Si tienes familiares en el extranjero con nacionalidad por esta ley, el 29-N no votarán salvo que acrediten el exilio por vía consular."
+  },
+  {
+   "body": [
+    "Pedro Sánchez confirmó el 12 de octubre, en la recepción de la Fiesta Nacional y en conversación informal con periodistas, que buques de guerra marroquíes entraron en aguas próximas a Ceuta los días 30 y 31 de julio, coincidiendo con la llegada masiva de migrantes a la ciudad. Según The Objective, calificó aquellos días de «muy intensos y muy difíciles» y no explicó por qué estaban allí los barcos.",
+    "El presidente defendió que hubo interlocución de alto nivel entre las Fuerzas Armadas de ambos países, que la comunicación fue fluida y que eso permitió resolver el episodio. Añadió que España y Marruecos comparten intereses estratégicos y que estos incidentes pueden darse entre vecinos. Dijo que espera que la visita de los Reyes ayude a recuperar la normalidad en Ceuta.",
+    "Según El País, citado por elDiario.es, al menos una fragata y varias patrulleras marroquíes navegaron por aguas españolas a finales de julio y principios de agosto, y las maniobras estuvieron a punto de provocar una colisión con patrulleros españoles. La Armada desplegó el BAM «Rayo», que llegó a Ceuta el 3 de agosto, y las fragatas «Santa María» —relevada por una avería— y «Navarra», que atracaron en el puerto el 6 de agosto para embarcar equipos de Infantería de Marina.",
+    "La oposición y la prensa conservadora lo leen como un ocultamiento: El Español titula que el Gobierno lo ocultó durante 74 días, un cómputo propio desde el 30 de julio, y El Debate sostiene que lo ocultó. Desde el PP, el alcalde de Madrid, José Luis Martínez-Almeida, sostuvo que Marruecos pudo conocer y consentir tanto la entrada de migrantes como los movimientos navales y preguntó qué sabe Rabat de Sánchez. The Objective apunta que Rabat medirá su respuesta a la visita real por la campaña electoral española, y El Español que Mohamed VI prepara una visita inminente a la frontera de Melilla sin haber decidido si coincidirá con los Reyes.",
+    "Felipe VI visita Ceuta hoy, martes 13 de octubre, y dijo esperar el viaje «con ilusión y ganas». El texto de The Objective no da fecha para Melilla."
+   ],
+   "dek": "El presidente lo reconoció en una charla informal con periodistas; el Rey visita hoy Ceuta.",
+   "figure": {
+    "label": "visita del Rey a Ceuta",
+    "value": "13 oct"
+   },
+   "id": "2026-10-13-sanchez-ceuta-buques-marroquies",
+   "keys": [
+    "Buques marroquíes en aguas de Ceuta el 30 y 31 de julio",
+    "Sánchez habla de interlocución militar de alto nivel",
+    "El Español cuenta 74 días sin informar",
+    "El Rey visita Ceuta hoy"
+   ],
+   "place": "Ceuta",
+   "section": "espana",
+   "sources": [
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-10-12/sanchez-buques-marroquies-ceuta/"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/armada-espanola-desplego-fragatas-julio-agosto-despues-buques-guerra-marruecos-entraran-aguas-ceuta-autorizacion_1_13579242.html"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/politica/20261012/sanchez-admite-ocultado-dias-buques-guerra-marroquies-entraron-aguas-ceuta-invasion/1003744417360_0.html"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/espana/20261012/sanchez-minimiza-entrada-buques-guerra-marroquies-aguas-ceuta-haberlo-ocultarlo_468798.html"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/internacional/2026-10-12/campana-electoral-condiciona-respuesta-rabat-visita-reyes-ceuta/"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/20261012/mohamed-vi-ultima-visita-inmediata-frontera-melilla-no-decidido-coincidira-reyes/1003744409588_0.html"
+    }
+   ],
+   "thread": {
+    "id": "marruecos-ceuta",
+    "label": "Crisis de Ceuta"
+   },
+   "title": "Sánchez admite que buques de guerra marroquíes entraron en aguas de Ceuta a finales de julio; el Rey visita hoy la ciudad",
+   "weight": 2,
+   "why": "Es el telón de fondo de la crisis de Ceuta, que marcará la campaña del 29-N y las relaciones con Marruecos."
+  },
+  {
+   "body": [
+    "Podemos confirmó el lunes 12 de octubre un acuerdo con ERC: no concurrirá en Cataluña a las elecciones del 29-N, contribuirá a la candidatura de ERC y Gabriel Rufián e Irene Montero harán campaña juntos. Según elDiario.es, aún no se han detallado ni los puestos en las listas ni cómo se repartirán la campaña; Rufián encabezará la lista de ERC por Barcelona.",
+    "Horas después, el Frente Amplio —IU, Más Madrid, Movimiento Sumar y los comunes— acordó designar a la exalcaldesa de Barcelona Ada Colau como candidata a la Presidencia del Gobierno, y mantiene abierta la puerta a Podemos. El Independiente cuenta que el pacto de Rufián dinamitó la estrategia de la coalición, que quería aprovechar su tirón; es una lectura del diario.",
+    "Los comunes acusaron a Rufián de dividir a la izquierda, y desde Sumar y Izquierda Unida piden mantener la unidad. El plazo para registrar las marcas electorales cierra el viernes 16 de octubre, de modo que cualquier convergencia con Podemos debe producirse antes."
+   ],
+   "dek": "El pacto entre Rufián y Montero complica la unión de la izquierda; las coaliciones tienen hasta el viernes 16 para registrarse.",
+   "figure": {
+    "label": "plazo para coaliciones",
+    "value": "16 oct"
+   },
+   "id": "2026-10-13-erc-podemos-colau",
+   "keys": [
+    "Podemos no se presenta en Cataluña",
+    "Colau, candidata del Frente Amplio",
+    "Plazo: viernes 16 de octubre"
+   ],
+   "place": "Madrid y Barcelona",
+   "section": "espana",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/confirma-erc-les-incorporara-listas-rufian-hara-campana-montero_1_13579498.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/12/frente-amplio-acuerda-designar-a-ada-colau-como-candidata-a-la-presidencia-del-gobierno/"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/politica/2026/10/12/podemos-confirma-el-pacto-erc-contribuir-sus-listas-en-cataluna/"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-10-12/frente-amplio-designa-ada-colau-candidata-29n/"
+    }
+   ],
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "title": "Podemos no se presentará en Cataluña y hará campaña con ERC, mientras el Frente Amplio designa a Colau",
+   "weight": 1,
+   "why": "Las listas de la izquierda se cierran esta semana: el reparto de votos entre ERC, Podemos y el Frente Amplio puede cambiar el 29-N."
+  },
+  {
+   "body": [
+    "La encuesta de SocioMétrica para El Español, hecha el 10 y 11 de octubre a 1.000 personas por internet, pregunta quién creen los españoles que será presidente: un 47,8 % responde Feijóo y un 26,7 % Sánchez. La ventaja de 21,1 puntos era de 16,3 hace dos semanas. En preferencia personal, Feijóo suma un 42,7 % y Sánchez un 35,4 %.",
+    "El diario destaca que el PSOE bajaría dos escaños hasta 104 y que el PP tendría 141, con PP y Vox en 205. La muestra es de panel online y no probabilística, por lo que el propio informe habla de un error de equilibrado de ±3 % y no de error muestral. Es una encuesta encargada por el periódico que la publica, y no hay que tomarla como pronóstico de resultado.",
+    "Feijóo, en conversación con periodistas en el Palacio Real el 12 de octubre, aseguró que el PP logrará «más de ocho millones de votos» el 29-N, una meta inferior a los diez millones que fijó en julio de 2025; en 2023 obtuvo 8.160.837. Dijo que no habrá cordón sanitario con Vox pero tampoco cordón umbilical, y que el PP está más movilizado que en 2023. Sánchez, por su parte, afirmó que se ve ganando y gobernando y que está mejor que en 2023, según titulares de El Independiente y The Objective."
+   ],
+   "dek": "Feijóo rebaja su objetivo a «más de ocho millones» de votos y descarta tanto un cordón sanitario como un «cordón umbilical» con Vox.",
+   "figure": {
+    "label": "ventaja de Feijóo",
+    "value": "21 pts"
+   },
+   "id": "2026-10-13-sociometrica-feijoo-sanchez",
+   "keys": [
+    "Expectativa: Feijóo 47,8 %, Sánchez 26,7 %",
+    "PSOE 104, PP 141 y PP+Vox 205 en esta encuesta",
+    "Feijóo: «más de ocho millones» de votos"
+   ],
+   "place": "España",
+   "section": "espana",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/politica/20261012/sanchez-hunde-expectativa-presidente-feijoo-abre-brecha-record-puntos/1003744417322_0.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/12/feijoo-rebaja-las-expectativas-de-10-a-mas-de-8-millones-de-votos-y-advierte-que-con-vox-no-habra-cordon-umbilical/"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/13/sanchez-optimismo-movilizacion-primera-fuerza-gobierno-punto-mejor-2023/"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-10-12/sanchez-pp-fuga-votos-vox/"
+    }
+   ],
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "title": "Una encuesta de SocioMétrica da a Feijóo 21 puntos de ventaja sobre Sánchez como futuro presidente",
+   "weight": 1,
+   "why": "Las encuestas varían mucho según método: míralas como una foto de la precampaña, no como el resultado del 29-N."
+  },
+  {
+   "body": [
+    "Pilar Bernabé, delegada del Gobierno en la Comunitat Valenciana desde diciembre de 2024, encabezará la lista del PSOE al Congreso por Valencia en las elecciones del 29 de noviembre, según El Debate. La Ley Electoral considera inelegibles a los delegados del Gobierno, por lo que debe dejar el cargo.",
+    "El calendario que recoge el diario prevé una ejecutiva provincial el miércoles, la Comisión Nacional del PSPV-PSOE al día siguiente y la Comisión Federal de Listas y el Comité Federal los días 16 y 17 en Madrid. Levante-EMV sitúa en el 21 de octubre la presentación de la lista, y el artículo señala el 26 como fecha límite.",
+    "El sucesor lo elegirá Sánchez y no está designado; el diario apunta, como especulación, a la comisionada para las riadas, Zulima Pérez. El Debate considera que la maniobra se diseñó en Ferraz con malas encuestas de fondo y recuerda que Bernabé fue una de las críticas más duras con Carlos Mazón por la gestión de la dana."
+   ],
+   "dek": "La delegada es inelegible mientras ocupe el cargo; su sucesión no está designada.",
+   "figure": {
+    "label": "lista del PSOE por Valencia",
+    "value": "21 oct"
+   },
+   "id": "2026-10-13-bernabe-delegada-valencia",
+   "keys": [
+    "Encabeza la lista socialista por Valencia",
+    "Debe dejar la Delegación del Gobierno",
+    "Lista prevista el 21 de octubre"
+   ],
+   "place": "Valencia",
+   "section": "espana",
+   "sources": [
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/espana/comunidad-valenciana/20261012/pilar-bernabe-obligada-dimitir-como-delegada-gobierno_468751.html"
+    }
+   ],
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "title": "Pilar Bernabé encabezará la lista del PSOE por Valencia y deberá dejar la Delegación del Gobierno",
+   "weight": 1,
+   "why": "Es una de las listas que se cierran esta semana en la precampaña del 29-N."
+  },
+  {
+   "body": [
+    "Donald Trump anunció una tregua entre Rusia y Ucrania para que ambas dejaran de atacar las infraestructuras energéticas del otro. Según Axios, citando a la Casa Blanca, solo afectaría a las refinerías de petróleo. El portavoz del Kremlin, Dmitri Peskov, evitó confirmarla: dijo que «continúan los contactos» y que Putin solo ordenaría dejar de disparar misiles y drones el día en que se celebren elecciones presidenciales en Ucrania.",
+    "La noche del domingo, el Ejército ruso atacó infraestructura energética en la región de Zhitómir, y Volodímir Zelenski denunció el bombardeo de una central eléctrica en Járkov y el impacto de un dron en una instalación de gas. Zelenski dijo que Ucrania respetará una tregua energética si Rusia hace lo mismo, que Trump no le informó de ningún compromiso concreto y que esta es «la respuesta de Putin a Trump». Afirma que sus tropas no atacaron instalaciones petroleras rusas en las horas previas.",
+    "Dos días antes, Washington había relajado las sanciones para permitir la venta de diésel ruso. Según El Español, el acuerdo entre Trump y Putin sobre el diésel suspende esas sanciones al menos hasta abril de 2027. Trump exige además que Kiev deje de atacar refinerías rusas; Ucrania responde que seguirá haciéndolo mientras el Kremlin no cese los ataques a su sistema energético.",
+    "Como respuesta, los ministros de Exteriores de la UE aprobaron el lunes en Luxemburgo, según El Español, el mayor paquete de sanciones de su historia: casi 1.600 personas y entidades, con 826 empresas rusas y 743 directivos. Apunta a proveedores intermedios que, según el diario, facturan al menos 20.000 millones de euros al año y emplean a más de 250.000 personas. La jefa de la diplomacia europea, Kaja Kallas, dijo que no es momento de aliviar la presión sobre Moscú.",
+    "Trump pide elecciones en Ucrania y amenaza con cortar el suministro de armas. Kallas responde que casi todas las constituciones prohíben votar en plena guerra y que Zelenski las aceptaría con un alto el fuego real. En total, cerca de 4.600 personas y entidades figuran ya en la lista negra de la UE."
+   ],
+   "dek": "Rusia sigue atacando infraestructuras ucranianas mientras Bruselas se desmarca de la relajación de sanciones de Washington.",
+   "figure": {
+    "label": "sancionados por la UE",
+    "value": "1.600"
+   },
+   "id": "2026-10-13-ucrania-tregua-sanciones-ue",
+   "keys": [
+    "El Kremlin no confirma la tregua energética",
+    "Nuevos ataques rusos en Zhitómir y Járkov",
+    "UE: casi 1.600 sancionados",
+    "Trump y Putin pactan diésel; Bruselas se desmarca"
+   ],
+   "place": "Kiev, Moscú y Bruselas",
+   "section": "mundo",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/mundo/europa/20261012/rusia-hace-oidos-sordos-tregua-trump-ataca-infraestructura-energetica-varias-regiones-ucrania/1003744417006_0.html"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/mundo/europa/20261012/ue-arropa-ucrania-frente-trump-sanciona-personas-entidades-industria-militar-rusa/1003744417236_0.html"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/10/12/el-kremlin-no-confirma-la-tregua-energetica-rusia-ucrania-anunciada-trump/"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/internacional/2026-10-12/zelenski-acusa-rusia-violar-alto-el-fuego-energetico/"
+    }
+   ],
+   "thread": {
+    "id": "ucrania",
+    "label": "Guerra de Ucrania"
+   },
+   "title": "Moscú no confirma la tregua energética de Trump y la UE sanciona a casi 1.600 personas y empresas de su industria militar",
+   "weight": 2,
+   "why": "El petróleo cerca de 107 dólares y la energía cara pesan en tu factura y en tu gasolina: cualquier tregua real bajaría esa presión."
+  },
+  {
+   "body": [
+    "Un adolescente de 14 años disparó con un rifle de caza el lunes por la mañana en el instituto Lakanal de Aubagne, a pocos kilómetros de Marsella. Según BFMTV, recogido por Orain, el director, de 57 años, recibió una herida en la cadera y otro docente, de 37, un impacto en la pierna. Una tercera persona resultó herida muy levemente.",
+    "Según esa información, la vida de los heridos no corre peligro y el menor fue detenido. Se desconocen sus intenciones. El ministro de Educación, Édouard Geffray, calificó los hechos de «acto inadmisible» y de muestra de una violencia desenfrenada en la sociedad, y se dirigió al lugar junto al ministro del Interior, Laurent Nuñez.",
+    "Orain precisa que el suceso no está relacionado con las movilizaciones estudiantiles que se viven en Francia y en Iparralde desde mediados de septiembre. Los liceos de Iparralde y de toda Francia retomaron las clases el lunes tras esas protestas."
+   ],
+   "dek": "Los heridos no corren peligro y el menor fue detenido; no se conoce el móvil.",
+   "figure": {
+    "label": "años del detenido",
+    "value": "14"
+   },
+   "id": "2026-10-13-aubagne-instituto-disparos",
+   "keys": [
+    "Dos docentes heridos, sin peligro de muerte",
+    "Menor de 14 años detenido",
+    "Móvil desconocido; sin relación con las protestas"
+   ],
+   "place": "Aubagne (Francia)",
+   "section": "mundo",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/12/un-alumno-14-anos-hiere-un-rifle-dos-docentes-en-un-instituto-del-sur-francia/"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/mundo/europa/20261012/estudiante-frances-anos-detenido-disparar-herir-director-profesora-instituto/1003744417205_0.html"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/12/vuelta-las-aulas-en-los-liceos-iparralde-francia-tras-las-protestas/"
+    }
+   ],
+   "title": "Un alumno de 14 años hiere con un rifle de caza a dos docentes en un instituto de Aubagne, cerca de Marsella",
+   "weight": 1,
+   "why": "Es un suceso lejano pero cercano a Iparralde, donde los liceos vuelven a la normalidad tras semanas de protestas."
+  },
+  {
+   "body": [
+    "Agentes federales registraron el lunes 12 de octubre, hacia las 6:00, el domicilio de la congresista demócrata por Minnesota Ilhan Omar. Según AP, citada por elDiario.es, lo hizo Investigaciones de Seguridad Nacional (HSI), con participación del Departamento de Justicia, que dijo ejecutar una orden judicial en la zona de Washington D. C. dentro de una investigación penal federal en curso, sin más datos.",
+    "Según fuentes citadas por Fox, se trataría de una investigación por fraude relacionada con la documentación de inmigración de Omar, que habría tramitado su difunto padre cuando ella era niña. elDiario.es advierte de que esa versión no está confirmada de forma independiente. El responsable de fronteras, Tom Homan, dijo a mediados de septiembre que Omar era objeto de una investigación penal.",
+    "Omar, de 44 años, llegó a EE UU con 12 años huyendo de la guerra civil somalí y fue elegida en 2018. Ha rechazado las acusaciones anteriores y las ha calificado de mentiras. Trump la ha atacado repetidamente y, según el diario, ha recibido cientos de amenazas de muerte. El artículo no recoge todavía una reacción suya al registro."
+   ],
+   "dek": "El Departamento de Justicia habla de una investigación federal en curso sin dar detalles; Omar ha negado acusaciones anteriores.",
+   "figure": {
+    "label": "registro federal",
+    "value": "12 oct"
+   },
+   "id": "2026-10-13-ilhan-omar-registro",
+   "keys": [
+    "Registro a las 6:00 del 12 de octubre",
+    "Investigación penal federal, sin detalles oficiales",
+    "Motivo apuntado por Fox: documentación migratoria (no confirmado)"
+   ],
+   "place": "Washington (EE UU)",
+   "section": "mundo",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/internacional/agentes-federales-registran-casa-ilhan-omar-congresista-democrata-amenazada-donald-trump_1_13579917.html"
+    }
+   ],
+   "title": "Agentes federales registran la casa de la congresista demócrata Ilhan Omar en una investigación penal",
+   "weight": 1,
+   "why": "Es un caso que se sigue en pleno clima político previo a las elecciones de medio mandato del 3 de noviembre."
+  },
+  {
+   "body": [
+    "Los ministros de Exteriores de la UE aprobaron el lunes 12 de octubre la Misión de Apoyo de la UE en Líbano. Su objetivo declarado es contribuir a la paz y la seguridad del país, reforzar las instituciones del Estado y respaldar la estabilidad, en línea con la resolución 1701 del Consejo de Seguridad de la ONU. La pidió formalmente el Gobierno libanés.",
+    "Tiene un componente militar, que asesorará y formará a las Fuerzas Armadas en seguridad fronteriza y marítima, inteligencia y lucha contra el contrabando, y otro civil, que apoyará a las fuerzas de seguridad interior en áreas como la ciberdelincuencia, el contrabando y la seguridad portuaria, incluido el puerto de Beirut. Según Kaja Kallas, busca reforzar el control del territorio, la seguridad fronteriza y la seguridad interna.",
+    "Se espera que esté operativa en unos dos meses y que dure tres años. elDiario.es no recoge el número de efectivos ni el presupuesto, y señala que llega mientras Israel mantiene su ofensiva en el sur del país: la ONU cifra en más de 4.000 los muertos y en más de un millón los desplazados desde marzo."
+   ],
+   "dek": "Estará operativa en unos dos meses y durará tres años; no sustituye a la FINUL, que concluye a finales de 2026.",
+   "figure": {
+    "label": "duración prevista",
+    "value": "3 años"
+   },
+   "id": "2026-10-13-ue-mision-libano",
+   "keys": [
+    "Misión civil y militar de la UE",
+    "Operativa en unos dos meses y por tres años",
+    "Sin cifras de efectivos ni de presupuesto"
+   ],
+   "place": "Luxemburgo y Beirut",
+   "section": "mundo",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/internacional/union-europea-aprueba-mision-civil-militar-paz-libano_1_13579749.html"
+    }
+   ],
+   "title": "La UE aprueba una misión civil y militar de asesoramiento a las fuerzas libanesas",
+   "weight": 1,
+   "why": "Es una de las pocas iniciativas europeas concretas en Oriente Próximo, una región que mueve el precio del petróleo."
+  },
+  {
+   "body": [
+    "La Real Academia Sueca de Ciencias concedió el lunes 12 de octubre el Nobel de Economía 2026 a los estadounidenses Robert E. Hall y Michael Woodford. El jurado reconoce sus trabajos sobre los fundamentos microeconómicos de la estabilización macroeconómica.",
+    "Según El Español, ambos reconstruyeron los modelos económicos para basarlos en el comportamiento de hogares y empresas, y no en relaciones estadísticas entre variables como la inflación, la producción y el consumo. Con ello, añade, revitalizaron la política de estabilización.",
+    "El Independiente los presenta como los dos economistas que cambiaron cómo los bancos centrales deciden sus políticas, una lectura que enlaza con el debate actual sobre inflación y tipos de interés. El diario no detalla biografías ni el importe del premio, y la información de El Español estaba aún en actualización.",
+    "En 2025 el Nobel de Economía fue para Joel Mokyr, Philippe Aghion y Peter Howitt por sus teorías del crecimiento y la «destrucción creativa»."
+   ],
+   "dek": "La Academia Sueca premia sus trabajos sobre los fundamentos microeconómicos de la estabilización macroeconómica.",
+   "figure": {
+    "label": "economistas premiados",
+    "value": "2"
+   },
+   "id": "2026-10-13-nobel-economia-hall-woodford",
+   "keys": [
+    "Premiados: Robert E. Hall y Michael Woodford",
+    "Motivo: fundamentos microeconómicos de la estabilización",
+    "Ambos son estadounidenses"
+   ],
+   "place": "Estocolmo",
+   "section": "economia",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20261012/michael-woodford-robert-hall-ganan-premio-nobel-economia/1003744417151_0.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/economia/2026/10/12/dos-economistas-que-cambiaron-como-los-bancos-centrales-deciden-sus-politicas-hall-y-woodford-ganan-el-nobel-de-economia/"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/economia/profesores-estadounidenses-robert-hall-michael-woodford-ganan-nobel-economia_1_13579499.html"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/12/robert-e-hall-michael-woodford-premio-nobel-economia-2026/"
+    }
+   ],
+   "title": "Robert E. Hall y Michael Woodford ganan el Nobel de Economía 2026",
+   "weight": 2,
+   "why": "Sus ideas están detrás de cómo el BCE y otros bancos centrales deciden los tipos, que afectan a tu hipoteca o a tu alquiler."
+  },
+  {
+   "body": [
+    "Telefónica (Movistar y O2) sumó en septiembre más de 22.000 clientes por portabilidad, su mejor dato de 2026 hasta ahora, por encima de febrero y junio, aunque por debajo de los casi 29.000 de septiembre de 2025. Es además la única operadora que gana clientes a Digi, algo que ocurre por segundo mes consecutivo, según El Independiente.",
+    "Digi encabezó la captación neta del mes con más de 59.000 clientes, su mejor cifra desde marzo, que fueron 72.000. Vodafone perdió unos 11.000 clientes, frente a los 1.500 de agosto, y Orange España, nombre que ha adoptado la operadora, perdió unas 65.000 líneas móviles, su peor dato en seis meses; acumula unas 445.000 menos en los nueve primeros meses.",
+    "La compañía cayó más de un 4 % en Bolsa, hasta mínimos de 3,25 euros, por los planes de Elon Musk de que SpaceX compita en telefonía móvil. El diario aclara que los datos proceden de fuentes del sector y que el titular habla de «clientes», aunque el texto se refiere sobre todo a portabilidades."
+   ],
+   "dek": "Digi lidera la captación neta y Orange España pierde unas 65.000 líneas, según datos del sector.",
+   "figure": {
+    "label": "altas por portabilidad",
+    "value": "22.000"
+   },
+   "id": "2026-10-13-telefonica-portabilidades-septiembre",
+   "keys": [
+    "Telefónica: más de 22.000 portabilidades",
+    "Digi: más de 59.000 clientes netos",
+    "Orange España: unas 65.000 líneas menos"
+   ],
+   "place": "España",
+   "section": "economia",
+   "sources": [
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/economia/2026/10/13/telefonica-acelera-en-guerra-movil-obtiene-mejor-resulado-del-ano/"
+    }
+   ],
+   "title": "Telefónica logra su mejor mes de portabilidades del año, con más de 22.000 clientes nuevos en septiembre",
+   "weight": 1,
+   "why": "La competencia entre operadoras sigue siendo dura; si piensas cambiar de compañía, compara tarifas y permanencia."
+  },
+  {
+   "body": [
+    "El IPC español subió un 4,9 % interanual en septiembre, 1,22 puntos por encima del de la eurozona, según un análisis de El Independiente. En febrero la diferencia se había reducido a 0,56 puntos, pero volvió a abrirse con el encarecimiento de la energía por la guerra de Irán, que explica 0,24 puntos. La inflación subyacente se mantiene entre el 2,9 % y el 3,1 % desde marzo.",
+    "Los servicios son el componente que más contribuye de forma sostenida, con 0,64 de los 1,22 puntos. El Banco de España apunta al turismo y la hostelería, que pesan más en la cesta española. La institución ha revisado la inflación media de 2026 del 3 % al 3,9 % y la de 2027 del 2,5 % al 3,7 % en apenas siete meses.",
+    "Entre las causas, el diario cita que la demanda crece más que la oferta, según BBVA Research, y la presión de la población y de la vivienda, con precios de compra y alquiler que suben a tasas de dos dígitos. Pese a tres paquetes de medidas anticrisis, el IPC no ha dejado de subir, aunque BBVA Research ve que el contagio de la energía al resto de precios no tiene la intensidad de 2022."
+   ],
+   "dek": "El Banco de España ha elevado en siete meses su previsión de inflación para 2026 y 2027 por la energía y los servicios.",
+   "figure": {
+    "label": "IPC de septiembre",
+    "value": "4,9 %"
+   },
+   "id": "2026-10-13-ipc-espana-eurozona-septiembre",
+   "keys": [
+    "IPC de septiembre: 4,9 %",
+    "Diferencial con la eurozona: 1,22 puntos",
+    "Banco de España: 3,9 % en 2026 y 3,7 % en 2027"
+   ],
+   "place": "España",
+   "section": "economia",
+   "sources": [
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/economia/2026/10/12/por-que-los-precios-en-espana-se-han-disparado-mas-que-en-europa/"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/08/diaz-da-este-mes-los-expertos-plantear-sus-propuestas-subida-del-salario-minimo/"
+    }
+   ],
+   "title": "España mantiene una inflación 1,22 puntos superior a la de la eurozona, con el IPC en el 4,9 % en septiembre",
+   "weight": 1,
+   "why": "Con los precios al alza, el SMI de 2027 y tus gastos fijos serán un tema de las próximas semanas."
+  },
+  {
+   "body": [
+    "Osakidetza ha dado 219.000 citas para vacunarse de la gripe desde que arrancó la campaña, el 28 de septiembre, según los datos del Departamento de Salud a 12 de octubre que recoge Orain. Más de 18.000 corresponden a menores de entre 6 meses y 5 años, un grupo prioritario al que se vacuna por vía intranasal.",
+    "La campaña pide vacunarse especialmente a las personas de 60 años o más, a quienes tienen enfermedades crónicas como diabetes, EPOC o cardiopatías, a las embarazadas y a los menores de 5 años. El Departamento recuerda que la vacuna es la herramienta más eficaz para prevenir complicaciones y que protege también a quienes rodean al vacunado.",
+    "La actividad respiratoria sigue baja: Atención Primaria ha atendido 497 casos de gripe y 1.516 de covid-19. Hay 71 personas hospitalizadas por gripe, dos de ellas en UCI, y 51 por covid-19, tres en UCI.",
+    "Orain no explica en esa información cómo pedir cita ni cuándo termina la campaña; el Departamento anima a pedirla o a acudir a los puntos de vacunación sin cita."
+   ],
+   "dek": "Más de 18.000 corresponden a niños de entre 6 meses y 5 años; la gripe suma 71 hospitalizados en Euskadi.",
+   "figure": {
+    "label": "citas desde el 28-S",
+    "value": "219.000"
+   },
+   "id": "2026-10-13-gripe-219000-citas",
+   "keys": [
+    "219.000 citas desde el 28 de septiembre",
+    "Más de 18.000 para menores de 6 meses a 5 años",
+    "71 hospitalizados por gripe, 2 en UCI"
+   ],
+   "place": "Euskadi",
+   "section": "sociedad",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/12/219-000-personas-han-pedido-ya-cita-vacunarse-contra-la-gripe-en-osakidetza/"
+    }
+   ],
+   "thread": {
+    "id": "sanidad",
+    "label": "Sanidad"
+   },
+   "title": "Osakidetza ya ha dado 219.000 citas para vacunarse de la gripe desde el 28 de septiembre",
+   "weight": 2,
+   "why": "Si tienes enfermedades crónicas o convives con mayores o niños pequeños, pide cita o acude a un vacunódromo."
+  },
+  {
+   "body": [
+    "Desde su entrada en el Código Penal en 2015, 66 personas han sido condenadas a prisión permanente revisable, según un reportaje de El Independiente. Se aplica, entre otros casos, al asesinato de un menor de 16 años o de una persona especialmente vulnerable, a los crímenes cometidos tras un delito sexual, en organizaciones criminales o con más de dos muertes. No se aplica automáticamente a cualquier asesinato grave.",
+    "Con carácter general, la primera revisión puede pedirse a los 25 años de cumplimiento, y a los 30 o 35 si hay varios delitos. Llegar al plazo no implica libertad: se exige también el tercer grado y un pronóstico favorable de reinserción. Como nadie ha cumplido todavía 25 años desde 2015, no se ha producido ninguna primera revisión ordinaria.",
+    "El texto cita casos como el de las dos hijas de 9 y 4 años en Pontevedra, en 2017, o la condena de marzo de 2026 en Chiloeches, Guadalajara, a la pena más 40 años por tres asesinatos. No recoge pronunciamientos del Constitucional ni propuestas políticas, aunque señala que el debate se reactiva con cada caso mediático."
+   ],
+   "dek": "La pena, que se aplica a asesinatos agravados, no puede revisarse hasta cumplir 25 años como mínimo.",
+   "figure": {
+    "label": "condenados desde 2015",
+    "value": "66"
+   },
+   "id": "2026-10-13-prision-permanente-66-condenas",
+   "keys": [
+    "66 condenados desde 2015",
+    "Primera revisión posible tras 25 años",
+    "Ninguna revisión ordinaria hasta ahora"
+   ],
+   "place": "España",
+   "section": "sociedad",
+   "sources": [
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/13/prision-permanente-revisable-diez-anos-66-condenas-ninguna-revision/"
+    }
+   ],
+   "title": "Diez años de prisión permanente revisable: 66 condenas y ninguna revisión todavía",
+   "weight": 1,
+   "why": "Es un debate legal que vuelve cada vez que hay un caso mediático; conviene distinguir entre pena y revisión."
+  },
+  {
+   "body": [
+    "Los 443 radares fijos de la DGT acumularon 2.435.722 expedientes en 2025, unos 5.498 por aparato, según los datos que The Objective obtuvo de la DGT. Representan cerca del 64 % del total, aunque son menos del 37 % de los 1.205 dispositivos. Los 611 móviles registraron 1.097.929 expedientes y los 151 de tramo, 254.600; el total es de 3.788.251.",
+    "En comparación con 2024, los fijos pasaron de 2.365.258 a 2.435.722 denuncias, un 3 % más, y los móviles subieron un 2,1 %. La DGT no facilita el importe económico de las multas de 2025 y remite a su sección de estadísticas.",
+    "El propio medio advierte de que más expedientes no demuestran que un radar sea más eficaz: dependen del tráfico, de la carretera y del tiempo de funcionamiento de cada aparato."
+   ],
+   "dek": "The Objective cifra en 3,79 millones los expedientes de 2025 con datos de la DGT.",
+   "figure": {
+    "label": "denuncias de radares fijos",
+    "value": "64 %"
+   },
+   "id": "2026-10-13-radares-dgt-fijos-2025",
+   "keys": [
+    "Fijos: 2.435.722 expedientes en 2025",
+    "Móviles: 1.097.929; de tramo: 254.600",
+    "Total: 3.788.251 expedientes"
+   ],
+   "place": "España",
+   "section": "sociedad",
+   "sources": [
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/sociedad/2026-10-12/radares-fijos-dgt-triple-moviles-tramo/"
+    }
+   ],
+   "title": "Los radares fijos de la DGT concentran el 64 % de las denuncias de 2025 con menos de un tercio de los aparatos",
+   "weight": 1,
+   "why": "Los radares fijos son los que más denuncias generan en el conjunto de España; conviene respetar los límites donde haya aparato fijo."
+  },
+  {
+   "body": [
+    "«La bola negra», dirigida por Javier Calvo y Javier Ambrossi y producida por Movistar Plus, ha reunido 150.760 espectadores y 1.017.192 euros de recaudación en dos semanas en Euskadi, según la Asociación de Salas de Cine de Euskadi que recoge Orain. En Bizkaia fueron 77.086 espectadores y 528.659 euros; en Gipuzkoa, 54.245 y 353.412; y en Álava, 19.429 y 135.121.",
+    "La película parte de una obra teatral inédita de Federico García Lorca y sigue a tres hombres gais antes y durante la Guerra Civil y en la actualidad. Orain señala que tuvo buena acogida en Cannes y que ganó el Premio del Público en la 74.ª edición del Festival de San Sebastián.",
+    "En el conjunto de España supera los tres millones de espectadores y los 21 millones de euros, y ya figura entre las diez producciones españolas más taquilleras, según el mismo medio.",
+    "Con esos datos, Bizkaia concentra algo más de la mitad del público vasco (el 51 %) y de la recaudación (el 52 %), por delante de Gipuzkoa y Álava."
+   ],
+   "dek": "La película de Javier Calvo y Javier Ambrossi ya recauda más de un millón de euros en cines de la CAV.",
+   "figure": {
+    "label": "espectadores en la CAV",
+    "value": "150.760"
+   },
+   "id": "2026-10-13-la-bola-negra-150000",
+   "keys": [
+    "150.760 espectadores y 1,017 millones en la CAV",
+    "Más de 3 millones de espectadores en España",
+    "Premio del Público en San Sebastián"
+   ],
+   "place": "Euskadi",
+   "section": "cultura",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/cultura/cine/2026/10/12/la-bola-negr-revive-obra-lorca-reune-mas-150000-espectadores-cav/"
+    }
+   ],
+   "title": "«La bola negra», sobre una obra inédita de Lorca, supera los 150.000 espectadores en Euskadi en dos semanas",
+   "weight": 2,
+   "why": "Si no la has visto, es una de las películas de las que más se habla ahora mismo en los cines de Bilbao."
+  },
+  {
+   "body": [
+    "«Family Movie» es una comedia de terror codirigida por Kevin Bacon y Kyra Sedgwick, que también la protagonizan junto a sus hijos Sosie y Travis; Travis compuso además la banda sonora. Se presentó en el Festival de Sitges, donde la pareja recibirá el Gran Premio Honorífico, y tuvo su estreno mundial en el SXSW de Austin el 13 de marzo, con críticas mayormente positivas.",
+    "La historia sigue a una familia de cineastas que rueda en casa una película de terror de bajo presupuesto, «Luna de sangre», hasta que un cadáver real amenaza con arruinar el proyecto. El germen fue un corto grabado durante la pandemia con dos iPhones, y el rodaje en Texas llegó tras una larga búsqueda de financiación.",
+    "Según elDiario.es, Bacon asegura que ningún estudio ni inversor de Hollywood quiso financiarla. Es la primera vez que dirige en más de veinte años, desde «Loverboy» (2005)."
+   ],
+   "dek": "Es su primera película como director en más de veinte años y ninguna productora de Hollywood quiso financiarla, según el actor.",
+   "figure": {
+    "label": "sin dirigir cine",
+    "value": "20+ años"
+   },
+   "id": "2026-10-13-family-movie-kevin-bacon-sitges",
+   "keys": [
+    "Comedia de terror con la familia Bacon",
+    "Estreno mundial en SXSW el 13 de marzo",
+    "Gran Premio Honorífico de Sitges"
+   ],
+   "place": "Sitges",
+   "section": "cultura",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/cultura/cine/kevin-bacon-pone-propia-familia-cine-cine-nadie-hollywood-queria-financiar-pelicula_1_13578475.html"
+    }
+   ],
+   "title": "Kevin Bacon presenta en Sitges «Family Movie», una comedia de terror hecha con su familia",
+   "weight": 1,
+   "why": "Si te gusta el cine de terror y la comedia, es una propuesta distinta de producción independiente."
+  },
+  {
+   "body": [
+    "El Museo de Bellas Artes de Bilbao reabrió el 6 de octubre tras casi cuatro años de obras y mantiene la entrada gratuita hasta hoy, 13 de octubre. Desde mañana, según Bilbao Hiria, el museo y el Guggenheim ofrecen una entrada conjunta con descuento.",
+    "Sus 43 salas vuelven renovadas, con cerca de mil obras de la colección en la muestra «Bildu(e)mak» y 150 piezas inéditas, según Orain. La ampliación, diseñada por Foster + Partners y el arquitecto Luis María Uriarte, suma 6.000 metros cuadrados.",
+    "El museo estrena también el Gabinete, una sala para dibujo, grabado y fotografía, con «Balerdi. La línea infinita»: 72 obras del donostiarra Rafael Ruiz Balerdi, con Mikel Lertxundi como comisario, según Bilbao Hiria."
+   ],
+   "dek": "Desde mañana, 14 de octubre, el museo y el Guggenheim ofrecen una entrada conjunta con descuento, según Bilbao Hiria.",
+   "figure": {
+    "label": "fin de entrada gratuita",
+    "value": "13 oct"
+   },
+   "id": "2026-10-13-bellas-artes-ultimo-dia-gratis",
+   "keys": [
+    "Entrada gratuita hasta hoy, 13 de octubre",
+    "Desde el 14, entrada conjunta con el Guggenheim",
+    "Gabinete: 72 obras de Balerdi"
+   ],
+   "place": "Bilbao",
+   "section": "cultura",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bilbao/balerdi-linea-infinita-museo-bellas-artes-bilbao-gabinete/"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/cultura/2026/10/05/tres-nuevas-obras-imprescindibles-del-museo-bellas-artes-bilbao/"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/cultura/arte/2026/10/05/agravitas-inicia-su-vuelo/"
+    }
+   ],
+   "thread": {
+    "id": "bellas-artes",
+    "label": "Museo de Bellas Artes"
+   },
+   "title": "Hoy es el último día de entrada gratuita en el renovado Museo de Bellas Artes de Bilbao",
+   "weight": 1,
+   "why": "Si todavía no has ido, hoy es el último día para entrar gratis al nuevo Bellas Artes."
+  },
+  {
+   "body": [
+    "El Servicio de Cambio Climático de Copernicus (C3S) informa de que septiembre de 2026 fue el segundo septiembre más cálido registrado, solo por detrás del de 2023. La temperatura media del aire en superficie fue de 16,27 °C, 0,82 °C por encima de lo normal y 0,11 °C por debajo del récord de 2023. Orain recoge los datos.",
+    "El mes superó en 1,63 °C el nivel preindustrial y es el segundo consecutivo por encima de ese umbral, algo que no ocurría desde noviembre de 2025. Copernicus añade que la situación podría prolongarse hasta 2027. La temperatura media de la superficie del mar, de 21,05 °C, fue la más alta registrada en un septiembre y superó los 20,92 °C de 2023.",
+    "Las temperaturas se mantuvieron excepcionalmente altas en gran parte del Pacífico tropical, y Copernicus advierte de que El Niño se intensifica y de que es probable uno de los más intensos jamás registrados.",
+    "En Europa fue el tercer septiembre más cálido, con 16,26 °C de media, 1,54 °C sobre lo normal, mientras que Europa occidental registró el más cálido de su historia, con una anomalía de +2,51 °C. El hielo marino antártico estuvo un 6 % por debajo de la media, la tercera extensión más baja para el mes."
+   ],
+   "dek": "El mes superó en 1,63 °C el nivel preindustrial; el servicio europeo avisa de que El Niño se intensifica.",
+   "figure": {
+    "label": "sobre el nivel preindustrial",
+    "value": "+1,63°"
+   },
+   "id": "2026-10-13-copernicus-septiembre-2026",
+   "keys": [
+    "2.º septiembre más cálido registrado",
+    "Mar: 21,05 °C, récord para un septiembre",
+    "Europa occidental: el más cálido de su historia"
+   ],
+   "place": "Mundo",
+   "section": "ciencia",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/12/septiembre-2026-se-convierte-en-el-segundo-mas-calido-nivel-mundial-segun-copernicus/"
+    }
+   ],
+   "title": "Septiembre de 2026, el segundo más cálido de la historia y con récord de temperatura del mar, según Copernicus",
+   "weight": 2,
+   "why": "Un otoño cálido ya se nota en Bilbao: esta semana se prevén 28 grados a mediados de octubre."
+  },
+  {
+   "body": [
+    "Según Bilbao Hiria, el Rayo-Athletic, suspendido el sábado con 0-0 tras 25 minutos por el lanzamiento de objetos durante una protesta contra el presidente del Rayo, Raúl Martín Presa, se reanudará con toda probabilidad el miércoles 4 de noviembre. La alternativa es el 25 de noviembre y LaLiga no ha confirmado el día. Se jugará sin público.",
+    "La reanudación inmediata, prevista para el domingo, se cayó porque la Policía no garantizaba la seguridad en el barrio. El reglamento permite cambiar el once con jugadores inscritos en LaLiga, salvo los sustituidos durante esos 25 minutos, los fichajes posteriores a la suspensión y los sancionados.",
+    "El calendario deja poco margen: el sábado 17 a las 21:00 el Athletic visita a Valencia en Mestalla, el miércoles 21 juega en Valencia ante el Levante, en el partido aplazado por la tormenta, y el jueves 29 se mide al AE Prat en Copa. Según Bilbao Hiria, el AE Prat jugará ese partido en el Municipal de L'Hospitalet en lugar de su campo habitual.",
+    "En la enfermería, Aymeric Laporte, Oihan Sancet y Nico Williams no viajaron a Madrid por lesión y podrían recuperarse para los minutos que faltan."
+   ],
+   "dek": "LaLiga aún no ha confirmado la fecha; la alternativa es el 25 de noviembre.",
+   "figure": {
+    "label": "fecha más probable",
+    "value": "4 nov"
+   },
+   "id": "2026-10-13-athletic-rayo-4-noviembre",
+   "keys": [
+    "4 de noviembre, fecha más probable; alternativa, el 25",
+    "Sin público y con 65 minutos por jugar",
+    "Antes: Valencia el 17 y Levante el 21",
+    "Copa: AE Prat en L'Hospitalet el 29"
+   ],
+   "place": "Bilbao y Vallecas",
+   "section": "deportes",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/deportes/rayo-athletic-reanudacion-4-noviembre-puerta-cerrada/"
+    },
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/deportes/athletic-ae-prat-copa-del-rey-municipal-hospitalet-aforo/"
+    },
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/deportes/athletic-cinco-partidos-quince-dias-calendario-octubre-noviembre-2026/"
+    },
+    {
+     "name": "Kirolak EITB",
+     "url": "https://kirolakeitb.eus/es/futbol/equipos/athletic-club/2026/10/10/suspendido-rayo-vallecano-athletic-por-protestas-contra-martin-presa-vallecas/"
+    }
+   ],
+   "thread": {
+    "id": "athletic",
+    "label": "Athletic Club"
+   },
+   "title": "Athletic y Rayo apuntan al 4 de noviembre, a puerta cerrada, para jugar los 65 minutos pendientes",
+   "weight": 2,
+   "why": "Si piensas ir a San Mamés, la fecha de la reanudación no afecta a tus entradas, pero sí a la agenda de partidos de las próximas semanas."
+  },
+  {
+   "body": [
+    "Carlos Alcaraz, número dos del mundo, cayó ante el belga Zizou Bergs por 7-5 y 7-6 (4) en 2 horas y 2 minutos en el Masters 1000 de Shanghái, el octavo de la temporada. Bergs rompió el saque en el undécimo juego del primer set y se llevó el segundo en el desempate por 7-4 tras un único break de Alcaraz en el 6-6.",
+    "Según The Objective, la derrota le deja sin opciones matemáticas de recuperar el número uno, de modo que Alexander Zverev cerrará 2026 como líder de la clasificación. Shanghái sigue siendo uno de los tres Masters 1000 que Alcaraz no ha ganado, junto con Canadá y París.",
+    "Entre los demás españoles, Rafael Jódar remontó al checo Jiri Lehecka por 4-6, 7-6 (2) y 6-4 y está en octavos de final, mientras que Pablo Carreño cayó ante Félix Auger-Aliassime por 3-6, 6-4 y 1-6."
+   ],
+   "dek": "El español perdió 7-5 y 7-6 (4) en dos horas y dos minutos; Jódar sigue adelante.",
+   "figure": {
+    "label": "derrota ante Bergs",
+    "value": "7-5 7-6"
+   },
+   "id": "2026-10-13-alcaraz-bergs-shanghai",
+   "keys": [
+    "Alcaraz pierde 7-5 y 7-6 (4)",
+    "Zverev será número uno a final de año",
+    "Jódar, en octavos"
+   ],
+   "place": "Shanghái",
+   "section": "deportes",
+   "sources": [
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/deportes/2026-10-12/alcaraz-cae-shanghai-se-despide-numero-uno/"
+    }
+   ],
+   "title": "Alcaraz cae ante Bergs en Shanghái y Zverev terminará 2026 como número uno",
+   "weight": 1,
+   "why": "Si sigues el tenis, la temporada cierra sin Alcaraz como número uno; los torneos de otoño son el último tramo."
+  },
+  {
+   "body": [
+    "Unai Laso venció a Erik Jaka por 22-10 el sábado 10 de octubre en el Labrit de Pamplona y se clasificó para la liguilla de cuartos de final del Campeonato del Cuatro y Medio, según Kirolak de EITB. Jon Ander Peña, Peña II, había logrado el último billete tras ganar a Iñaki Artola por 22-4.",
+    "Ander Murua, por su parte, jugará la liguilla en sustitución de Darío Gómez, baja de última hora por problemas físicos, después de vencer a Beñat Senar en Lekunberri. La web de EITB no indica en el texto consultado las fechas de la liguilla ni de la final."
+   ],
+   "dek": "Murua sustituye al lesionado Darío Gómez, tras ganar a Beñat Senar en Lekunberri.",
+   "figure": {
+    "label": "tantos de Laso ante Jaka",
+    "value": "22"
+   },
+   "id": "2026-10-13-cuatro-y-medio-liguilla",
+   "keys": [
+    "Laso gana 22-10 a Jaka",
+    "Peña II, último clasificado",
+    "Murua sustituye a Darío Gómez"
+   ],
+   "place": "Pamplona y Lekunberri",
+   "section": "deportes",
+   "sources": [
+    {
+     "name": "Kirolak EITB",
+     "url": "https://kirolakeitb.eus/es/pelota/pelota-mano/cuatro-y-medio/2026/10/10/unai-laso-disputara-liguilla-cuartos-de-final-campeonato-cuatro-medio/"
+    },
+    {
+     "name": "Kirolak EITB",
+     "url": "https://kirolakeitb.eus/es/pelota/pelota-mano/cuatro-y-medio/2026/10/11/ander-murua-disputara-la-liguilla-cuartos-de-final-cuatro-medio/"
+    }
+   ],
+   "title": "Laso, Peña II y Murua disputarán la liguilla de cuartos del Cuatro y Medio",
+   "weight": 1,
+   "why": "Si te gusta la pelota mano, la liguilla de cuartos reúne a los mejores del campeonato."
+  }
+ ],
+ "summary": "El Supremo deja sin voto el 29-N a los nacionalizados por la ley de nietos, Podemos pacta con ERC, el Rey visita Ceuta y Bilbao amanece con niebla.",
+ "weather": {
+  "days": [
+   {
+    "date": "2026-10-13",
+    "max": 24,
+    "min": 13,
+    "sky": "fog",
+    "text": "Niebla y claros"
+   },
+   {
+    "date": "2026-10-14",
+    "max": 28,
+    "min": 16,
+    "sky": "partly",
+    "text": "Nubes y claros"
+   },
+   {
+    "date": "2026-10-15",
+    "max": 28,
+    "min": 15,
+    "sky": "partly",
+    "text": "Nubes y claros"
+   },
+   {
+    "date": "2026-10-16",
+    "max": 20,
+    "min": 17,
+    "rain": 70,
+    "sky": "rain-light",
+    "text": "Lluvia débil"
+   }
+  ],
+  "place": "Bilbao",
+  "source": {
+   "name": "Meteored",
+   "url": "https://www.tiempo.com/bilbao.htm"
+  }
+ },
+ "agenda": [
+  {
+   "date": "2026-10-16",
+   "kind": "concierto",
+   "title": "Rat-Zinger + Lion's Law",
+   "place": "Sala Stage Live, Bilbao",
+   "text": "Noche de punk rock con dos bandas en una misma sala; horario y entradas, por confirmar en la taquilla.",
+   "source": {
+    "name": "La Ganzúa (agenda de conciertos)",
+    "url": "https://www.laganzua.net/conciertos/bilbao/octubre-2026"
+   }
+  },
+  {
+   "date": "2026-10-16",
+   "kind": "concierto",
+   "title": "Ruslana",
+   "place": "Sala Santana 27, Bilbao",
+   "text": "Pop rock en directo en una de las salas de referencia de la ciudad; conviene confirmar hora y precio antes de ir.",
+   "source": {
+    "name": "La Ganzúa (agenda de conciertos)",
+    "url": "https://www.laganzua.net/conciertos/bilbao/octubre-2026"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "kind": "concierto",
+   "title": "Dirty Suc",
+   "place": "Sala Santana 27, Bilbao",
+   "text": "Sesión de rap y música urbana el sábado en Santana 27; los detalles de entrada se confirman en la web de la sala.",
+   "source": {
+    "name": "La Ganzúa (agenda de conciertos)",
+    "url": "https://www.laganzua.net/conciertos/bilbao/octubre-2026"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "kind": "concierto",
+   "title": "Levitants",
+   "place": "Sala Azkena, Bilbao",
+   "text": "Rock oscuro y post punk para la noche del sábado en la sala Azkena; hora y precio por comprobar.",
+   "source": {
+    "name": "La Ganzúa (agenda de conciertos)",
+    "url": "https://www.laganzua.net/conciertos/bilbao/octubre-2026"
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "concierto",
+   "title": "Hällas",
+   "place": "Kafe Antzokia, Bilbao",
+   "text": "Rock duro y progresivo con aires setenteros el domingo en el Kafe Antzokia; consulta hora y entradas antes de acudir.",
+   "source": {
+    "name": "La Ganzúa (agenda de conciertos)",
+    "url": "https://www.laganzua.net/conciertos/bilbao/octubre-2026"
+   }
+  }
+ ],
+ "elections": {
+  "title": "Elecciones generales 29-N",
+  "date": "2026-11-29",
+  "status": "Pedro Sánchez convocó elecciones anticipadas para el 29 de noviembre tras el revés de sus decretos de vivienda. Las encuestas de esta semana sitúan al PP primero, con Vox tercero y entre ambos por encima de la mayoría absoluta; solo el CIS de septiembre colocaba al PSOE por delante. La izquierda a la izquierda del PSOE sigue sin cerrar su frente: Ada Colau se ofrece a liderarlo, pero Podemos no ha confirmado que entre. Los partidos tienen hasta el 16 de octubre para comunicar coaliciones.",
+  "polls": {
+   "name": "Sigma Dos para El Mundo (recogida por Ara)",
+   "date": "2026-10-11",
+   "url": "https://es.ara.cat/politica/dicen-encuestas-elecciones-espanolas-29-n_1_5874092.html",
+   "items": [
+    {
+     "party": "PP",
+     "value": 31.9,
+     "seats": "135"
+    },
+    {
+     "party": "PSOE",
+     "value": 25.3,
+     "seats": "103"
+    },
+    {
+     "party": "Vox",
+     "value": 19.1,
+     "seats": "68"
+    }
+   ]
+  },
+  "keyDates": [
+   {
+    "date": "2026-10-16",
+    "text": "Último día para comunicar coaliciones electorales"
+   },
+   {
+    "date": "2026-10-21",
+    "text": "Empieza el plazo para presentar candidaturas"
+   },
+   {
+    "date": "2026-10-26",
+    "text": "Termina el plazo de presentación de candidaturas"
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Las Juntas Electorales proclaman a los candidatos"
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Arranca la campaña electoral a las 00:00"
+   }
+  ]
+ },
+ "alerts": [],
+ "jobs": []
+}
