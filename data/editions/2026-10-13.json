@@ -1519,7 +1519,7 @@
    "title": "Ever is Over All. Pipilotti Rist",
    "place": "Museo Guggenheim, Bilbao",
    "text": "La videoinstalación de 1997 de Pipilotti Rist: una mujer sonriente rompe lunas de coches entre flores tropicales. Poética, hipnótica y muy visual.",
-   "price": "12 €; estudiantes 18-26 y mayores de 65: 6 €; menores de 18: gratis",
+   "price": "Entrada general del museo (consulta la tarifa en su web)",
    "couple": true,
    "source": {
     "name": "Guggenheim Bilbao (horarios y tarifas)",
@@ -1534,7 +1534,7 @@
    "title": "Steve McQueen: 66–76–26",
    "place": "Museo Guggenheim, Bilbao",
    "text": "Nueva gran exposición del artista y cineasta Steve McQueen, abierta desde el 9 de octubre. Abre de martes a domingo.",
-   "price": "12 €; estudiantes 18-26 y mayores de 65: 6 €; menores de 18: gratis",
+   "price": "Entrada general del museo (consulta la tarifa en su web)",
    "source": {
     "name": "Guggenheim Bilbao (horarios y tarifas)",
     "url": "https://www.guggenheim-bilbao.eus/en/visit/hours-and-admission"
@@ -1548,7 +1548,7 @@
    "title": "in situ: Igshaan Adams. Levantando el polvo",
    "place": "Museo Guggenheim, Bilbao",
    "text": "Última semana larga para ver al artista sudafricano Igshaan Adams y su archivo del cuerpo, entre tejido, memoria y polvo.",
-   "price": "12 €; estudiantes 18-26 y mayores de 65: 6 €; menores de 18: gratis",
+   "price": "Entrada general del museo (consulta la tarifa en su web)",
    "source": {
     "name": "Guggenheim Bilbao (horarios y tarifas)",
     "url": "https://www.guggenheim-bilbao.eus/en/visit/hours-and-admission"
@@ -1664,20 +1664,6 @@
    "source": {
     "name": "Onda Vasca - San Faustos de Basauri 2026 (programa)",
     "url": "https://www.ondavasca.com/fiesta-de-basauri-san-faustos-2026-del-10-al-18-de-octubre/"
-   }
-  },
-  {
-   "date": "2026-10-15",
-   "time": "10:00-19:00",
-   "kind": "plan",
-   "title": "Museo Guggenheim Bilbao: visita",
-   "place": "Museo Guggenheim, Bilbao",
-   "text": "Imprescindible para cualquier visitante: arquitectura de Gehry y colección contemporánea. Abre de martes a domingo.",
-   "price": "18 €; estudiantes de 18 a 25 años: 9 €",
-   "couple": true,
-   "source": {
-    "name": "Museo Guggenheim Bilbao - Planifica tu visita",
-    "url": "https://www.guggenheim-bilbao.eus/en/plan-your-visit"
    }
   },
   {
