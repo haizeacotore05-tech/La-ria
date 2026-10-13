@@ -1556,6 +1556,48 @@
   },
   {
    "date": "2026-10-13",
+   "time": "12:30",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Durango): Durangoko Dantzariak y Larrain dantza",
+   "place": "Plaza del Ayuntamiento, Durango",
+   "text": "Danzas vascas en la plaza del ayuntamiento el día de San Fausto, buena ocasión para ver el folclore de cerca.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de Durango (programa San Fausto)",
+    "url": "https://blog.euskaltel.com/fiestas-durango/"
+   }
+  },
+  {
+   "date": "2026-10-13",
+   "time": "12:45",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Basauri): sokadantza",
+   "place": "Plaza San Fausto, Basauri",
+   "text": "Baile tradicional en cadena con Edurre Dantza Taldea en el día grande: cultura vasca viva, ideal para enseñársela a alguien de fuera.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Onda Vasca - San Faustos de Basauri 2026 (programa)",
+    "url": "https://www.ondavasca.com/fiesta-de-basauri-san-faustos-2026-del-10-al-18-de-octubre/"
+   }
+  },
+  {
+   "date": "2026-10-13",
+   "time": "17:30",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Basauri): sokatira y lanzamiento de txapela",
+   "place": "Arizko Ikastola, Basauri",
+   "text": "Pruebas de fuerza y puntería entre cuadrillas el día de San Fausto, con mucho ambiente de barrio.",
+   "price": "Gratis",
+   "couple": false,
+   "source": {
+    "name": "Onda Vasca - San Faustos de Basauri 2026 (programa)",
+    "url": "https://www.ondavasca.com/fiesta-de-basauri-san-faustos-2026-del-10-al-18-de-octubre/"
+   }
+  },
+  {
+   "date": "2026-10-13",
    "time": "19:30",
    "kind": "concierto",
    "title": "Rafael Fingerlos y Rubén Fdez. Aguirre: Beethoven y Schubert",
@@ -1566,6 +1608,104 @@
    "source": {
     "name": "Teatro Arriaga",
     "url": "https://www.teatroarriaga.eus/programacion/rafael-fingerlos-y-ruben-fdez-aguirre/"
+   }
+  },
+  {
+   "date": "2026-10-13",
+   "time": "20:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Durango): concierto Revival",
+   "place": "Pórtico de Santa María, Durango",
+   "text": "Versiones de éxitos de los años 60 y 70 bajo el pórtico de Santa María, plan tranquilo de tarde-noche.",
+   "price": "Gratis",
+   "couple": false,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de Durango (programa San Fausto)",
+    "url": "https://blog.euskaltel.com/fiestas-durango/"
+   }
+  },
+  {
+   "date": "2026-10-13",
+   "time": "22:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Basauri): concierto de Puro Relajo",
+   "place": "Plaza Arizgoiti, Basauri",
+   "text": "Concierto nocturno en la plaza para cerrar el día grande de las fiestas.",
+   "price": "Gratis",
+   "couple": false,
+   "source": {
+    "name": "Onda Vasca - San Faustos de Basauri 2026 (programa)",
+    "url": "https://www.ondavasca.com/fiesta-de-basauri-san-faustos-2026-del-10-al-18-de-octubre/"
+   }
+  },
+  {
+   "date": "2026-10-14",
+   "time": "10:00-19:00",
+   "kind": "plan",
+   "title": "Museo Vasco de Bilbao: entrada gratis los miércoles",
+   "place": "Museo Vasco, Casco Viejo, Bilbao",
+   "text": "Historia y etnografía de Euskadi en el claustro del Casco Viejo; los miércoles la entrada es gratuita. Último acceso una hora antes del cierre.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Museo Vasco - Horarios y tarifas",
+    "url": "https://www.euskalmuseoa.eus/es/visita/horarios-y-tarifas/"
+   }
+  },
+  {
+   "date": "2026-10-14",
+   "time": "17:30",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Basauri): lanzamiento de abarka",
+   "place": "Plaza San Fausto, Basauri",
+   "text": "Concurso popular de lanzar la abarka, un juego rural tan vasco como curioso para quien no lo ha visto nunca.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Onda Vasca - San Faustos de Basauri 2026 (programa)",
+    "url": "https://www.ondavasca.com/fiesta-de-basauri-san-faustos-2026-del-10-al-18-de-octubre/"
+   }
+  },
+  {
+   "date": "2026-10-15",
+   "time": "10:00-19:00",
+   "kind": "plan",
+   "title": "Museo Guggenheim Bilbao: visita",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Imprescindible para cualquier visitante: arquitectura de Gehry y colección contemporánea. Abre de martes a domingo.",
+   "price": "18 €; estudiantes de 18 a 25 años: 9 €",
+   "couple": true,
+   "source": {
+    "name": "Museo Guggenheim Bilbao - Planifica tu visita",
+    "url": "https://www.guggenheim-bilbao.eus/en/plan-your-visit"
+   }
+  },
+  {
+   "date": "2026-10-15",
+   "time": "21:30",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Basauri): concierto de La Guardia",
+   "place": "Plaza Arizgoiti, Basauri",
+   "text": "Concierto de La Guardia en la plaza principal de las fiestas, jueves por la noche.",
+   "price": "Gratis",
+   "couple": false,
+   "source": {
+    "name": "Onda Vasca - San Faustos de Basauri 2026 (programa)",
+    "url": "https://www.ondavasca.com/fiesta-de-basauri-san-faustos-2026-del-10-al-18-de-octubre/"
+   }
+  },
+  {
+   "date": "2026-10-16",
+   "time": "10:00-20:00",
+   "kind": "plan",
+   "title": "Puente Bizkaia: paseo por la pasarela alta",
+   "place": "Puente Bizkaia, Portugalete/Getxo",
+   "text": "Cruzar a pie por la pasarela del puente colgante más antiguo del mundo, Patrimonio Mundial. Última entrada 20 minutos antes del cierre.",
+   "price": "11 €; estudiantes y mayores de 65: 9 €",
+   "couple": true,
+   "source": {
+    "name": "Puente Bizkaia - Tarifas y horarios",
+    "url": "https://www.puente-colgante.com/tarifas-y-horarios"
    }
   },
   {
@@ -1622,6 +1762,90 @@
    }
   },
   {
+   "date": "2026-10-16",
+   "time": "22:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Basauri): fuegos artificiales",
+   "place": "Desde Artunduaga, Basauri",
+   "text": "Castillo de fuegos de la noche del viernes, visible desde buena parte del pueblo antes de los conciertos.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Onda Vasca - San Faustos de Basauri 2026 (programa)",
+    "url": "https://www.ondavasca.com/fiesta-de-basauri-san-faustos-2026-del-10-al-18-de-octubre/"
+   }
+  },
+  {
+   "date": "2026-10-16",
+   "time": "22:30",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Durango): concierto de Leire Martínez",
+   "place": "Ezkurdi, Durango",
+   "text": "Concierto de Leire Martínez en el escenario principal de Ezkurdi, la noche grande del viernes de fiestas.",
+   "price": "Gratis",
+   "couple": false,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de Durango (programa San Fausto)",
+    "url": "https://blog.euskaltel.com/fiestas-durango/"
+   }
+  },
+  {
+   "date": "2026-10-16",
+   "time": "23:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Basauri): concierto de Destrangis (tributo a Estopa)",
+   "place": "Plaza Arizgoiti, Basauri",
+   "text": "Tributo a Estopa en la plaza tras los fuegos artificiales, noche de viernes de fiestas.",
+   "price": "Gratis",
+   "couple": false,
+   "source": {
+    "name": "Onda Vasca - San Faustos de Basauri 2026 (programa)",
+    "url": "https://www.ondavasca.com/fiesta-de-basauri-san-faustos-2026-del-10-al-18-de-octubre/"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "09:30",
+   "kind": "feria",
+   "title": "Fiestas de San Fausto (Basauri): exposición de productos del caserío",
+   "place": "Calle Uribarri, Basauri",
+   "text": "Muestra agrícola con productos de baserri de la zona, ideal para curiosear y probar sabores de aquí por la mañana.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Onda Vasca - San Faustos de Basauri 2026 (programa)",
+    "url": "https://www.ondavasca.com/fiesta-de-basauri-san-faustos-2026-del-10-al-18-de-octubre/"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "12:30",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Basauri): exhibición de herri kirolak",
+   "place": "Mojaparte, Basauri",
+   "text": "Demostración de deporte rural vasco (levantamiento de piedra, corte de troncos y similares) a pie de calle, para entender la tradición.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Onda Vasca - San Faustos de Basauri 2026 (programa)",
+    "url": "https://www.ondavasca.com/fiesta-de-basauri-san-faustos-2026-del-10-al-18-de-octubre/"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "13:00",
+   "kind": "plan",
+   "title": "Bilboats: paseo en barco «Navegando Bilbao» por la ría",
+   "place": "Plaza Pío Baroja 1, Bilbao",
+   "text": "Una hora por la ría viendo Guggenheim y puentes desde el agua. Hay salidas diarias a las 13:00, 15:45, 17:00 y 18:15.",
+   "price": "15 €; niños, mayores y personas con discapacidad: 10 €",
+   "couple": true,
+   "source": {
+    "name": "Bilboats - Cruceros por la ría",
+    "url": "https://www.bilboats.com"
+   }
+  },
+  {
    "date": "2026-10-17",
    "until": "2026-10-18",
    "time": "18:00",
@@ -1665,6 +1889,20 @@
   },
   {
    "date": "2026-10-17",
+   "time": "20:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Durango): romería con Luhartz",
+   "place": "Pórtico de Santa María, Durango",
+   "text": "Baile popular de romería en la noche del Día de los Disfraces, con gente de todas las edades.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de Durango (programa San Fausto)",
+    "url": "https://blog.euskaltel.com/fiestas-durango/"
+   }
+  },
+  {
+   "date": "2026-10-17",
    "time": "21:00",
    "kind": "concierto",
    "title": "Dirty Suc",
@@ -1700,6 +1938,34 @@
    "source": {
     "name": "La Ganzúa",
     "url": "https://www.laganzua.net/conciertos/levitants-bilbao-1016131"
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "time": "09:30",
+   "kind": "feria",
+   "title": "Fiestas de San Fausto (Basauri): feria de artesanía",
+   "place": "Calle Uribarri, Basauri",
+   "text": "Feria de artesanía de la 46ª edición, con puestos en la calle el último domingo de fiestas.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Onda Vasca - San Faustos de Basauri 2026 (programa)",
+    "url": "https://www.ondavasca.com/fiesta-de-basauri-san-faustos-2026-del-10-al-18-de-octubre/"
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "time": "10:00-19:00",
+   "kind": "plan",
+   "title": "San Juan de Gaztelugatxe: subida a la ermita",
+   "place": "Gaztelugatxe, Bermeo",
+   "text": "Subida a pie a la ermita sobre el mar, icono de la costa vasca. Reserva gratuita online solo en días de acceso controlado.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Diputación Foral de Bizkaia - Gaztelugatxe",
+    "url": "https://www.bizkaia.eus/es/gaztelugatxe"
    }
   },
   {
@@ -1793,6 +2059,48 @@
    "source": {
     "name": "Taquilla.com (agenda de Bilbao)",
     "url": "https://www.taquilla.com/espectaculos/bilbao"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "time": "09:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Severino (Balmaseda): Concurso Internacional de Putxeras",
+   "place": "Plaza San Severino, Balmaseda",
+   "text": "Cuadrillas cocinan sus putxeras (cocido encartado) desde primera hora; los premios se entregan a las 14:30. Muchos bares ofrecen menú especial.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Concurso de Putxeras de Balmaseda",
+    "url": "https://blog.euskaltel.com/concurso-puxteras-balmaseda/"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "time": "19:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Severino (Balmaseda): Dantza Plaza con Saltoka",
+   "place": "Balmaseda",
+   "text": "Danza popular con Saltoka en el día grande de San Severino, en el casco histórico de Balmaseda.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Concurso de Putxeras de Balmaseda",
+    "url": "https://blog.euskaltel.com/concurso-puxteras-balmaseda/"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "time": "23:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Severino (Balmaseda): verbena con Vulkano",
+   "place": "Balmaseda",
+   "text": "Verbena nocturna para terminar el día grande de las fiestas de la villa.",
+   "price": "Gratis",
+   "couple": false,
+   "source": {
+    "name": "Euskaltel Blog - Concurso de Putxeras de Balmaseda",
+    "url": "https://blog.euskaltel.com/concurso-puxteras-balmaseda/"
    }
   }
  ],
