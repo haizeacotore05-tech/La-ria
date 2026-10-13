@@ -421,6 +421,12 @@ mark{background:color-mix(in oklab, var(--ria) 28%, transparent);color:inherit;b
 .ag-seg{margin:0 0 6px}
 .poll .p-seats{margin:8px 0 0;font-size:14.5px;line-height:1.4}
 .poll .p-seats b{font-family:var(--f-mono);font-size:11px;letter-spacing:.05em;text-transform:uppercase;font-weight:500;color:var(--muted)}
+.j-req{margin:6px 0 0;padding-left:18px;font-size:14.5px;line-height:1.4}
+.j-req li{margin:2px 0}
+.job .j-amt{font-weight:600;color:var(--sec)}
+.job .j-how{font-size:14.5px;color:var(--muted)}
+.job .j-how b{color:var(--ink);font-weight:600}
+.chip.open{border-color:var(--up);color:var(--up)}
 .prac-empty{color:var(--muted);font-size:15.5px;margin:4px 0 0}
 @media (min-width:760px){.ag-cols{display:grid;grid-template-columns:1fr 1fr;column-gap:28px}}
 </style>
@@ -832,11 +838,14 @@ function agendaBlock(e){ let a = (e.agenda || []).filter(x => daysTo(x.until || 
   const label = d => d ? (daysTo(d) === 0 ? "Hoy" : daysTo(d) === 1 ? "Mañana" : fmtWk(d)) : "Estos días";
   const seg = nCouple ? `<div class="seg ag-seg" role="group" aria-label="Filtrar agenda"><button data-agc="0" aria-pressed="${!state.agCouple}">Todo</button><button data-agc="1" aria-pressed="${!!state.agCouple}">En pareja<small>${nCouple}</small></button></div>` : "";
   return `<section class="block agenda" id="agenda" style="--sec:var(--s-cultura)"><div class="block-h"><h3>Agenda</h3><span class="mono">Bilbao y alrededores · 7 días</span></div>${seg}<div class="ag-cols">${dates.map(d => `<div><h5>${esc(label(d))}</h5>${day.filter(x => dayKey(x) === d).map(item).join("")}</div>`).join("")}${long.length ? `<div><h5>Toda la semana</h5>${long.map(item).join("")}</div>` : ""}</div></section>`; }
-const JOB_K = {empleo:"Empleo",oposicion:"Oposición",ayuda:"Ayuda",formacion:"Formación"};
+const JOB_K = {empleo:"Empleo",oposicion:"Oposición",bolsa:"Bolsa de trabajo",ayuda:"Ayuda",formacion:"Formación"};
+const JOB_S = {abierta:"Plazo abierto",proxima:"Próximamente","en-curso":"En marcha",permanente:"Siempre disponible"};
 function jobsBlock(e){ const j = (e.jobs || []).filter(x => !x.deadline || daysTo(x.deadline) >= 0); if (!j.length) return "";
-  return `<section class="block jobs" id="empleo" style="--sec:var(--s-sociedad)"><div class="block-h"><h3>Empleo y ayudas</h3><span class="mono">${j.length} abiertas</span></div>${j.map(x => { const d = x.deadline ? daysTo(x.deadline) : null;
-    return `<div class="job"><span class="j-k">${esc(JOB_K[x.kind] || "Empleo")}</span><b>${esc(x.title)}</b>${x.text ? `<p>${esc(x.text)}</p>` : ""}<div class="ag-m">${d != null ? `<span class="dl${d <= 5 ? " soon" : ""}">${d === 0 ? "Último día hoy" : `Plazo hasta el ${esc(fmtShort(x.deadline))} · ${d === 1 ? "queda 1 día" : `quedan ${d} días`}`}</span>` : ""}${srcLink(x.source)}</div></div>`; }).join("")}</section>`; }
-const PRACT = { elecciones: [e => electionsBlock(e, true), "29-N"], agenda: [agendaBlock, "Agenda"], empleo: [jobsBlock, "Empleo"] };
+  const card = x => { const d = x.deadline ? daysTo(x.deadline) : null;
+    return `<div class="job"><span class="j-k">${esc(JOB_K[x.kind] || "Oposición")}${x.org ? ` · ${esc(x.org)}` : ""}</span><b>${esc(x.title)}</b>${x.text ? `<p>${esc(x.text)}</p>` : ""}${x.amount ? `<p class="j-amt">${esc(x.amount)}</p>` : ""}${(x.requirements||[]).length ? `<ul class="j-req">${x.requirements.map(r => `<li>${esc(r)}</li>`).join("")}</ul>` : ""}${x.how ? `<p class="j-how"><b>Cómo:</b> ${esc(x.how)}</p>` : ""}<div class="ag-m">${x.status ? `<span class="chip${x.status === "abierta" ? " open" : ""}">${esc(JOB_S[x.status] || x.status)}</span>` : ""}${d != null ? `<span class="dl${d <= 5 ? " soon" : ""}">${d === 0 ? "Último día hoy" : `Hasta el ${esc(fmtShort(x.deadline))} · ${d === 1 ? "queda 1 día" : `quedan ${d} días`}`}</span>` : ""}${srcLink(x.source)}</div></div>`; };
+  const op = j.filter(x => x.kind !== "ayuda" && x.kind !== "formacion"), ay = j.filter(x => x.kind === "ayuda" || x.kind === "formacion");
+  return `<section class="block jobs" id="empleo" style="--sec:var(--s-sociedad)"><div class="block-h"><h3>Oposiciones y ayudas</h3><span class="mono">${j.length}</span></div>${op.length ? `<h5>Oposiciones de administrativo</h5>${op.map(card).join("")}` : ""}${ay.length ? `<h5>Ayudas</h5>${ay.map(card).join("")}` : ""}</section>`; }
+const PRACT = { elecciones: [e => electionsBlock(e, true), "29-N"], agenda: [agendaBlock, "Agenda"], empleo: [jobsBlock, "Oposiciones"] };
 
 function viewToday(){
   const e = edition();

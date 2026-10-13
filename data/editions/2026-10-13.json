@@ -2373,42 +2373,169 @@
  "jobs": [
   {
    "kind": "oposicion",
-   "title": "Gobierno Vasco: 55 plazas fijas de cocina y limpieza en Educación",
-   "text": "Cocinero/a (25) y personal de limpieza (30). Piden 16 años y no exigen titulación; el euskera suma hasta 2 puntos. Solicitud online en euskadi.eus/empleo-publico, una por categoría, y tasa de 8,18 euros.",
-   "deadline": "2026-10-19",
+   "status": "abierta",
+   "title": "Auxiliar Administrativo/a · Getxo Kirolak",
+   "org": "Ayuntamiento de Getxo – Getxo Kirolak (OAL)",
+   "text": "3 plazas de auxiliar administrativo/a, personal laboral fijo (C2), concurso-oposición, turno libre. Convocatoria en el BOE del 2-10-2026. La fecha de examen aún no consta.",
+   "requirements": [
+    "Graduado Escolar, FP1 o equivalente (o poder obtenerlo al acabar el plazo)",
+    "Perfil lingüístico 2 (B2) exigible según un resumen de academia: confirmar en las bases",
+    "Bases en BOB nº 250 (31-12-2024), rectificadas en BOB nº 183 (24-09-2026)",
+    "Tasa y nacionalidad: ver bases"
+   ],
+   "deadline": "2026-11-02",
+   "how": "Instancia según las bases; plazo de 20 días hábiles desde el BOE del 2-10-2026 (fecha de cierre calculada, confírmala).",
    "source": {
-    "name": "BOPV",
-    "url": "https://www.euskadi.eus/bopv2/datos/2026/09/2603750a.pdf"
+    "name": "BOE-A-2026-20500 · Resolución de 28-09-2026, Getxo Kirolak",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20500"
+   }
+  },
+  {
+   "kind": "bolsa",
+   "title": "Listas de contratación temporal · Auxiliar Administrativo/a",
+   "org": "Osakidetza",
+   "text": "Según sus FAQ (sep-2024) las listas temporales siguen abiertas, con altas hasta fechas de corte por categoría. A 9-10-2026 no hay aviso de apertura específico para Auxiliar Administrativo.",
+   "requirements": [
+    "Titulaciones admitidas: Técnico/a en Gestión Administrativa, FP1, Graduado Escolar o equivalente (confirmar encaje de la ESO)",
+    "No hace falta haber participado en la OPE",
+    "Las solicitudes se ordenan por fecha de presentación"
+   ],
+   "how": "Área privada de la aplicación de Contratación temporal de Osakidetza; comprueba allí si hay plazo abierto para tu categoría.",
+   "source": {
+    "name": "Osakidetza · Contratación temporal",
+    "url": "https://www.osakidetza.euskadi.eus/contratacion-temporal/webosk00-procon/es/"
    }
   },
   {
    "kind": "oposicion",
-   "title": "Ayuntamiento de Sopela: plaza de subalterno/a",
-   "text": "Plaza de subalterno/a en Sopela. Según la información publicada, basta el certificado de escolaridad o equivalente. Presentación online en la sede del Ayuntamiento o en su registro; confirma las bases en el BOB.",
-   "deadline": "2026-10-16",
+   "status": "proxima",
+   "title": "Auxiliar Administrativo del Estado (OEP 2026)",
+   "org": "Administración General del Estado (Función Pública / INAP)",
+   "text": "La OEP 2026 (Real Decreto 387/2026) refuerza el Cuerpo General Auxiliar de la AGE. La convocatoria aún no consta publicada en el BOE; academias prevén salida en el último trimestre de 2026.",
+   "requirements": [
+    "ESO o equivalente (requisito habitual del Cuerpo General Auxiliar)",
+    "16 años cumplidos y nacionalidad española o UE según el EBEP (habitual)",
+    "Plazas, tasa y fechas: pendientes de la convocatoria"
+   ],
+   "how": "Cuando se publique en el BOE, inscripción telemática en el plazo que fije la convocatoria; vigila el BOE.",
    "source": {
-    "name": "Redopositor",
-    "url": "https://redopositor.com/blog/es-convocatoria-subalterno-sopela-2026/"
+    "name": "INAP · Oferta de empleo público 2026",
+    "url": "https://laadministracionaldia.inap.es/noticia.asp?id=1265646"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "en-curso",
+   "title": "Personal de Apoyo · Gobierno Vasco",
+   "org": "Gobierno Vasco (Administración General)",
+   "text": "117 plazas turno libre (112 generales, 5 discapacidad), concurso-oposición, sin titulación exigida. Funciones de apoyo: recepción, correspondencia, almacén. Primera prueba prevista en enero de 2027.",
+   "requirements": [
+    "No se exige titulación; la ESO suma 7,20 puntos de mérito",
+    "Euskera: 107 plazas generales exigen PL1; 5 sin perfil",
+    "Tasa 8,18 €",
+    "Oposición (30 temas, hasta 100 puntos) más concurso (hasta 45)"
+   ],
+   "how": "Plazo cerrado el 16-09-2026. Sigue listas de admitidas y fecha de examen en la sede de empleo público de euskadi.eus.",
+   "source": {
+    "name": "BOPV · Orden de 30-07-2026, Agrupación Profesional de Personal de Apoyo",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/08/2603653a.shtml"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "en-curso",
+   "title": "OPE Osakidetza · Auxiliar Administrativo/a 2023-25",
+   "org": "Osakidetza",
+   "text": "708 plazas de turno libre (658 generales, 50 discapacidad) y 48 de promoción interna. Plazo cerrado el 22-04-2026; examen tipo test celebrado del 19 al 21 de junio. Próxima OPE sin fecha.",
+   "requirements": [
+    "Titulación: Técnico/a en Gestión Administrativa \"o equivalente\" (Anexo I Decreto 186/2005); la ESO no se cita expresamente: confirma la equivalencia",
+    "Informática acreditada en KZgunea: Word avanzado y Excel básico",
+    "Tasa de 15 € (grupo C2)",
+    "Euskera no es requisito de acceso: PL2 suma 18 puntos y PL1 9 como mérito"
+   ],
+   "how": "Plazo cerrado. Sigue la web de Osakidetza (OPE) para resultados y la próxima convocatoria.",
+   "source": {
+    "name": "BOPV · Resolución 467/2026 de Osakidetza (BOPV 20-03-2026)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/03/2601238a.shtml"
    }
   },
   {
    "kind": "ayuda",
-   "title": "Gaztelagun: ayuda al alquiler de hasta 300 euros al mes",
-   "text": "Para jóvenes de 18 a 35 años con alquiler libre en Euskadi: 60 % de la renta, hasta 300 euros. Ingresos brutos entre 3.000 y 30.000 euros al año. Se pide en euskadi.eus/servicios/gaztelagun.",
+   "status": "abierta",
+   "title": "Gaztelagun 2026 · ayuda al alquiler joven",
+   "org": "Gobierno Vasco · Alokabide",
+   "text": "Pago mensual de parte del alquiler de vivienda libre para jóvenes de 18 a 35 años. Concesión sucesiva hasta el 31-12-2026; resolución en 3 meses y silencio desestimatorio.",
+   "amount": "Hasta el 60 % de la renta, máx. 300 €/mes",
+   "requirements": [
+    "18 a 35 años (se extingue al cumplir 36)",
+    "6 meses de residencia efectiva e ininterrumpida en Euskadi",
+    "Ingresos brutos individuales entre 3.000 y 30.000 € al año",
+    "Contrato de alquiler de vivienda libre como domicilio habitual, sin parentesco hasta 3.er grado con el arrendador",
+    "Renta inicial máxima 900 € en Bilbao, pagada por transferencia",
+    "Incompatible con VPP en alquiler, RGI, IMV y PCV"
+   ],
    "deadline": "2026-12-31",
+   "how": "Sede electrónica de Euskadi (Mi carpeta) o con cita en Zuzenean o Alokabide; adjunta contrato y justificantes de pago.",
    "source": {
-    "name": "BOPV",
-    "url": "https://www.euskadi.eus/web01-bopv/es/bopv2/datos/2026/06/2602608a.shtml"
+    "name": "BOPV · Orden de 5-06-2026 (Gaztelagun)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/06/2602608a.shtml"
    }
   },
   {
    "kind": "ayuda",
-   "title": "Descuentos en Bizkaibus con tarjeta Barik",
-   "text": "Hasta fin de año hay un 40 % de rebaja en los títulos multiviaje y un 50 % en los abonos Gazte 70 y Gazte Oro, pagando con Barik. Revisa en Bizkaibus los requisitos de edad.",
-   "deadline": "2026-12-31",
+   "status": "abierta",
+   "title": "Ayudas HABE para aprender euskera 2025-26 (2.º turno)",
+   "org": "HABE · Gobierno Vasco",
+   "text": "Subvención fija por nivel superado para quien se matriculó en un euskaltegi homologado entre jun-2025 y sep-2026. No es un porcentaje de la matrícula. Exenta de IRPF.",
+   "amount": "600 a 1.000 € por nivel A1-B2 (C1: 700 €)",
+   "requirements": [
+    "Matrícula pagada en euskaltegi o autoaprendizaje homologado (1-06-2025 a 30-09-2026)",
+    "Nivel superado o acreditado entre julio 2025 y octubre 2026",
+    "Mínimo 50 horas lectivas (30 en verano) y 75 % de asistencia",
+    "Cada nivel se subvenciona una vez; excluye quien ya lo tenía acreditado"
+   ],
+   "deadline": "2026-11-03",
+   "how": "Formulario en la sede electrónica (euskadi.eus/servicios/1038713, 2.º turno) o presencial, con justificantes de pago de matrícula.",
    "source": {
-    "name": "Bizkaibus",
-    "url": "https://www.bizkaia.eus/es/web/bizkaibus/-/gratuidad-hasta-14-a%C3%B1os-y-descuentos-en-bizkaibus-hasta-el-31-de-diciembre-de-2026"
+    "name": "BOPV · Resolución HABE de 27-05-2026",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/06/2602457a.pdf"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "permanente",
+   "title": "Gazte Txartela (carné joven)",
+   "org": "Gobierno Vasco · Gazteaukera",
+   "text": "Carné joven digital gratuito: descuentos en más de 1.000 establecimientos de Euskadi, seguro de asistencia en viaje y ventajas de otros carnés jóvenes europeos. Caduca al cumplir 30 años.",
+   "amount": "Gratis; descuentos en +1.000 comercios",
+   "requirements": [
+    "Tener entre 14 y 29 años",
+    "Estar empadronada en la CAPV",
+    "Desde los 16 años se usa en la app NIK Patrika Digitala"
+   ],
+   "how": "Si no la tienes, pídela en Gazteaukera y escribe a gaztetxartela@euskadi.eus; la versión digital es la predeterminada.",
+   "source": {
+    "name": "Euskadi.eus · FAQ Gazte-txartela",
+    "url": "https://www.euskadi.eus/gobierno-vasco/-/faq-preguntas-frecuentes-sobre-gazte-txartela/"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "permanente",
+   "title": "Gazte 70 y Gazte Oro (Barik, menores de 26)",
+   "org": "Consorcio de Transportes de Bizkaia · Bizkaibus",
+   "text": "Abonos Barik para menores de 26: Gazte 70 (70 viajes en 30 días) y Gazte Oro (ilimitado 30 días). Valen en Bizkaibus, Metro Bilbao, Euskotren y Tranvía.",
+   "amount": "50 % de reducción hasta 31-12-2026 (aviso Bizkaibus)",
+   "requirements": [
+    "Menor de 26 años",
+    "Empadronada en un municipio de Bizkaia",
+    "Tarjeta Barik personalizada",
+    "Uso personal e intransferible"
+   ],
+   "how": "Cárgalo en tu tarjeta Barik personalizada; consulta puntos de recarga y oficinas en la web de Bizkaibus.",
+   "source": {
+    "name": "Bizkaibus · Tarifas",
+    "url": "https://www.bizkaia.eus/es/web/bizkaibus/tarifas"
    }
   }
  ]
