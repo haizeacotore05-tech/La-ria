@@ -1470,6 +1470,184 @@
      "url": "https://adnkronos.com/politica/sondaggio-tg-la7-elezioni-voto-oggi-12-ottobre_pVL4A8P4AymDKk0pFFVG5"
     }
    ]
+  },
+  {
+   "id": "2026-10-13-it-salvini-dimite-lega",
+   "section": "italia",
+   "weight": 1,
+   "title": "Salvini dimite como secretario de la Lega para renovar su mandato en un congreso extraordinario",
+   "dek": "Matteo Salvini deja formalmente el cargo tras el consejo federal y lo califica de trámite necesario para volver a presentarse. El congreso será en Milán los días 24 y 25 de octubre.",
+   "figure": {
+    "value": "24 oct",
+    "label": "Congreso Lega, Milán"
+   },
+   "place": "Milán",
+   "body": [
+    "Matteo Salvini anunció el lunes 12 de octubre su dimisión como secretario de la Lega al término de un consejo federal en la sede de via Bellerio, en Milán. Él mismo lo presentó como un paso formal pero necesario para poder volver a presentarse en un congreso extraordinario, previsto en Milán el 24 y 25 de octubre y que presidirá Lorenzo Fontana.",
+    "Hasta entonces, el partido lo dirigirá el tesorero Alberto Di Rubba, muy cercano a Salvini, nombrado vicesecretario con funciones de vicario. Los tres vicesecretarios, Claudio Durigon, Silvia Sardone y Alberto Stefani, dimitieron también. Salvini anunció además un nuevo logotipo, que podría dejar de aludir a «Salvini premier» por la nueva ley electoral, y una secretaría política para repartir responsabilidades.",
+    "El congreso, que no prevé rival para Salvini, debe relanzar las prioridades de la Lega: abolir el canon de la RAI, rebajar la edad de jubilación a 64 años y una tarifa plana para autónomos con ingresos de hasta 100.000 euros. Salvini rechazó que existan «disidentes» tras las tensiones internas del verano, y Attilio Fontana aseguró el mismo día que nadie había pedido el congreso."
+   ],
+   "keys": [
+    "La dimisión es, según el propio Salvini, un trámite para ratificarse en el congreso de Milán.",
+    "Di Rubba, hombre de su confianza, dirige el partido hasta el 24-25 de octubre.",
+    "El partido quiere primarias del centroderecha para la alcaldía de Milán y respalda a Sardone."
+   ],
+   "why": "Es un vistazo a la política italiana que tu pareja seguirá de cerca: la Lega es socia del Gobierno de Meloni y el pulso interno puede afectar a la coalición.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/politica/2026/10/12/salvini-si-dimette-da-segretario-della-lega-necessario-per-ricandidarmi_bdef9006-eaa9-4211-8fd7-635e42b1d1cb.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-13-it-camara-scostamento-presupuestos",
+   "section": "italia",
+   "weight": 1,
+   "title": "La Cámara aprueba la resolución sobre el desvío presupuestario antes de la ley de presupuestos",
+   "dek": "Los diputados respaldaron con 219 votos a favor la resolución de la mayoría sobre el desvío de presupuesto. Pide al Gobierno proteger el poder adquisitivo de los hogares respetando los objetivos de gasto.",
+   "figure": {
+    "value": "219 sí",
+    "label": "Votos a favor"
+   },
+   "place": "Roma",
+   "body": [
+    "La Cámara de Diputados aprobó el 13 de octubre la resolución de la mayoría sobre el «scostamento di bilancio», el desvío presupuestario, con 219 votos a favor. El titular de ANSA cifra los votos en contra en 110, aunque el cuerpo del texto menciona 210, por lo que la cifra de la oposición no está clara.",
+    "La resolución pide al Gobierno aplicar lo previsto en el informe al Parlamento de 2026 anexo al documento programático de finanzas públicas, dar «adecuado relieve» a las medidas de inversión y adoptar los pasos necesarios para financiar medidas que protejan el poder adquisitivo de las familias, respetando los objetivos de crecimiento del gasto neto. Las demás resoluciones de la oposición quedaron precluidas sin votación.",
+    "En una votación aparte, la resolución de la mayoría sobre el documento programático salió adelante con 216 votos a favor y 116 en contra. Compromete al Gobierno a incluir en la próxima ley de presupuestos ayudas para las familias más vulnerables, apoyo a las empresas, también en seguridad energética, y financiación de infraestructuras teniendo en cuenta el encarecimiento de los materiales."
+   ],
+   "keys": [
+    "Mayoría aprobó dos resoluciones: 219 votos a favor en la del desvío y 216 a favor y 116 en contra en la del documento programático.",
+    "Se prioriza el poder adquisitivo de los hogares, las empresas y las infraestructuras.",
+    "Las resoluciones de la oposición no llegaron a votarse."
+   ],
+   "why": "Las decisiones presupuestarias de Roma marcan impuestos, ayudas y precios que afectan a las familias italianas, algo útil para entender la situación de la familia de tu pareja.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/ok-della-camera-alla-risoluzione-sullo-scostamento-con-219-si-e-110-no_b69a56f7-fb1f-4dee-b127-8df7cb0cbe61.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-13-it-istat-precios-vivienda-25-anos",
+   "section": "italia",
+   "weight": 1,
+   "title": "En 25 años los precios en Italia han subido un 63 %, y los de la vivienda y suministros, más del 100 %",
+   "dek": "Un informe del Istat sobre el periodo 2000-2025 muestra grandes diferencias entre categorías. Vivienda y suministros se disparan, mientras las comunicaciones bajan.",
+   "figure": {
+    "value": "+63 %",
+    "label": "Precios desde 2000"
+   },
+   "place": "Italia",
+   "body": [
+    "El Istat publicó el informe «Storie di dati sui prezzi al consumo», que analiza la evolución de los precios entre 2000 y 2025. El índice general de precios al consumo subió un 63 %, una media que según la agencia oculta grandes diferencias entre categorías.",
+    "La vivienda y los suministros aumentaron más de un 100 %, impulsados sobre todo por los costes de electricidad y combustibles. También superaron el 100 % las bebidas alcohólicas y el tabaco, y los servicios financieros y de seguros.",
+    "En el otro extremo, la educación y los servicios sanitarios crecieron menos de un 30 %, y los bienes y servicios de información y comunicación bajaron casi un 60 %. Los bienes industriales no energéticos subieron algo más de un 25 %."
+   ],
+   "keys": [
+    "Precios generales: +63 % entre 2000 y 2025.",
+    "Vivienda y suministros: más del 100 %, sobre todo por energía.",
+    "Comunicaciones: bajada de casi el 60 %."
+   ],
+   "why": "Ayuda a entender por qué el coste de la vida y de la vivienda preocupa tanto a los jóvenes italianos, y sirve de comparación con Bilbao.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/economia/2026/10/13/in-25-anni-i-prezzi-sono-cresciuti-piu-del-60-per-casa-oltre-il-100_d379c619-6546-4877-a19e-97c68c2bd3d9.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-13-it-ex-ilva-huelga-48-horas",
+   "section": "italia",
+   "weight": 1,
+   "title": "Los sindicatos convocan otras 48 horas de huelga en todas las plantas de la ex Ilva",
+   "dek": "Fim, Fiom y Uilm acusan al Gobierno de no dar respuestas y esperan ser convocados en el Palacio Chigi. Hoy es el segundo día de paros en Génova y Tarento.",
+   "figure": {
+    "value": "48 h",
+    "label": "Nueva huelga ex Ilva"
+   },
+   "place": "Génova y Tarento",
+   "body": [
+    "Los sindicatos metalúrgicos Fim, Fiom y Uilm proclamaron el 13 de octubre otras 48 horas de huelga en todas las plantas de la ex Ilva. Alegan «las faltas de respuesta del Gobierno» y dejan a las federaciones locales organizar las iniciativas necesarias en cada territorio.",
+    "Ese mismo día se vivía la segunda jornada de paros en Génova y Tarento, con una concentración de trabajadores en Génova. Un titular de vídeo de ANSA recoge que el líder de Fiom, Brigati, considera «insuficientes» las medidas del Gobierno.",
+    "Los sindicatos esperan una convocatoria en el Palacio Chigi y advierten de que valorarán más huelgas si esa reunión no se produce. La noticia no precisa fechas exactas de la nueva huelga, el número de afectados ni la fecha de una posible reunión."
+   ],
+   "keys": [
+    "Fim, Fiom y Uilm convocan 48 horas más de huelga en toda la ex Ilva.",
+    "Hoy hay paros en Génova y Tarento.",
+    "Piden reunirse en el Palacio Chigi y no descartan más huelgas."
+   ],
+   "why": "Es un conflicto laboral clásico del acero italiano, parecido a las reconversiones industriales que Bilbao conoce bien.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/13/altre-48-ore-di-sciopero-in-tutti-gli-stabilimenti-ex-ilva_5988dab5-e7b0-475a-b751-def1603313fe.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-13-it-festa-cine-roma",
+   "section": "italia",
+   "weight": 1,
+   "title": "Arranca la Fiesta del Cine de Roma con Bardem, Julianne Moore y un documental sobre Jovanotti",
+   "dek": "La 21.ª edición, del 12 al 25 de octubre, quiere ser la más grande y extenderse por toda la ciudad. Abre con una película de Paolo Genovese.",
+   "figure": {
+    "value": "25 oct",
+    "label": "Fin del festival"
+   },
+   "place": "Roma",
+   "body": [
+    "La 21.ª edición de la Festa del Cinema di Roma comenzó el 12 de octubre y se prolongará hasta el 25, con el Auditorium Parco della Musica como sede principal y actos en varios puntos de la ciudad. La película inaugural es «Il rumore delle cose nuove», de Paolo Genovese. Javier Bardem y Julianne Moore recibirán premios a la trayectoria, y entre los invitados figuran Jesse Eisenberg, Naomi Watts, Sarah Paulson, Sandra Hüller, Jenna Ortega y Paul Bettany.",
+    "Entre los títulos italianos destacan el documental «Lorenzo - L'incredibile avventura di Jovanotti», el biopic de Pino Daniele «Je so' pazzo» y «Se domani non torno», de Paola Randi, sobre Giulia Cecchettin. En la sección de competición internacional Progressive Cinema, seis de 18 películas están dirigidas por mujeres, según el director artístico, Paola Malanga.",
+    "Salvatore Nastasi, presidente de la Fondazione Cinema per Roma, dice que es la edición de mayor alcance, en línea con lo que pidió el alcalde Gualtieri. En 2025 acudieron unas 100.000 personas y se espera superar la cifra."
+   ],
+   "keys": [
+    "Del 12 al 25 de octubre, con apertura de Paolo Genovese.",
+    "Premios a la trayectoria para Javier Bardem y Julianne Moore.",
+    "Seis de 18 películas de la competición internacional son de directoras."
+   ],
+   "why": "Un plan cultural para comentar con tu pareja, con un actor español como Bardem entre los premiados.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/speciali/festa-del-cinema-di-roma-/2026/10/12/alla-festa-di-roma-una-parata-di-divi-da-julianne-moore-a-jovanotti_1ba44edd-c078-4115-a514-dd53650e48e2.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-13-it-atalanta-venezia-serie-a",
+   "section": "italia",
+   "weight": 1,
+   "title": "El Atalanta de Sarri vence 3-1 al Venezia y hunde un poco más a los venecianos",
+   "dek": "Con cambio de sistema a 4-2-3-1, el Atalanta cortó una racha de tres derrotas. El Venezia suma seis derrotas en seis jornadas y ha destituido a Stroppa.",
+   "figure": {
+    "value": "3-1",
+    "label": "Atalanta - Venezia"
+   },
+   "place": "Bérgamo",
+   "body": [
+    "El Atalanta ganó 3-1 al Venezia en la Serie A el 12 de octubre y cortó una racha de tres derrotas seguidas. Kessie marcó a los 4 minutos con una vaselina y Krstovic hizo el segundo a los 6 de cabeza, a la salida de un córner de Elmas. Adams vio anulado un gol por fuera de juego en el minuto 16.",
+    "El técnico del Atalanta, Sarri, abandonó el sistema con tres delanteros y pasó a un 4-2-3-1, con Elmas por la derecha y De Ketelaere tras el delantero, cambio al que el relato de ANSA atribuye el giro. El Venezia, con Basic y Yeboah muy activos, tocó el larguero y el poste en la segunda parte. En el minuto 44 el VAR llevó a la expulsión de Elmas por una entrada por detrás a Helgason.",
+    "El Venezia suma su sexta derrota en seis partidos, sin ningún punto y colista. El Atalanta se queda con nueve puntos, cerca de los puestos europeos. ANSA tituló después que el club había hecho oficial la destitución de Stroppa."
+   ],
+   "keys": [
+    "Kessie y Krstovic marcaron en los seis primeros minutos.",
+    "Elmas fue expulsado en el 44 tras revisar el VAR.",
+    "Venezia, colista con cero puntos, destituye a Stroppa."
+   ],
+   "why": "Si tu pareja sigue la Serie A, es el partido de la jornada que se comentará, con un último clasificado en crisis y un cambio de entrenador.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/12/serie-a-atalanta-venezia-3-1_3d5ee077-f4fc-4c18-9745-518c2c7291bb.html"
+    },
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/13/venezia-ufficiale-lesonero-di-stroppa_c34b0f72-1e30-4bf7-91b5-882fdf536d79.html"
+    }
+   ]
   }
  ],
  "summary": "El Supremo deja sin voto el 29-N a los nacionalizados por la ley de nietos, Podemos pacta con ERC, el Rey visita Ceuta y Bilbao amanece con niebla.",
