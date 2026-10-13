@@ -1402,6 +1402,74 @@
    "title": "Laso, Peña II y Murua disputarán la liguilla de cuartos del Cuatro y Medio",
    "weight": 1,
    "why": "Si te gusta la pelota mano, la liguilla de cuartos reúne a los mejores del campeonato."
+  },
+  {
+   "id": "2026-10-13-papa-leon-xiv-operacion-pulmon",
+   "section": "italia",
+   "weight": 2,
+   "title": "El papa León XIV ingresa en el Gemelli para que le quiten un nódulo del pulmón",
+   "dek": "El pontífice anunció el domingo, en el Ángelus, que se operará de un nódulo pulmonar detectado en una revisión. Está previsto que pase en el hospital romano en torno a una semana.",
+   "figure": {
+    "value": "13 oct",
+    "label": "Ingreso en el Gemelli"
+   },
+   "place": "Roma",
+   "body": [
+    "León XIV contó él mismo en la plaza de San Pedro, durante el Ángelus del 11 de octubre, que unas revisiones habían encontrado un nódulo en el pulmón. Explicó que los médicos aconsejaban intervenir y que, siguiendo sus consejos, había decidido operarse para quitarlo.",
+    "Según la Santa Sede, la lesión es pequeña, está bien delimitada y se ha detectado en una fase muy temprana. Las pruebas de imagen no permiten saber si es benigna o maligna, así que habrá que esperar al análisis del tejido tras la operación.",
+    "El portavoz vaticano, Matteo Bruni, indicó que el ingreso en el hospital Gemelli de Roma es este martes 13 de octubre y que el postoperatorio durará alrededor de una semana. La fecha exacta de la operación no se ha precisado, solo que será en los primeros días de esta semana.",
+    "El papa dio a entender que mantiene su viaje pastoral a Perú, previsto desde el 7 de noviembre. Mattarella, Meloni, la líder del PD Elly Schlein y el presidente de los obispos italianos, el cardenal Zuppi, le han mandado mensajes de cercanía."
+   ],
+   "keys": [
+    "Nódulo pequeño y en fase temprana; el diagnóstico definitivo llegará tras analizar el tejido",
+    "Ingreso el 13 de octubre en el Gemelli y estancia de unos siete días",
+    "Mantiene en principio el viaje a Perú del 7 de noviembre"
+   ],
+   "why": "Es la noticia que más se va a comentar estos días en cualquier casa italiana, y conviene saber de qué hablan en la familia de tu pareja.",
+   "sources": [
+    {
+     "name": "LaPresse",
+     "url": "https://www.lapresse.it/vaticano/2026/10/11/papa-leone-xiv-annuncia-ho-un-nodulo-al-polmone-mi-opero-nei-prossimi-giorni/"
+    },
+    {
+     "name": "La Voce di New York",
+     "url": "https://lavocedinewyork.com/news/2026/10/11/papa-leone-xiv-intervento-al-polmone-ricovero-previsto-la-prossima-settimana/"
+    },
+    {
+     "name": "Today.it",
+     "url": "https://www.today.it/rassegna/start/ultime-notizie-oggi-13-ottobre-2026.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-12-sondeo-swg-fratelli-ditalia",
+   "section": "italia",
+   "weight": 1,
+   "title": "Sondeo SWG: Fratelli d'Italia sigue primero y el PD baja tres décimas",
+   "dek": "El sondeo semanal de SWG para el telediario de La7 mantiene a Fratelli d'Italia muy por delante del PD. El partido de Vannacci pierde algo y Forza Italia sube.",
+   "figure": {
+    "value": "27,7 %",
+    "label": "Fratelli d'Italia"
+   },
+   "place": "Roma",
+   "body": [
+    "La encuesta de SWG para el TG La7, publicada el lunes 12 de octubre, da a Fratelli d'Italia, el partido de Giorgia Meloni, un 27,7 % de intención de voto, igual que la semana anterior. El Partido Democrático (PD) de Elly Schlein se queda en el 20,4 %, tres décimas menos.",
+    "El Movimiento 5 Estrellas sube una décima hasta el 12,7 %. Futuro Nazionale, la formación de Roberto Vannacci, baja dos décimas y se queda en el 7,6 %.",
+    "Detrás vienen Forza Italia con el 7,3 % (dos décimas más), Verdes e Izquierda con el 6,6 % (sin cambios) y la Lega con el 5,4 % (dos décimas más). Por debajo quedan Azione (3,2 %), Italia Viva (2,3 %), +Europa (1,7 %), Noi Moderati (1 %) y Sud chiama Nord (1 %).",
+    "Adnkronos resume el sondeo diciendo que Fratelli d'Italia amplía su ventaja sobre el PD. Es una foto semanal de intención de voto, no un resultado electoral."
+   ],
+   "keys": [
+    "Fratelli d'Italia 27,7 %, estable; PD 20,4 %, a la baja",
+    "La Lega (5,4 %) aparece por debajo de Futuro Nazionale (7,6 %) y de Forza Italia",
+    "Sondeo semanal de SWG para La7, del 12 de octubre"
+   ],
+   "why": "Sirve para entender el clima político de Italia, el país de tu pareja, con el partido de Meloni liderando con mucha distancia.",
+   "sources": [
+    {
+     "name": "Adnkronos",
+     "url": "https://adnkronos.com/politica/sondaggio-tg-la7-elezioni-voto-oggi-12-ottobre_pVL4A8P4AymDKk0pFFVG5"
+    }
+   ]
   }
  ],
  "summary": "El Supremo deja sin voto el 29-N a los nacionalizados por la ley de nietos, Podemos pacta con ERC, el Rey visita Ceuta y Bilbao amanece con niebla.",
@@ -1445,58 +1513,286 @@
  },
  "agenda": [
   {
+   "date": "2026-10-13",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "Ever is Over All. Pipilotti Rist",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "La videoinstalación de 1997 de Pipilotti Rist: una mujer sonriente rompe lunas de coches entre flores tropicales. Poética, hipnótica y muy visual.",
+   "price": "12 €; estudiantes 18-26 y mayores de 65: 6 €; menores de 18: gratis",
+   "couple": true,
+   "source": {
+    "name": "Guggenheim Bilbao (horarios y tarifas)",
+    "url": "https://www.guggenheim-bilbao.eus/en/visit/hours-and-admission"
+   }
+  },
+  {
+   "date": "2026-10-13",
+   "until": "2027-02-21",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "Steve McQueen: 66–76–26",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Nueva gran exposición del artista y cineasta Steve McQueen, abierta desde el 9 de octubre. Abre de martes a domingo.",
+   "price": "12 €; estudiantes 18-26 y mayores de 65: 6 €; menores de 18: gratis",
+   "source": {
+    "name": "Guggenheim Bilbao (horarios y tarifas)",
+    "url": "https://www.guggenheim-bilbao.eus/en/visit/hours-and-admission"
+   }
+  },
+  {
+   "date": "2026-10-13",
+   "until": "2026-11-01",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "in situ: Igshaan Adams. Levantando el polvo",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Última semana larga para ver al artista sudafricano Igshaan Adams y su archivo del cuerpo, entre tejido, memoria y polvo.",
+   "price": "12 €; estudiantes 18-26 y mayores de 65: 6 €; menores de 18: gratis",
+   "source": {
+    "name": "Guggenheim Bilbao (horarios y tarifas)",
+    "url": "https://www.guggenheim-bilbao.eus/en/visit/hours-and-admission"
+   }
+  },
+  {
+   "date": "2026-10-13",
+   "time": "19:30",
+   "kind": "concierto",
+   "title": "Rafael Fingerlos y Rubén Fdez. Aguirre: Beethoven y Schubert",
+   "place": "Teatro Arriaga (Lied Arriagan), Bilbao",
+   "text": "Recital de lied, barítono y piano, con Beethoven y Schubert en el foyer del Arriaga. Íntimo y muy bonito para una noche entre semana.",
+   "price": "18 €; descuentos para jóvenes, mayores de 65 y otros colectivos",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/rafael-fingerlos-y-ruben-fdez-aguirre/"
+   }
+  },
+  {
    "date": "2026-10-16",
+   "time": "19:00",
+   "kind": "teatro",
+   "title": "Una madre de película",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Comedia sobre madres e hijos para reír en familia o en pareja; hay función también el sábado 17 a las 19:00.",
+   "price": "desde 15,30 € (sáb. 17: desde 18 €)",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/entradas/una-madre-de-pelicula?t10cityorder=Bilbao"
+   }
+  },
+  {
+   "date": "2026-10-16",
+   "time": "19:30",
    "kind": "concierto",
    "title": "Rat-Zinger + Lion's Law",
    "place": "Sala Stage Live, Bilbao",
-   "text": "Noche de punk rock con dos bandas en una misma sala; horario y entradas, por confirmar en la taquilla.",
+   "text": "Noche de punk rock en la ría, con Rat-Zinger y Lion's Law en el Stage Live de Uribitarte.",
+   "price": "desde 18 €",
    "source": {
-    "name": "La Ganzúa (agenda de conciertos)",
-    "url": "https://www.laganzua.net/conciertos/bilbao/octubre-2026"
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/rat-zinger-lion-s-law-bilbao-1017235"
    }
   },
   {
    "date": "2026-10-16",
+   "time": "21:00",
    "kind": "concierto",
    "title": "Ruslana",
    "place": "Sala Santana 27, Bilbao",
-   "text": "Pop rock en directo en una de las salas de referencia de la ciudad; conviene confirmar hora y precio antes de ir.",
+   "text": "La ganadora de Eurovisión 2004 llega con su pop rock y sus ritmos ucranianos a Bolueta.",
+   "price": "desde 25 €",
    "source": {
-    "name": "La Ganzúa (agenda de conciertos)",
-    "url": "https://www.laganzua.net/conciertos/bilbao/octubre-2026"
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/ruslana-bilbao-1016083"
+   }
+  },
+  {
+   "date": "2026-10-16",
+   "time": "21:00",
+   "kind": "concierto",
+   "title": "Santero y Los Muchachos",
+   "place": "Kafe Antzokia, Bilbao",
+   "text": "Americana y folk rock con sabor a carretera en la sala de referencia del Casco Viejo, a un paso de casa.",
+   "price": "27,50 €",
+   "couple": true,
+   "source": {
+    "name": "Conciertos.club",
+    "url": "https://conciertos.club/bilbao-bizkaia/conciertos/114265-santero-y-los-muchachos"
    }
   },
   {
    "date": "2026-10-17",
+   "until": "2026-10-18",
+   "time": "18:00",
+   "kind": "teatro",
+   "title": "Arriagaren aterkia",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Concierto dramatizado: un paraguas, una ciudad y una música que viaja en el tiempo. Mucha historia del propio teatro. Dos funciones: sáb. 17 a las 18:00 y dom. 18 a las 12:00.",
+   "price": "11-21 €; cupo joven: 5 €",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/arriagaren-aterkia/?lang=en"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "19:00",
+   "kind": "concierto",
+   "title": "Candlelight: Las Cuatro Estaciones de Vivaldi",
+   "place": "Iglesia de la Encarnación, Bilbao",
+   "text": "Vivaldi a la luz de las velas en una iglesia del Casco Viejo. Plan romántico y muy italiano; hay otra sesión a las 21:00.",
+   "price": "desde 15,50 € (sesión de las 21:00: desde 15 €)",
+   "couple": true,
+   "source": {
+    "name": "Taquilla.com (agenda de Bilbao)",
+    "url": "https://www.taquilla.com/espectaculos/bilbao"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "19:30",
+   "kind": "experiencia",
+   "title": "Ja! Festival: «La ciencia de la ciencia ficción»",
+   "place": "Sala BBK, Bilbao",
+   "text": "Charla de Eduardo Sáenz de Cabezón y Gisela Baños dentro del festival Ja! de literatura y arte con humor. Entrada libre hasta completar aforo.",
+   "price": "Gratis (hasta completar aforo)",
+   "source": {
+    "name": "Planeta de Libros (programa Ja! Festival)",
+    "url": "https://www.planetadelibros.com/blog/noticias/articulo-informacion-sobre-festival-ja"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "21:00",
    "kind": "concierto",
    "title": "Dirty Suc",
    "place": "Sala Santana 27, Bilbao",
-   "text": "Sesión de rap y música urbana el sábado en Santana 27; los detalles de entrada se confirman en la web de la sala.",
+   "text": "Rap y urbano en directo en Santana 27, para empezar bien la noche del sábado.",
+   "price": "desde 19,80 €",
    "source": {
-    "name": "La Ganzúa (agenda de conciertos)",
-    "url": "https://www.laganzua.net/conciertos/bilbao/octubre-2026"
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/dirty-suc-bilbao-1016588"
    }
   },
   {
    "date": "2026-10-17",
+   "time": "21:00",
+   "kind": "concierto",
+   "title": "Sergio Dalma",
+   "place": "Buesa Arena, Vitoria-Gasteiz",
+   "text": "Gran concierto de pop melódico en Vitoria, a menos de una hora de Bilbao.",
+   "price": "desde 55 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/sergio-dalma-vitoria-gasteiz-1013636"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "21:30",
    "kind": "concierto",
    "title": "Levitants",
    "place": "Sala Azkena, Bilbao",
-   "text": "Rock oscuro y post punk para la noche del sábado en la sala Azkena; hora y precio por comprobar.",
+   "text": "Dark rock y post punk en la sala Azkena, en pleno centro de Bilbao.",
+   "price": "desde 17,60 €",
    "source": {
-    "name": "La Ganzúa (agenda de conciertos)",
-    "url": "https://www.laganzua.net/conciertos/bilbao/octubre-2026"
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/levitants-bilbao-1016131"
    }
   },
   {
    "date": "2026-10-18",
+   "time": "12:00",
+   "kind": "teatro",
+   "title": "Tor & Txoborro Magoak",
+   "place": "Sala BBK, Bilbao",
+   "text": "Espectáculo de magia para público familiar el domingo a mediodía en la Sala BBK.",
+   "price": "desde 6 €",
+   "source": {
+    "name": "Taquilla.com (magia en Bilbao)",
+    "url": "https://www.taquilla.com/espectaculos/magia/bilbao"
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "time": "18:30",
+   "kind": "experiencia",
+   "title": "Ja! Festival: Rodrigo Cortés y sus secuencias de humor favoritas",
+   "place": "Sala BBK, Bilbao",
+   "text": "El director Rodrigo Cortés, con Juan Bas, comenta sus escenas de humor preferidas. Entrada libre hasta completar aforo.",
+   "price": "Gratis (hasta completar aforo)",
+   "source": {
+    "name": "Planeta de Libros (programa Ja! Festival)",
+    "url": "https://www.planetadelibros.com/blog/noticias/articulo-informacion-sobre-festival-ja"
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "time": "19:00",
+   "kind": "teatro",
+   "title": "Ser o no ser Cabaretero",
+   "place": "Hika Ateneo, Bilbao",
+   "text": "Cabaret teatral en el Hika Ateneo de Bilbao La Vieja; quedan pocas entradas.",
+   "price": "desde 10 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/entradas/ser-o-no-ser-cabaretero?t10cityorder=Bilbao"
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "time": "19:30",
+   "kind": "concierto",
+   "title": "Zimmer, Williams y 100 años de cine",
+   "place": "Palacio Euskalduna, Bilbao",
+   "text": "Concierto sinfónico con música de Hans Zimmer, John Williams y un siglo de bandas sonoras. Ideal para cinéfilos.",
+   "price": "desde 38 €",
+   "couple": true,
+   "source": {
+    "name": "Taquilla.com (agenda de Bilbao)",
+    "url": "https://www.taquilla.com/espectaculos/bilbao"
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "time": "20:00",
    "kind": "concierto",
    "title": "Hällas",
    "place": "Kafe Antzokia, Bilbao",
-   "text": "Rock duro y progresivo con aires setenteros el domingo en el Kafe Antzokia; consulta hora y entradas antes de acudir.",
+   "text": "Rock progresivo y hard rock psicodélico sueco en el Kafe Antzokia, con Komodor como telonero.",
+   "price": "desde 28 €",
    "source": {
-    "name": "La Ganzúa (agenda de conciertos)",
-    "url": "https://www.laganzua.net/conciertos/bilbao/octubre-2026"
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/hallas-bilbao-1016937"
+   }
+  },
+  {
+   "date": "2026-10-19",
+   "time": "9:00-13:00",
+   "kind": "feria",
+   "title": "Mercado de los Lunes de Gernika",
+   "place": "Gernika-Lumo (Bizkaia)",
+   "text": "Mercado de productores vivo desde 1366: verdura, queso, miel y txakoli de Urdaibai. Perfecto para enseñar Euskadi, combinando con el Árbol y la Casa de Juntas.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Festivales de España",
+    "url": "https://www.festivalesdeespana.com/festival/mercado-de-los-lunes-de-gernika-gernika-lumo"
+   }
+  },
+  {
+   "date": "2026-10-20",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "La primera en morir / Perpetua vastarda (María Pizarro)",
+   "place": "La Fundición Aretoa, Bilbao",
+   "text": "Propuesta de artes escénicas contemporáneas de María Pizarro en La Fundición, dentro del ciclo de teatro más arriesgado de la ciudad.",
+   "price": "8 €",
+   "source": {
+    "name": "Taquilla.com (agenda de Bilbao)",
+    "url": "https://www.taquilla.com/espectaculos/bilbao"
    }
   }
  ],
@@ -1505,24 +1801,54 @@
   "date": "2026-11-29",
   "status": "Pedro Sánchez convocó elecciones anticipadas para el 29 de noviembre tras el revés de sus decretos de vivienda. Las encuestas de esta semana sitúan al PP primero, con Vox tercero y entre ambos por encima de la mayoría absoluta; solo el CIS de septiembre colocaba al PSOE por delante. La izquierda a la izquierda del PSOE sigue sin cerrar su frente: Ada Colau se ofrece a liderarlo, pero Podemos no ha confirmado que entre. Los partidos tienen hasta el 16 de octubre para comunicar coaliciones.",
   "polls": {
-   "name": "Sigma Dos para El Mundo (recogida por Ara)",
-   "date": "2026-10-11",
-   "url": "https://es.ara.cat/politica/dicen-encuestas-elecciones-espanolas-29-n_1_5874092.html",
+   "name": "IMOP para El Confidencial",
+   "date": "2026-10-09",
+   "url": "https://www.elliberal.cat/2026/10/09/la-derecha-lograria-201-escanos-y-vox-duplicaria-su-representacion-el-29n/",
    "items": [
     {
      "party": "PP",
-     "value": 31.9,
-     "seats": "135"
+     "value": 32.7,
+     "seats": "130"
     },
     {
      "party": "PSOE",
-     "value": 25.3,
-     "seats": "103"
+     "value": 26.6,
+     "seats": "110"
     },
     {
      "party": "Vox",
-     "value": 19.1,
-     "seats": "68"
+     "value": 19.0,
+     "seats": "70"
+    },
+    {
+     "party": "Frente Amplio",
+     "value": 4.7,
+     "seats": "11"
+    },
+    {
+     "party": "Podemos",
+     "value": 2.3,
+     "seats": "1"
+    },
+    {
+     "party": "ERC",
+     "value": null,
+     "seats": "8"
+    },
+    {
+     "party": "EH Bildu",
+     "value": null,
+     "seats": "6"
+    },
+    {
+     "party": "Junts",
+     "value": null,
+     "seats": "4"
+    },
+    {
+     "party": "PNV",
+     "value": null,
+     "seats": "4"
     }
    ]
   },
@@ -1547,8 +1873,71 @@
     "date": "2026-11-13",
     "text": "Arranca la campaña electoral a las 00:00"
    }
-  ]
+  ],
+  "euskadi": "EH Bildu cierra su lista el 16 de octubre y el PNV abre el 19 su proceso interno para elegir candidatos, con Aitor Esteban relevado como cabeza de lista al Congreso. Una encuesta de GAD3 recogida por Bilbao Hiria da 8 escaños a EH Bildu y 6 al PNV, contando Navarra."
  },
- "alerts": [],
- "jobs": []
+ "alerts": [
+  {
+   "kind": "huelga",
+   "title": "Huelga en Osakidetza el 30 de octubre",
+   "text": "SATSE, ELA, LAB, CCOO y UGT convocan paro en toda Osakidetza ese día. Habrá otras jornadas: 10 de diciembre en Bizkaia y 14 de diciembre en toda la red.",
+   "when": "30 oct",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/economia/2026/09/10/sindicatos-osakidetza-convocan-cinco-jornadas-huelga-octubre-diciembre/"
+   }
+  },
+  {
+   "kind": "obras",
+   "title": "Obras en la N-634 en Zaldibar",
+   "text": "Carril cortado con tráfico alterno por obras de mejora del trazado en la N-634, a su paso por Zaldibar. Conviene calcular más tiempo si vas por Durangaldea.",
+   "when": "Hasta el 30 oct",
+   "source": {
+    "name": "Onda Vasca",
+    "url": "https://www.ondavasca.com/afecciones-trafico-bizkaia-210-5/"
+   }
+  }
+ ],
+ "jobs": [
+  {
+   "kind": "oposicion",
+   "title": "Gobierno Vasco: 55 plazas fijas de cocina y limpieza en Educación",
+   "text": "Cocinero/a (25) y personal de limpieza (30). Piden 16 años y no exigen titulación; el euskera suma hasta 2 puntos. Solicitud online en euskadi.eus/empleo-publico, una por categoría, y tasa de 8,18 euros.",
+   "deadline": "2026-10-19",
+   "source": {
+    "name": "BOPV",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/09/2603750a.pdf"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "title": "Ayuntamiento de Sopela: plaza de subalterno/a",
+   "text": "Plaza de subalterno/a en Sopela. Según la información publicada, basta el certificado de escolaridad o equivalente. Presentación online en la sede del Ayuntamiento o en su registro; confirma las bases en el BOB.",
+   "deadline": "2026-10-16",
+   "source": {
+    "name": "Redopositor",
+    "url": "https://redopositor.com/blog/es-convocatoria-subalterno-sopela-2026/"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "title": "Gaztelagun: ayuda al alquiler de hasta 300 euros al mes",
+   "text": "Para jóvenes de 18 a 35 años con alquiler libre en Euskadi: 60 % de la renta, hasta 300 euros. Ingresos brutos entre 3.000 y 30.000 euros al año. Se pide en euskadi.eus/servicios/gaztelagun.",
+   "deadline": "2026-12-31",
+   "source": {
+    "name": "BOPV",
+    "url": "https://www.euskadi.eus/web01-bopv/es/bopv2/datos/2026/06/2602608a.shtml"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "title": "Descuentos en Bizkaibus con tarjeta Barik",
+   "text": "Hasta fin de año hay un 40 % de rebaja en los títulos multiviaje y un 50 % en los abonos Gazte 70 y Gazte Oro, pagando con Barik. Revisa en Bizkaibus los requisitos de edad.",
+   "deadline": "2026-12-31",
+   "source": {
+    "name": "Bizkaibus",
+    "url": "https://www.bizkaia.eus/es/web/bizkaibus/-/gratuidad-hasta-14-a%C3%B1os-y-descuentos-en-bizkaibus-hasta-el-31-de-diciembre-de-2026"
+   }
+  }
+ ]
 }

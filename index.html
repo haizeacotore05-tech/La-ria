@@ -390,7 +390,7 @@ mark{background:color-mix(in oklab, var(--ria) 28%, transparent);color:inherit;b
 .poll h4{margin:0;font-family:var(--f-mast);font-weight:900;font-size:20px;letter-spacing:.06em;text-transform:uppercase}
 .poll .p-src{font-family:var(--f-mono);font-size:11px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);margin:2px 0 10px}
 .poll .p-src a{color:var(--muted)}
-.pbar{display:grid;grid-template-columns:62px minmax(0,1fr) 52px;align-items:center;gap:10px;padding:5px 0;font-variant-numeric:tabular-nums}
+.pbar{display:grid;grid-template-columns:minmax(0,108px) minmax(0,1fr) 52px;align-items:center;gap:10px;padding:5px 0;font-variant-numeric:tabular-nums}
 .pbar b{font-family:var(--f-mast);font-weight:700;font-size:16px;letter-spacing:.04em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .pbar i{display:block;height:12px;border-radius:3px;background:var(--pc,var(--muted));width:calc(var(--v) * 1%);min-width:3px}
 .pbar span{text-align:right;font-size:15px}
@@ -417,6 +417,10 @@ mark{background:color-mix(in oklab, var(--ria) 28%, transparent);color:inherit;b
 .job p{margin:4px 0 0;font-size:15.5px;line-height:1.4}
 .job .dl{color:var(--ink)}
 .job .dl.soon{color:var(--hierro);font-weight:500}
+.chip.duo{border-color:var(--s-cultura);color:var(--s-cultura)}
+.ag-seg{margin:0 0 6px}
+.poll .p-seats{margin:8px 0 0;font-size:14.5px;line-height:1.4}
+.poll .p-seats b{font-family:var(--f-mono);font-size:11px;letter-spacing:.05em;text-transform:uppercase;font-weight:500;color:var(--muted)}
 .prac-empty{color:var(--muted);font-size:15.5px;margin:4px 0 0}
 @media (min-width:760px){.ag-cols{display:grid;grid-template-columns:1fr 1fr;column-gap:28px}}
 </style>
@@ -811,17 +815,23 @@ function electionsBlock(e, full){ const el = e.elections; if (!el) return "";
   const count = n > 0 ? `<div class="elec-count"><b>${n}</b><span>${n === 1 ? "día" : "días"}<br>para votar</span></div>` : n === 0 ? `<div class="elec-count"><b>Hoy</b><span>se vota</span></div>` : "";
   const pl = el.polls, items = (pl?.items || []).filter(x => typeof x.value === "number").sort((a,b) => b.value - a.value);
   const max = Math.max(...items.map(x => x.value), 1);
-  const poll = items.length ? `<div class="poll"><h4>Encuesta</h4><div class="p-src">${esc(pl.name || "")}${pl.date ? ` · ${esc(fmtShort(pl.date))}` : ""}${pl.url ? ` · <a href="${esc(pl.url)}" target="_blank" rel="noopener">ver ↗</a>` : ""}</div>${items.map(x => `<div class="pbar"><b title="${esc(x.party)}">${esc(x.party)}</b><i style="--v:${(x.value / max * 100).toFixed(1)};--pc:${partyColor(x.party)}"></i><span>${String(x.value).replace(".", ",")}%</span>${x.seats ? `<small>${esc(x.seats)} escaños</small>` : ""}</div>`).join("")}<p class="p-note">Estimación de voto de una sola encuesta. No es un resultado: cada encuestadora da cifras distintas.</p></div>` : "";
+  const poll = items.length ? `<div class="poll"><h4>Encuesta</h4><div class="p-src">${esc(pl.name || "")}${pl.date ? ` · ${esc(fmtShort(pl.date))}` : ""}${pl.url ? ` · <a href="${esc(pl.url)}" target="_blank" rel="noopener">ver ↗</a>` : ""}</div>${items.map(x => `<div class="pbar"><b title="${esc(x.party)}">${esc(x.party)}</b><i style="--v:${(x.value / max * 100).toFixed(1)};--pc:${partyColor(x.party)}"></i><span>${String(x.value).replace(".", ",")}%</span>${x.seats ? `<small>${esc(x.seats)} escaños</small>` : ""}</div>`).join("")}${(pl?.items||[]).some(x => typeof x.value !== "number" && x.seats) ? `<p class="p-seats"><b>Solo escaños:</b> ${(pl.items||[]).filter(x => typeof x.value !== "number" && x.seats).map(x => `${esc(x.party)} ${esc(x.seats)}`).join(" · ")}</p>` : ""}<p class="p-note">Estimación de voto de una sola encuesta. No es un resultado: cada encuestadora da cifras distintas.</p></div>` : "";
   const kd = (el.keyDates || []).slice().sort((a,b) => a.date < b.date ? -1 : 1);
   const kdH = kd.length ? `<ol class="kdates">${kd.map(k => `<li class="${daysTo(k.date) < 0 ? "past" : ""}"><time datetime="${esc(k.date)}">${esc(fmtShort(k.date))}</time><span>${esc(k.text)}</span></li>`).join("")}</ol>` : "";
   const news = (e.stories || []).filter(s => threadOf(s)?.id === "elecciones-29n").sort(sortW);
   const newsH = news.length ? `<div class="e-news"><h5>La campaña hoy</h5><div class="list">${news.map(s => row(s, e.date, null, false, false)).join("")}</div></div>` : "";
   return `<section class="block elec" id="elecciones" style="--sec:var(--s-espana)"><div class="block-h"><h3>${esc(el.title || "Elecciones 29-N").replace("29-N","29&#8209;N")}</h3><span class="mono">29 de noviembre</span></div><div class="elec-grid"><div>${count}${el.status ? `<p>${esc(el.status)}</p>` : ""}${el.euskadi ? `<div class="e-eus"><b>En Euskadi</b><p style="margin-top:2px">${esc(el.euskadi)}</p></div>` : ""}${kdH}</div><div>${poll}</div></div>${full ? newsH : ""}</section>`; }
-const AG_K = {concierto:"Concierto",exposicion:"Exposición",cine:"Cine",teatro:"Teatro",plan:"Plan",deporte:"Deporte",feria:"Feria"};
-function agendaBlock(e){ const a = (e.agenda || []).filter(x => !x.date || daysTo(x.date) >= 0); if (!a.length) return "";
-  const dates = [...new Set(a.map(x => x.date || ""))].sort();
-  const item = x => `<div class="ag"><span class="ag-k">${esc(AG_K[x.kind] || "Plan")}${x.time ? `<em>${esc(x.time)}</em>` : ""}</span><div><b>${esc(x.title)}</b>${x.place ? `<div class="ag-pl">${esc(x.place)}</div>` : ""}${x.text ? `<p>${esc(x.text)}</p>` : ""}<div class="ag-m">${x.price ? `<span class="chip">${esc(x.price)}</span>` : ""}${srcLink(x.source)}</div></div></div>`;
-  return `<section class="block agenda" id="agenda" style="--sec:var(--s-cultura)"><div class="block-h"><h3>Agenda</h3><span class="mono">Bilbao y Bizkaia · 7 días</span></div><div class="ag-cols">${dates.map(d => `<div><h5>${d ? esc(daysTo(d) === 0 ? "Hoy" : daysTo(d) === 1 ? "Mañana" : fmtWk(d)) : "Estos días"}</h5>${a.filter(x => (x.date||"") === d).map(item).join("")}</div>`).join("")}</div></section>`; }
+const AG_K = {concierto:"Concierto",exposicion:"Exposición",cine:"Cine",teatro:"Teatro",plan:"Plan",deporte:"Deporte",feria:"Feria",fiesta:"Fiestas",experiencia:"Experiencia",taller:"Taller"};
+function agendaBlock(e){ let a = (e.agenda || []).filter(x => daysTo(x.until || x.date || todayISO()) >= 0); if (!a.length) return "";
+  const nCouple = a.filter(x => x.couple).length;
+  if (state.agCouple && nCouple) a = a.filter(x => x.couple);
+  const long = a.filter(x => x.until), day = a.filter(x => !x.until);
+  const dates = [...new Set(day.map(x => (x.date && daysTo(x.date) < 0) ? todayISO() : (x.date || "")))].sort();
+  const item = x => `<div class="ag"><span class="ag-k">${esc(AG_K[x.kind] || "Plan")}${x.time ? `<em>${esc(x.time)}</em>` : ""}</span><div><b>${esc(x.title)}</b>${x.place ? `<div class="ag-pl">${esc(x.place)}</div>` : ""}${x.text ? `<p>${esc(x.text)}</p>` : ""}<div class="ag-m">${x.price ? `<span class="chip">${esc(x.price)}</span>` : ""}${x.couple ? `<span class="chip duo">En pareja</span>` : ""}${x.until ? `<span>Hasta el ${esc(fmtShort(x.until))}</span>` : ""}${srcLink(x.source)}</div></div></div>`;
+  const dayKey = x => (x.date && daysTo(x.date) < 0) ? todayISO() : (x.date || "");
+  const label = d => d ? (daysTo(d) === 0 ? "Hoy" : daysTo(d) === 1 ? "Mañana" : fmtWk(d)) : "Estos días";
+  const seg = nCouple ? `<div class="seg ag-seg" role="group" aria-label="Filtrar agenda"><button data-agc="0" aria-pressed="${!state.agCouple}">Todo</button><button data-agc="1" aria-pressed="${!!state.agCouple}">En pareja<small>${nCouple}</small></button></div>` : "";
+  return `<section class="block agenda" id="agenda" style="--sec:var(--s-cultura)"><div class="block-h"><h3>Agenda</h3><span class="mono">Bilbao y alrededores · 7 días</span></div>${seg}<div class="ag-cols">${dates.map(d => `<div><h5>${esc(label(d))}</h5>${day.filter(x => dayKey(x) === d).map(item).join("")}</div>`).join("")}${long.length ? `<div><h5>Toda la semana</h5>${long.map(item).join("")}</div>` : ""}</div></section>`; }
 const JOB_K = {empleo:"Empleo",oposicion:"Oposición",ayuda:"Ayuda",formacion:"Formación"};
 function jobsBlock(e){ const j = (e.jobs || []).filter(x => !x.deadline || daysTo(x.deadline) >= 0); if (!j.length) return "";
   return `<section class="block jobs" id="empleo" style="--sec:var(--s-sociedad)"><div class="block-h"><h3>Empleo y ayudas</h3><span class="mono">${j.length} abiertas</span></div>${j.map(x => { const d = x.deadline ? daysTo(x.deadline) : null;
@@ -1054,6 +1064,7 @@ document.addEventListener("click", ev => {
 });
 document.addEventListener("input", ev => { if (ev.target.id === "q") { state.query = ev.target.value; $("#qclear").hidden = !state.query; renderHits(); } });
 document.addEventListener("submit", ev => { ev.preventDefault(); });
+document.addEventListener("click", ev => { const b = ev.target.closest("[data-agc]"); if (!b) return; state.agCouple = b.dataset.agc === "1"; const y = window.scrollY; render(); window.scrollTo(0, y); });
 document.addEventListener("click", ev => { if (ev.target.id === "qclear") { state.query = ""; const q = $("#q"); q.value = ""; q.focus(); ev.target.hidden = true; renderHits(); } });
 document.addEventListener("click", ev => { const b = ev.target.closest("#listen5"); if (b) speak(["Hoy en cinco minutos.", ...(state._ess||[])], b);
   const w = ev.target.closest("#listenW"); if (w) speak(["La semana en diez minutos.", ...(state._week||[])], w); });
