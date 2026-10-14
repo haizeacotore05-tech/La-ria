@@ -427,6 +427,9 @@ mark{background:color-mix(in oklab, var(--ria) 28%, transparent);color:inherit;b
 .job .j-how{font-size:14.5px;color:var(--muted)}
 .job .j-how b{color:var(--ink);font-weight:600}
 .chip.open{border-color:var(--up);color:var(--up)}
+.mkt-mine{background:color-mix(in oklab,var(--s-economia) 9%,transparent);border-radius:10px;padding:6px 12px 2px;margin:6px 0 10px}
+.mkt-mine h5,.mkt h5.mkt-sub{margin:4px 0 2px;font-family:var(--f-mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--s-economia)}
+.mkt-mine .mkt-row:first-child{border-top:0}
 .prac-empty{color:var(--muted);font-size:15.5px;margin:4px 0 0}
 @media (min-width:760px){.ag-cols{display:grid;grid-template-columns:1fr 1fr;column-gap:28px}}
 </style>
@@ -927,7 +930,9 @@ function marketsBox(e){
   const m = e.markets; if (!m || !(m.items||[]).length) return "";
   const fmt = c => c == null ? "" : `${c > 0 ? "▲ +" : c < 0 ? "▼ " : ""}${String(c.toFixed(2)).replace(".", ",")}%`;
   return `<div class="mkt"><div class="mkt-top"><h4>Mercados</h4><span class="mono" style="color:var(--muted)">${esc(m.asOf || "")}</span></div>
-    <div class="mkt-grid">${m.items.map(i => `<div class="mkt-row"><b>${esc(i.name)}</b><span>${esc(i.value)} ${i.change != null ? `<span class="${i.change > 0 ? "up" : i.change < 0 ? "down" : ""}">${fmt(i.change)}</span>` : `<span style="color:var(--muted)">${esc(i.note||"")}</span>`}</span></div>`).join("")}</div>
+    ${(() => { const row = i => `<div class="mkt-row"><b>${esc(i.name)}</b><span>${esc(i.value)} ${i.change != null ? `<span class="${i.change > 0 ? "up" : i.change < 0 ? "down" : ""}">${fmt(i.change)}</span>` : `<span style="color:var(--muted)">${esc(i.note||"")}</span>`}</span></div>`;
+      const mine = m.items.filter(i => i.mine); return mine.length ? `<div class="mkt-mine"><h5>Tus inversiones</h5><div class="mkt-grid">${mine.map(row).join("")}</div></div><h5 class="mkt-sub">Resto de mercados</h5>` : ""; })()}
+    <div class="mkt-grid">${m.items.filter(i => !i.mine).map(i => `<div class="mkt-row"><b>${esc(i.name)}</b><span>${esc(i.value)} ${i.change != null ? `<span class="${i.change > 0 ? "up" : i.change < 0 ? "down" : ""}">${fmt(i.change)}</span>` : `<span style="color:var(--muted)">${esc(i.note||"")}</span>`}</span></div>`).join("")}</div>
     ${m.comment ? `<p>${esc(m.comment)}</p>` : ""}${(m.sources||[]).length ? `<div class="mkt-src">Datos: ${m.sources.map(x => `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>`).join(" · ")}. Informativo, no es consejo de inversión.</div>` : ""}</div>`;
 }
 function group(list, date){

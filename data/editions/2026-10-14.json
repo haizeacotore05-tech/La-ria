@@ -1206,6 +1206,36 @@
   "comment": "El Ibex 35 cedió un 0,39 % por las dudas sobre la rentabilidad de la inteligencia artificial y el arranque de la temporada de resultados en EE UU, según Merca2; las letras del Tesoro a nueve meses rozan el 3 %.",
   "items": [
    {
+    "name": "MSCI World (cierre 9 oct)",
+    "value": "4.962,41",
+    "change": 0.63,
+    "mine": true
+   },
+   {
+    "name": "S&P 500",
+    "value": "7.805,45",
+    "change": -0.02,
+    "mine": true
+   },
+   {
+    "name": "Dow Jones",
+    "value": "51.670,10",
+    "change": -0.35,
+    "mine": true
+   },
+   {
+    "name": "Nasdaq Composite",
+    "value": "27.204,38",
+    "change": -0.15,
+    "mine": true
+   },
+   {
+    "name": "Nvidia",
+    "value": "precio sin confirmar",
+    "change": 0.97,
+    "mine": true
+   },
+   {
     "change": -0.39,
     "name": "Ibex 35",
     "note": "Abrió en 19.375,6 y acumula un +10,99 % en el año, según EFE",
@@ -1284,6 +1314,18 @@
    {
     "name": "Merca2",
     "url": "https://www.merca2.es/2026/10/13/ibex-35-hoy-cae-frenazo-ia-2472857/"
+   },
+   {
+    "name": "TheStreet - Stock Market Today (Oct. 13, 2026)",
+    "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026"
+   },
+   {
+    "name": "El CEO - BMV y Wall Street hoy, 13 de octubre de 2026",
+    "url": "https://elceo.com/mercados/bmv-ipc-wall-street-hoy-13-de-octubre-de-2026-cierre/"
+   },
+   {
+    "name": "Estrategias de Inversión - Dow Jones, S&P 500 y Nasdaq caen al cierre",
+    "url": "https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-eeuu/dow-jones-sp-500-y-nasdaq-caen-al-cierre-ante-n-959625"
    }
   ]
  },
