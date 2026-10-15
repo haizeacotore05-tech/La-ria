@@ -1,27 +1,63 @@
 {
+ "vivienda": {
+  "label": "Crisis de la vivienda",
+  "last": "2026-10-15",
+  "first": "2026-10-08",
+  "count": 28
+ },
+ "metro-bilbao": {
+  "label": "Metro de Bilbao",
+  "last": "2026-10-15",
+  "first": "2026-10-08",
+  "count": 2
+ },
+ "pnv-bizkaia": {
+  "label": "PNV de Bizkaia",
+  "last": "2026-10-15",
+  "first": "2026-10-10",
+  "count": 4
+ },
+ "elecciones-29n": {
+  "label": "Elecciones 29-N",
+  "last": "2026-10-15",
+  "first": "2026-10-08",
+  "count": 31
+ },
+ "marruecos-ceuta": {
+  "label": "Crisis de Ceuta",
+  "last": "2026-10-15",
+  "first": "2026-10-10",
+  "count": 6
+ },
+ "ucrania": {
+  "label": "Guerra de Ucrania",
+  "last": "2026-10-15",
+  "first": "2026-10-08",
+  "count": 6
+ },
+ "gaza": {
+  "label": "Guerra de Gaza",
+  "last": "2026-10-15",
+  "first": "2026-10-08",
+  "count": 3
+ },
+ "italia-meloni": {
+  "label": "Italia de Meloni",
+  "last": "2026-10-15",
+  "first": "2026-10-08",
+  "count": 6
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-10-15",
+  "first": "2026-10-08",
+  "count": 11
+ },
  "inundaciones-bilbao": {
   "label": "Inundaciones en Bilbao",
   "last": "2026-10-14",
   "first": "2026-10-08",
   "count": 3
- },
- "vivienda": {
-  "label": "Crisis de la vivienda",
-  "last": "2026-10-14",
-  "first": "2026-10-08",
-  "count": 26
- },
- "marruecos-ceuta": {
-  "label": "Crisis de Ceuta",
-  "last": "2026-10-14",
-  "first": "2026-10-10",
-  "count": 5
- },
- "elecciones-29n": {
-  "label": "Elecciones 29-N",
-  "last": "2026-10-14",
-  "first": "2026-10-08",
-  "count": 28
  },
  "tribunales-psoe": {
   "label": "Casos judiciales del PSOE",
@@ -29,35 +65,17 @@
   "first": "2026-10-08",
   "count": 6
  },
- "ucrania": {
-  "label": "Guerra de Ucrania",
-  "last": "2026-10-14",
-  "first": "2026-10-08",
-  "count": 5
- },
  "protestas-francia": {
   "label": "Protestas estudiantiles en Francia",
   "last": "2026-10-14",
   "first": "2026-10-09",
   "count": 2
  },
- "italia-meloni": {
-  "label": "Italia de Meloni",
-  "last": "2026-10-14",
-  "first": "2026-10-08",
-  "count": 4
- },
  "sanidad": {
   "label": "Sanidad",
   "last": "2026-10-14",
   "first": "2026-10-08",
   "count": 6
- },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-10-14",
-  "first": "2026-10-08",
-  "count": 10
  },
  "tubos-reunidos": {
   "label": "Tubos Reunidos",
@@ -71,12 +89,6 @@
   "first": "2026-10-08",
   "count": 5
  },
- "pnv-bizkaia": {
-  "label": "PNV de Bizkaia",
-  "last": "2026-10-12",
-  "first": "2026-10-10",
-  "count": 3
- },
  "guerra-iran": {
   "label": "Guerra de Irán",
   "last": "2026-10-12",
@@ -87,12 +99,6 @@
   "label": "Francia en crisis",
   "last": "2026-10-12",
   "first": "2026-10-12",
-  "count": 2
- },
- "gaza": {
-  "label": "Guerra de Gaza",
-  "last": "2026-10-12",
-  "first": "2026-10-08",
   "count": 2
  },
  "eeuu-midterms": {
@@ -111,12 +117,6 @@
   "label": "Juicio a Maduro",
   "last": "2026-10-09",
   "first": "2026-10-09",
-  "count": 1
- },
- "metro-bilbao": {
-  "label": "Metro de Bilbao",
-  "last": "2026-10-08",
-  "first": "2026-10-08",
   "count": 1
  },
  "volotea": {
