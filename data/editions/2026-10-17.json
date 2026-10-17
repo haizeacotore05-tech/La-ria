@@ -1,0 +1,2746 @@
+{
+ "date": "2026-10-17",
+ "number": 10,
+ "generatedAt": "2026-10-17T08:30:00+02:00",
+ "summary": "Llueve en Bilbao el día del Athletic en Mestalla, la izquierda cierra coaliciones para el 29-N y Wall Street cae por las dudas sobre la deuda de la inteligencia artificial.",
+ "essentials": [
+  {
+   "story": "2026-10-17-athletic-valencia-hoy-mestalla-21h",
+   "text": "Hoy a las 21:00 el Athletic juega en Mestalla con Nico Williams disponible y sin Sancet; en Bilbao llueve, buen plan de bar."
+  },
+  {
+   "story": "2026-10-17-tiempo-bilbao-sabado-lluvia",
+   "text": "Lluvia hoy en Bilbao (90 %, máxima de 18 grados); el domingo mejora con nubes y claros y 17 grados."
+  },
+  {
+   "story": "2026-10-17-guggenheim-gratis-29-aniversario",
+   "text": "El Guggenheim es gratis hoy y mañana, pero las reservas están agotadas: solo hay entradas en taquilla hasta completar aforo."
+  },
+  {
+   "story": "2026-10-17-izquierda-cierra-coaliciones-senado-progreso",
+   "text": "PSOE y Frente Amplio irán juntos al Senado en 46 provincias; Podemos no pactó con el Frente Amplio salvo en Canarias y la Comunitat Valenciana."
+  },
+  {
+   "story": "2026-10-17-ope-gobierno-vasco-367-plazas",
+   "text": "Nueva OPE del Gobierno Vasco de 367 plazas, con plazo hasta el 10 de noviembre; confirma en las bases si basta la ESO."
+  },
+  {
+   "story": "2026-10-17-wall-street-viernes-nasdaq-ia-nvidia",
+   "text": "Wall Street cayó el viernes: el Nasdaq pierde un 4,5 % en la semana y Nvidia baja un 1,43 % hasta 214,14 dólares."
+  },
+  {
+   "story": "2026-10-17-ucrania-drones-moscu-patriot-zelenski",
+   "text": "Drones ucranianos paralizan por horas los aeropuertos de Moscú y Rusia golpea nueve regiones; Kiev se queda sin misiles Patriot."
+  },
+  {
+   "story": "2026-10-17-italia-camioneros-gasolineras-vacias",
+   "text": "En el sur de Italia faltan carburantes por la protesta de los camioneros; el Gobierno los recibe el 27 de octubre."
+  }
+ ],
+ "weather": {
+  "place": "Bilbao",
+  "days": [
+   {
+    "date": "2026-10-17",
+    "sky": "rain-light",
+    "text": "Lluvia débil",
+    "max": 18,
+    "min": 14,
+    "rain": 90
+   },
+   {
+    "date": "2026-10-18",
+    "sky": "partly",
+    "text": "Parcialmente nuboso",
+    "max": 17,
+    "min": 11
+   },
+   {
+    "date": "2026-10-19",
+    "sky": "partly",
+    "text": "Nubes y claros",
+    "max": 17,
+    "min": 8
+   },
+   {
+    "date": "2026-10-20",
+    "sky": "rain-light",
+    "text": "Lluvia débil",
+    "max": 19,
+    "min": 6,
+    "rain": 50
+   }
+  ],
+  "source": {
+   "name": "Meteored",
+   "url": "https://www.tiempo.com/bilbao.htm"
+  }
+ },
+ "markets": {
+  "asOf": "Cierre del viernes 16 de octubre",
+  "items": [
+   {
+    "name": "MSCI World (cierre 15 oct)",
+    "value": "4.932,95",
+    "change": 0.34,
+    "mine": true,
+    "note": "Último nivel hallado (abcbourse, 15 oct); página sin volumen, dato provisional. El cierre del 16 oct no estaba publicado"
+   },
+   {
+    "name": "S&P 500",
+    "value": "7.659",
+    "change": -1.09,
+    "mine": true,
+    "note": "Infobae (EFE) y Estrategias de Inversión"
+   },
+   {
+    "name": "Nvidia",
+    "value": "214,14 $",
+    "change": -1.43,
+    "mine": true,
+    "note": "Estrategias de Inversión; variación coincide con la de Infobae"
+   },
+   {
+    "name": "Nasdaq 100",
+    "value": "26.140",
+    "change": -2.14,
+    "mine": true,
+    "note": "Estrategias de Inversión; Infobae da -2,15 % para el Nasdaq. Semana: -4,5 %"
+   },
+   {
+    "name": "Dow Jones",
+    "value": "52.002",
+    "change": -0.34,
+    "mine": true,
+    "note": "Infobae (EFE) y Estrategias de Inversión"
+   },
+   {
+    "name": "Ibex 35",
+    "value": "19.326,3",
+    "change": 0.77,
+    "note": "Estrategias de Inversión; máximo histórico 20.213,6 (11 ago)"
+   },
+   {
+    "name": "Iberdrola",
+    "value": "precio sin confirmar",
+    "change": null,
+    "note": "No se halló un cierre fiable del 16 oct"
+   },
+   {
+    "name": "BBVA",
+    "value": "23,18 €",
+    "change": 0.83,
+    "note": "Tabla de bancos de Estrategias de Inversión, datos del 16 oct"
+   },
+   {
+    "name": "Santander",
+    "value": "12,03 €",
+    "change": 0.3,
+    "note": "Tabla de bancos de Estrategias de Inversión, datos del 16 oct"
+   },
+   {
+    "name": "Repsol",
+    "value": "precio sin confirmar",
+    "change": null,
+    "note": "No se halló un cierre fiable del 16 oct"
+   },
+   {
+    "name": "Sabadell",
+    "value": "3,62 €",
+    "change": 2.06,
+    "note": "Tabla de bancos de Estrategias de Inversión, datos del 16 oct"
+   },
+   {
+    "name": "Inditex",
+    "value": "precio sin confirmar",
+    "change": null,
+    "note": "No se halló un cierre fiable del 16 oct"
+   },
+   {
+    "name": "Euro/dólar",
+    "value": "1,1239",
+    "change": null,
+    "note": "Cotización de Estrategias de Inversión a las 6:00 del sábado 17 oct"
+   },
+   {
+    "name": "WTI",
+    "value": "101,41 $",
+    "change": 3.51,
+    "note": "Cierre del 16 oct, según Infobae (EFE)"
+   },
+   {
+    "name": "Brent",
+    "value": "105,42 $",
+    "change": -0.47,
+    "note": "Cotización de las 9:20 del 16 oct; cierre sin confirmar"
+   },
+   {
+    "name": "Euríbor 12 meses",
+    "value": "3,217 %",
+    "change": null,
+    "note": "Dato del 15 oct (publicado el 16 oct), +0,016 puntos; Rankia"
+   }
+  ],
+  "comment": "Wall Street cerró el viernes a la baja por el miedo a la deuda y el gasto en inteligencia artificial: el S&P 500 cayó un 1,09 %, el Nasdaq un 4,5 % en la semana y Nvidia un 1,43 %; el MSCI World no tenía aún cierre del 16 oct (el último dato hallado es del 15 oct, +0,34 %). El Ibex 35 subió un 0,77 % hasta 19.326 puntos. Es información, no consejo de inversión.",
+  "sources": [
+   {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/america/agencias/2026/10/16/wall-street-cae-lastrado-por-el-nasdaq-que-pierde-un-45-en-la-semana/"
+   },
+   {
+    "name": "Estrategias de Inversión · Wall Street",
+    "url": "https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-eeuu/dow-jones-sp-500-y-nasdaq-caen-al-cierre-ante-n-960973"
+   },
+   {
+    "name": "Estrategias de Inversión · Ibex 35",
+    "url": "https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-espana/el-ibex-35-cierra-la-semana-por-todo-lo-alto-tenido-n-960945"
+   },
+   {
+    "name": "Estrategias de Inversión · Bancos",
+    "url": "https://www.estrategiasdeinversion.com/cotizaciones/bancos-espanoles-en-bolsa"
+   },
+   {
+    "name": "abcbourse · MSCI World",
+    "url": "https://www.abcbourse.com/cotation/MSWRDu"
+   },
+   {
+    "name": "Rankia · Euríbor",
+    "url": "https://www.rankia.com/blog/mejores-hipotecas/7513740-euribor-hoy-16-octubre-2026"
+   }
+  ]
+ },
+ "alerts": [
+  {
+   "kind": "cortes",
+   "title": "Cortes de tráfico por la Night Running Fest",
+   "text": "Puentes de Deusto, Euskalduna, Arenal y Ayuntamiento cerrados de 17:30 a 23:00; cortes en el Casco Viejo y Bilbobus desviado. La Merced sigue abierto.",
+   "when": "Hoy, 17 oct",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bilbao/cortes-trafico-bilbao-night-running-fest-2026-calles"
+   }
+  },
+  {
+   "kind": "transporte",
+   "title": "Metro L1 hacia Etxebarri sale unos minutos antes",
+   "text": "Obras de vía entre Gobela, Neguri y Aiboa (1.761 traviesas): los trenes hacia Etxebarri salen antes; las frecuencias no cambian.",
+   "when": "Hasta el 17 dic",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/metro-bilbao-adelanta-salida-trenes-linea-1-etxebarri"
+   }
+  },
+  {
+   "kind": "huelga",
+   "title": "Huelga en Osakidetza el 30 de octubre",
+   "text": "SATSE, ELA, LAB, CCOO y UGT convocan paro en toda Osakidetza ese día. Habrá otras jornadas: 10 de diciembre en Bizkaia y 14 de diciembre en toda la red.",
+   "when": "30 oct",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/economia/2026/09/10/sindicatos-osakidetza-convocan-cinco-jornadas-huelga-octubre-diciembre/"
+   }
+  },
+  {
+   "kind": "obras",
+   "title": "Cierre del túnel de Artxanda La Salve-Txorierri",
+   "text": "Cinco meses de cierre por una rehabilitación de más de 20,6 millones. Cambian las líneas de Bizkaibus 3247 (aeropuerto), 3414, 2321, 2610 y 2611.",
+   "when": "Desde el 2 nov",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/15/estas-son-las-lineas-afectadas-bizkaibus-el-cierre-del-tramo-la-salvetxorierri-los-tuneles-artxanda/"
+   }
+  },
+  {
+   "kind": "huelga",
+   "title": "Huelga general el 11 de noviembre",
+   "text": "UGT, CCOO, CGT y sindicatos de inquilinas convocan paro de 24 horas; ELA, LAB y ESK se han sumado. Reclaman salarios y vivienda. Servicios mínimos: sin concretar.",
+   "when": "11 nov",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/economia/2026/10/07/ela-lab-esk-tambien-iran-huelga-general-11-noviembre/"
+   }
+  }
+ ],
+ "agenda": [
+  {
+   "date": "2026-10-17",
+   "time": "09:30",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Basauri): exposición de productos del caserío",
+   "place": "Calle Uribarri, Basauri",
+   "text": "Muestra agrícola con productos de baserri de la zona, para curiosear y probar sabores de aquí por la mañana.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Onda Vasca - San Faustos de Basauri 2026 (programa)",
+    "url": "https://www.ondavasca.com/fiesta-de-basauri-san-faustos-2026-del-10-al-18-de-octubre/"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "until": "2027-02-21",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "Steve McQueen: 66–76–26",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Gran exposición del artista y cineasta Steve McQueen, abierta desde el 9 de octubre; plan seguro para cualquier día de lluvia. Abre de martes a domingo.",
+   "price": "12 €; estudiantes de 18 a 26 años: 6 €",
+   "couple": true,
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://pro.guggenheim-bilbao.eus/fr/expositions"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "until": "2027-01-17",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "Ever is Over All. Pipilotti Rist",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Instalaciones de vídeo muy coloridas de Pipilotti Rist, abiertas desde el 1 de octubre, para pasar una tarde bajo techo.",
+   "price": "12 €; estudiantes de 18 a 26 años: 6 €",
+   "couple": true,
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://pro.guggenheim-bilbao.eus/fr/expositions"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "until": "2026-11-01",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "in situ: Igshaan Adams. Levantando el polvo",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Últimos días para ver al artista sudafricano Igshaan Adams y su archivo del cuerpo, entre tejido, memoria y polvo.",
+   "price": "12 €; estudiantes de 18 a 26 años: 6 €",
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://pro.guggenheim-bilbao.eus/fr/expositions"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "until": "2026-10-26",
+   "time": "10:00-20:00",
+   "kind": "plan",
+   "title": "Puente Bizkaia: paseo por la pasarela alta",
+   "place": "Puente Bizkaia, Portugalete/Getxo",
+   "text": "Cruzar a pie el puente colgante más antiguo del mundo, Patrimonio Mundial. Última entrada 20 minutos antes del cierre; el horario depende del tiempo.",
+   "price": "11 €; estudiantes y mayores de 65: 9 €",
+   "couple": true,
+   "source": {
+    "name": "Puente Bizkaia - Tarifas y horarios",
+    "url": "https://puente-colgante.com/tarifas-y-horarios"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "until": "2026-10-18",
+   "time": "10:00-19:00",
+   "kind": "plan",
+   "title": "Guggenheim Bilbao gratis por su 29.º aniversario",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Entrada libre sábado y domingo hasta completar aforo; reservas previas agotadas, solo taquilla. Con las exposiciones de McQueen y Pipilotti Rist.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/cultura/arte/2026/10/16/la-entrada-gugenheim-sera-gratuita-el-sabado-el-domingo/"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "12:00",
+   "kind": "teatro",
+   "title": "BAD Bilbao: «Parkuir»",
+   "place": "La Fundición, Bilbao",
+   "text": "Pieza de danza de Maria Laudes González y Guiu Gimeno Bardis, con entrada libre y bajo techo.",
+   "price": "Gratis",
+   "source": {
+    "name": "Kulturklik (programa BAD Bilbao)",
+    "url": "https://www.kulturklik.euskadi.eus/noticia/2026/10/13/el-festival-de-teatro-y-danza-contemporanea-de-bilbao-bad-ofrece-entre-el-15-y-el-25-de-octubre-17-citas-con-las-artes-escenicas/webkklik00-detalle/es/"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "12:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Severino (Balmaseda): campeonato de rana",
+   "place": "Balmaseda",
+   "text": "Juego popular de puntería con fichas, típico de las fiestas del interior de Bizkaia, para participar o mirar.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de San Severino (Balmaseda)",
+    "url": "https://blog.euskaltel.com/concurso-puxteras-balmaseda/"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "12:30",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Basauri): exhibición de herri kirolak",
+   "place": "Mojaparte, Basauri",
+   "text": "Deporte rural vasco (levantamiento de piedra, corte de troncos y similares) a pie de calle.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Onda Vasca - San Faustos de Basauri 2026 (programa)",
+    "url": "https://www.ondavasca.com/fiesta-de-basauri-san-faustos-2026-del-10-al-18-de-octubre/"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "until": "2026-10-18",
+   "time": "18:00",
+   "kind": "teatro",
+   "title": "Arriagaren aterkia (también domingo 18 a las 12:00)",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Concierto dramatizado en euskera con la Sociedad Coral de Bilbao, apto para toda la familia; dura 60 minutos.",
+   "price": "11-21 €; cupo joven: 5 €",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/arriagaren-aterkia/?lang=en"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "18:30",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Durango): desfile de disfraces",
+   "place": "De Madalena al Pórtico de Santa María, Durango",
+   "text": "Día de los Disfraces: desfile por el centro al que puede unirse cualquiera con disfraz.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de Durango (programa San Fausto)",
+    "url": "https://blog.euskaltel.com/fiestas-durango/"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "until": "2026-10-17",
+   "time": "19:00",
+   "kind": "teatro",
+   "title": "Una madre de película (también sábado 17 a las 19:00)",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Comedia sobre madres e hijos para reír en pareja o en familia; segunda función el sábado, buena opción con lluvia.",
+   "price": "Desde 15,30 € (sáb. 17: desde 18 €)",
+   "source": {
+    "name": "Taquilla.com (teatro en Bilbao)",
+    "url": "https://www.taquilla.com/espectaculos/teatro/bilbao"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "19:00",
+   "kind": "deporte",
+   "title": "Bilbao Night Run Fest: medio maratón nocturno",
+   "place": "San Mamés – Guggenheim, Bilbao",
+   "text": "Medio maratón de 21,097 km y Carrera Pirata de 10 km por Gran Vía, Casco Viejo y Zubizuri; se anima desde la calle.",
+   "price": "Consulta la tarifa en su web",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bilbao/bilbao-night-run-fest-2026-recorrido-dorsales-horario"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "20:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Durango): romería con Luhartz",
+   "place": "Pórtico de Santa María, Durango",
+   "text": "Baile popular de romería en la noche de los disfraces, con gente de todas las edades.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de Durango (programa San Fausto)",
+    "url": "https://blog.euskaltel.com/fiestas-durango/"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "20:30",
+   "kind": "concierto",
+   "title": "Pat Todd & The Rankoutsiders",
+   "place": "Sala Nave 9, Bilbao",
+   "text": "Rock and roll directo y sin adornos para una noche de sábado ruidosa y a cubierto.",
+   "price": "Desde 15 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/pat-todd-the-rankoutsiders-bilbao-1017725"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "21:00",
+   "kind": "teatro",
+   "title": "BAD Bilbao: «Cat CareCalling»",
+   "place": "La Fundición, Bilbao",
+   "text": "Pieza de Menchetti-Ranieri, dúo italiano, en el ciclo de artes escénicas contemporáneas; entradas a 10 €.",
+   "price": "10 €",
+   "couple": true,
+   "source": {
+    "name": "Kulturklik (programa BAD Bilbao)",
+    "url": "https://www.kulturklik.euskadi.eus/noticia/2026/10/13/el-festival-de-teatro-y-danza-contemporanea-de-bilbao-bad-ofrece-entre-el-15-y-el-25-de-octubre-17-citas-con-las-artes-escenicas/webkklik00-detalle/es/"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "21:30",
+   "kind": "concierto",
+   "title": "Levitants",
+   "place": "Sala Azkena, Bilbao",
+   "text": "Concierto de sábado noche en la Sala Azkena, bajo techo y en pleno centro.",
+   "price": "Desde 17,60 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/levitants-bilbao-1016131"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "22:30",
+   "kind": "fiesta",
+   "title": "Fiestas de San Severino (Balmaseda): concierto de Iseo & Dodosound",
+   "place": "Balmaseda",
+   "text": "Concierto de la noche del sábado en las fiestas de la villa más antigua de Bizkaia, seguido de romería.",
+   "price": "Gratis",
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de San Severino (Balmaseda)",
+    "url": "https://blog.euskaltel.com/concurso-puxteras-balmaseda/"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "time": "23:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Basauri): concierto de Benito Kamelas",
+   "place": "Plaza Arizgoiti, Basauri",
+   "text": "Concierto de la noche grande del sábado en la plaza principal de las fiestas.",
+   "price": "Gratis",
+   "source": {
+    "name": "Onda Vasca - San Faustos de Basauri 2026 (programa)",
+    "url": "https://www.ondavasca.com/fiesta-de-basauri-san-faustos-2026-del-10-al-18-de-octubre/"
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "time": "09:30",
+   "kind": "feria",
+   "title": "Fiestas de San Fausto (Basauri): feria de artesanía",
+   "place": "Calle Uribarri, Basauri",
+   "text": "Feria de artesanía de la 46ª edición, con puestos en la calle el último domingo de fiestas.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Onda Vasca - San Faustos de Basauri 2026 (programa)",
+    "url": "https://www.ondavasca.com/fiesta-de-basauri-san-faustos-2026-del-10-al-18-de-octubre/"
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "until": "2026-10-25",
+   "time": "10:00-19:00",
+   "kind": "plan",
+   "title": "San Juan de Gaztelugatxe: subida a la ermita",
+   "place": "Gaztelugatxe, Bermeo",
+   "text": "Subida a pie a la ermita sobre el mar, icono de la costa vasca. Reserva gratuita online en días de acceso controlado; con alerta meteorológica se desaconseja subir.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Diputación Foral de Bizkaia - Gaztelugatxe",
+    "url": "https://www.bizkaia.eus/es/Gaztelugatxe"
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "time": "12:30",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Durango): herri kirolak",
+   "place": "Ezkurdi, Durango",
+   "text": "Exhibición de deporte rural vasco, buen plan para enseñar esta tradición a alguien de fuera.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de Durango (programa San Fausto)",
+    "url": "https://blog.euskaltel.com/fiestas-durango/"
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "time": "20:00",
+   "kind": "concierto",
+   "title": "Hällas",
+   "place": "Kafe Antzokia, Bilbao",
+   "text": "Rock progresivo y psicodélico sueco en el Kafe Antzokia, con Komodor de telonero.",
+   "price": "Desde 28 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/hallas-bilbao-1016937"
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "time": "20:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Fausto (Durango): fin de fiestas con fuegos artificiales",
+   "place": "Antiguas cocheras del tren, Durango",
+   "text": "Despedida de Patxikotxu y cierre de las fiestas con fuegos artificiales.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de Durango (programa San Fausto)",
+    "url": "https://blog.euskaltel.com/fiestas-durango/"
+   }
+  },
+  {
+   "date": "2026-10-19",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "BAD Bilbao: «Zorra dorada» (Elisa Forcano)",
+   "place": "Harrobia, Bilbao",
+   "text": "Función de lunes del festival BAD, una forma distinta de empezar la semana.",
+   "price": "10 €",
+   "source": {
+    "name": "Kulturklik (programa BAD Bilbao)",
+    "url": "https://www.kulturklik.euskadi.eus/noticia/2026/10/13/el-festival-de-teatro-y-danza-contemporanea-de-bilbao-bad-ofrece-entre-el-15-y-el-25-de-octubre-17-citas-con-las-artes-escenicas/webkklik00-detalle/es/"
+   }
+  },
+  {
+   "date": "2026-10-20",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "BAD Bilbao: «La primera en morir» (Perpetûa Vastarda)",
+   "place": "La Fundición, Bilbao",
+   "text": "Propuesta de artes escénicas contemporáneas dentro del ciclo más arriesgado de la ciudad.",
+   "price": "10 €",
+   "source": {
+    "name": "Kulturklik (programa BAD Bilbao)",
+    "url": "https://www.kulturklik.euskadi.eus/noticia/2026/10/13/el-festival-de-teatro-y-danza-contemporanea-de-bilbao-bad-ofrece-entre-el-15-y-el-25-de-octubre-17-citas-con-las-artes-escenicas/webkklik00-detalle/es/"
+   }
+  },
+  {
+   "date": "2026-10-22",
+   "time": "20:00",
+   "kind": "teatro",
+   "title": "La máquina del tiempo",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Función de jueves en el Campos Elíseos, buena excusa para salir entre semana.",
+   "price": "Desde 16,20 €",
+   "source": {
+    "name": "Taquilla.com (teatro en Bilbao)",
+    "url": "https://www.taquilla.com/espectaculos/teatro/bilbao"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "time": "09:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Severino (Balmaseda): Concurso Internacional de Putxeras",
+   "place": "Plaza San Severino, Balmaseda",
+   "text": "Cuadrillas cocinan la putxera (cocido encartado) desde primera hora; premios a las 14:30. Muchos bares ofrecen menú especial.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de San Severino (Balmaseda)",
+    "url": "https://blog.euskaltel.com/concurso-puxteras-balmaseda/"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "time": "19:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Severino (Balmaseda): dantza plaza",
+   "place": "Balmaseda",
+   "text": "Baile vasco en la plaza tras la jornada del concurso de putxeras.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de San Severino (Balmaseda)",
+    "url": "https://blog.euskaltel.com/concurso-puxteras-balmaseda/"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "until": "2026-10-24",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "Una historia de Bilbao (también sáb. 24 a las 19:00)",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Comedia nostálgica sobre una familia vasca a lo largo de cien años, con dos actores en escena y música en directo.",
+   "price": "18 €; descuentos y cupo joven: 5 €",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/una-historia-de-bilbao/?lang=en"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "time": "20:00",
+   "kind": "concierto",
+   "title": "Funzo",
+   "place": "Sala Santana 27, Bilbao",
+   "text": "Pop urbano y pop rock en directo para abrir el fin de semana.",
+   "price": "Desde 26 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/funzo-bilbao-1015943"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "time": "21:00",
+   "kind": "concierto",
+   "title": "Leo Rizzi",
+   "place": "Sala Stage Live, Bilbao",
+   "text": "Pop rock con aire de soul y rhythm and blues junto a la ría.",
+   "price": "Desde 30,90 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/leo-rizzi-bilbao-1016780"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "13:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Severino (Balmaseda): bertso poteoa y Banda Azkoaga",
+   "place": "Balmaseda",
+   "text": "Bertsos de bar en bar y concierto de la banda local, ambiente popular de mediodía.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de San Severino (Balmaseda)",
+    "url": "https://blog.euskaltel.com/concurso-puxteras-balmaseda/"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "19:00",
+   "kind": "concierto",
+   "title": "Candlelight: Las Cuatro Estaciones de Vivaldi",
+   "place": "Iglesia de la Encarnación, Bilbao",
+   "text": "Vivaldi a la luz de las velas en una iglesia del Casco Viejo; plan romántico y muy italiano.",
+   "price": "17-35 €",
+   "couple": true,
+   "source": {
+    "name": "Conciertos.club",
+    "url": "https://conciertos.club/bilbao-bizkaia/conciertos/114945-las-cuatro-estaciones-de-vivaldi-candlelight"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "20:30",
+   "kind": "concierto",
+   "title": "4Copola + Neriva + Sevicia",
+   "place": "Sala Groove, Portugalete",
+   "text": "Noche de música en directo en Portugalete, con tres grupos por poco dinero.",
+   "price": "Desde 10 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/4copola-neriva-sevicia-portugalete-1017569"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "21:00",
+   "kind": "concierto",
+   "title": "Hijos De La Ruina",
+   "place": "Bilbao Arena Miribilla, Bilbao",
+   "text": "Concierto de rap y urbano en el pabellón de Miribilla, la cita más grande del sábado 24.",
+   "price": "Desde 55 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/hijos-de-la-ruina-bilbao-1011214"
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "time": "12:30",
+   "kind": "experiencia",
+   "title": "BAD Bilbao: «Fiestas Invisibles»",
+   "place": "Bilborock, Bilbao",
+   "text": "Cierre del festival BAD con una propuesta de Paloma Calle y Massimiliano Casu, de entrada libre.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Kulturklik (programa BAD Bilbao)",
+    "url": "https://www.kulturklik.euskadi.eus/noticia/2026/10/13/el-festival-de-teatro-y-danza-contemporanea-de-bilbao-bad-ofrece-entre-el-15-y-el-25-de-octubre-17-citas-con-las-artes-escenicas/webkklik00-detalle/es/"
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "time": "13:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Severino (Balmaseda): herri kirolak",
+   "place": "Balmaseda",
+   "text": "Exhibición de deporte rural vasco al cierre del fin de semana de fiestas.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de San Severino (Balmaseda)",
+    "url": "https://blog.euskaltel.com/concurso-puxteras-balmaseda/"
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "time": "14:00",
+   "kind": "deporte",
+   "title": "Athletic Club – Getafe CF (LaLiga)",
+   "place": "San Mamés, Bilbao",
+   "text": "Partido de liga en casa del Athletic, ambiente de fútbol en directo para enseñar el fenómeno rojiblanco.",
+   "price": "Consulta la tarifa en su web",
+   "couple": true,
+   "source": {
+    "name": "LaLiga - próximos partidos del Athletic",
+    "url": "https://www.laliga.com/clubes/athletic-club/proximos-partidos"
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "time": "18:30",
+   "kind": "teatro",
+   "title": "El lago de los cisnes, por el Ballet de Kiev",
+   "place": "Palacio Euskalduna, Bilbao",
+   "text": "Clásico del ballet en el Euskalduna, plan especial de domingo en pareja.",
+   "price": "Desde 38 €",
+   "couple": true,
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/entradas/ballet-de-kiev"
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "time": "19:00",
+   "kind": "concierto",
+   "title": "Salvador Sobral: «A flor do recomeço»",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "El cantante portugués presenta su nuevo disco, con giro brasileño, en el Arriaga.",
+   "price": "22-42 €",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/salvador-sobral/?lang=en"
+   }
+  }
+ ],
+ "jobs": [
+  {
+   "deadline": "2026-10-19",
+   "how": "Solicitud electrónica en el Portal del Empleo Público del Gobierno Vasco; el plazo termina el 19 de octubre incluido (quedan 2 días).",
+   "kind": "oposicion",
+   "org": "Gobierno Vasco · Departamento de Educación",
+   "requirements": [
+    "Titulación exigida: no consta en las fuentes consultadas; confirmar en las bases (Orden de 21-07-2026)",
+    "Tasa de 8,18 €, pagada por la pasarela de la sede electrónica antes de que acabe el plazo",
+    "Inscripción telemática en el Portal del Empleo Público",
+    "Euskera: confirmar en las bases"
+   ],
+   "source": {
+    "name": "BOPV nº 166 (1-09-2026) · Orden de 21-07-2026 (vía Red Opositor)",
+    "url": "https://www.euskadi.eus/y22-bopv/es/bopv2/datos/2026/09/2603750a.shtml"
+   },
+   "status": "abierta",
+   "text": "55 plazas de personal laboral fijo en centros docentes públicos: 25 de cocinero/a y 30 de limpieza. Concurso-oposición con test de 20 preguntas; exámenes previstos en enero o febrero de 2027.",
+   "title": "Cocina y Limpieza · Educación (Gobierno Vasco)"
+  },
+  {
+   "deadline": "2026-11-02",
+   "how": "Instancia según las bases; plazo de 20 días hábiles desde el BOE del 2-10-2026 (fecha de cierre calculada, confírmala).",
+   "kind": "oposicion",
+   "org": "Ayuntamiento de Getxo – Getxo Kirolak (OAL)",
+   "requirements": [
+    "Graduado Escolar, FP1 o equivalente (o poder obtenerlo al acabar el plazo)",
+    "Perfil lingüístico 2 (B2) preceptivo; se puede acreditar en pruebas del propio proceso si lo indicas en la solicitud",
+    "Bases en BOB nº 143 (29-07-2026) y BOE del 2-10-2026",
+    "Tasa y nacionalidad: confirmar en las bases"
+   ],
+   "source": {
+    "name": "BOE-A-2026-20500 · Resolución de 28-09-2026, Getxo Kirolak",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20500"
+   },
+   "status": "abierta",
+   "text": "3 plazas de auxiliar administrativo/a, personal laboral fijo (C2), concurso-oposición, turno libre. Convocatoria en el BOE del 2-10-2026. La fecha de examen aún no consta.",
+   "title": "Auxiliar Administrativo/a · Getxo Kirolak"
+  },
+  {
+   "kind": "oposicion",
+   "status": "abierta",
+   "title": "OPE Administración General · Gobierno Vasco (367 plazas)",
+   "org": "Gobierno Vasco",
+   "text": "367 plazas de funcionarios en el Plan Eki: 86 de Administración, 85 Jurídica, 49 Economía y Empresa, 48 Gestión Administrativa y otras escalas; 12 reservadas a discapacidad.",
+   "requirements": [
+    "Titulación: no consta en la fuente; las escalas A1/A2 (Industrial, Edificación) piden título universitario",
+    "Administración y Gestión Administrativa: confirmar en las bases si basta la ESO",
+    "Euskera y fechas de examen: pendientes de las bases",
+    "Tasa: confirmar en las bases"
+   ],
+   "deadline": "2026-11-10",
+   "how": "Inscripción por internet en euskadi.eus hasta el 10 de noviembre de 2026 a las 14:00.",
+   "source": {
+    "name": "Orain · Nueva OPE de 367 plazas",
+    "url": "https://orain.eus/es/actualidad/economia/2026/10/16/nueva-ope-funcionarios-la-administracion-general-vasca-367-plazas/"
+   }
+  },
+  {
+   "how": "Plazo cerrado el 16-09-2026. Vigila listas de admitidas y fecha de examen en la sede de empleo público de euskadi.eus.",
+   "kind": "oposicion",
+   "org": "Gobierno Vasco (Administración General)",
+   "requirements": [
+    "No se exige titulación; la ESO suma 7,20 puntos de mérito",
+    "Euskera: 107 plazas generales exigen PL1; 5 sin perfil",
+    "Tasa 8,18 €",
+    "Oposición (30 temas, hasta 100 puntos) más concurso (hasta 45)"
+   ],
+   "source": {
+    "name": "BOPV · Orden de 30-07-2026, Agrupación Profesional de Personal de Apoyo",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/08/2603653a.shtml"
+   },
+   "status": "en-curso",
+   "text": "117 plazas turno libre (112 generales, 5 discapacidad), concurso-oposición, sin titulación exigida. Funciones de apoyo: recepción, correspondencia, almacén. Primera prueba prevista en enero de 2027.",
+   "title": "Personal de Apoyo · Gobierno Vasco"
+  },
+  {
+   "kind": "oposicion",
+   "status": "en-curso",
+   "title": "Celador/a y Operario/a de servicios · Osakidetza",
+   "org": "Osakidetza",
+   "text": "OPE de subalternos: 376 plazas de celador/a según una academia. Plazo cerrado el 22-04-2026; examen el 20 de junio en el BEC de Barakaldo. Faltan plantilla definitiva y resultados.",
+   "requirements": [
+    "Certificación de años cursados: ESO o equivalente",
+    "Euskera no obligatorio para celador/a; puntúa como mérito en el concurso",
+    "7 % de destinos reservado a discapacidad",
+    "Resolución 468/2026, BOPV nº 54 (20-03-2026)"
+   ],
+   "how": "Plazo cerrado. Sigue plantillas, notas y la fase de concurso en la web de la OPE de Osakidetza.",
+   "source": {
+    "name": "BOPV · Resolución 468/2026 de Osakidetza (subalternos)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/03/2601239a.shtml"
+   }
+  },
+  {
+   "how": "Plazo cerrado. Vigila la web de OPE de Osakidetza: una academia habla de una segunda fase desde octubre (sin confirmar).",
+   "kind": "oposicion",
+   "org": "Osakidetza",
+   "requirements": [
+    "Titulación: Técnico/a en Gestión Administrativa \"o equivalente\" (Anexo I Decreto 186/2005); la ESO no se cita expresamente: confirma la equivalencia",
+    "Informática acreditada en KZgunea: Word avanzado y Excel básico",
+    "Tasa de 15 € (grupo C2)",
+    "Euskera no es requisito de acceso: PL2 suma 18 puntos y PL1 9 como mérito"
+   ],
+   "source": {
+    "name": "BOPV · Resolución 467/2026 de Osakidetza (BOPV 20-03-2026)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/03/2601238a.shtml"
+   },
+   "status": "en-curso",
+   "text": "708 plazas de turno libre (658 generales, 50 discapacidad) y 48 de promoción interna. Plazo cerrado el 22-04-2026; examen tipo test celebrado del 19 al 21 de junio. Próxima OPE sin fecha.",
+   "title": "OPE Osakidetza · Auxiliar Administrativo/a 2023-25"
+  },
+  {
+   "how": "Cuando se publique en el BOE, inscripción telemática en el plazo que fije la convocatoria; vigila el BOE.",
+   "kind": "oposicion",
+   "org": "Administración General del Estado (Función Pública / INAP)",
+   "requirements": [
+    "ESO, Graduado Escolar, FP1 o equivalente (grupo C2, como en la convocatoria anterior)",
+    "Nacionalidad y edad: según el EBEP; confirmar en las bases",
+    "Tasa de la anterior: 11,66 € (turno libre); la nueva, pendiente",
+    "Plazas, plazo y fechas: pendientes de la convocatoria"
+   ],
+   "source": {
+    "name": "INAP · Oferta de empleo público 2026",
+    "url": "https://laadministracionaldia.inap.es/noticia.asp?id=1265646"
+   },
+   "status": "proxima",
+   "text": "La convocatoria anterior (1.700 plazas, examen el 23-05-2026) ya está resuelta. La OEP 2026 (RD 387/2026) refuerza el cuerpo, pero su convocatoria aún no consta en el BOE.",
+   "title": "Auxiliar Administrativo del Estado (OEP 2026)"
+  },
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "OPE 2026 · Diputación Foral de Bizkaia",
+   "org": "Diputación Foral de Bizkaia",
+   "text": "OPE anunciada en mayo con 69 plazas: 34 administrativos, 19 trabajo social, 5 auxiliares de bibliotecas y 5 de servicios múltiples. Bases y plazos, pendientes en el BOB; prevén una segunda OPE este año.",
+   "requirements": [
+    "Titulación de cada plaza: confirmar en las bases",
+    "Euskera: confirmar en las bases",
+    "Auxiliar de bibliotecas y servicios múltiples serían las vías más probables con ESO (sin confirmar)",
+    "Nacionalidad y tasa: confirmar en las bases"
+   ],
+   "how": "Espera la publicación de bases en el BOB y en la web de la Diputación; la inscripción será telemática.",
+   "source": {
+    "name": "Onda Vasca · OPE de 69 plazas (28-05-2026)",
+    "url": "https://www.ondavasca.com/la-diputacion-de-bizkaia-lanzara-una-ope-de-69-plazas-este-ano/"
+   }
+  },
+  {
+   "how": "Área privada de la aplicación de Contratación temporal de Osakidetza; comprueba allí si hay plazo abierto para tu categoría.",
+   "kind": "bolsa",
+   "org": "Osakidetza",
+   "requirements": [
+    "Titulaciones admitidas: Técnico/a en Gestión Administrativa, FP1, Graduado Escolar o equivalente (confirmar encaje de la ESO)",
+    "No hace falta haber participado en la OPE",
+    "Las solicitudes se ordenan por fecha de presentación"
+   ],
+   "source": {
+    "name": "Osakidetza · Contratación temporal",
+    "url": "https://www.osakidetza.euskadi.eus/contratacion-temporal/webosk00-procon/es/"
+   },
+   "text": "Según sus FAQ (sep-2024) las listas temporales siguen abiertas, con altas hasta fechas de corte por categoría. A 9-10-2026 no hay aviso de apertura específico para Auxiliar Administrativo.",
+   "title": "Listas de contratación temporal · Auxiliar Administrativo/a"
+  },
+  {
+   "kind": "bolsa",
+   "title": "Bolsas de trabajo PAS · UPV/EHU",
+   "org": "UPV/EHU",
+   "text": "El buscador de bolsas del personal de administración y servicios muestra convocatorias de 2026 (18-feb, 15-abr, 15-jul), con grupos desde certificado de escolaridad hasta grado. Filtra por estado abierta.",
+   "requirements": [
+    "Titulación según grupo: algunas bolsas piden solo certificado de escolaridad",
+    "Euskera: confirmar en las bases de cada bolsa",
+    "Nacionalidad y plazos: confirmar en las bases"
+   ],
+   "how": "Entra en el buscador de bolsas externas de la UPV/EHU y filtra por estado abierta y grupo.",
+   "source": {
+    "name": "UPV/EHU · Buscador de bolsas PAS",
+    "url": "https://www.ehu.eus/es/web/azp/deialdi-bilatzailea?idioma=es"
+   }
+  },
+  {
+   "amount": "600 a 1.000 € por nivel A1-B2 (C1: 700 € si naciste en 1996 o después)",
+   "deadline": "2026-11-03",
+   "how": "Sede electrónica de euskadi.eus (servicio 1038713), 2.º turno del 1-09 al 3-11-2026, con justificantes de matrícula.",
+   "kind": "ayuda",
+   "org": "HABE · Gobierno Vasco",
+   "requirements": [
+    "Matrícula pagada en euskaltegi o autoaprendizaje homologado (1-06-2025 a 30-09-2026)",
+    "Nivel superado o acreditado entre 1-08 y 31-10-2026 (2.º turno)",
+    "Mínimo 50 horas lectivas (30 en verano) y 75 % de asistencia",
+    "Sin límite de edad: cumples; cada nivel se subvenciona una vez"
+   ],
+   "source": {
+    "name": "BOPV · Resolución HABE de 27-05-2026",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/06/2602457a.pdf"
+   },
+   "status": "abierta",
+   "text": "Subvención fija por nivel superado para quien se matriculó en un euskaltegi homologado entre jun-2025 y sep-2026. No es un porcentaje de la matrícula. Exenta de IRPF.",
+   "title": "Ayudas HABE para aprender euskera 2025-26 (2.º turno)"
+  },
+  {
+   "amount": "Hasta el 60 % de la renta, máx. 300 €/mes",
+   "deadline": "2026-12-31",
+   "how": "Sede electrónica de Euskadi (Mi carpeta) o con cita en Zuzenean o Alokabide; adjunta contrato y justificantes de pago.",
+   "kind": "ayuda",
+   "org": "Gobierno Vasco · Alokabide",
+   "requirements": [
+    "18 a 35 años (se extingue al cumplir 36)",
+    "6 meses de residencia efectiva e ininterrumpida en Euskadi",
+    "Ingresos brutos individuales entre 3.000 y 30.000 € al año",
+    "Contrato de alquiler de vivienda libre como domicilio habitual, sin parentesco hasta 3.er grado con el arrendador",
+    "Renta inicial máxima 900 € en Bilbao, pagada por transferencia",
+    "Incompatible con VPP en alquiler, RGI, IMV y PCV"
+   ],
+   "source": {
+    "name": "BOPV · Orden de 5-06-2026 (Gaztelagun)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/06/2602608a.shtml"
+   },
+   "status": "abierta",
+   "text": "Pago mensual de parte del alquiler de vivienda libre a jóvenes de 18 a 35 años (cumples la edad). Desde mayo cubre habitaciones y subarriendo; el límite individual de ingresos es de 30.000 €.",
+   "title": "Gaztelagun 2026 · ayuda al alquiler joven"
+  },
+  {
+   "kind": "ayuda",
+   "status": "proxima",
+   "title": "AlokaPlus · seguro público de impago de alquiler",
+   "org": "Gobierno Vasco · Vivienda",
+   "amount": "Gratuito para el propietario; hasta 14 mensualidades (20 si el inquilino tiene 35 años o menos)",
+   "text": "Aprobado por el Consejo de Gobierno; en vigor en noviembre. Lo contrata el propietario (hasta 5 viviendas) en zonas tensionadas: a ti, con 20 años, te daría más cobertura y facilita que te alquilen.",
+   "requirements": [
+    "Lo solicita el propietario, no la inquilina",
+    "Vivienda en municipio declarado zona tensionada, renta dentro del índice de referencia",
+    "Fianza limitada a una mensualidad",
+    "Edad: cumples (20 meses de cobertura hasta 35 años)",
+    "No borra la deuda: la Administración reclama después al inquilino"
+   ],
+   "how": "Propietario e inquilino firman el compromiso y registran el anexo del contrato antes de demandar; detalles de solicitud al entrar en vigor.",
+   "source": {
+    "name": "Orain · Seguro contra impagos aprobado (13-10-2026)",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/13/el-seguro-contra-los-impagos-del-alquiler-aprobado-el-gobierno-vasco-cubrira-20-mensualidades/"
+   }
+  },
+  {
+   "amount": "50 % de reducción hasta 31-12-2026 (aviso Bizkaibus)",
+   "how": "Cárgalo en tu tarjeta Barik personalizada; consulta puntos de recarga y oficinas en la web de Bizkaibus.",
+   "kind": "ayuda",
+   "org": "Consorcio de Transportes de Bizkaia · Bizkaibus",
+   "requirements": [
+    "Menor de 26 años",
+    "Empadronada en un municipio de Bizkaia",
+    "Tarjeta Barik personalizada",
+    "Uso personal e intransferible"
+   ],
+   "source": {
+    "name": "Bizkaibus · Tarifas",
+    "url": "https://www.bizkaia.eus/es/web/bizkaibus/tarifas"
+   },
+   "status": "permanente",
+   "text": "Abonos Barik para menores de 26: Gazte 70 (70 viajes en 30 días) y Gazte Oro (ilimitado 30 días). Valen en Bizkaibus, Metro Bilbao, Euskotren y Tranvía. Cumples la edad.",
+   "title": "Gazte 70 y Gazte Oro (Barik, menores de 26)"
+  }
+ ],
+ "elections": {
+  "title": "Elecciones generales 29-N",
+  "date": "2026-11-29",
+  "status": "A seis semanas de las urnas se cerró el plazo de coaliciones: el PSOE, IU, Sumar, Compromís, Más Madrid, Chunta y Batzarre irán juntos al Senado («Senado de Progreso», 46 provincias), mientras Podemos y el Frente Amplio solo se unen en Canarias y la Comunitat Valenciana. El Comité Federal del PSOE ratifica hoy en Fuenlabrada las listas, tras la dimisión de Montse Mínguez como portavoz y candidata. Un agregador de encuestas de The Objective da a PP y Vox entre 200 y 215 escaños.",
+  "euskadi": "EH Bildu propone a Oskar Matute para encabezar Bizkaia al Congreso y a Idurre Bideguren al Senado, sin Aizpurua, Pozueta ni Iñarritu; en Euskadi no hay acuerdo entre Podemos y el Frente Amplio, y Ezker Anitza-IU trabaja en una coalición con este último.",
+  "polls": {
+   "name": "Votómetro (agregador de Redlines) · The Objective",
+   "date": "2026-10-17",
+   "url": "https://theobjective.com/espana/politica/2026-10-17/votometro-pp-vox-mayoria-absoluta-psoe-izquierda/",
+   "items": [
+    {
+     "party": "PP",
+     "value": 32.2,
+     "seats": "hasta 145"
+    },
+    {
+     "party": "PSOE",
+     "value": 26.6,
+     "seats": "101-110"
+    },
+    {
+     "party": "Vox",
+     "value": 18.3,
+     "seats": "64-70"
+    },
+    {
+     "party": "Sumar",
+     "value": null,
+     "seats": "8-12"
+    },
+    {
+     "party": "Podemos",
+     "value": null,
+     "seats": "1-2"
+    },
+    {
+     "party": "ERC",
+     "value": null,
+     "seats": "menos de 7"
+    },
+    {
+     "party": "EH Bildu",
+     "value": null,
+     "seats": "6"
+    },
+    {
+     "party": "PNV",
+     "value": null,
+     "seats": "5"
+    },
+    {
+     "party": "Adelante Andalucía",
+     "value": null,
+     "seats": "1-2"
+    },
+    {
+     "party": "UPN",
+     "value": null,
+     "seats": "1"
+    },
+    {
+     "party": "BNG",
+     "value": null,
+     "seats": "1"
+    },
+    {
+     "party": "Coalición Canaria",
+     "value": null,
+     "seats": "1"
+    }
+   ]
+  },
+  "keyDates": [
+   {
+    "date": "2026-10-17",
+    "text": "El Comité Federal del PSOE ratifica las listas"
+   },
+   {
+    "date": "2026-10-21",
+    "text": "Empieza el plazo para presentar candidaturas"
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Primeros envíos de documentación al voto exterior (hasta el 30)"
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Las Juntas Electorales proclaman a los candidatos"
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Arranca la campaña electoral a las 00:00"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "id": "2026-10-17-guggenheim-gratis-29-aniversario",
+   "section": "bilbao",
+   "weight": 2,
+   "title": "El Guggenheim abre gratis este sábado y domingo por su 29.º aniversario, pero solo quedan entradas en taquilla",
+   "dek": "Las reservas previas están agotadas: quien quiera entrar tendrá que hacer cola en taquilla, sin garantía de conseguir entrada.",
+   "figure": {
+    "value": "29",
+    "label": "años del museo"
+   },
+   "place": "Bilbao",
+   "body": [
+    "El Museo Guggenheim Bilbao ofrece entrada gratuita este sábado 17 y este domingo 18 de octubre para celebrar su 29.º aniversario, según informa Orain. Las reservas previas se han agotado, de modo que la única forma de acceder es acudir a la taquilla, donde se darán entradas hasta completar el aforo. No hay, por tanto, ninguna garantía de entrar.",
+    "Quien lo consiga podrá ver la exposición «Steve McQueen: 66-76-26», recién inaugurada, y la instalación «Ever is Over All» de Pipilotti Rist en la sala de Film & Video. También forman parte de la visita la muestra in situ de Igshaan Adams y una selección de obras de la colección del museo.",
+    "Según la información que el museo publica en su web profesional, la de McQueen se podrá ver hasta el 21 de febrero de 2027, la de Rist hasta el 17 de enero de 2027 y la de Adams hasta el 1 de noviembre. El horario habitual que figura allí es de 10:00 a 19:00 y la entrada general cuesta 12 euros (6 para estudiantes de 18 a 26 años), así que este fin de semana es una ocasión de ahorro, no de ver algo distinto.",
+    "Hoy se prevé lluvia débil en Bilbao con una probabilidad del 90 %, y mañana el cielo mejora. Orain no da datos de afluencia previstos, pero con aforo limitado y reservas agotadas conviene llegar pronto y tener un plan alternativo."
+   ],
+   "keys": [
+    "Entrada gratis el 17 y el 18 de octubre por el 29.º aniversario",
+    "Reservas previas agotadas; solo taquilla hasta completar aforo",
+    "McQueen, Pipilotti Rist e Igshaan Adams siguen en cartel"
+   ],
+   "why": "Si quieres un plan gratis con tu pareja, ve a taquilla con tiempo y lleva paraguas; si no hay entrada, el museo seguirá con tarifa de 12 € (6 € para estudiantes de 18 a 26) el resto de las semanas.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/cultura/arte/2026/10/16/la-entrada-gugenheim-sera-gratuita-el-sabado-el-domingo/"
+    },
+    {
+     "name": "Onda Vasca",
+     "url": "https://www.ondavasca.com/este-fin-de-semana-entrar-al-guggenheim-es-gratis/"
+    },
+    {
+     "name": "Museo Guggenheim Bilbao",
+     "url": "https://pro.guggenheim-bilbao.eus/fr/expositions"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-tiempo-bilbao-sabado-lluvia",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "Sábado de lluvia en Bilbao, domingo más seco y una semana fresca con viento el miércoles",
+   "dek": "Meteored da hoy un 90 % de probabilidad de lluvia y 11 l/m²; las mínimas bajan a 6-8 grados a partir del lunes.",
+   "figure": {
+    "value": "90 %",
+    "label": "lluvia hoy"
+   },
+   "place": "Bilbao",
+   "body": [
+    "Según Meteored, hoy sábado 17 Bilbao tendrá lluvia débil con cielos parcialmente nubosos a ratos, una probabilidad del 90 %, unos 11 litros por metro cuadrado, viento del norte de 14 a 33 km/h y temperaturas de 14 a 18 grados. Bilbao Hiria, que recoge la predicción de AEMET del 14 de octubre, hablaba de un 100 % de lluvia con 12 a 19 grados, así que las cifras varían según el modelo.",
+    "El domingo 18 será el día más agradable del fin de semana: parcialmente nuboso, de 11 a 17 grados y viento del nordeste. El lunes 19 se mantienen las nubes y los claros, con máxima de 17 y una mínima de solo 8 grados.",
+    "A partir del martes vuelve la lluvia débil: un 50 % de probabilidad el martes 20 (19 y 6 grados) y un 60 % el miércoles 21, con rachas de hasta 47 km/h del noroeste. El jueves 22 queda parcialmente nuboso, con 19 grados de máxima."
+   ],
+   "keys": [
+    "Hoy: lluvia débil, 18/14 grados y 90 % de probabilidad",
+    "Domingo y lunes: nubes y claros, 17 grados de máxima",
+    "Martes y miércoles vuelve la lluvia; el miércoles hay viento de hasta 47 km/h"
+   ],
+   "why": "Paraguas hoy y para el martes; el domingo es el mejor día para salir al monte o a la ría.",
+   "sources": [
+    {
+     "name": "Meteored",
+     "url": "https://www.tiempo.com/bilbao.htm"
+    },
+    {
+     "name": "Bilbao Hiria (AEMET)",
+     "url": "https://bilbaohiria.com/bilbao/bilbao-30-grados-jueves-aemet-lluvia-viernes-octubre-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-desahucio-zabala-familia-cinco-hijos",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "Desahucian a una familia con cinco hijos en Zabala y el juzgado pide después acreditar que es vulnerable",
+   "dek": "La plataforma PAH Sendia denuncia que el lanzamiento del martes 13 se hizo con el «decreto Maricarmen» ya en vigor desde el 8 de octubre.",
+   "figure": {
+    "value": "5",
+    "label": "hijos en la familia"
+   },
+   "place": "Bilbao (Zabala)",
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   },
+   "body": [
+    "Una familia con cinco hijos fue desahuciada el martes 13 de octubre a las 10:30 de su vivienda de alquiler en el barrio de Zabala, tras una resolución de una sala civil que rechazó sus recursos, según elDiario.es. Fue un desahucio «silencioso», sin concentraciones ni cámaras, por deseo de la propia familia. Al día siguiente, el juzgado envió una providencia que le da cinco días para acreditar su vulnerabilidad, es decir, pidió la prueba después de ejecutar el lanzamiento.",
+    "La plataforma PAH Sendia sostiene que el decreto conocido como «decreto Maricarmen», en vigor desde el 8 de octubre tras publicarse en el BOE, debería haber impedido el lanzamiento, y recuerda que ya ha servido para suspender otros. También critica que el informe de servicios sociales describiera a la familia como deudora hipotecaria cuando es inquilina, y que Viviendas Municipales de Bilbao rechazara ofrecerle una vivienda pública. Son afirmaciones de la plataforma; el medio no recoge la versión del juzgado.",
+    "Según esa misma versión, la familia llevaba once años en la casa y pagaba hasta que, en marzo del año pasado, el propietario comunicó que el contrato terminaba y cambió el número de cuenta, lo que le impidió pagar. La demanda alegaba fin de contrato e impago de seis meses. La familia cobra el Ingreso Mínimo Vital y ayudas al alquiler, y tras salir de la vivienda la noche del lunes 12 se alojó en casas de familiares y amigos. PAH Sendia cita otros casos de octubre: se frenaron los desahucios de una mujer con su bebé en Bilbao (2 de octubre) y de una pareja con tres hijas en Barakaldo (5 de octubre), mientras que el 6 de octubre se desalojó en Atxuri a una vecina de un piso de Alokabide."
+   ],
+   "keys": [
+    "Desahucio el 13 de octubre en Zabala; el 14 el juzgado pide acreditar vulnerabilidad",
+    "PAH Sendia dice que el decreto vigente desde el 8 de octubre debía impedirlo",
+    "Se han frenado otros dos desahucios en Bilbao y Barakaldo en octubre"
+   ],
+   "why": "Si alquilas y recibes una demanda, acude cuanto antes a servicios sociales y a una plataforma como la PAH: el decreto en vigor solo ayuda si se acredita la vulnerabilidad a tiempo.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/desahucian-familia-cinco-hijos-bilbao-juez-pide-acreditar-vulnerable-calle_1_13582623.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-artxanda-bizkaibus-lineas",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "El túnel La Salve-Txorierri de Artxanda cierra cinco meses desde el 2 de noviembre y cambian cinco líneas de Bizkaibus",
+   "dek": "La obra supera los 20,6 millones de euros; la línea del aeropuerto saldrá directa desde Termibus.",
+   "figure": {
+    "value": "2 nov",
+    "label": "cierre del túnel"
+   },
+   "place": "Bilbao",
+   "body": [
+    "El tramo La Salve-Txorierri de los túneles de Artxanda estará cerrado al tráfico durante cinco meses a partir del 2 de noviembre para una rehabilitación integral cuyo coste supera los 20,6 millones de euros, según Orain. Bizkaibus ya ha detallado qué líneas cambian.",
+    "La 3247, la del aeropuerto, concentrará el servicio en Termibus y no hará paradas intermedias. La 3414 (Getxo-Bilbao) circulará por Rontegi en lugar de por los túneles afectados, aunque mantiene la atención en Plaza Elíptica e Ingenieros. Las líneas 2321 (Santutxu-EHU), 2610 y 2611 (Ugao y Galdakao) seguirán yendo a la universidad pasando por los túneles de Deusto.",
+    "Quedan dos semanas largas para preparar los desplazamientos: la cuenta del cierre empieza el lunes 2 de noviembre y durará, en principio, hasta comienzos de abril."
+   ],
+   "keys": [
+    "Cierre de cinco meses desde el 2 de noviembre",
+    "Obra de más de 20,6 millones de euros",
+    "Cambian la línea del aeropuerto (3247), la 3414, la 2321, la 2610 y la 2611"
+   ],
+   "why": "Si coges Bizkaibus al aeropuerto, la UPV/EHU o a Getxo, mira el nuevo itinerario antes del 2 de noviembre.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/15/estas-son-las-lineas-afectadas-bizkaibus-el-cierre-del-tramo-la-salvetxorierri-los-tuneles-artxanda/"
+    },
+    {
+     "name": "Onda Vasca",
+     "url": "https://www.ondavasca.com/la-linea-de-bizkaibus-al-aeropuerto-operara-de-forma-directa-desde-termibus-por-obras/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-metro-l1-etxebarri-adelanta-trenes",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "Metro Bilbao adelanta unos minutos los trenes de la Línea 1 hacia Etxebarri hasta el 17 de diciembre",
+   "dek": "El motivo son obras de vía entre Gobela, Neguri y Aiboa, donde se cambian 1.761 traviesas y los trenes deben ir más despacio.",
+   "figure": {
+    "value": "1.761",
+    "label": "traviesas a cambiar"
+   },
+   "place": "Bizkaia",
+   "thread": {
+    "id": "metro-bilbao",
+    "label": "Metro de Bilbao"
+   },
+   "body": [
+    "Desde el viernes 16 de octubre y hasta el 17 de diciembre, los trenes de la Línea 1 con destino Etxebarri salen unos minutos antes de lo habitual, informa Bilbao Hiria. Metro Bilbao precisa que el ajuste afecta solo a la hora de salida y que no cambian las frecuencias.",
+    "La razón es un trabajo de mantenimiento de vía en el tramo Gobela-Neguri-Aiboa, donde se sustituyen 1.761 traviesas. Esa obra obliga a reducir la velocidad de los trenes, y adelantar las salidas compensa la lentitud para que lleguen en hora.",
+    "Metro Bilbao recomienda consultar los horarios actualizados en su web, sobre todo para los primeros trenes de la mañana, que son los más sensibles a un cambio de pocos minutos."
+   ],
+   "keys": [
+    "Del 16 de octubre al 17 de diciembre",
+    "Solo cambia la hora de salida hacia Etxebarri; la frecuencia se mantiene",
+    "Obras de 1.761 traviesas entre Gobela, Neguri y Aiboa"
+   ],
+   "why": "Si usas la Línea 1 por la mañana hacia Etxebarri, comprueba la hora real del primer tren que coges.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bizkaia/metro-bilbao-adelanta-salida-trenes-linea-1-etxebarri"
+    },
+    {
+     "name": "Onda Vasca",
+     "url": "https://www.ondavasca.com/metro-bilbao-adelanta-la-salida-de-los-trenes-de-la-linea-1-hacia-etxebarri-por-obras-de-mantenimiento-en-la-via/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-economia-vasca-pib-3t",
+   "section": "euskadi",
+   "weight": 2,
+   "title": "La economía vasca creció un 2,2 % en el tercer trimestre y el empleo un 1,3 %, según el avance de Eustat",
+   "dek": "El PIB sube un 0,5 % sobre el trimestre anterior; el Gobierno Vasco prevé un 2,2 % en 2026 y un 1,9 % en 2027.",
+   "figure": {
+    "value": "2,2 %",
+    "label": "PIB interanual"
+   },
+   "place": "Euskadi",
+   "body": [
+    "El avance de Eustat sitúa el crecimiento de la economía vasca en el 2,2 % interanual en el tercer trimestre de 2026, y en un 0,5 % respecto al trimestre anterior, según Orain. El empuje viene sobre todo de los servicios y de la construcción.",
+    "El empleo, medido en puestos de trabajo equivalentes a tiempo completo, aumentó un 1,3 % en un año, lo que equivale a unos 12.700 puestos netos. Frente al segundo trimestre, la subida es del 0,3 %.",
+    "El Gobierno Vasco ha revisado al alza su previsión de crecimiento para este año hasta el 2,2 % y prevé un 1,9 % para el siguiente. El dato convive, sin embargo, con una cara menos brillante: el paro registrado subió en septiembre en 2.389 personas hasta 109.237 (61.679 en Bizkaia), aunque la afiliación a la Seguridad Social creció en 10.336 hasta 1.041.618 personas, también según Orain.",
+    "Es decir, la actividad y el empleo medidos por Eustat crecen mientras el paro registrado sube; conviene recordar además que el dato trimestral es un avance y puede revisarse."
+   ],
+   "keys": [
+    "PIB: +2,2 % interanual y +0,5 % trimestral",
+    "Empleo: +1,3 % interanual, unos 12.700 puestos equivalentes",
+    "Previsión del Gobierno Vasco: 2,2 % en 2026 y 1,9 % en 2027",
+    "Paro registrado de septiembre: 109.237 personas"
+   ],
+   "why": "Una economía que crece y crea empleo es buena señal para quien busca trabajo, aunque el paro registrado sigue en más de 109.000 personas.",
+   "sources": [
+    {
+     "name": "Orain (Eustat)",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/16/la-economia-vasca-crecio-un-22-en-el-tercer-trimestre-respecto-2025-el-empleo-un-13/"
+    },
+    {
+     "name": "Orain (paro de septiembre)",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/02/el-paro-sube-en-euskadi-en-septiembre-109237-personas/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-tubos-reunidos-cinco-ofertas",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "Las cinco mejores ofertas por Tubos Reunidos incluyen recortes de plantilla y cambios de condiciones",
+   "dek": "La mejor oferta es de 27,5 millones de euros; la empresa debe unos 300 millones y se reunirá con el comité el 21 de octubre.",
+   "figure": {
+    "value": "27,5 M€",
+    "label": "mejor oferta"
+   },
+   "place": "Amurrio y Trapagaran",
+   "thread": {
+    "id": "tubos-reunidos",
+    "label": "Tubos Reunidos"
+   },
+   "body": [
+    "La administración concursal ha dado a conocer las cinco mejores ofertas por Tubos Reunidos sin desvelar quién las presenta, aunque una procede de un grupo liderado por José Antonio Jainaga, ya conocido como interesado en ambas plantas, según Orain. Tres ofertantes quieren Amurrio y Trapagaran juntas y dos solo Trapagaran.",
+    "Los importes son muy desiguales: dos ofertas son de un euro, una de 100.000 euros, otra de un millón y la mejor, de 27,5 millones. La deuda de la compañía ronda los 300 millones. Amurrio es la planta principal, con unos 900 trabajadores, y Trapagaran emplea a unos 400, fabrica un tubo de mayor tamaño y tiene, según el medio, más pedidos.",
+    "Todas las propuestas incluyen subrogar a los trabajadores, reducir plantilla y cambiar las condiciones laborales. Orain no detalla cuántos empleos recortaría cada una. La dirección se reunirá con el comité de empresa el 21 de octubre para analizar las ofertas y el artículo no da fecha para la decisión final."
+   ],
+   "keys": [
+    "Cinco ofertas: tres por las dos plantas, dos solo por Trapagaran",
+    "Importes de 1 euro a 27,5 millones; deuda de unos 300 millones",
+    "Reunión con el comité el 21 de octubre"
+   ],
+   "why": "Si en tu familia hay trabajadores de la industria en Bizkaia o Álava, este es el expediente que decidirá cuántos empleos se mantienen.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/16/las-cinco-mejores-ofertas-tubos-reunidos-plantean-reducir-la-plantilla-un-cambio-las-condiciones-trabajo/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-ope-gobierno-vasco-367-plazas",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "El Gobierno Vasco lanza una nueva OPE de 367 plazas de la Administración General, con plazo hasta el 10 de noviembre",
+   "dek": "Incluye 86 plazas de Administración y 48 de Gestión Administrativa; reserva 12 para personas con discapacidad.",
+   "figure": {
+    "value": "367",
+    "label": "plazas nuevas"
+   },
+   "place": "Euskadi",
+   "body": [
+    "El Gobierno Vasco ha abierto una nueva oferta de empleo público para funcionarios de la Administración General con 367 plazas, enmarcada en el Plan Eki y reservando 12 para personas con discapacidad, según Orain. Sigue a tres OPE por competencias lanzadas antes este año. Las solicitudes se presentan por internet en euskadi.eus y el plazo termina el 10 de noviembre de 2026 a las 14:00.",
+    "Por escalas, las más numerosas son Administración (86), Jurídica (85), Economía y Empresa (49) y Gestión Administrativa (48), seguidas de Atención Sociolaboral (21), Sistemas de Información (15), Técnica en materia de igualdad (15), Estadística y Análisis de Datos (12), Industrial A1 (11), Edificación y Urbanismo A1 (10) y A2 (5), Industrial A2 (4), Recursos Humanos y Formación (3), Infraestructuras (2) y Naval (1).",
+    "El artículo no recoge la titulación exigida, las fechas de los exámenes ni los perfiles de euskera. Las escalas de Administración y Gestión Administrativa son las más próximas a un puesto administrativo, pero hay que confirmar en las bases oficiales si basta la ESO o se pide más titulación."
+   ],
+   "keys": [
+    "367 plazas; 12 reservadas a discapacidad",
+    "Plazo hasta el 10 de noviembre de 2026 a las 14:00",
+    "86 de Administración y 48 de Gestión Administrativa",
+    "Titulación, exámenes y euskera: por confirmar en las bases"
+   ],
+   "why": "Es una convocatoria a vigilar: mira en las bases de euskadi.eus si Gestión Administrativa o Administración admiten la ESO antes del 10 de noviembre.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/16/nueva-ope-funcionarios-la-administracion-general-vasca-367-plazas/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-bildu-candidatos-congreso-senado",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "EH Bildu propone a Oskar Matute para encabezar Bizkaia al Congreso y renueva sus listas sin Aizpurua ni Iñarritu",
+   "dek": "La propuesta de la Mesa Política debe pasar por la consulta a los afiliados, que según lo publicado ayer vota este fin de semana.",
+   "figure": {
+    "value": "4",
+    "label": "cabezas al Congreso"
+   },
+   "place": "Euskadi y Nafarroa",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "EH Bildu ha propuesto a Oskar Matute para encabezar la lista al Congreso por Bizkaia, y además sería su portavoz parlamentario. En Araba irá Mikel Otero, en Gipuzkoa Oihana Etxebarrieta y en Nafarroa Eneka Maiz, según Orain. Para el Senado, los cabezas de lista serían Idurre Bideguren por Bizkaia, que sería portavoz, Josu Estarrona por Araba, Sonia Jacinto por Gipuzkoa y Floren Aoiz por Nafarroa.",
+    "La Mesa Política de la coalición justifica el reparto por la continuidad del trabajo parlamentario reciente, el relevo generacional y la presencia de personas con experiencia institucional. La dirección agradece su labor a Mertxe Aizpurua, Bel Pozueta y Jon Iñarritu, que no repiten. ElDiario.es habla de Etxebarrieta como relevo de Aizpurua.",
+    "El plazo para presentar candidaturas ante las Juntas Electorales empieza el 21 de octubre."
+   ],
+   "keys": [
+    "Matute encabeza Bizkaia al Congreso y sería portavoz",
+    "Otero (Araba), Etxebarrieta (Gipuzkoa) y Maiz (Nafarroa)",
+    "No repiten Aizpurua, Pozueta ni Iñarritu"
+   ],
+   "why": "Si votas en Bizkaia, estos son los nombres que Bildu pondrá en la papeleta del 29-N si los afiliados los ratifican.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/politica/2026/10/16/eh-bildu-propone-oskar-matute-mikel-otero-oihana-etxebarrieta-eneka-maiz-encabezar-las-listas-al-congreso"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/euskadi/eh-bildu-ira-generales-oskar-matute-candidato-oihana-etxebarrieta-relevo-aizpurua_1_13590392.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-izquierda-cierra-coaliciones-senado-progreso",
+   "section": "espana",
+   "weight": 3,
+   "title": "La izquierda cierra el plazo de coaliciones: PSOE y Frente Amplio irán juntos al Senado y Podemos va por libre en el Congreso",
+   "dek": "El pacto «Senado de Progreso» abarca 46 provincias; Podemos y el Frente Amplio solo se alían en Canarias y la Comunitat Valenciana.",
+   "figure": {
+    "value": "46",
+    "label": "provincias, Senado"
+   },
+   "place": "España",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "El plazo para comunicar coaliciones a la Junta Electoral Central vencía a la medianoche del viernes 16. Según The Objective, el PSOE pactó con IU, Sumar, Compromís, Más Madrid, Chunta y Batzarre concurrir juntos al Senado bajo el nombre «Senado de Progreso», en 46 provincias. El PSOE lo ha llamado «un paso histórico».",
+    "Un informe interno del PSOE, citado por ese medio y basado en resultados de 2023 y sondeos de los días 7 y 8 de octubre, calcula que la coalición podría sumar hasta 40 escaños más: 129 de los 209 senadores en juego y 150 de los 267 de la Cámara, por encima de los 134 necesarios, y el PP perdería 24 respecto a la cita anterior. Es una estimación de parte, no una proyección independiente.",
+    "En el Congreso la izquierda alternativa no logró un acuerdo estatal. Según el repaso de elDiario.es, Podemos y el Frente Amplio van juntos solo en Canarias y en la Comunitat Valenciana (Compromís-Front Valencià). En Andalucía hay dos candidaturas, Adelante Andalucía y «Frente Amplio por Andalucía» sin Podemos; en Cataluña hay listas separadas, con Podemos aliado con ERC y el Frente Amplio proponiendo a Ada Colau; en Madrid concurren Emilio Delgado, por el Frente Amplio, e Irene Montero, por Podemos. En Euskadi tampoco hay acuerdo y Ezker Anitza-IU trabaja en una coalición con el Frente Amplio.",
+    "El Español cuenta que el Frente Amplio ofreció a Podemos un puesto de salida «prioritario» en Madrid y Cataluña, y que Podemos respondió proponiendo pactos territoriales fuera de esas dos comunidades. The Objective apunta que la ubicación de Montero en las listas fue el principal obstáculo. En el espacio nacionalista catalán, Junts y Convergents no se pusieron de acuerdo, y Convergents prevé empezar a recoger avales este sábado, con diez días para reunirlos.",
+    "El Debate describe la jornada como un intento de la izquierda de cerrar acuerdos «in extremis» para aminorar la derrota que auguran los sondeos; es su lectura, que los partidos implicados no comparten."
+   ],
+   "keys": [
+    "PSOE, IU, Sumar, Compromís, Más Madrid, Chunta y Batzarre irán juntos al Senado en 46 provincias",
+    "Podemos y el Frente Amplio solo se unen en Canarias y la Comunitat Valenciana",
+    "Un informe interno del PSOE calcula hasta 40 escaños más en el Senado",
+    "Convergents recogerá avales: tiene diez días"
+   ],
+   "why": "Más candidaturas separadas en la izquierda suelen restar escaños por circunscripción; mira qué lista concurre en tu provincia el 29-N.",
+   "sources": [
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-10-17/psoe-frente-amplio-acuerdosenado/"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/son-acuerdos-izquierda-alternativa-territorio-territorio_1_13589702.html"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/20261016/elecciones-generales-directo-ultima-hora-pedro-sanchez-actos-pp-psoe-vox-encuestas-cierre-plazo-electoral-espana-sondeos-voto-por-correo-partidos-2026-29n/1003744422218_10.html"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/espana/20261016/izquierda-intenta-cerrar-coaliciones-in-extremis-aminorar-derrota-predicen-sondeos_470125.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-votometro-pp-vox-mayoria-absoluta",
+   "section": "espana",
+   "weight": 2,
+   "title": "Un agregador de encuestas da a PP y Vox entre 200 y 215 escaños, mientras el CIS de Tezanos va a contracorriente",
+   "dek": "El Votómetro de The Objective, de Redlines, apunta un 32,2 % para el PP, un 26,6 % para el PSOE y un 18,3 % para Vox.",
+   "figure": {
+    "value": "98,9 %",
+    "label": "Feijóo+Abascal (simulación)"
+   },
+   "place": "España",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "El primer Votómetro de The Objective tras el adelanto electoral, elaborado por Redlines Estrategia y Comunicación, no es un sondeo propio sino un agregado de encuestas publicadas que pondera por antigüedad, calidad histórica del encuestador y metodología y aplica 10.000 simulaciones sobre las 52 circunscripciones. Estima un 32,2 % para el PP, un 26,6 % para el PSOE (medio punto más) y un 18,3 % para Vox.",
+    "En escaños, PP y Vox sumarían entre 200 y 215: Vox, entre 64 y 70, y el PSOE, entre 101 y 110. El modelo da un 98,9 % de probabilidad a un Gobierno Feijóo-Abascal y calcula que el bloque de izquierda más nacionalistas, con una media de 148 escaños, queda 36 por debajo de la mayoría absoluta. Sumar caería a entre 8 y 12 escaños y Podemos a 1 o 2; Bildu tendría 6, el PNV 5, ERC menos de 7 y UPN iría con el PP. Son resultados de una simulación y dependen de las encuestas que recoge.",
+    "Otras mediciones apuntan en la misma dirección. El Debate publicó el 14 de octubre el promedio de Electocracia sobre seis encuestas (PP 133 escaños, PSOE 104, Vox 66) y titulaba que PP y Vox suman 200. El Debate señala, además, que el CIS de Tezanos va «a la contra» de todas las encuestas al dar ventaja a Sánchez, y El Independiente titula que Tezanos lo sitúa a casi 12 puntos de Feijóo.",
+    "Entre las excepciones, The Objective cuenta que ERC tiene un sondeo propio del 29-N en el que llegaría a 10 escaños a costa del Frente Amplio; es un estudio encargado por el partido, por lo que conviene tomarlo con cautela. El Español, por su parte, habla de una «brecha récord» de 21 puntos a favor de Feijóo en la expectativa sobre quién será presidente, una lectura de ese medio.",
+    "La campaña arranca el 13 de noviembre, y la fidelidad de voto que miden los modelos (baja al 72 % en el PP, alta en Vox) será una de las claves."
+   ],
+   "keys": [
+    "PP 32,2 %, PSOE 26,6 %, Vox 18,3 %",
+    "PP+Vox: 200-215 escaños según el modelo",
+    "El CIS de Tezanos, según El Debate, va a la contra de las demás encuestas",
+    "La campaña arranca el 13 de noviembre"
+   ],
+   "why": "Los sondeos no votan; conviene fijarse en la horquilla y no en un solo dato, y comprobar quién encarga cada encuesta.",
+   "sources": [
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-10-17/votometro-pp-vox-mayoria-absoluta-psoe-izquierda/"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/espana/20261014/ultimo-barometro-electoral-destroza-optimismo-sanchez-corrillos-12-pp-vox-suman-200-escanos_469004.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/14/tezans-cis-sanchez-feijoo-doce-puntos-mes-medio-generales/"
+    },
+    {
+     "name": "The Objective (ERC)",
+     "url": "https://theobjective.com/espana/politica/2026-10-16/erc-sondeo-come-frente-amplio"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/politica/20261012/sanchez-hunde-expectativa-presidente-feijoo-abre-brecha-record-puntos/1003744417322_0.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-minguez-dimite-comite-federal-listas",
+   "section": "espana",
+   "weight": 1,
+   "title": "Montse Mínguez dimite como portavoz y candidata del PSOE y el Comité Federal ratifica hoy las listas en Fuenlabrada",
+   "dek": "La Comisión de Listas aprobó por unanimidad las candidaturas al Congreso y al Senado, con cambios en Castilla y León.",
+   "figure": {
+    "value": "11",
+    "label": "ministros en las listas"
+   },
+   "place": "Madrid",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "Montse Mínguez dimitió el viernes como portavoz del PSOE, como miembro de la Ejecutiva y como candidata tras la polémica por los pisos de su pareja, según la cobertura en directo de El Español. Sánchez dijo que le pidió que no dimitiera y que lamenta su marcha; el PSC designó a Cristina Morón como cabeza de lista por Lleida. Miguel Tellado, del PP, afirmó que Mínguez dimitió porque «la han pillado» y lo presentó como el arranque de la campaña, una valoración de parte.",
+    "La Comisión de Listas aprobó por unanimidad las candidaturas al Congreso y al Senado, que el Comité Federal debe ratificar este sábado en Fuenlabrada. Modificó la propuesta de Castilla y León para excluir a Luis Tudanca de la lista al Congreso, según el mismo medio. El Independiente, por su parte, cuenta que en las listas no solo hay 11 ministros, sino también delegados y subdelegados del Gobierno, ante la incertidumbre del 29-N.",
+    "Con las listas ratificadas, el siguiente hito es el 21 de octubre, cuando empieza el plazo para presentar candidaturas ante las Juntas Electorales."
+   ],
+   "keys": [
+    "Mínguez dimite como portavoz, miembro de la Ejecutiva y candidata",
+    "Comité Federal en Fuenlabrada este sábado",
+    "Tudanca queda fuera de la lista al Congreso por Castilla y León"
+   ],
+   "why": "Las listas se cierran estos días: es el momento en el que los partidos fijan quién entra y quién sale antes de pedir el voto.",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/20261016/elecciones-generales-directo-ultima-hora-pedro-sanchez-actos-pp-psoe-vox-encuestas-cierre-plazo-electoral-espana-sondeos-voto-por-correo-partidos-2026-29n/1003744422218_10.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/16/no-solo-11-ministros-sanchez-delegados-subdelegados-gobierno-listas-29n/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-consejo-europeo-iran-coste-ceuta",
+   "section": "espana",
+   "weight": 1,
+   "title": "Sánchez calcula en más de 100.000 millones el coste de la guerra de Irán para la UE y Bruselas reconoce la «situación específica» de Ceuta y Melilla",
+   "dek": "El Consejo Europeo reconoce que ambas ciudades son fronteras terrestres de la UE en África.",
+   "figure": {
+    "value": "100.000",
+    "label": "millones, coste para la UE"
+   },
+   "place": "Bruselas",
+   "thread": {
+    "id": "marruecos-ceuta",
+    "label": "Crisis de Ceuta"
+   },
+   "body": [
+    "Tras el Consejo Europeo, Pedro Sánchez atribuyó a la guerra en Irán un coste superior a 100.000 millones de euros para la Unión Europea, según la cobertura de El Español. Es una cifra del presidente del Gobierno, que el medio no desglosa.",
+    "La misma cita reconoció la «situación específica» de Ceuta y Melilla como fronteras terrestres de la UE en África. El reconocimiento llega en medio de la polémica por los audios de militares en Ceuta que el Ministerio de Defensa revisa junto con la autoridad que investiga el caso, según informó este diario ayer.",
+    "El Consejo europeo también sirvió para que los líderes reiteraran su apoyo a Ucrania, según Euronews."
+   ],
+   "keys": [
+    "Sánchez cifra el coste de la guerra de Irán en más de 100.000 millones",
+    "El Consejo Europeo reconoce la situación específica de Ceuta y Melilla",
+    "Los líderes reiteran el apoyo a Ucrania"
+   ],
+   "why": "El coste de la energía por la guerra de Irán se nota en la gasolina y la factura; la UE intenta fijar una posición común.",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/20261016/elecciones-generales-directo-ultima-hora-pedro-sanchez-actos-pp-psoe-vox-encuestas-cierre-plazo-electoral-espana-sondeos-voto-por-correo-partidos-2026-29n/1003744422218_10.html"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://es.euronews.com/2026/10/16/rusia-ataca-9-regiones-ucranianas-mientras-crece-la-tension-entre-zelenski-y-trump"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/desalambre/defensa-asegura-investigara-audios-militares-presumen-palizas-migrantes-ceuta_1_13587546.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-defensor-pueblo-recurre-voto-nacionalizados",
+   "section": "espana",
+   "weight": 1,
+   "title": "El Defensor del Pueblo recurre ante el Constitucional la suspensión del voto de los nacionalizados por la «ley de nietos»",
+   "dek": "El Supremo mantiene suspendido el voto de unos 163.020 nacionalizados, salvo acreditación consular, según lo publicado ayer.",
+   "figure": {
+    "value": "163.020",
+    "label": "votos suspendidos"
+   },
+   "place": "Madrid",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "El Defensor del Pueblo ha recurrido ante el Tribunal Constitucional la suspensión del derecho de voto de los nacionalizados por la llamada «ley de nietos», según la cobertura de El Español del viernes. El recurso llega mientras la Junta Electoral ultima el envío de documentación al voto exterior.",
+    "Según lo publicado ayer en esta edición, el Tribunal Supremo mantiene suspendido el voto de 163.020 nacionalizados, salvo que acrediten su situación por vía consular. El Constitucional deberá decidir si admite el recurso y en qué plazo, algo que El Español no precisa.",
+    "El calendario es ajustado: el voto exterior empieza a recibir documentación a partir del 24 de octubre y la campaña arranca el 13 de noviembre."
+   ],
+   "keys": [
+    "El Defensor del Pueblo lleva la suspensión al Constitucional",
+    "Afecta a unos 163.020 nacionalizados por la ley de nietos",
+    "Voto exterior: documentación desde el 24 de octubre"
+   ],
+   "why": "Si tienes familia en el extranjero con doble nacionalidad, conviene saber si podrán votar el 29-N.",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/20261016/elecciones-generales-directo-ultima-hora-pedro-sanchez-actos-pp-psoe-vox-encuestas-cierre-plazo-electoral-espana-sondeos-voto-por-correo-partidos-2026-29n/1003744422218_10.html"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/espana/20261015/junta-electoral-acuerda-enviar-documentacion-electoral-todo-cera-aunque-no-todos-puedan-votar_470157.html"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/fallo-supremo-ley-nietos-amenaza-voto-probaron-exilio-antepasados_1_13583012.html"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-10-14/gobierno-supremo-censo-ley-nietos/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-iran-ormuz-escalada-24-mercantes",
+   "section": "mundo",
+   "weight": 3,
+   "title": "EE UU e Irán, al borde de una escalada mayor: 24 mercantes atacados en dos semanas y dos portaaviones en el mar Arábigo",
+   "dek": "Trump dice que los bombardeos podrían intensificarse tras las elecciones del 3 de noviembre; Teherán avisa de respuestas proporcionales.",
+   "figure": {
+    "value": "24",
+    "label": "mercantes atacados"
+   },
+   "place": "Golfo Pérsico",
+   "thread": {
+    "id": "guerra-iran",
+    "label": "Guerra de Irán"
+   },
+   "body": [
+    "Irán atacó al menos 24 buques mercantes cerca del estrecho de Ormuz en dos semanas, según el Instituto para el Estudio de la Guerra (ISW) citado por Euronews, y la agencia marítima británica UKMTO registró al menos siete incidentes más entre el lunes y el miércoles. Euronews recuerda que el 15 de octubre otro petrolero se incendió cerca de Ormuz tras el hundimiento de dos cargueros. Un responsable militar estadounidense citado por el ISW dice que Irán se ha adaptado con lanchas pequeñas y observadores tras sufrir daños en sus radares.",
+    "Estados Unidos mantiene dos portaaviones, el George Washington y el George H.W. Bush, en el mar Arábigo; el Washington relevó al Abraham Lincoln. El Naval Institute advierte de que su coincidencia no indica por sí sola una operación inminente, por la rotación habitual de las flotas. El Mando Central (CENTCOM) afirma que, hasta el 5 de octubre, desvió las rutas de 130 buques comerciales dentro del bloqueo naval a Irán, una cifra que no se ha verificado de forma independiente. El 1 de octubre se informó del envío de unos 9.000 militares con el USS Theodore Roosevelt y el grupo anfibio del Makin Island, y un responsable estadounidense dijo a AP que el total en la zona podría superar los 20.000.",
+    "Donald Trump afirmó a comienzos de mes que los bombardeos sobre Irán podrían intensificarse después de las elecciones de medio mandato del 3 de noviembre, sin detallar planes, y no descartó el uso de la bomba GBU-43/B, la «madre de todas las bombas», de la que dijo que «no es nuclear». También mencionó posibles conversaciones de desarme nuclear con Irán que incluirían a Rusia y China. Es un tono distinto al de ayer, cuando aseguró que la guerra «terminará muy pronto».",
+    "Desde Teherán, el subcomandante de la Guardia Revolucionaria Mostafa Izadi dice que el país está preparado para «las operaciones más poderosas», y el jefe del Ejército, Amir Hatami, que un ataque a infraestructura iraní tendría golpes proporcionales contra objetivos israelíes y sus aliados. Mohsen Rezaei, del Consejo Supremo de Seguridad Nacional, sostiene que centros de datos e infraestructuras de IA estadounidenses estarían «al alcance» si se reanudan las hostilidades y califica de insuficiente la última respuesta diplomática de Washington.",
+    "El canal israelí Canal 12 informó de que países occidentales han detectado movimientos militares nuevos e inusuales dentro de Irán, aunque no necesariamente exigen una acción inmediata. Los datos de IntelSky sobre un aumento del 50 % en vuelos de aviones cisterna en octubre no están verificados. En el plano económico, Pedro Sánchez cifró en más de 100.000 millones de euros el coste de la guerra para la UE y el crudo WTI cerró el viernes por encima de los 100 dólares."
+   ],
+   "keys": [
+    "Al menos 24 mercantes atacados cerca de Ormuz en dos semanas (ISW)",
+    "Dos portaaviones estadounidenses en el mar Arábigo",
+    "Trump: bombardeos podrían intensificarse tras el 3 de noviembre",
+    "Irán amenaza con respuestas proporcionales, incluidas infraestructuras de IA"
+   ],
+   "why": "La guerra de Irán mantiene el petróleo por encima de los 100 dólares: se nota en la gasolina, en la inflación y en los viajes.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://es.euronews.com/2026/10/16/creciente-tension-militar-lleva-eeuu-iran-borde-mayor-escalada"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/20261016/elecciones-generales-directo-ultima-hora-pedro-sanchez-actos-pp-psoe-vox-encuestas-cierre-plazo-electoral-espana-sondeos-voto-por-correo-partidos-2026-29n/1003744422218_10.html"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/agencias/2026/10/16/wall-street-cae-lastrado-por-el-nasdaq-que-pierde-un-45-en-la-semana/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-ucrania-drones-moscu-patriot-zelenski",
+   "section": "mundo",
+   "weight": 2,
+   "title": "Ucrania paraliza aeropuertos rusos con drones mientras Rusia golpea nueve regiones y Kiev se queda sin misiles Patriot",
+   "dek": "La ONU cifra en 328 los civiles muertos en septiembre; Zelenski se siente «traicionado» por Trump tras el fin de la tregua energética.",
+   "figure": {
+    "value": "644",
+    "label": "drones, según Moscú"
+   },
+   "place": "Rusia y Ucrania",
+   "thread": {
+    "id": "ucrania",
+    "label": "Guerra de Ucrania"
+   },
+   "body": [
+    "Drones ucranianos paralizaron la madrugada del viernes 16 numerosos aeropuertos del oeste de Rusia, según El Debate. La agencia Rosaviatsia comunicó que los cuatro aeropuertos de Moscú (Vnukovo, Domodedovo, Zhukovski y Sheremétievo) suspendían «provisionalmente» sus operaciones y, según TASS, hacia las cinco de la mañana volvieron a funcionar. El Ejército ruso dijo haber derribado 644 drones en más de 20 regiones, y su Ministerio de Defensa afirmó que alcanzaron casi la mitad de las regiones al oeste de los Urales. Son cifras de Moscú que no se han verificado.",
+    "Ucrania había retomado el jueves 15 los ataques a refinerías rusas tras varios días de pausa, después de que fracasara la breve «tregua energética» pedida por Trump, que calificó los ataques de «vergüenza» y los atribuyó a Zelenski. Rusia respondió: el viernes atacó nueve regiones ucranianas, con cortes de emergencia de luz que dejaron a cientos de miles de hogares sin suministro y al menos 15 heridos, según Euronews. En la noche del 14 al 15, misiles balísticos rusos golpearon tres centrales eléctricas de Kiev y la infraestructura energética de Járkov, con cuatro muertos y 25 heridos en la capital.",
+    "El Debate cita fuentes de defensa según las cuales Ucrania se queda sin interceptores Patriot de fabricación estadounidense; una fuente dijo a CNN que casi todos los misiles balísticos del último ataque no pudieron interceptarse por esa escasez. Zelenski contó el jueves más de 850 drones Shahed entre la medianoche y las nueve de la mañana y acusó a Trump de favorecer los ataques rusos con el acuerdo para importar más de 300.000 toneladas de diésel ruso, según The Objective. The Objective no recoge respuesta de Moscú ni de Washington a esa acusación.",
+    "La oficina de derechos humanos de la ONU en Kiev informó de al menos 328 civiles muertos y 2.105 heridos en septiembre, un 85 % más que un año antes, y su jefa, Danielle Bell, dijo que las dos primeras semanas de octubre han sido de las más letales para la población civil en años. Zelenski asegura sentirse traicionado por Trump por el fin del intercambio de inteligencia, las restricciones al uso de Starshield y el pacto del diésel; Trump dijo que no le gusta el líder ucraniano.",
+    "Los líderes de la UE se comprometieron en Bruselas a mantener el apoyo a Ucrania e instaron a Washington a presionar más a Putin. Zelenski agradeció el respaldo y dijo que no ve señales de que Rusia quiera acabar la guerra, por lo que Ucrania debe prepararse para el invierno."
+   ],
+   "keys": [
+    "Drones ucranianos suspenden por horas los cuatro aeropuertos de Moscú",
+    "Rusia ataca nueve regiones ucranianas el 16 de octubre",
+    "Escasez de Patriot en Ucrania y ruptura de la tregua energética",
+    "ONU: 328 civiles muertos y 2.105 heridos en septiembre"
+   ],
+   "why": "Si ves subir la factura de la luz o el gasóleo en Europa, parte de la causa es esta guerra de infraestructuras energéticas.",
+   "sources": [
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/internacional/20261016/drones-ucranianos-hacen-estragos-moscu-kiev-queda-misiles-defensa_470302.html"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://es.euronews.com/2026/10/16/rusia-ataca-9-regiones-ucranianas-mientras-crece-la-tension-entre-zelenski-y-trump"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/internacional/2026-10-15/zelenski-trump-favorecer-ataques-rusia/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-midterms-3-nov-camara-senado",
+   "section": "mundo",
+   "weight": 1,
+   "title": "A 17 días de las midterms, los demócratas necesitan solo tres escaños en la Cámara, pero el Senado es mucho más difícil",
+   "dek": "Reuters, vía El Debate, advierte de que pocas circunscripciones son competitivas; El Español da a los demócratas 8,6 puntos de ventaja genérica.",
+   "figure": {
+    "value": "3 nov",
+    "label": "elecciones en EE UU"
+   },
+   "place": "Estados Unidos",
+   "thread": {
+    "id": "eeuu-midterms",
+    "label": "Elecciones en EE UU"
+   },
+   "body": [
+    "Las elecciones legislativas de EE UU se celebran el 3 de noviembre. En la Cámara de Representantes, los republicanos tienen 219 de 435 escaños y los demócratas 214, de modo que a estos les bastaría una ganancia neta de tres. Cook Political Report proyecta que podrían voltear 18 distritos y llegar a unos 230, según el análisis de Reuters recogido por El Debate. Sin embargo, solo entre 40 y 50 escaños son realmente competitivos, por la polarización y el diseño de los distritos, y en 2018 los demócratas ganaron 41.",
+    "En el Senado se renuevan 35 de los 100 escaños; los republicanos tienen 53 y los demócratas 47, y a estos les harían falta cuatro más para un 51-49. Hay carreras ajustadas en siete estados: Alaska, Iowa, Kansas, Maine, Michigan, Ohio y Texas, todos en manos republicanas salvo Michigan. El analista de Cook David Wasserman dice que incluso un vuelco de diez puntos dejaría probablemente a los demócratas dos escaños por debajo de la mayoría.",
+    "El Español, por su parte, sitúa la ventaja demócrata en la papeleta genérica en 8,6 puntos y describe el Senado como una incógnita total. Los republicanos, añade El Debate, intentan retratar a los demócratas como una «izquierda extrema» y destacan las victorias de miembros de los Socialistas Democráticos en las primarias; Bill Galston, ex asesor de Clinton, dijo a Reuters que ese mensaje podría recortar uno o dos puntos la ventaja en las carreras reñidas."
+   ],
+   "keys": [
+    "Demócratas necesitan un saldo neto de 3 escaños en la Cámara",
+    "En el Senado necesitan 4 y hay siete estados disputados",
+    "La ventaja genérica es de 8,6 puntos según El Español",
+    "Fecha: 3 de noviembre"
+   ],
+   "why": "Lo que pase el 3 de noviembre puede cambiar el margen de Trump en política exterior, incluida la guerra de Irán.",
+   "sources": [
+    {
+     "name": "El Debate (Reuters)",
+     "url": "https://www.eldebate.com/internacional/20261014/tres-senales-indican-democratas-no-tienen-asegurada-victoria-frente-trump_469254.html"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/mundo/america/eeuu/20261017/cuchillos-largos-casa-blanca-asesores-trump-pugnan-suceder-jefa-gabinete-elecciones/1003744423428_0.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-italia-manovra-modesta-9100-libres",
+   "section": "italia",
+   "weight": 2,
+   "title": "La manovra italiana, de las más modestas en años: 23.500 millones, de los que solo 9.100 son de libre uso",
+   "dek": "El Gobierno de Meloni espera que Bruselas le deje usar la cláusula de defensa y energía también para gasto corriente; la banca se resiste a aportar 5.000 millones.",
+   "figure": {
+    "value": "23.500",
+    "label": "millones de euros"
+   },
+   "place": "Roma",
+   "thread": {
+    "id": "italia-meloni",
+    "label": "Italia de Meloni"
+   },
+   "body": [
+    "El Gobierno de Giorgia Meloni envió el 15 de octubre a la Comisión Europea el Documento Programático de Presupuesto, que anticipa los números de la ley de presupuestos de 2027 aún sin presentar, según Il Post. La manovra suma 23.500 millones de euros, una cifra algo superior a los 20.000 millones habituales, pero solo unos 9.100 millones son libremente gastables: los otros 14.400 están ligados a inversiones en energía y defensa dentro de las reglas europeas. El diario subraya que podría ser una de las leyes presupuestarias más modestas de la historia.",
+    "Se financia con 10.300 millones de ingresos adicionales y unos 13.000 millones de endeudamiento, casi todo mediante la cláusula nacional de salvaguardia, que permite endeudarse hasta el 1,5 % del PIB para energía y defensa entre 2025 y 2028; el Gobierno ha pedido 28.800 millones para 2027 y 2028. Quiere usarla también para rebajar las facturas energéticas o los impuestos sobre carburantes, algo que solo cubre inversiones por ahora y que Bruselas tardará semanas en contestar.",
+    "En el gasto, 5.000 millones irían a familias, 4.500 a defensa, 3.300 a empresas y 2.100 a rebajas fiscales, insuficientes para la bajada del IRPEF hasta 60.000 euros y la subida del umbral de la flat tax de 85.000 a 100.000 euros que querían los partidos, que probablemente caerán. En los ingresos figuran recortes en ministerios de 1.200 millones, 720 millones de nuevos impuestos al juego y 5.000 millones de una contribución de bancos y aseguradoras.",
+    "Esa última partida es la más discutida. Según Fanpage, las primeras estimaciones hablaban de entre 2.000 y 3.000 millones y Salvini pide al menos 5.000; el presidente de la asociación bancaria ABI, Antonio Patuelli, recuerda que ya existe un acuerdo trienal de 10.500 millones firmado el año pasado. Forza Italia, de Antonio Tajani, rechaza nuevos gravámenes a beneficios extraordinarios pero admite una aportación pactada. El Post considera difícil reunir los 5.000 millones.",
+    "Según Fanpage, el texto de la manovra debería llegar al Parlamento el 20 de octubre, y por segundo año consecutivo el proyecto no está aprobado en octubre porque los partidos del Gobierno siguen discutiendo su contenido."
+   ],
+   "keys": [
+    "Manovra de 23.500 millones; solo 9.100 de libre uso",
+    "13.000 millones se cubren con deuda, casi toda por la cláusula de salvaguardia",
+    "5.000 millones dependen de una aportación de bancos y aseguradoras que la ABI rechaza",
+    "Texto previsto en el Parlamento el 20 de octubre"
+   ],
+   "why": "Si tu pareja o su familia en Italia dependen de ayudas o bajadas de impuestos, esta manovra deja poco margen para novedades.",
+   "sources": [
+    {
+     "name": "Il Post",
+     "url": "https://www.ilpost.it/2026/10/15/legge-di-bilancio-2027-documento-programmatico-di-bilancio/"
+    },
+    {
+     "name": "Fanpage",
+     "url": "https://www.fanpage.it/politica/manovra-2027-il-governo-vuole-di-nuovo-qualche-miliardo-di-euro-dalle-banche-loro-non-sono-daccordo/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-italia-camioneros-gasolineras-vacias",
+   "section": "italia",
+   "weight": 1,
+   "title": "Los camioneros del sur de Italia siguen en pie de guerra: gasolineras vacías en Foggia, Cosenza y Catanzaro",
+   "dek": "El Gobierno convoca una mesa el 27 de octubre en el Ministerio de Transportes; el sector amenaza con una parada nacional.",
+   "figure": {
+    "value": "27 oct",
+    "label": "mesa con el Gobierno"
+   },
+   "place": "Sur de Italia",
+   "body": [
+    "Las asociaciones del transporte de mercancías piden una convocatoria urgente al Gobierno por el encarecimiento del gasóleo y advierten, según Tgcom24, de que si no llega estudiarán una «parada nacional» que «bloquearía el país». Reclaman que lleguen a su destino los fondos aprobados en mayo y nuevas partidas, porque el precio del diésel sigue subiendo. Unatras habla de un «malestar generalizado» y de una posible parálisis total del sector.",
+    "Hoy hay unos quince puntos de concentración en Calabria, entre ellos la zona del aeropuerto de Lamezia Terme, el puerto de Gioia Tauro y los accesos a la A2 en Cosenza, sin bloqueos totales pero con restricciones de carril bajo control policial. Las protestas llevan días en Apulia, se anuncian acciones en Sicilia, crece la preocupación en Basilicata y los agricultores mantienen sus movilizaciones. En Foggia casi todas las gasolineras están sin combustible, y en Cosenza y Catanzaro la mayoría de los surtidores están vacíos.",
+    "El artículo vincula la escasez con una huelga en la refinería de Taranto, que agrava la logística. El Gobierno de Meloni ha convocado una mesa de trabajo para el 27 de octubre; Tgcom24 apunta, sin confirmarlo, que los sindicatos metalúrgicos que dirigen las protestas en la refinería levantarían los bloqueos tras la convocatoria."
+   ],
+   "keys": [
+    "Unos 15 puntos de protesta en Calabria",
+    "Gasolineras sin combustible en Foggia, Cosenza y Catanzaro",
+    "Mesa con el Gobierno el 27 de octubre"
+   ],
+   "why": "Si viajáis al sur de Italia en los próximos días, llevad el depósito lleno y comprobad el estado de las carreteras y las gasolineras.",
+   "sources": [
+    {
+     "name": "Tgcom24",
+     "url": "https://www.tgcom24.mediaset.it/cronaca/proteste-autotrasportatori-sud-italia_117730650-202602k.shtml"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-italia-iva-5-alquileres-under-35",
+   "section": "italia",
+   "weight": 1,
+   "title": "Italia estudia bajar del 10 % al 5 % el IVA de los alquileres para menores de 35 años",
+   "dek": "Lo anunció el viceministro Maurizio Leo; ahorraría unos 600 euros al año en un alquiler de 1.000 euros mensuales, «si los recursos lo permiten».",
+   "figure": {
+    "value": "5 %",
+    "label": "IVA propuesto"
+   },
+   "place": "Roma",
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   },
+   "body": [
+    "El Gobierno italiano estudia reducir del 10 % al 5 % el IVA que se aplica a los alquileres de vivienda residencial, y limitarlo a los menores de 35 años, según Fanpage. El viceministro de Economía, Maurizio Leo, lo condiciona a que lo permitan los recursos de la manovra de 2027; excluiría las viviendas de lujo.",
+    "En un alquiler de 1.000 euros al mes, el IVA bajaría de 100 a 50 euros mensuales, unos 600 euros al año. Solo afectaría a los contratos sujetos a IVA, no a todos los alquileres; el artículo cita como ejemplo los inmuebles alquilados por constructoras o empresas de rehabilitación y las viviendas sociales.",
+    "Se trata de hipótesis sin decisión tomada y Fanpage advierte de que no habrá recursos para todas las propuestas. Otras medidas en estudio para la vivienda son incentivos a la compra de la primera casa y una cedolare secca del 5 % para alquileres de larga duración."
+   ],
+   "keys": [
+    "IVA del 10 % al 5 % en estudio",
+    "Para menores de 35 años y contratos sujetos a IVA",
+    "Ahorro de unos 600 euros al año en un alquiler de 1.000 euros",
+    "Sin decisión: depende de los recursos"
+   ],
+   "why": "La vivienda es el problema de los jóvenes a ambos lados del Mediterráneo; si se aprueba, podría afectar solo a ciertos contratos.",
+   "sources": [
+    {
+     "name": "Fanpage",
+     "url": "https://www.fanpage.it/politica/manovra-2027-iva-ridotta-al-5-sugli-affitti-per-gli-under-35-come-funzionerebbe-e-quanto-si-risparmia/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-italia-17-huelgas-octubre-30-oct",
+   "section": "italia",
+   "weight": 1,
+   "title": "Italia suma 17 paros en octubre y el 30 hay convocada una huelga general de Usi-Cit",
+   "dek": "El calendario del Ministerio de Infraestructuras recoge desde huelgas de transporte local hasta la de easyJet de ayer.",
+   "figure": {
+    "value": "17",
+    "label": "paros en octubre"
+   },
+   "place": "Italia",
+   "body": [
+    "Fanpage cuenta, con datos del Ministerio de Infraestructuras y Transportes, 17 paros nacionales y locales en octubre. Ayer viernes 16 hubo huelga de easyJet (USB, jornada completa), del profesorado y personal de la escuela (Sisa), de Arriva Italia en Bérgamo (24 horas), de seguridad en el aeropuerto Marco Polo de Venecia y de EAV en Nápoles (de 19:30 a 23:30).",
+    "Antes hubo una huelga multisectorial de CSLE el 2 de octubre (con tres horas en ferrocarriles), paros de transporte de mercancías en Calabria del 9 al 13 de octubre (120 horas, Fedralog) y una huelga general de la CGIL en la Toscana el 14.",
+    "La próxima gran fecha es el 30 de octubre, con una huelga general de todo el día convocada por Usi-Cit que excluye el transporte aéreo, ferroviario, local y marítimo. Fanpage avisa de que las fechas pueden cambiar y recomienda confirmarlas en la web del Ministerio antes de viajar."
+   ],
+   "keys": [
+    "17 paros en octubre según el calendario del Ministerio",
+    "Huelga general de Usi-Cit el 30 de octubre, sin transporte",
+    "Las fechas pueden cambiar"
+   ],
+   "why": "Si viajáis a Italia en octubre, consultad el calendario de huelgas del Ministerio antes de reservar billetes.",
+   "sources": [
+    {
+     "name": "Fanpage",
+     "url": "https://www.fanpage.it/attualita/scioperi-ottobre-2026-si-fermano-treni-scuola-e-aerei-il-calendario-con-date-e-orari/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-italia-festa-cinema-roma-2026",
+   "section": "italia",
+   "weight": 1,
+   "title": "La Festa del Cinema de Roma sigue en marcha con Tornatore, Mastronardi y Jovanotti en su programa",
+   "dek": "La edición 2026 arrancó con una alfombra roja inaugural en la que, según Fanpage, destacó el negro y el rosa de Anna Pepe.",
+   "figure": {
+    "value": "2026",
+    "label": "edición del festival"
+   },
+   "place": "Roma",
+   "body": [
+    "La Festa del Cinema de Roma 2026 ya lleva varios días en marcha. Fanpage repasó los looks de la alfombra roja inaugural, con el negro como color dominante y el rosa de Anna Pepe como excepción, mientras que Artribune publicó una guía de las películas a seguir, con Monica Vitti y Javier Bardem entre los nombres destacados.",
+    "El programa diario de Libero recoge que el 14 de octubre Giuseppe Tornatore reencendió la magia de «Nuovo Cinema Paradiso» y que el 16 de octubre tocó el turno de Alessandra Mastronardi y de Jovanotti, descrito como el «eterno ragazzo fortunato». Las fuentes consultadas hoy no detallan horarios ni precios de las proyecciones."
+   ],
+   "keys": [
+    "Festa del Cinema de Roma 2026 en marcha",
+    "Tornatore y «Nuovo Cinema Paradiso» el 14 de octubre",
+    "Mastronardi y Jovanotti en el programa del 16"
+   ],
+   "why": "Para un plan cultural en Roma, los programas oficiales del festival detallan cada día proyecciones y encuentros.",
+   "sources": [
+    {
+     "name": "Fanpage",
+     "url": "https://www.fanpage.it/stile-e-trend/moda/roma-film-festival-2026-i-look-del-red-carpet-inaugurale-trionfa-il-nero-ma-anna-pepe-brilla-in-rosa/"
+    },
+    {
+     "name": "Artribune",
+     "url": "https://www.artribune.com/arti-performative/cinema/2026/10/appuntamenti-guida-film-festa-cinema-roma-2026/"
+    },
+    {
+     "name": "Libero",
+     "url": "https://www.libero.it/magazine/news/festa-del-cinema-di-roma-2026-programma-16-ottobre-alessandra-mastronardi-lorenzo-jovanotti-film-red-carpet-227058"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-italia-serie-a-jornada-7-inter-bologna-lazio-juve",
+   "section": "italia",
+   "weight": 1,
+   "title": "Inter visita al Bologna y Lazio a la Juventus en la jornada 7 de la Serie A, con los dos líderes empatados a 16 puntos",
+   "dek": "Venezia sigue sin puntos tras seis jornadas, con 5 goles a favor y 16 en contra, según Corriere dello Sport.",
+   "figure": {
+    "value": "16",
+    "label": "puntos de Inter y Lazio"
+   },
+   "place": "Italia",
+   "body": [
+    "Tras seis jornadas, Inter y Lazio lideran la Serie A con 16 puntos cada una, seguidas de la Roma con 14 y el Cagliari con 13, según la clasificación de Corriere dello Sport. En la parte baja, el Venezia es último con 0 puntos (seis derrotas, cinco goles a favor y 16 en contra) y Udinese, Monza, Genoa, Parma y Fiorentina suman 4.",
+    "La jornada 7 se disputa entre el 16 y el 19 de octubre. Calcio e Finanza destaca el Bologna-Inter, con los nerazzurri visitando el Dall'Ara, y el Juventus-Lazio en el Stadium. Según las probables alineaciones de WH News, el Inter jugará sin Lautaro Martínez y Spalletti seguirá el Juventus-Lazio desde la tribuna.",
+    "Las fuentes consultadas no detallan los horarios de cada partido, que conviene mirar en la web de la liga."
+   ],
+   "keys": [
+    "Inter y Lazio, líderes con 16 puntos",
+    "Bologna-Inter y Juventus-Lazio, los grandes partidos de la jornada",
+    "El Venezia, colista con 0 puntos"
+   ],
+   "why": "Si tu pareja sigue la Serie A, Inter y Lazio llegan empatadas a la cabeza de la tabla.",
+   "sources": [
+    {
+     "name": "Corriere dello Sport",
+     "url": "https://www.corrieredellosport.it/live/classifica-serie-a"
+    },
+    {
+     "name": "Calcio e Finanza",
+     "url": "https://www.calcioefinanza.it/2026/10/16/calendario-eventi-sportivi-16-22-ottobre/"
+    },
+    {
+     "name": "WH News",
+     "url": "https://williamhillnews.it/calcio/serie-a/serie-a-le-probabili-formazioni-della-7a-giornata-linter-senza-lautaro-al-dallara-spalletti-in-tribuna-per-juventus-lazio/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-wall-street-viernes-nasdaq-ia-nvidia",
+   "section": "economia",
+   "weight": 2,
+   "title": "Wall Street cierra la semana con caídas: el Nasdaq pierde un 4,5 % en cinco días por las dudas sobre la deuda de la IA",
+   "dek": "El viernes el S&P 500 cedió un 1,09 % y Nvidia un 1,43 %; CoreWeave se hundió casi un 12 %.",
+   "figure": {
+    "value": "-4,5 %",
+    "label": "Nasdaq en la semana"
+   },
+   "place": "Nueva York",
+   "body": [
+    "Wall Street cerró el viernes 16 de octubre a la baja: el Dow Jones perdió un 0,34 % hasta 52.002 puntos, el S&P 500 un 1,09 % hasta 7.659 y el Nasdaq entre un 2,14 % y un 2,15 % hasta 26.140, según EFE vía Infobae y Estrategias de Inversión. El Nasdaq acumula una caída del 4,5 % en la semana, la peor desde junio. Ambas fuentes atribuyen el castigo al escrutinio sobre el gasto y el endeudamiento de la inteligencia artificial.",
+    "La compañía CoreWeave cayó un 11,91 % en la jornada y un 26,15 % en la semana, y el fabricante surcoreano SK Hynix bajó un 6,58 % tras el anuncio de un fabricante chino de chips de memoria, CXMT. Nvidia cerró en 214,14 dólares, un 1,43 % menos, según Estrategias de Inversión. Yahoo Finance recordaba que ese día la empresa lanzaba portátiles RTX Spark desde 2.599 dólares, con agentes de IA locales, y que las acciones cotizaban a 215,7 dólares (−0,7 %) a media mañana.",
+    "Parte del capital rotó hacia sectores defensivos: la sanidad alcanzó máximos históricos. El índice de volatilidad VIX subió más de cuatro puntos, con un máximo intradiario de 22,31, según Estrategias de Inversión.",
+    "El MSCI World, en el que se invierte a través de un fondo global, no tenía aún cierre del viernes; el último nivel hallado, 4.932,95 puntos del 15 de octubre (+0,34 %), es provisional según abcbourse. Esta información describe lo ocurrido en el mercado y no es una recomendación de compra ni de venta."
+   ],
+   "keys": [
+    "Dow −0,34 %, S&P 500 −1,09 %, Nasdaq ≈ −2,15 %",
+    "Nasdaq −4,5 % en la semana, la peor desde junio",
+    "Nvidia cierra en 214,14 dólares (−1,43 %)",
+    "CoreWeave −11,91 % y SK Hynix −6,58 %"
+   ],
+   "why": "Tus inversiones en MSCI World, S&P 500 y Nvidia han tenido una semana mala por el miedo a la deuda de la IA; mira el largo plazo y no reacciones por el día.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/agencias/2026/10/16/wall-street-cae-lastrado-por-el-nasdaq-que-pierde-un-45-en-la-semana/"
+    },
+    {
+     "name": "Estrategias de Inversión",
+     "url": "https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-eeuu/dow-jones-sp-500-y-nasdaq-caen-al-cierre-ante-n-960973"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-slip-0-7-175330778.html"
+    },
+    {
+     "name": "abcbourse",
+     "url": "https://www.abcbourse.com/cotation/MSWRDu"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-ibex-19326-sabadell-euribor",
+   "section": "economia",
+   "weight": 1,
+   "title": "El Ibex 35 cierra la semana en 19.326 puntos con Sabadell al alza y el euríbor en el 3,217 %",
+   "dek": "La bolsa española sube un 0,77 % el viernes, aún lejos de su récord de 20.213,60 de agosto.",
+   "figure": {
+    "value": "19.326",
+    "label": "puntos del Ibex"
+   },
+   "place": "Madrid",
+   "body": [
+    "El Ibex 35 cerró el viernes con una subida del 0,77 % hasta 19.326,30 puntos, según Estrategias de Inversión, lejos todavía de su máximo histórico de 20.213,60 del 11 de agosto. Acciona Energía (+3,18 %), Acciona (+2,97 %) y Telefónica (+2,71 %) lideraron las subidas; Redeia fue la única caída (−0,2 %) y Aena cerró plana.",
+    "En la banca, Sabadell subió un 2,06 % hasta 3,62 euros, BBVA un 0,83 % hasta 23,18, y Santander un 0,30 % hasta 12,03, según la tabla de bancos de esa misma web. Goldman Sachs mantiene la recomendación de vender Sabadell, con precio objetivo de 3,60 euros, sin potencial sobre la cotización, y UBS mantiene la de comprar Santander con objetivo de 14 euros. Son opiniones de brókers, no hechos.",
+    "El euríbor a 12 meses se situó en el 3,217 % el jueves 15, tras subir 0,016 puntos por tercer día seguido, según Rankia. La media provisional de octubre es del 3,216 %, por debajo del 3,247 % de septiembre, así que las hipotecas que se revisen en noviembre podrían ajustarse algo a la baja. El Banco Central Europeo se reúne el 29 de octubre y la media de octubre se fijará el 30."
+   ],
+   "keys": [
+    "Ibex 35: +0,77 % hasta 19.326,30",
+    "Sabadell +2,06 %, BBVA +0,83 %, Santander +0,30 %",
+    "Euríbor a 12 meses: 3,217 % el 15 de octubre",
+    "El BCE se reúne el 29 de octubre"
+   ],
+   "why": "Si tienes o piensas tener una hipoteca variable, el euríbor de octubre es algo menor que el de septiembre; el BCE decide el 29.",
+   "sources": [
+    {
+     "name": "Estrategias de Inversión",
+     "url": "https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-espana/el-ibex-35-cierra-la-semana-por-todo-lo-alto-tenido-n-960945"
+    },
+    {
+     "name": "Estrategias de Inversión (bancos)",
+     "url": "https://www.estrategiasdeinversion.com/cotizaciones/bancos-espanoles-en-bolsa"
+    },
+    {
+     "name": "Rankia",
+     "url": "https://www.rankia.com/blog/mejores-hipotecas/7513740-euribor-hoy-16-octubre-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-petroleo-100-dolares-bonos-fed",
+   "section": "economia",
+   "weight": 1,
+   "title": "El petróleo supera los 100 dólares, los bonos de EE UU rinden más del 5 % y la Fed se reúne el 27 y 28 de octubre",
+   "dek": "El WTI sube un 3,51 % hasta 101,41 dólares por el conflicto con Irán; FedWatch da un 82,8 % de probabilidad de que mantenga los tipos.",
+   "figure": {
+    "value": "101,41",
+    "label": "dólares, WTI"
+   },
+   "place": "Nueva York",
+   "body": [
+    "El crudo estadounidense WTI subió un 3,51 % el viernes hasta 101,41 dólares por barril en el contexto del conflicto entre EE UU e Irán, según EFE vía Infobae, algo que presiona la inflación. El Brent cotizaba esa mañana en torno a 105,42 dólares (−0,47 %), según Estrategias de Inversión, y se encaminaba a una ganancia semanal.",
+    "El rendimiento del bono del Tesoro a diez años se situó en el 5,081 % y el de treinta años en el 5,429 %. La Reserva Federal se reúne el 27 y 28 de octubre y la herramienta FedWatch da un 82,8 % de probabilidad de que mantenga los tipos. Estrategias de Inversión añade que, según los futuros de bonos, la probabilidad de una subida en octubre ronda el 15 % y que el presidente de la Fed, Kevin Warsh, no se comprometió a subir tipos este mes.",
+    "Bank of America calcula que el 55 % de la cesta de precios al consumo sube más de un 2,5 % anualizado trimestral, lo que mantiene la presión inflacionista. En la semana, además, el euro/dólar cotizaba en torno a 1,12."
+   ],
+   "keys": [
+    "WTI: +3,51 % hasta 101,41 dólares",
+    "Bono a diez años: 5,081 %; a treinta: 5,429 %",
+    "Fed: reunión el 27 y 28 de octubre",
+    "Probabilidad de mantener tipos: 82,8 % (FedWatch)"
+   ],
+   "why": "Un petróleo caro y unos bonos que rinden más del 5 % suelen presionar a las bolsas y encarecer la hipoteca y la gasolina.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/agencias/2026/10/16/wall-street-cae-lastrado-por-el-nasdaq-que-pierde-un-45-en-la-semana/"
+    },
+    {
+     "name": "Estrategias de Inversión",
+     "url": "https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-eeuu/dow-jones-sp-500-y-nasdaq-caen-al-cierre-ante-n-960973"
+    },
+    {
+     "name": "Estrategias de Inversión (directo)",
+     "url": "https://www.estrategiasdeinversion.com/amp/la-bolsa-hoy-en-directo/16-10-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-alquiler-bizkaia-sube-gesvalt",
+   "section": "sociedad",
+   "weight": 2,
+   "title": "El alquiler sube un 1,8 % en Bizkaia mientras baja en Álava y Gipuzkoa, según Gesvalt",
+   "dek": "Euskadi baja un 1,4 %, la primera caída en más de tres años; un piso medio de 76 metros costaría unos 1.190 euros al mes en Bizkaia.",
+   "figure": {
+    "value": "+1,8 %",
+    "label": "alquiler en Bizkaia"
+   },
+   "place": "Bizkaia",
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   },
+   "body": [
+    "El alquiler libre en Bizkaia cuesta 15,66 euros por metro cuadrado, un 1,8 % más que hace un año, mientras que en Gipuzkoa (17,69 €/m²) baja un 2,3 % y en Álava (11,37) un 3 %, según Gesvalt en el tercer trimestre, citado por Bilbao Hiria. Euskadi en conjunto baja un 1,4 %, la primera caída en más de tres años. Bilbao se sitúa en 15,45 €/m², un 3,5 % menos que en el segundo trimestre y un 1 % más que en 2025.",
+    "Con esos precios, un piso medio de 76 metros cuadrados costaría unos 1.190 euros al mes en Bizkaia, frente a 1.121 de media en Euskadi. Los datos no son directamente comparables: Gesvalt parte de tasaciones, Idealista mide anuncios y la estadística del Gobierno Vasco (EMAL) incluye contratos antiguos.",
+    "Idealista, según el análisis de Josean Paunero, muestra anuncios un 3 % más baratos en Bizkaia, un 0,3 % en Euskadi y un 5,6 % más caros en España. Paunero sostiene que los topes en zona tensionada bajan el alquiler en Bilbao pero secan la oferta: de 540 anuncios en junio, 436 eran de temporada. Es su interpretación, no un hecho aceptado por todos. La EMAL, con datos de cierre de 2025, cifra la renta media de los contratos vigentes en 798 euros en Bizkaia y en 883,30 euros en Bilbao.",
+    "Las fianzas de nuevos contratos del cuarto trimestre de 2025 subieron un 10,5 % hasta 909,40 euros, y según el Observatorio Vasco de la Vivienda el alquiler libre se come el 48,9 % de los ingresos en Euskadi. El Gobierno Vasco prepara además un Fondo Social de Vivienda con 10.000 pisos a unos 8 o 9 euros por metro cuadrado para hogares con ingresos de 25.000 a 65.000 euros, aún en preparación y con obras desde 2028."
+   ],
+   "keys": [
+    "Bizkaia +1,8 % (15,66 €/m²), Gipuzkoa −2,3 %, Álava −3 %",
+    "Euskadi −1,4 %, primera caída en más de tres años",
+    "Un piso de 76 m² costaría unos 1.190 euros al mes en Bizkaia",
+    "Las fuentes miden cosas distintas: tasaciones, anuncios y contratos"
+   ],
+   "why": "Si buscas piso en Bilbao, estas cifras reflejan que los precios se han estabilizado, pero sigue costando casi la mitad de un sueldo.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria (Gesvalt)",
+     "url": "https://bilbaohiria.com/bizkaia/alquiler-bizkaia-sube-euskadi-baja-gesvalt-2026"
+    },
+    {
+     "name": "Bilbao Hiria (Paunero)",
+     "url": "https://bilbaohiria.com/bilbao/tope-alquiler-bilbao-zona-tensionada-josean-paunero/"
+    },
+    {
+     "name": "Bilbao Hiria (Fondo Social)",
+     "url": "https://bilbaohiria.com/euskal-herria/fondo-social-vivienda-euskadi-clase-media"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-medicos-aplazan-huelga-indefinida-28-oct",
+   "section": "sociedad",
+   "weight": 1,
+   "title": "Los médicos aplazan la huelga indefinida del 28 de octubre por las elecciones, pero no la desconvocan",
+   "dek": "CESM, Sindicato Médico Andaluz y Sindicato Médico de Euskadi piden a los partidos que fijen posición en sus programas.",
+   "figure": {
+    "value": "28 oct",
+    "label": "huelga aplazada"
+   },
+   "place": "España",
+   "thread": {
+    "id": "sanidad",
+    "label": "Sanidad"
+   },
+   "body": [
+    "El Comité de Huelga formado por CESM, el Sindicato Médico Andaluz y el Sindicato Médico de Euskadi ha aplazado la huelga indefinida que iba a empezar el 28 de octubre tras la convocatoria de elecciones generales para el 29 de noviembre, según Orain. La tramitación parlamentaria del Estatuto Marco está paralizada tras disolverse las Cortes, y los sindicatos argumentan que sin interlocutor político no hay con quién negociar un nuevo marco para los médicos.",
+    "Los sindicatos subrayan que el aplazamiento es «estratégico» y que la convocatoria sigue vigente; avisan de que podrían reactivar las movilizaciones si el próximo Gobierno no responde. Sus demandas son un marco normativo propio, una mesa específica de negociación, el reconocimiento y la regulación de las guardias, unas condiciones de jubilación adecuadas y una clasificación profesional acorde a la formación.",
+    "La decisión no afecta a la huelga del 30 de octubre en Osakidetza convocada por el resto de sindicatos de la mayoría sindical (SATSE, ELA, LAB, CCOO y UGT). El comité presentará sus reivindicaciones al próximo Gobierno y seguirá reuniéndose con los grupos políticos durante la campaña."
+   ],
+   "keys": [
+    "Huelga indefinida de médicos aplazada, no cancelada",
+    "Estatuto Marco paralizado por la disolución de las Cortes",
+    "La huelga del 30 de octubre en Osakidetza sigue convocada"
+   ],
+   "why": "Si tienes cita médica a finales de octubre, comprueba qué jornadas hay de paro; la del 30 sigue en pie en Osakidetza.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/07/los-medicos-aplazan-la-huelga-indefinida-del-28-octubre-tras-la-convocatoria-electoral/"
+    },
+    {
+     "name": "Orain (huelgas Osakidetza)",
+     "url": "https://orain.eus/es/actualidad/economia/2026/09/10/sindicatos-osakidetza-convocan-cinco-jornadas-huelga-octubre-diciembre/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-gaztelagun-habitaciones-30000-euros",
+   "section": "sociedad",
+   "weight": 1,
+   "title": "Gaztelagun cubre ahora el alquiler de habitaciones y sube el límite de ingresos a 30.000 euros",
+   "dek": "Las mejoras, vigentes desde el 11 de mayo, fijan una renta máxima subvencionable de 900 euros al mes en Bilbao.",
+   "figure": {
+    "value": "900 €",
+    "label": "renta máxima en Bilbao"
+   },
+   "place": "Euskadi",
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   },
+   "body": [
+    "El Gobierno Vasco aprobó mejoras para Gaztelagun, la ayuda al alquiler para jóvenes, vigentes desde el 11 de mayo de 2026. La renta máxima subvencionable es de 900 euros al mes en Bilbao, Donostia y Vitoria-Gasteiz, de 800 en las áreas metropolitanas de Bilbao y Donostia y en municipios de más de 10.000 habitantes, y de 750 en el resto; en zonas declaradas tensionadas puede llegar al 95 % de la renta media de la EMAL. La ayuda media es de 273 euros al mes, el 52,1 % del alquiler.",
+    "El límite de ingresos sube a 30.000 euros anuales para solicitudes individuales, 36.764 para unidades de convivencia de dos personas y 39.184 para familias numerosas. Por primera vez se reconocen el alquiler de habitaciones y el subarriendo, y puede haber hasta dos ayudas por vivienda compartida si cada unidad de convivencia tiene su propio contrato.",
+    "Según el Gobierno Vasco, las solicitudes se duplicaron (+104 %) en las tres primeras semanas de vigencia de las mejoras. Las dudas se resuelven con Alokabide y los canales digitales del Departamento. El comunicado no indica los requisitos de edad, que hay que mirar en la convocatoria."
+   ],
+   "keys": [
+    "Renta máxima de 900 €/mes en Bilbao",
+    "Ingresos hasta 30.000 € (individual)",
+    "Cubre habitaciones y subarriendo",
+    "Solicitudes +104 % tras las mejoras"
+   ],
+   "why": "Si vives de alquiler en Bilbao, puedes pedir Gaztelagun incluso si compartes piso o alquilas una habitación; comprueba el límite de edad.",
+   "sources": [
+    {
+     "name": "Gobierno Vasco",
+     "url": "https://www.euskadi.eus/gobierno-vasco/-/noticia/2026/las-solicitudes-gaztelagun-se-duplican-+104-tres-primeras-semanas-vigencia-mejoras-aprobadas-decreto-medidas-urgentes/"
+    },
+    {
+     "name": "Gazte Aukera",
+     "url": "https://www.gazteaukera.euskadi.eus/webgaz00-gbizhi2/es/contenidos/convocatoria/convocatoria_1641976885731/es_def/index.shtml"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-arriaga-aterkia-historia-bilbao-sobral",
+   "section": "cultura",
+   "weight": 2,
+   "title": "El Arriaga abre el fin de semana con «Arriagaren aterkia» y prepara «Una historia de Bilbao» y a Salvador Sobral",
+   "dek": "El concierto dramatizado para toda la familia se ofrece hoy a las 18:00 y mañana a las 12:00, con entradas de 11 a 21 euros.",
+   "figure": {
+    "value": "11-21 €",
+    "label": "Arriagaren aterkia"
+   },
+   "place": "Bilbao",
+   "body": [
+    "«Arriagaren aterkia» es un concierto dramatizado promovido por el Teatro Arriaga junto a la Sociedad Coral de Bilbao, que la web del teatro define como una producción musical, poética y onírica apta para toda la familia. Se ofrece hoy, 17 de octubre, a las 18:00, y mañana, 18, a las 12:00. Dura 60 minutos y se canta en euskera con sobretítulos en castellano e inglés.",
+    "Las entradas cuestan entre 11 y 21 euros, con un 25 % de descuento para amigos del Arriaga y miembros de la Coral, un 20 % para jóvenes, mayores de 65, desempleados, familias numerosas y personas con discapacidad igual o superior al 33 %, y un cupo limitado de entradas jóvenes a 5 euros.",
+    "La programación continúa con «Una historia de Bilbao» el 23 de octubre a las 19:30 y el 24 a las 19:00: una comedia nostálgica sobre una familia vasca a lo largo de cien años, dirigida por Ramón Ibarra e interpretada por Asier Hormaza y Lander Otaola, con una entrada base de 18 euros. El domingo 25 llega Salvador Sobral con «A flor do recomeço» (de 22 a 42 euros, según la web del teatro).",
+    "Más adelante figuran «Bizipoza» (27 de octubre), «Herencia» (28), el concierto de la Banda Municipal de Bilbao (29, con programa por anunciar) y «Panorama desde el puente» (30 y 31). La web del Arriaga no lista horarios ni precios de estas últimas en el calendario general."
+   ],
+   "keys": [
+    "Arriagaren aterkia: 17 de octubre a las 18:00 y 18 a las 12:00, 11-21 €",
+    "Una historia de Bilbao: 23 y 24 de octubre, 18 € de base",
+    "Salvador Sobral el 25 de octubre",
+    "Descuentos y cupo joven de 5 €"
+   ],
+   "why": "Hay cupo joven de 5 euros en el Arriaga: puede salirte barato un plan de teatro o concierto con tu pareja.",
+   "sources": [
+    {
+     "name": "Teatro Arriaga",
+     "url": "https://www.teatroarriaga.eus/programacion/arriagaren-aterkia/?lang=en"
+    },
+    {
+     "name": "Teatro Arriaga (Una historia de Bilbao)",
+     "url": "https://www.teatroarriaga.eus/programacion/una-historia-de-bilbao/?lang=en"
+    },
+    {
+     "name": "Teatro Arriaga (próximos)",
+     "url": "https://www.teatroarriaga.eus/proximos-espectaculos/?lang=en"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-bellas-artes-reapertura-cisneros",
+   "section": "cultura",
+   "weight": 1,
+   "title": "El Bellas Artes de Bilbao, ya con entrada de pago, muestra 180 obras de la colección Cisneros hasta el 21 de enero",
+   "dek": "El museo reabrió el 5 de octubre con una ampliación de 6.000 metros cuadrados; Guggenheim y Bellas Artes ofrecen una entrada conjunta con descuento.",
+   "figure": {
+    "value": "180",
+    "label": "obras de Cisneros"
+   },
+   "place": "Bilbao",
+   "thread": {
+    "id": "bellas-artes",
+    "label": "Museo de Bellas Artes"
+   },
+   "body": [
+    "El Museo de Bellas Artes de Bilbao reabrió el 5 de octubre, coincidiendo con el nuevo atrio de la plaza Arriaga y con su 115.º aniversario, según Bilbao Hiria. La reforma, de Norman Foster y Luis María Uriarte, añade 6.000 metros cuadrados nuevos y renueva 2.250 del edificio histórico, y conecta en un solo recorrido el edificio clásico, el de 1970 y la ampliación.",
+    "La gran muestra de reapertura, «Visiones de Ultramar. Artistas viajeros en la Colección Patricia Phelps de Cisneros», reúne 180 obras del siglo XVII al XIX (pinturas, dibujos, grabados, mapas, libros y fotografías) y está comisariada por Estrella de Diego con el patrocinio de la Fundación BBVA. Se puede ver hasta el 21 de enero. Cisneros también dona al museo la obra «Esfera n.º 1» de Gego.",
+    "La entrada fue gratuita del 6 al 13 de octubre; desde el 14, el museo y el Guggenheim ofrecen una entrada conjunta con descuento, que otra pieza del mismo medio cifra en un 33 %. Las fuentes consultadas no recogen el precio de la entrada individual ni el horario: para eso, la web oficial del museo."
+   ],
+   "keys": [
+    "Reabrió el 5 de octubre con 6.000 m² nuevos",
+    "«Visiones de Ultramar»: 180 obras hasta el 21 de enero",
+    "Entrada conjunta con el Guggenheim con descuento desde el 14 de octubre"
+   ],
+   "why": "Si ya has visto el Guggenheim, el Bellas Artes renovado es otra opción de plan cultural en Bilbao, con entrada conjunta.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bilbao/bellas-artes-bilbao-reapertura-coleccion-cisneros"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/cultura/2026/10/05/hoy-se-inaugura-el-museo-bellas-artes-bilbao/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-bad-bilbao-17-citas-artes-escenicas",
+   "section": "cultura",
+   "weight": 1,
+   "title": "El festival BAD Bilbao ofrece hasta el 25 de octubre 17 citas con teatro y danza contemporáneos a 10 euros",
+   "dek": "Seis estrenos absolutos y dos funciones en euskera en Harrobia, el 22 y el 23.",
+   "figure": {
+    "value": "17",
+    "label": "citas en 17 compañías"
+   },
+   "place": "Bilbao",
+   "body": [
+    "La XXVIII edición del BAD Festival de Teatro y Danza Contemporánea, organizada por el Ayuntamiento de Bilbao, se celebra del 15 al 25 de octubre en La Fundición, Harrobia Eskena, Bilborock, la Sala Kupula del Teatro Campos Elíseos y Dantzerti, según Kulturklik. El programa reúne 17 piezas de 17 compañías: seis vascas, siete del resto de España y cuatro internacionales.",
+    "Incluye seis estrenos absolutos, uno estatal y cuatro en Euskadi. Dos funciones son en euskera, en Harrobia el 22 y el 23 de octubre. Abrió el 15 con «La voz de alarma», de Los Voluble y Dani Hernández, en Bilborock.",
+    "Las entradas cuestan 10 euros desde el 15 de octubre (8 euros hasta esa fecha). Se compran en la web del festival, en La Fundición y en el Campos Elíseos, y hay entradas el mismo día en taquilla desde 30 minutos antes de cada función. El festival tiene el certificado Erronka Garbia de Ihobe."
+   ],
+   "keys": [
+    "15 a 25 de octubre; 17 piezas de 17 compañías",
+    "Seis estrenos absolutos",
+    "Entradas a 10 €; mismo día en taquilla 30 minutos antes"
+   ],
+   "why": "A 10 euros por función es uno de los planes de teatro más baratos de la semana en Bilbao.",
+   "sources": [
+    {
+     "name": "Kulturklik",
+     "url": "https://www.kulturklik.euskadi.eus/noticia/2026/10/13/el-festival-de-teatro-y-danza-contemporanea-de-bilbao-bad-ofrece-entre-el-15-y-el-25-de-octubre-17-citas-con-las-artes-escenicas/webkklik00-detalle/es/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-cocodrilo-eoceno-herugavialis",
+   "section": "ciencia",
+   "weight": 2,
+   "title": "Un cocodrilo fósil hallado en la cantera que dio piedra a la Esfinge se reclasifica como un género nuevo: «Herugavialis»",
+   "dek": "El estudio, publicado el 9 de octubre en «Royal Society Open Science», lo vincula con los gaviales actuales.",
+   "figure": {
+    "value": "64 %",
+    "label": "hocico del cráneo"
+   },
+   "place": "Egipto",
+   "body": [
+    "Un equipo internacional dirigido por Paul M. J. Burke, del University College London, ha reanalizado los restos de un cocodrilo fósil de Egipto y concluye que no pertenecen a «Tomistoma cairense», como se creía, sino a un género distinto, que bautizan «Herugavialis». El estudio se publicó el 9 de octubre de 2026 en «Royal Society Open Science», según elDiario.es. Es un animal ya conocido que se reclasifica, no una especie recién descubierta.",
+    "Los fósiles proceden de Gebel Mokattam, al este de El Cairo, en la misma formación caliza que dio piedra a la Esfinge de Guiza; el vínculo es geológico, no se hallaron junto al monumento. Datan del Eoceno medio, millones de años antes de que se levantara la Esfinge. El nombre alude a Horus y a los gaviales.",
+    "Los autores escanearon con tomografía el cráneo original, descrito en 1927, y lo compararon con otros fósiles y con cocodrilianos actuales y extintos. Entre los rasgos que lo distinguen están los bordes elevados de ciertos huesos y un lagrimal más del doble de largo que el prefrontal. Estiman que el hocico suponía un 64 % de la longitud del cráneo, un dato que combina varios ejemplares porque al fósil principal le falta la parte delantera.",
+    "Hoy solo sobreviven dos gaviáloideos, ambos en Asia, aunque el registro fósil incluye más de 40 especies; en el Mediterráneo hubo unas seis en el Paleógeno y otras seis en el Mioceno. Los autores proponen que el clima y el nivel del mar influyeron en su evolución, pero son hipótesis por contrastar."
+   ],
+   "keys": [
+    "Nuevo género «Herugavialis» para un fósil de Egipto",
+    "Estudio del 9 de octubre en «Royal Society Open Science»",
+    "Fósil del Eoceno medio hallado en Gebel Mokattam"
+   ],
+   "why": "La paleontología reescribe a veces lo que creíamos saber con las mismas piezas de museo y mejores tecnologías.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/spin/mundo-animal/misterio-cocodrilo-prehistorico-hallado-cerca-esfinge-guiza-ciencia-acaba-resolver-pm_1_13574168.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-athletic-valencia-hoy-mestalla-21h",
+   "section": "deportes",
+   "weight": 2,
+   "title": "El Athletic juega hoy a las 21:00 en Mestalla con Nico Williams disponible y sin Sancet en el estreno de Aguirre",
+   "dek": "Terzić pide intensidad tras el mal arranque en Vallecas; el Valencia, con su tercer entrenador de la temporada.",
+   "figure": {
+    "value": "21:00",
+    "label": "hoy en Mestalla"
+   },
+   "place": "Valencia",
+   "thread": {
+    "id": "athletic",
+    "label": "Athletic Club"
+   },
+   "body": [
+    "El Valencia-Athletic de la jornada 9 de LaLiga se juega hoy sábado 17 de octubre a las 21:00 en Mestalla. Para Javier Aguirre es el debut en casa con el Valencia: firmó hasta final de temporada para sustituir a Carlos Corberán, y los valencianistas ya van por su tercer entrenador del curso, según Bilbao Hiria.",
+    "Hay novedades respecto a lo que contó ayer esta edición: Nico Williams está disponible, según Bilbao Hiria, después de completar el viernes la sesión completa tras entrenar solo parcialmente con el grupo durante la semana. Sancet sigue en el gimnasio y no volverá al césped hasta finales de octubre. De Laporte, que se perdió un entrenamiento por una indisposición, las fuentes no confirman su estado; Álvaro Djaló espera resultados de pruebas por una infección parecida a una gripe.",
+    "Edin Terzić dijo en la web del club que está convencido de que su equipo hará «una gran actuación» en un estadio como Mestalla. Admitió los problemas recientes, con dos partidos aplazados en los últimos tres y el parón internacional, y que no le gustaron los primeros 13 minutos en Vallecas. Prevé un Valencia adaptable y quiere que el Athletic se ajuste a su sistema.",
+    "Bilbao Hiria apunta que un posible aviso amarillo por tiempo podría amenazar el partido. En Bilbao llueve hoy con un 90 % de probabilidad, buen día para verlo en un bar."
+   ],
+   "keys": [
+    "Valencia-Athletic, hoy a las 21:00 en Mestalla (jornada 9)",
+    "Nico Williams disponible; Sancet, baja",
+    "Debut de Aguirre en Mestalla como entrenador del Valencia",
+    "Posible aviso amarillo por tiempo en Valencia"
+   ],
+   "why": "Si lo vas a ver en un bar del Casco Viejo, el partido empieza a las 21:00 y llueve en Bilbao hoy.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria (Nico)",
+     "url": "https://bilbaohiria.com/deportes/nico-williams-disponible-valencia-mestalla-terzic"
+    },
+    {
+     "name": "Bilbao Hiria (Aguirre)",
+     "url": "https://bilbaohiria.com/deportes/terzic-lezama-intensidad-athletic-valencia-mestalla-aguirre/"
+    },
+    {
+     "name": "Athletic Club",
+     "url": "https://www.athletic-club.eus/en/news/2026/10/16/terzic-i-m-convinced-we-ll-deliver-a-great-performance-in-valencia/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-bilbao-basket-real-madrid-domingo",
+   "section": "deportes",
+   "weight": 1,
+   "title": "El Bilbao Basket visita mañana al Real Madrid invicto en el Movistar Arena, con un 2-1 en la Liga Endesa",
+   "dek": "El equipo de Ponsarnau llega de ganar 97-86 al Slavia de Praga en la Champions de baloncesto, con cuatro días de descanso.",
+   "figure": {
+    "value": "12:30",
+    "label": "domingo, en DAZN"
+   },
+   "place": "Madrid",
+   "body": [
+    "El Real Madrid-Bilbao Basket de la jornada 4 de la Liga Endesa se juega el domingo 18 de octubre a las 12:30 en el Movistar Arena de Madrid y se emite por DAZN, según Bilbao Hiria. El equipo de Jaume Ponsarnau tiene un balance de 2-1: ganó a Manresa (107-92) y al San Pablo Burgos (96-87) y perdió 104-101 en la prórroga en A Coruña, después de que Hilliard forzara el tiempo extra con un triple.",
+    "Llega tras ganar 97-86 al Slavia de Praga en la Basketball Champions League, con 19 puntos de Krampelj, y con solo cuatro días entre ese partido y el viaje a Madrid. Hlinason regresó ante Burgos pese a los ocho puntos de sutura de A Coruña. El Real Madrid está invicto en la liga.",
+    "El diario plantea el encuentro como una prueba de si la defensa y el anotador del equipo bilbaíno pueden aguantar fuera ante un rival superior."
+   ],
+   "keys": [
+    "Domingo 18 a las 12:30, en DAZN",
+    "Bilbao Basket: 2-1 en liga",
+    "Real Madrid, invicto",
+    "Ganó 97-86 en la Champions al Slavia"
+   ],
+   "why": "Para ver el partido en directo necesitas DAZN; si no la tienes, mira en bares con la plataforma.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/deportes/real-madrid-bilbao-basket-previa-movistar-arena-liga-endesa/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-athletic-femenino-valencia-lezama",
+   "section": "deportes",
+   "weight": 1,
+   "title": "El Athletic femenino defiende hoy su invicto en Lezama ante el Valencia en la jornada 7 de la Liga F",
+   "dek": "El equipo suma 11 puntos en seis jornadas; el partido se emite gratis por RTVE Play.",
+   "figure": {
+    "value": "11",
+    "label": "puntos en 6 jornadas"
+   },
+   "place": "Lezama",
+   "thread": {
+    "id": "athletic",
+    "label": "Athletic Club"
+   },
+   "body": [
+    "El Athletic Club femenino recibe hoy sábado 17 de octubre al Valencia en Lezama, en la jornada 7 de la Liga F Moeve, con emisión en directo y gratuita por RTVE Play, según Bilbao Hiria. La hora no figura en el artículo consultado.",
+    "El Athletic no ha perdido en Lezama esta temporada y suma 11 puntos en seis jornadas. Su último partido terminó en empate 2-2 en el campo del Madrid CFF, con un doblete de Bibi y un gol de Ouzraoui, y está en la zona alta de la clasificación.",
+    "El Valencia llega tras perder 0-1 ante la Real Sociedad, con gol de Nerea Eizagirre en el minuto 23."
+   ],
+   "keys": [
+    "Hoy en Lezama, jornada 7 de la Liga F",
+    "El Athletic no ha perdido en casa este curso",
+    "Se ve gratis por RTVE Play"
+   ],
+   "why": "Es un partido que puedes ver gratis en RTVE Play; la hora hay que confirmarla en la web del club.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/deportes/athletic-femenino-valencia-rtve-play-directo-liga-f-jornada-7"
+    }
+   ]
+  }
+ ],
+ "briefs": [
+  {
+   "id": "2026-10-17-b01",
+   "section": "euskadi",
+   "tag": "Industria",
+   "text": "Pradales clausuró en Amorebieta-Etxano el 20.º aniversario del Automotive Intelligence Center y pidió a Europa proteger «sin dilación» su industria del automóvil y apostar por el «Made in Europe».",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/economia/2026/10/16/pradales-pide-europa-proteger-sin-dilacion-al-sector-automocion-marcar-un-rumbo-claro-el-made-in-europe/"
+   },
+   "comarca": "du"
+  },
+  {
+   "id": "2026-10-17-b02",
+   "section": "euskadi",
+   "tag": "Parlamento Vasco",
+   "text": "EH Bildu registró una queja ante la Mesa por la respuesta «genérica» del Gobierno sobre el nuevo alto comisionado para la «Euskadi berria», José María Bilbao; la Mesa la tratará previsiblemente el martes.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/euskadi/eh-bildu-denuncia-desprecio-pradales-parlamento-no-atender-peticiones-informacion-oposicion_1_13591810.html"
+   }
+  },
+  {
+   "id": "2026-10-17-b03",
+   "section": "euskadi",
+   "tag": "PP de Bizkaia",
+   "text": "Bea Fanjul deja la política y no repetirá como candidata del PP de Bizkaia, según Bilbao Hiria, que habla de un partido que «suelta lastre» antes de las próximas citas electorales.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/bea-fanjul-deja-politica-no-repetira-candidata-pp-bizkaia/"
+   }
+  },
+  {
+   "id": "2026-10-17-b04",
+   "section": "euskadi",
+   "tag": "Vivienda",
+   "text": "Sopela ya tiene lista provisional de adjudicatarios de las 24 VPO de Loiola, según Bilbao Hiria.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/sopela-loiola-vpo-lista-provisional-adjudicatarios/"
+   },
+   "comarca": "uk"
+  },
+  {
+   "id": "2026-10-17-b05",
+   "section": "euskadi",
+   "tag": "Sucesos",
+   "text": "Un vigilante de Metro Bilbao sufrió una mordedura grave en la mano en la estación de Ariz, en Basauri, según Bilbao Hiria.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/vigilante-metro-bilbao-mordedura-ariz-basauri/"
+   },
+   "comarca": "ar"
+  },
+  {
+   "id": "2026-10-17-b06",
+   "section": "euskadi",
+   "tag": "Obras",
+   "text": "Durango iniciará la próxima semana la segunda fase de reurbanización de Antso Estegiz, con 1,48 millones de euros de inversión y 14 meses de obras, según Onda Vasca.",
+   "source": {
+    "name": "Onda Vasca",
+    "url": "https://www.ondavasca.com/durango-iniciara-la-proxima-semana-la-segunda-fase-de-reurbanizacion-de-antso-estegiz-con-una-inversion-de-148-millones-de-euros/"
+   },
+   "comarca": "du"
+  },
+  {
+   "id": "2026-10-17-b07",
+   "section": "euskadi",
+   "tag": "Obras",
+   "text": "Galdakao empieza este lunes tres meses de obras de urbanización frente al ambulatorio, con afecciones al tráfico y a los peatones, según Onda Vasca.",
+   "source": {
+    "name": "Onda Vasca",
+    "url": "https://www.ondavasca.com/galdakao-inicia-este-lunes-las-obras-de-urbanizacion-frente-al-ambulatorio/"
+   },
+   "comarca": "ar"
+  },
+  {
+   "id": "2026-10-17-b08",
+   "section": "euskadi",
+   "tag": "Euskera",
+   "text": "Bermeo ofrece ayudas para aprender euskera y sacar el carné de conducir en euskera; las solicitudes se presentan hasta el 2 de noviembre, según Onda Vasca.",
+   "source": {
+    "name": "Onda Vasca",
+    "url": "https://www.ondavasca.com/euskara-ikasteko-eta-gidabaimena-euskaraz-ateratzeko-dirulaguntzak-bermeon/"
+   },
+   "comarca": "bu"
+  },
+  {
+   "id": "2026-10-17-b09",
+   "section": "espana",
+   "tag": "Listas",
+   "text": "La Comisión de Listas del PSOE modificó la propuesta de Castilla y León y excluyó a Luis Tudanca de la lista al Congreso, según El Español.",
+   "source": {
+    "name": "El Español",
+    "url": "https://www.elespanol.com/espana/20261016/elecciones-generales-directo-ultima-hora-pedro-sanchez-actos-pp-psoe-vox-encuestas-cierre-plazo-electoral-espana-sondeos-voto-por-correo-partidos-2026-29n/1003744422218_10.html"
+   }
+  },
+  {
+   "id": "2026-10-17-b10",
+   "section": "espana",
+   "tag": "Vivienda",
+   "text": "Unai Sordo, de CCOO, afirmó en Orain que en España «se está generando una fractura social» en torno a la vivienda.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/economia/2026/10/16/unai-sordo-en-espana-se-esta-generando-una-fractura-social-en-torno-al-tema-la-vivienda/"
+   }
+  },
+  {
+   "id": "2026-10-17-b11",
+   "section": "mundo",
+   "tag": "OTAN",
+   "text": "Polonia advierte a la OTAN de que los sabotajes atribuidos a Rusia podrían provocar víctimas mortales, según el titular de El Debate.",
+   "source": {
+    "name": "El Debate",
+    "url": "https://www.eldebate.com/internacional/20261016/polonia-advierte-otan-sabotajes-atribuidos-rusia-puedan-provocar-victimas-mortales_469469.html"
+   }
+  },
+  {
+   "id": "2026-10-17-b12",
+   "section": "mundo",
+   "tag": "Casa Blanca",
+   "text": "Según Politico, que recoge El Español, Trump ha preguntado a aliados quién debería relevar a su jefa de gabinete, Susie Wiles; Trump lo niega y lo califica de «totalmente falso».",
+   "source": {
+    "name": "El Español",
+    "url": "https://www.elespanol.com/mundo/america/eeuu/20261017/cuchillos-largos-casa-blanca-asesores-trump-pugnan-suceder-jefa-gabinete-elecciones/1003744423428_0.html"
+   }
+  },
+  {
+   "id": "2026-10-17-b13",
+   "section": "italia",
+   "tag": "Política",
+   "text": "Elly Schlein, secretaria del PD, afirma en Bruselas que Salvini mantiene posturas distintas a las de Meloni sobre Ucrania, según ANSA.",
+   "source": {
+    "name": "ANSA",
+    "url": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/10/15/schlein-salvini-molto-distante-da-meloni-su-kiev_5ad2b935-062f-45d1-9fa9-4f103d83df38.html"
+   }
+  },
+  {
+   "id": "2026-10-17-b14",
+   "section": "economia",
+   "tag": "Pagos",
+   "text": "Visa abre Visa Direct a pagos con la «stablecoin» USDC en más de 180 países, según el titular de Bilbao Hiria.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/actualidad/visa-direct-usdc-stablecoin-pagos-180-paises/"
+   }
+  },
+  {
+   "id": "2026-10-17-b15",
+   "section": "cultura",
+   "tag": "Música",
+   "text": "El Kaiola Festibala de Galdakao cumple diez años de música experimental con varias bandas este sábado, según Onda Vasca.",
+   "source": {
+    "name": "Onda Vasca",
+    "url": "https://www.ondavasca.com/kaiola-festibala-de-galdakao-cumple-diez-anos-de-musica-experimental/"
+   },
+   "comarca": "ar"
+  },
+  {
+   "id": "2026-10-17-b16",
+   "section": "cultura",
+   "tag": "Conciertos",
+   "text": "Arde Bogotá llevará su gira de grandes recintos a San Mamés el 12 de junio; la preventa para fans registrados es hasta el 21 de octubre, según Onda Vasca.",
+   "source": {
+    "name": "Onda Vasca",
+    "url": "https://www.ondavasca.com/arde-bogota-llevara-su-gira-de-grandes-recintos-a-san-mames/"
+   },
+   "comarca": "bi"
+  },
+  {
+   "id": "2026-10-17-b17",
+   "section": "cultura",
+   "tag": "Festivales",
+   "text": "Mareak vuelve a Bermeo del 20 al 24 de octubre con cinco días de arte, música y propuestas culturales, según Onda Vasca.",
+   "source": {
+    "name": "Onda Vasca",
+    "url": "https://www.ondavasca.com/mareak-regresa-a-bermeo-con-cinco-dias-de-arte-musica-y-propuestas-culturales/"
+   },
+   "comarca": "bu"
+  },
+  {
+   "id": "2026-10-17-b18",
+   "section": "cultura",
+   "tag": "Romería",
+   "text": "Lemoa celebra hoy la segunda edición del Bizkaiko Erromeria Eguna, con todos los formatos de romería en un solo día, según Onda Vasca.",
+   "source": {
+    "name": "Onda Vasca",
+    "url": "https://www.ondavasca.com/lemoa-disfrutara-en-un-solo-dia-de-todos-los-formatos-de-la-erromeria-desde-los-mas-tradicionales-a-los-mas-modernos/"
+   },
+   "comarca": "ar"
+  },
+  {
+   "id": "2026-10-17-b19",
+   "section": "ciencia",
+   "tag": "Nobel",
+   "text": "El Nobel de Física 2026 es para Francis Halzen por detectar desde el Polo Sur neutrinos de alta energía de origen cósmico, según elDiario.es.",
+   "source": {
+    "name": "elDiario.es",
+    "url": "https://www.eldiario.es/sociedad/premio-nobel-fisica-2026-francis-halzen-descubrir-neutrinos-alta-energia-origen-cosmico_1_13564931.html"
+   }
+  },
+  {
+   "id": "2026-10-17-b20",
+   "section": "deportes",
+   "tag": "Atletismo",
+   "text": "El Bilbao Night Run Fest sale hoy desde las 19:00 de San Mamés, con medio maratón de 21,097 km y Carrera Pirata de 10 km, y termina en el Guggenheim; los dorsales se recogen en el Euskalduna hasta las 18:30.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bilbao/bilbao-night-run-fest-2026-recorrido-dorsales-horario"
+   },
+   "comarca": "bi"
+  }
+ ]
+}
