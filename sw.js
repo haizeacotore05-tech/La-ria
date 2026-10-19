@@ -1,5 +1,5 @@
 // La Ría — service worker: la app abre sin conexión y guarda las ediciones leídas.
-const SHELL = "laria-shell-v6";
+const SHELL = "laria-shell-v7";
 const DATA = "laria-data-v1";
 const SHELL_FILES = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png"];
 

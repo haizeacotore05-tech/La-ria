@@ -45,7 +45,7 @@
   color-scheme:dark;
 }
 *{box-sizing:border-box}
-html,body{background:var(--paper);color:var(--ink)}
+html,body{background:var(--paper);color:var(--ink);max-width:100%;overflow-x:clip}
 body{font-family:var(--f-text);font-size:17px;line-height:1.5;-webkit-font-smoothing:antialiased}
 button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;padding:0}
 a{color:inherit}
@@ -163,7 +163,9 @@ a{color:inherit}
 @media (min-width:600px){ .mkt-grid{grid-template-columns:repeat(2,minmax(0,1fr))} }
 .mkt-row{display:flex;justify-content:space-between;gap:8px;padding:8px 0;border-top:1px solid var(--line);font-variant-numeric:tabular-nums}
 .mkt-row b{font-weight:600;font-size:15.5px;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.mkt-row{flex-wrap:wrap}
 .mkt-row span{font-family:var(--f-mono);font-size:13px;white-space:nowrap}
+.mkt-row .mkt-note{flex-basis:100%;white-space:normal;font-size:11.5px;line-height:1.35;color:var(--muted);overflow-wrap:anywhere}
 .mkt-row .up{color:var(--up)} .mkt-row .down{color:var(--down)}
 .mkt p{margin:10px 0 4px;font-size:15.5px}
 .mkt-src{font-family:var(--f-mono);font-size:11px;color:var(--muted)}
@@ -355,7 +357,8 @@ mark{background:color-mix(in oklab, var(--ria) 28%, transparent);color:inherit;b
 .why p{margin:0;font-size:17.5px}
 .sources{margin-top:22px}
 .sources h5{margin:0 0 8px}
-.sources ol{margin:0;padding:0;list-style:none;display:grid;gap:8px}
+.sources ol{margin:0;padding:0;list-style:none;display:grid;grid-template-columns:minmax(0,1fr);gap:8px}
+.sources li{min-width:0}
 .sources a{display:flex;justify-content:space-between;gap:12px;align-items:center;padding:12px 14px;border:1px solid var(--line);border-radius:10px;text-decoration:none;background:var(--card);min-width:0}
 .sources a span:first-child{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:15px}
 .sources a b{font-family:var(--f-mono);font-weight:500;font-size:11.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--ria);flex:none}
@@ -930,9 +933,9 @@ function marketsBox(e){
   const m = e.markets; if (!m || !(m.items||[]).length) return "";
   const fmt = c => c == null ? "" : `${c > 0 ? "▲ +" : c < 0 ? "▼ " : ""}${String(c.toFixed(2)).replace(".", ",")}%`;
   return `<div class="mkt"><div class="mkt-top"><h4>Mercados</h4><span class="mono" style="color:var(--muted)">${esc(m.asOf || "")}</span></div>
-    ${(() => { const row = i => `<div class="mkt-row"><b>${esc(i.name)}</b><span>${esc(i.value)} ${i.change != null ? `<span class="${i.change > 0 ? "up" : i.change < 0 ? "down" : ""}">${fmt(i.change)}</span>` : `<span style="color:var(--muted)">${esc(i.note||"")}</span>`}</span></div>`;
+    ${(() => { const row = i => `<div class="mkt-row"><b>${esc(i.name)}</b><span>${esc(i.value)} ${i.change != null ? `<span class="${i.change > 0 ? "up" : i.change < 0 ? "down" : ""}">${fmt(i.change)}</span>` : ""}</span>${i.note ? `<span class="mkt-note">${esc(i.note)}</span>` : ""}</div>`;
       const mine = m.items.filter(i => i.mine); return mine.length ? `<div class="mkt-mine"><h5>Tus inversiones</h5><div class="mkt-grid">${mine.map(row).join("")}</div></div><h5 class="mkt-sub">Resto de mercados</h5>` : ""; })()}
-    <div class="mkt-grid">${m.items.filter(i => !i.mine).map(i => `<div class="mkt-row"><b>${esc(i.name)}</b><span>${esc(i.value)} ${i.change != null ? `<span class="${i.change > 0 ? "up" : i.change < 0 ? "down" : ""}">${fmt(i.change)}</span>` : `<span style="color:var(--muted)">${esc(i.note||"")}</span>`}</span></div>`).join("")}</div>
+    <div class="mkt-grid">${m.items.filter(i => !i.mine).map(i => `<div class="mkt-row"><b>${esc(i.name)}</b><span>${esc(i.value)} ${i.change != null ? `<span class="${i.change > 0 ? "up" : i.change < 0 ? "down" : ""}">${fmt(i.change)}</span>` : ""}</span>${i.note ? `<span class="mkt-note">${esc(i.note)}</span>` : ""}</div>`).join("")}</div>
     ${m.comment ? `<p>${esc(m.comment)}</p>` : ""}${(m.sources||[]).length ? `<div class="mkt-src">Datos: ${m.sources.map(x => `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>`).join(" · ")}. Informativo, no es consejo de inversión.</div>` : ""}</div>`;
 }
 function group(list, date){
