@@ -1,15 +1,45 @@
 {
+ "guerra-iran": {
+  "label": "Guerra de Irán",
+  "last": "2026-10-20",
+  "first": "2026-10-09",
+  "count": 12
+ },
+ "elecciones-29n": {
+  "label": "Elecciones 29-N",
+  "last": "2026-10-20",
+  "first": "2026-10-08",
+  "count": 46
+ },
+ "italia-meloni": {
+  "label": "Italia de Meloni",
+  "last": "2026-10-20",
+  "first": "2026-10-08",
+  "count": 12
+ },
+ "autogobierno": {
+  "label": "Autogobierno vasco",
+  "last": "2026-10-20",
+  "first": "2026-10-08",
+  "count": 4
+ },
+ "sanidad": {
+  "label": "Sanidad",
+  "last": "2026-10-20",
+  "first": "2026-10-08",
+  "count": 12
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-10-20",
+  "first": "2026-10-08",
+  "count": 19
+ },
  "vivienda": {
   "label": "Crisis de la vivienda",
   "last": "2026-10-19",
   "first": "2026-10-08",
   "count": 40
- },
- "elecciones-29n": {
-  "label": "Elecciones 29-N",
-  "last": "2026-10-19",
-  "first": "2026-10-08",
-  "count": 45
  },
  "tribunales-psoe": {
   "label": "Casos judiciales del PSOE",
@@ -29,35 +59,11 @@
   "first": "2026-10-09",
   "count": 4
  },
- "guerra-iran": {
-  "label": "Guerra de Irán",
-  "last": "2026-10-19",
-  "first": "2026-10-09",
-  "count": 10
- },
  "ucrania": {
   "label": "Guerra de Ucrania",
   "last": "2026-10-19",
   "first": "2026-10-08",
   "count": 9
- },
- "italia-meloni": {
-  "label": "Italia de Meloni",
-  "last": "2026-10-19",
-  "first": "2026-10-08",
-  "count": 11
- },
- "sanidad": {
-  "label": "Sanidad",
-  "last": "2026-10-19",
-  "first": "2026-10-08",
-  "count": 11
- },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-10-19",
-  "first": "2026-10-08",
-  "count": 18
  },
  "pnv-bizkaia": {
   "label": "PNV de Bizkaia",
@@ -112,12 +118,6 @@
   "last": "2026-10-12",
   "first": "2026-10-12",
   "count": 2
- },
- "autogobierno": {
-  "label": "Autogobierno vasco",
-  "last": "2026-10-10",
-  "first": "2026-10-08",
-  "count": 3
  },
  "volotea": {
   "label": "Crisis de Volotea",

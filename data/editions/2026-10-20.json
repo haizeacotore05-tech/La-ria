@@ -1,0 +1,1550 @@
+{
+ "date": "2026-10-20",
+ "number": 13,
+ "generatedAt": "2026-10-20T06:55:00+02:00",
+ "summary": "Irán ofrece reabrir Ormuz en siete días, Milán lleva al Gobierno de Meloni a endurecer la seguridad y arranca otra semana de campaña del 29-N; edición reducida por falta de acceso a las portadas.",
+ "essentials": [
+  {
+   "story": "2026-10-20-iran-ormuz-plan-paz-siete-dias",
+   "text": "Irán ofrece reabrir Ormuz en siete días si EE UU acepta su plan; el Brent ronda los 110 dólares y presiona gasolina y luz."
+  },
+  {
+   "story": "2026-10-20-campana-sanchez-abascal-castilla-leon-senado",
+   "text": "Precampaña del 29-N en Castilla y León: Vox sondea con el PP un pacto en el Senado, según eldiario.es."
+  },
+  {
+   "story": "2026-10-20-milan-meloni-decreto-sicurezza-ejercito",
+   "text": "Italia prepara un decreto de seguridad y manda 500 militares a Milán tras los disturbios; ojo si viajas."
+  },
+  {
+   "story": "2026-10-20-wall-street-rebote-nasdaq-ia",
+   "text": "Wall Street rebota el lunes con la IA: Nasdaq alrededor de +1,1 %, Dow Jones -0,07 %."
+  },
+  {
+   "story": "2026-10-20-inflacion-espana-doble-guerra-iran",
+   "text": "España duplica su inflación desde la guerra de Irán; el FMI prevé el 3,7 % en 2026."
+  },
+  {
+   "story": "2026-10-20-eh-bildu-pradales-desprecio-parlamento",
+   "text": "Nuevo modelo de acreditación del euskera desde la convocatoria de octubre; atenta al BOPV."
+  },
+  {
+   "story": "2026-10-20-osakidetza-cinco-huelgas-30-octubre",
+   "text": "Osakidetza: primera huelga el 30 de octubre; revisa si tienes citas médicas esa semana."
+  },
+  {
+   "story": "2026-10-20-tiempo-bilbao-martes-lluvia-escasa",
+   "text": "Hoy lluvia escasa y 18 °C en Bilbao; mañana lluvia y viento, según la previsión de ayer."
+  }
+ ],
+ "weather": {
+  "place": "Bilbao",
+  "days": [
+   {
+    "date": "2026-10-20",
+    "sky": "rain-light",
+    "text": "Lluvia escasa",
+    "max": 18,
+    "min": 4,
+    "rain": 25
+   },
+   {
+    "date": "2026-10-21",
+    "sky": "rain",
+    "text": "Lluvia y viento",
+    "max": 17,
+    "min": 9,
+    "rain": 100
+   },
+   {
+    "date": "2026-10-22",
+    "sky": "rain-light",
+    "text": "Lluvia escasa",
+    "max": 21,
+    "min": 7,
+    "rain": 65
+   }
+  ],
+  "source": {
+   "name": "Bilbao Hiria (AEMET)",
+   "url": "https://bilbaohiria.com/bilbao/tiempo-bilbao-hoy-martes-20-octubre-2026"
+  }
+ },
+ "markets": {
+  "asOf": "Cierre del lunes 19 de octubre (solo Nasdaq y Dow); resto, viernes 16",
+  "items": [
+   {
+    "name": "MSCI World (cierre 16 oct)",
+    "value": "4.907,78",
+    "change": -0.51,
+    "note": "ABC Bourse, 16/10; el lunes no se pudo confirmar",
+    "mine": true
+   },
+   {
+    "name": "S&P 500 (cierre 16 oct)",
+    "value": "7.659",
+    "change": -1.09,
+    "note": "Infobae, 16/10; lunes sin confirmar",
+    "mine": true
+   },
+   {
+    "name": "Nvidia (cierre 16 oct)",
+    "value": "214,13 $",
+    "change": -1.43,
+    "note": "Yahoo Finance, 16/10; lunes sin confirmar",
+    "mine": true
+   },
+   {
+    "name": "Nasdaq Composite (cierre 19 oct)",
+    "value": "precio sin confirmar",
+    "change": 1.1,
+    "note": "Alto Nivel / El Boletín; El Financiero: +1,49 %",
+    "mine": true
+   },
+   {
+    "name": "Dow Jones (cierre 19 oct)",
+    "value": "precio sin confirmar",
+    "change": -0.07,
+    "note": "Alto Nivel, cierre del lunes 19",
+    "mine": true
+   },
+   {
+    "name": "Ibex 35 (cierre 16 oct)",
+    "value": "19.326,3",
+    "change": 0.77,
+    "note": "El Español-Invertia y Bolsamania, 16/10"
+   },
+   {
+    "name": "Iberdrola (cierre 16 oct)",
+    "value": "21,69 €",
+    "change": 0.74,
+    "note": "Bolsamania, 16/10"
+   },
+   {
+    "name": "BBVA (cierre 16 oct)",
+    "value": "23,18 €",
+    "change": 0.83,
+    "note": "Bolsamania, 16/10"
+   },
+   {
+    "name": "Santander (cierre 16 oct)",
+    "value": "12,03 €",
+    "change": 0.3,
+    "note": "Bolsamania, 16/10"
+   },
+   {
+    "name": "Repsol (cierre 16 oct)",
+    "value": "29,80 €",
+    "change": 0.54,
+    "note": "Bolsamania, 16/10"
+   },
+   {
+    "name": "Sabadell (cierre 16 oct)",
+    "value": "3,62 €",
+    "change": 2.06,
+    "note": "Bolsamania, 16/10"
+   },
+   {
+    "name": "Euro/dólar (16 oct)",
+    "value": "1,125",
+    "change": 0.29,
+    "note": "El Español-Invertia, 16/10"
+   },
+   {
+    "name": "Brent (cierre 16 oct)",
+    "value": "109,86 $",
+    "change": 3.72,
+    "note": "Infobae, contrato de diciembre"
+   },
+   {
+    "name": "Euríbor 12 meses (15 oct)",
+    "value": "3,217 %",
+    "change": null,
+    "note": "Rankia, dato del 15 oct"
+   }
+  ],
+  "comment": "El lunes Wall Street cerró mixto: el Nasdaq subió alrededor de un 1,1 % por los valores de IA tras perder un 4,5 % la semana anterior, y el Dow Jones cedió un 0,07 %. No se ha podido confirmar con fecha el cierre del lunes para MSCI World, S&P 500, Nvidia ni la bolsa española, así que se mantienen los últimos datos verificados, marcados con su fecha.",
+  "sources": [
+   {
+    "name": "Alto Nivel",
+    "url": "https://www.altonivel.com.mx/lunes-negro-nasdaq-rebota-1-1-tras-caidas-de-la-semana-pasada-dow-jones-baja-0-07/"
+   },
+   {
+    "name": "El Boletín",
+    "url": "https://www.elboletin.com/wall-street-cierra-mixto-mientras-el-nasdaq-sube-un-11-y-el-dow-jones-cae/"
+   },
+   {
+    "name": "ABC Bourse",
+    "url": "https://www.abcbourse.com/cotation/MSWRDu"
+   }
+  ]
+ },
+ "alerts": [
+  {
+   "kind": "otros",
+   "title": "Vacunación gripe y covid sin cita en Bizkaia",
+   "text": "Cinco puntos de Osakidetza sin cita: Sáenz de Buruaga (Bilbao) de 8:00 a 20:00 todos los días; los demás, de lunes a viernes de 15:00 a 20:00.",
+   "when": "Hasta el 1 nov",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/16/estos-son-todos-los-puntos-en-los-sera-posible-vacunarse-contra-la-gripe-sin-cita-previa/"
+   }
+  },
+  {
+   "kind": "transporte",
+   "title": "Metro L1 hacia Etxebarri sale unos minutos antes",
+   "text": "Obras de vía entre Gobela, Neguri y Aiboa (1.761 traviesas): los trenes hacia Etxebarri salen antes; las frecuencias no cambian.",
+   "when": "Hasta el 17 dic",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/metro-bilbao-adelanta-salida-trenes-linea-1-etxebarri"
+   }
+  },
+  {
+   "kind": "huelga",
+   "title": "Huelga en Osakidetza el 30 de octubre",
+   "text": "SATSE, ELA, LAB, CCOO y UGT convocan paro en toda Osakidetza ese día. Habrá otras jornadas: 10 de diciembre en Bizkaia y 14 de diciembre en toda la red.",
+   "when": "30 oct",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/economia/2026/09/10/sindicatos-osakidetza-convocan-cinco-jornadas-huelga-octubre-diciembre/"
+   }
+  },
+  {
+   "kind": "obras",
+   "title": "Cierre del túnel de Artxanda La Salve-Txorierri",
+   "text": "Cinco meses de cierre por una rehabilitación de más de 20,6 millones. Cambian Bizkaibus 3247 (aeropuerto, solo desde Termibus), 3414, 2321, 2610 y 2611.",
+   "when": "Desde el 2 nov",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/bizkaibus-aeropuerto-termibus-cierre-tuneles-artxanda-noviembre-2026/"
+   }
+  },
+  {
+   "kind": "huelga",
+   "title": "Huelga general el 11 de noviembre",
+   "text": "UGT, CCOO, CGT y sindicatos de inquilinas convocan paro de 24 horas; ELA, LAB y ESK se han sumado. Reclaman salarios y vivienda. Servicios mínimos: sin concretar.",
+   "when": "11 nov",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/economia/2026/10/07/ela-lab-esk-tambien-iran-huelga-general-11-noviembre/"
+   }
+  }
+ ],
+ "agenda": [
+  {
+   "date": "2026-10-20",
+   "until": "2027-02-21",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "Steve McQueen: 66–76–26",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Gran exposición del artista y cineasta Steve McQueen; plan seguro para un día de lluvia.",
+   "price": "12 €; estudiantes de 18 a 26 años: 6 €",
+   "couple": true,
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://pro.guggenheim-bilbao.eus/fr/expositions"
+   }
+  },
+  {
+   "date": "2026-10-20",
+   "until": "2027-01-17",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "Ever is Over All. Pipilotti Rist",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Instalaciones de vídeo muy coloridas de Pipilotti Rist, abiertas desde el 1 de octubre, para pasar una tarde bajo techo.",
+   "price": "12 €; estudiantes de 18 a 26 años: 6 €",
+   "couple": true,
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://pro.guggenheim-bilbao.eus/fr/expositions"
+   }
+  },
+  {
+   "date": "2026-10-20",
+   "until": "2026-11-01",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "in situ: Igshaan Adams. Levantando el polvo",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Últimos días para ver al artista sudafricano Igshaan Adams y su archivo del cuerpo, entre tejido, memoria y polvo.",
+   "price": "12 €; estudiantes de 18 a 26 años: 6 €",
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://pro.guggenheim-bilbao.eus/fr/expositions"
+   }
+  },
+  {
+   "date": "2026-10-20",
+   "until": "2026-10-26",
+   "time": "10:00-20:00",
+   "kind": "plan",
+   "title": "Puente Bizkaia: paseo por la pasarela alta",
+   "place": "Puente Bizkaia, Portugalete/Getxo",
+   "text": "Cruzar a pie el puente colgante más antiguo del mundo, Patrimonio Mundial. Última entrada 20 minutos antes del cierre; el horario depende del tiempo.",
+   "price": "11 €; estudiantes y mayores de 65: 9 €",
+   "couple": true,
+   "source": {
+    "name": "Puente Bizkaia - Tarifas y horarios",
+    "url": "https://puente-colgante.com/tarifas-y-horarios"
+   }
+  },
+  {
+   "date": "2026-10-20",
+   "until": "2026-10-25",
+   "time": "10:00-19:00",
+   "kind": "plan",
+   "title": "San Juan de Gaztelugatxe: subida a la ermita",
+   "place": "Gaztelugatxe, Bermeo",
+   "text": "Subida a pie a la ermita sobre el mar, icono de la costa vasca; con alerta meteorológica se desaconseja subir.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Diputación Foral de Bizkaia - Gaztelugatxe",
+    "url": "https://www.bizkaia.eus/es/Gaztelugatxe"
+   }
+  },
+  {
+   "date": "2026-10-20",
+   "time": "19:00",
+   "kind": "cine",
+   "title": "Mareak (Bermeo): proyección de «Arcadia»",
+   "place": "Sala Nestor Basterretxea, Bermeo",
+   "text": "Documental de Paul Wright sobre la sociedad británica y la vida rural, con música de Adrian Utley y Will Gregory.",
+   "price": "Gratis hasta completar aforo",
+   "source": {
+    "name": "Onda Vasca",
+    "url": "https://www.ondavasca.com/mareak-regresa-a-bermeo-con-cinco-dias-de-arte-musica-y-propuestas-culturales/"
+   }
+  },
+  {
+   "date": "2026-10-20",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "BAD Bilbao: «La primera en morir» (Perpetûa Vastarda)",
+   "place": "La Fundición, Bilbao",
+   "text": "Propuesta de artes escénicas contemporáneas dentro del ciclo más arriesgado de la ciudad.",
+   "price": "10 €",
+   "source": {
+    "name": "Kulturklik (programa BAD Bilbao)",
+    "url": "https://www.kulturklik.euskadi.eus/noticia/2026/10/13/el-festival-de-teatro-y-danza-contemporanea-de-bilbao-bad-ofrece-entre-el-15-y-el-25-de-octubre-17-citas-con-las-artes-escenicas/webkklik00-detalle/es/"
+   }
+  },
+  {
+   "date": "2026-10-20",
+   "time": "20:00",
+   "kind": "concierto",
+   "title": "No Te Va Gustar",
+   "place": "Sala Kafe Antzokia, Bilbao",
+   "text": "Concierto de pop rock en la sala Kafe Antzokia, en el centro de Bilbao.",
+   "price": "Consulta la tarifa en su web",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/no-te-va-gustar-bilbao-1014489"
+   }
+  },
+  {
+   "date": "2026-10-21",
+   "time": "19:00",
+   "kind": "concierto",
+   "title": "Bilboko Udal Txistulari Banda 2026-27",
+   "place": "Palacio Euskalduna, Bilbao",
+   "text": "Concierto de la banda municipal de txistularis de Bilbao, una buena forma de conocer la música tradicional vasca.",
+   "price": "Desde 2 €",
+   "couple": true,
+   "source": {
+    "name": "Taquilla.com (Palacio Euskalduna)",
+    "url": "https://www.taquilla.com/bilbao/palacio-euskalduna-bilbao"
+   }
+  },
+  {
+   "date": "2026-10-22",
+   "time": "20:00",
+   "kind": "teatro",
+   "title": "La máquina del tiempo",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Función de jueves en el Campos Elíseos, buena excusa para salir entre semana.",
+   "price": "Desde 16,20 €",
+   "source": {
+    "name": "Taquilla.com (teatro en Bilbao)",
+    "url": "https://www.taquilla.com/espectaculos/teatro/bilbao"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "time": "09:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Severino (Balmaseda): Concurso Internacional de Putxeras",
+   "place": "Plaza San Severino, Balmaseda",
+   "text": "Cuadrillas cocinan la putxera (cocido encartado) desde primera hora; premios a las 14:30. Muchos bares ofrecen menú especial.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de San Severino (Balmaseda)",
+    "url": "https://blog.euskaltel.com/concurso-puxteras-balmaseda/"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "time": "19:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Severino (Balmaseda): dantza plaza",
+   "place": "Balmaseda",
+   "text": "Baile vasco en la plaza tras la jornada del concurso de putxeras.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de San Severino (Balmaseda)",
+    "url": "https://blog.euskaltel.com/concurso-puxteras-balmaseda/"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "until": "2026-10-24",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "Una historia de Bilbao (también sáb. 24 a las 19:00)",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Comedia nostálgica sobre una familia vasca a lo largo de cien años, con dos actores en escena y música en directo.",
+   "price": "18 €; descuentos y cupo joven: 5 €",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/una-historia-de-bilbao/?lang=en"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "time": "20:00",
+   "kind": "concierto",
+   "title": "Funzo",
+   "place": "Sala Santana 27, Bilbao",
+   "text": "Pop urbano y pop rock en directo para abrir el fin de semana.",
+   "price": "Desde 26 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/funzo-bilbao-1015943"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "time": "20:30",
+   "kind": "concierto",
+   "title": "Sultans of Swing",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Espectáculo musical «Sultans of Swing» en el Teatro Campos Elíseos.",
+   "price": "Desde 32 €",
+   "source": {
+    "name": "Taquilla.com (Teatro Campos Elíseos)",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "time": "20:30",
+   "kind": "concierto",
+   "title": "Mareak (Bermeo): Harria, de Aitor Aldanondo",
+   "place": "Kafe Antzokia, Bermeo",
+   "text": "Folk, rock, psicodelia y country con raíces vascas dentro del festival Mareak.",
+   "price": "6 €",
+   "couple": true,
+   "source": {
+    "name": "Onda Vasca",
+    "url": "https://www.ondavasca.com/mareak-regresa-a-bermeo-con-cinco-dias-de-arte-musica-y-propuestas-culturales/"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "time": "21:00",
+   "kind": "concierto",
+   "title": "Leo Rizzi",
+   "place": "Sala Stage Live, Bilbao",
+   "text": "Pop rock con aire de soul y rhythm and blues junto a la ría.",
+   "price": "Desde 30,90 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/leo-rizzi-bilbao-1016780"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "11:00",
+   "kind": "experiencia",
+   "title": "Mareak (Bermeo): visita guiada a Santimamiñe",
+   "place": "Santimamiñe, Kortezubi",
+   "text": "Visita con un arqueólogo al arte rupestre paleolítico; hay que inscribirse antes por correo electrónico.",
+   "price": "Gratis (inscripción obligatoria)",
+   "couple": true,
+   "source": {
+    "name": "Onda Vasca",
+    "url": "https://www.ondavasca.com/mareak-regresa-a-bermeo-con-cinco-dias-de-arte-musica-y-propuestas-culturales/"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "13:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Severino (Balmaseda): bertso poteoa y Banda Azkoaga",
+   "place": "Balmaseda",
+   "text": "Bertsos de bar en bar y concierto de la banda local, ambiente popular de mediodía.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de San Severino (Balmaseda)",
+    "url": "https://blog.euskaltel.com/concurso-puxteras-balmaseda/"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "17:30",
+   "kind": "fiesta",
+   "title": "Fiestas de San Severino (Balmaseda): poteo entre txokos",
+   "place": "Balmaseda",
+   "text": "Ruta de poteo entre las sociedades gastronómicas de Balmaseda tras la comida popular; la noche sigue con La Txama y romería.",
+   "price": "Gratis",
+   "source": {
+    "name": "Onda Vasca",
+    "url": "https://www.ondavasca.com/mendia-eskola-lanzara-el-txupinazo-de-san-severino-en-balmaseda/"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "19:00",
+   "kind": "concierto",
+   "title": "Candlelight: Las Cuatro Estaciones de Vivaldi",
+   "place": "Iglesia de la Encarnación, Bilbao",
+   "text": "Vivaldi a la luz de las velas en una iglesia del Casco Viejo; plan romántico y muy italiano.",
+   "price": "17-35 €",
+   "couple": true,
+   "source": {
+    "name": "Conciertos.club",
+    "url": "https://conciertos.club/bilbao-bizkaia/conciertos/114945-las-cuatro-estaciones-de-vivaldi-candlelight"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "19:00",
+   "kind": "teatro",
+   "title": "Ilusionarte",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Función de «Ilusionarte» en el Campos Elíseos; se repite el domingo 25 a las 18:00 (desde 22 €).",
+   "price": "Desde 18,70 €",
+   "source": {
+    "name": "Taquilla.com (Teatro Campos Elíseos)",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "19:30",
+   "kind": "concierto",
+   "title": "Últimos Nómadas + Mandarinas Al Sol",
+   "place": "Herriko Plaza, Barakaldo",
+   "text": "Concierto al aire libre de rock y pop estatal con varias bandas en la plaza de Barakaldo, sin coste.",
+   "price": "Gratis",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/ultimos-nomadas-mandarinas-al-sol-barakaldo-1017841"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "20:00",
+   "kind": "concierto",
+   "title": "Abbey Road: The Beatles Show & Orchestra",
+   "place": "Palacio Euskalduna, Bilbao",
+   "text": "Espectáculo con orquesta que repasa las canciones de The Beatles.",
+   "price": "Desde 45 €",
+   "couple": true,
+   "source": {
+    "name": "Taquilla.com (Palacio Euskalduna)",
+    "url": "https://www.taquilla.com/bilbao/palacio-euskalduna-bilbao"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "20:30",
+   "kind": "concierto",
+   "title": "4Copola + Neriva + Sevicia",
+   "place": "Sala Groove, Portugalete",
+   "text": "Noche de música en directo en Portugalete, con tres grupos por poco dinero.",
+   "price": "Desde 10 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/4copola-neriva-sevicia-portugalete-1017569"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "21:00",
+   "kind": "concierto",
+   "title": "Hijos De La Ruina",
+   "place": "Bilbao Arena Miribilla, Bilbao",
+   "text": "Concierto de rap y urbano en el pabellón de Miribilla, la cita más grande del sábado 24.",
+   "price": "Desde 55 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/hijos-de-la-ruina-bilbao-1011214"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "21:30",
+   "kind": "teatro",
+   "title": "BAD Bilbao 2026: función en el Campos Elíseos",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Una de las citas del festival de teatro y danza contemporánea BAD Bilbao.",
+   "price": "Desde 6 €",
+   "source": {
+    "name": "Taquilla.com (Teatro Campos Elíseos)",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "21:30",
+   "kind": "experiencia",
+   "title": "Mareak (Bermeo): «IRAUN» y Sophia Djebel Rose",
+   "place": "Kafe Antzokia, Bermeo",
+   "text": "Pieza de danza contemporánea de Amaia Elizaran y Silberius de Ura, seguida de un concierto.",
+   "price": "8 € (ambos)",
+   "source": {
+    "name": "Onda Vasca",
+    "url": "https://www.ondavasca.com/mareak-regresa-a-bermeo-con-cinco-dias-de-arte-musica-y-propuestas-culturales/"
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "time": "22:00",
+   "kind": "teatro",
+   "title": "Hoy se lía (Miki Dkai)",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Espectáculo «Hoy se lía», de Miki Dkai, en el Teatro Campos Elíseos.",
+   "price": "Desde 18 €",
+   "source": {
+    "name": "Taquilla.com (Teatro Campos Elíseos)",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "time": "12:30",
+   "kind": "experiencia",
+   "title": "BAD Bilbao: «Fiestas Invisibles»",
+   "place": "Bilborock, Bilbao",
+   "text": "Cierre del festival BAD con una propuesta de Paloma Calle y Massimiliano Casu, de entrada libre.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Kulturklik (programa BAD Bilbao)",
+    "url": "https://www.kulturklik.euskadi.eus/noticia/2026/10/13/el-festival-de-teatro-y-danza-contemporanea-de-bilbao-bad-ofrece-entre-el-15-y-el-25-de-octubre-17-citas-con-las-artes-escenicas/webkklik00-detalle/es/"
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "time": "13:00",
+   "kind": "fiesta",
+   "title": "Fiestas de San Severino (Balmaseda): herri kirolak",
+   "place": "Balmaseda",
+   "text": "Exhibición de deporte rural vasco al cierre del fin de semana de fiestas.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel Blog - Fiestas de San Severino (Balmaseda)",
+    "url": "https://blog.euskaltel.com/concurso-puxteras-balmaseda/"
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "time": "14:00",
+   "kind": "deporte",
+   "title": "Athletic Club – Getafe CF (LaLiga)",
+   "place": "San Mamés, Bilbao",
+   "text": "El Athletic recibe al Getafe en la jornada de LaLiga; ambiente de San Mamés, la catedral, para enseñar el fútbol vasco a quien viene de fuera.",
+   "price": "Consulta la tarifa en su web",
+   "couple": true,
+   "source": {
+    "name": "Futbol Total",
+    "url": "https://futboltotal.futbol/partido/athletic-club-vs-getafe-la-liga-2026-10-25"
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "time": "17:00",
+   "kind": "plan",
+   "title": "Itsasmuseum Bilbao: entrada gratuita los domingos por la tarde",
+   "place": "Museo Marítimo Ría de Bilbao, Bilbao",
+   "text": "Museo de la historia marinera de la ría junto al Guggenheim; los domingos desde las 17:00 la entrada es libre y se recoge en taquilla.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Blog Euskaltel",
+    "url": "https://blog.euskaltel.com/museos-gratis-bilbao"
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "time": "18:30",
+   "kind": "teatro",
+   "title": "El lago de los cisnes, por el Ballet de Kiev",
+   "place": "Palacio Euskalduna, Bilbao",
+   "text": "Clásico del ballet en el Euskalduna, plan especial de domingo en pareja.",
+   "price": "Desde 38 €",
+   "couple": true,
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/entradas/ballet-de-kiev"
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "time": "18:30",
+   "kind": "teatro",
+   "title": "Poderío (Virginia Riezu)",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Función de «Poderío», de Virginia Riezu, en el Teatro Campos Elíseos.",
+   "price": "Desde 15,30 €",
+   "source": {
+    "name": "Taquilla.com (Teatro Campos Elíseos)",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "time": "19:00",
+   "kind": "concierto",
+   "title": "Salvador Sobral: «A flor do recomeço»",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "El cantante portugués presenta su nuevo disco, con giro brasileño, en el Arriaga.",
+   "price": "22-42 €",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/salvador-sobral/?lang=en"
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "time": "19:30",
+   "kind": "concierto",
+   "title": "Fiestas de San Severino (Balmaseda): concierto en memoria de Tomás Negro",
+   "place": "Iglesia de San Severino, Balmaseda",
+   "text": "Concierto coral tradicional con los coros Kolitza, Euterpe Laukotea y Kolitza Gazte, cierre cultural de las fiestas.",
+   "price": "Gratis",
+   "source": {
+    "name": "Onda Vasca",
+    "url": "https://www.ondavasca.com/mendia-eskola-lanzara-el-txupinazo-de-san-severino-en-balmaseda/"
+   }
+  },
+  {
+   "date": "2026-10-27",
+   "time": "20:00",
+   "kind": "teatro",
+   "title": "Abriendo las manos",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Función de «Abriendo las manos» en el Teatro Campos Elíseos.",
+   "price": "Desde 24 €",
+   "source": {
+    "name": "Taquilla.com (Teatro Campos Elíseos)",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  }
+ ],
+ "jobs": [
+  {
+   "deadline": "2026-11-02",
+   "how": "Instancia según las bases; plazo de 20 días hábiles desde el BOE del 2-10-2026 (fecha de cierre calculada, confírmala).",
+   "kind": "oposicion",
+   "org": "Ayuntamiento de Getxo – Getxo Kirolak (OAL)",
+   "requirements": [
+    "Graduado Escolar, FP1 o equivalente (o poder obtenerlo al acabar el plazo)",
+    "Perfil lingüístico 2 (B2) preceptivo; se puede acreditar en pruebas del propio proceso si lo indicas en la solicitud",
+    "Bases en BOB nº 143 (29-07-2026) y BOE del 2-10-2026",
+    "Tasa y nacionalidad: confirmar en las bases"
+   ],
+   "source": {
+    "name": "BOE-A-2026-20500 · Resolución de 28-09-2026, Getxo Kirolak",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20500"
+   },
+   "status": "abierta",
+   "text": "3 plazas de auxiliar administrativo/a, personal laboral fijo (C2), concurso-oposición, turno libre. Convocatoria en el BOE del 2-10-2026. La fecha de examen aún no consta.",
+   "title": "Auxiliar Administrativo/a · Getxo Kirolak"
+  },
+  {
+   "kind": "oposicion",
+   "status": "abierta",
+   "title": "OPE Administración General · Gobierno Vasco (367 plazas)",
+   "org": "Gobierno Vasco",
+   "text": "367 plazas de funcionarios en el Plan Eki: 86 de Administración, 85 Jurídica, 49 Economía y Empresa, 48 Gestión Administrativa y otras escalas; 12 reservadas a discapacidad.",
+   "requirements": [
+    "Titulación: no consta en la fuente; las escalas A1/A2 (Industrial, Edificación) piden título universitario",
+    "Administración y Gestión Administrativa: confirmar en las bases si basta la ESO",
+    "Euskera y fechas de examen: pendientes de las bases",
+    "Tasa: confirmar en las bases"
+   ],
+   "deadline": "2026-11-10",
+   "how": "Inscripción por internet en euskadi.eus hasta el 10 de noviembre de 2026 a las 14:00.",
+   "source": {
+    "name": "Orain · Nueva OPE de 367 plazas",
+    "url": "https://orain.eus/es/actualidad/economia/2026/10/16/nueva-ope-funcionarios-la-administracion-general-vasca-367-plazas/"
+   }
+  },
+  {
+   "how": "Plazo cerrado el 16-09-2026. Vigila listas de admitidas y fecha de examen en la sede de empleo público de euskadi.eus.",
+   "kind": "oposicion",
+   "org": "Gobierno Vasco (Administración General)",
+   "requirements": [
+    "No se exige titulación; la ESO suma 7,20 puntos de mérito",
+    "Euskera: 107 plazas generales exigen PL1; 5 sin perfil",
+    "Tasa 8,18 €",
+    "Oposición (30 temas, hasta 100 puntos) más concurso (hasta 45)"
+   ],
+   "source": {
+    "name": "BOPV · Orden de 30-07-2026, Agrupación Profesional de Personal de Apoyo",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/08/2603653a.shtml"
+   },
+   "status": "en-curso",
+   "text": "117 plazas turno libre (112 generales, 5 discapacidad), concurso-oposición, sin titulación exigida. Funciones de apoyo: recepción, correspondencia, almacén. Primera prueba prevista en enero de 2027.",
+   "title": "Personal de Apoyo · Gobierno Vasco"
+  },
+  {
+   "kind": "oposicion",
+   "status": "en-curso",
+   "title": "Celador/a y Operario/a de servicios · Osakidetza",
+   "org": "Osakidetza",
+   "text": "OPE de subalternos: 376 plazas de celador/a según una academia. Plazo cerrado el 22-04-2026; examen el 20 de junio en el BEC de Barakaldo. Faltan plantilla definitiva y resultados.",
+   "requirements": [
+    "Certificación de años cursados: ESO o equivalente",
+    "Euskera no obligatorio para celador/a; puntúa como mérito en el concurso",
+    "7 % de destinos reservado a discapacidad",
+    "Resolución 468/2026, BOPV nº 54 (20-03-2026)"
+   ],
+   "how": "Plazo cerrado. Sigue plantillas, notas y la fase de concurso en la web de la OPE de Osakidetza.",
+   "source": {
+    "name": "BOPV · Resolución 468/2026 de Osakidetza (subalternos)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/03/2601239a.shtml"
+   }
+  },
+  {
+   "how": "Plazo cerrado. Vigila la web de OPE de Osakidetza: una academia habla de una segunda fase desde octubre (sin confirmar).",
+   "kind": "oposicion",
+   "org": "Osakidetza",
+   "requirements": [
+    "Titulación: Técnico/a en Gestión Administrativa \"o equivalente\" (Anexo I Decreto 186/2005); la ESO no se cita expresamente: confirma la equivalencia",
+    "Informática acreditada en KZgunea: Word avanzado y Excel básico",
+    "Tasa de 15 € (grupo C2)",
+    "Euskera no es requisito de acceso: PL2 suma 18 puntos y PL1 9 como mérito"
+   ],
+   "source": {
+    "name": "BOPV · Resolución 467/2026 de Osakidetza (BOPV 20-03-2026)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/03/2601238a.shtml"
+   },
+   "status": "en-curso",
+   "text": "708 plazas de turno libre (658 generales, 50 discapacidad) y 48 de promoción interna. Plazo cerrado el 22-04-2026; examen tipo test celebrado del 19 al 21 de junio. Próxima OPE sin fecha.",
+   "title": "OPE Osakidetza · Auxiliar Administrativo/a 2023-25"
+  },
+  {
+   "how": "Cuando se publique en el BOE, inscripción telemática en el plazo que fije la convocatoria; vigila el BOE.",
+   "kind": "oposicion",
+   "org": "Administración General del Estado (Función Pública / INAP)",
+   "requirements": [
+    "ESO, Graduado Escolar, FP1 o equivalente (grupo C2, como en la convocatoria anterior)",
+    "Nacionalidad y edad: según el EBEP; confirmar en las bases",
+    "Tasa de la anterior: 11,66 € (turno libre); la nueva, pendiente",
+    "Plazas, plazo y fechas: pendientes de la convocatoria"
+   ],
+   "source": {
+    "name": "INAP · Oferta de empleo público 2026",
+    "url": "https://laadministracionaldia.inap.es/noticia.asp?id=1265646"
+   },
+   "status": "proxima",
+   "text": "La convocatoria anterior (1.700 plazas, examen el 23-05-2026) ya está resuelta. La OEP 2026 (RD 387/2026) refuerza el cuerpo, pero su convocatoria aún no consta en el BOE.",
+   "title": "Auxiliar Administrativo del Estado (OEP 2026)"
+  },
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "OPE 2026 · Diputación Foral de Bizkaia",
+   "org": "Diputación Foral de Bizkaia",
+   "text": "OPE anunciada en mayo con 69 plazas: 34 administrativos, 19 trabajo social, 5 auxiliares de bibliotecas y 5 de servicios múltiples. Bases y plazos, pendientes en el BOB; prevén una segunda OPE este año.",
+   "requirements": [
+    "Titulación de cada plaza: confirmar en las bases",
+    "Euskera: confirmar en las bases",
+    "Auxiliar de bibliotecas y servicios múltiples serían las vías más probables con ESO (sin confirmar)",
+    "Nacionalidad y tasa: confirmar en las bases"
+   ],
+   "how": "Espera la publicación de bases en el BOB y en la web de la Diputación; la inscripción será telemática.",
+   "source": {
+    "name": "Onda Vasca · OPE de 69 plazas (28-05-2026)",
+    "url": "https://www.ondavasca.com/la-diputacion-de-bizkaia-lanzara-una-ope-de-69-plazas-este-ano/"
+   }
+  },
+  {
+   "how": "Área privada de la aplicación de Contratación temporal de Osakidetza; comprueba allí si hay plazo abierto para tu categoría.",
+   "kind": "bolsa",
+   "org": "Osakidetza",
+   "requirements": [
+    "Titulaciones admitidas: Técnico/a en Gestión Administrativa, FP1, Graduado Escolar o equivalente (confirmar encaje de la ESO)",
+    "No hace falta haber participado en la OPE",
+    "Las solicitudes se ordenan por fecha de presentación"
+   ],
+   "source": {
+    "name": "Osakidetza · Contratación temporal",
+    "url": "https://www.osakidetza.euskadi.eus/contratacion-temporal/webosk00-procon/es/"
+   },
+   "text": "Según sus FAQ (sep-2024) las listas temporales siguen abiertas, con altas hasta fechas de corte por categoría. A 9-10-2026 no hay aviso de apertura específico para Auxiliar Administrativo.",
+   "title": "Listas de contratación temporal · Auxiliar Administrativo/a"
+  },
+  {
+   "amount": "600 a 1.000 € por nivel A1-B2 (C1: 700 € si naciste en 1996 o después)",
+   "deadline": "2026-11-03",
+   "how": "Sede electrónica de euskadi.eus (servicio 1038713), 2.º turno del 1-09 al 3-11-2026, con justificantes de matrícula.",
+   "kind": "ayuda",
+   "org": "HABE · Gobierno Vasco",
+   "requirements": [
+    "Matrícula pagada en euskaltegi o autoaprendizaje homologado (1-06-2025 a 30-09-2026)",
+    "Nivel superado o acreditado entre 1-08 y 31-10-2026 (2.º turno)",
+    "Mínimo 50 horas lectivas (30 en verano) y 75 % de asistencia",
+    "Sin límite de edad: cumples; cada nivel se subvenciona una vez"
+   ],
+   "source": {
+    "name": "BOPV · Resolución HABE de 27-05-2026",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/06/2602457a.pdf"
+   },
+   "status": "abierta",
+   "text": "Subvención fija por nivel superado para quien se matriculó en un euskaltegi homologado entre jun-2025 y sep-2026. No es un porcentaje de la matrícula. Exenta de IRPF.",
+   "title": "Ayudas HABE para aprender euskera 2025-26 (2.º turno)"
+  },
+  {
+   "amount": "Hasta el 60 % de la renta, máx. 300 €/mes",
+   "deadline": "2026-12-31",
+   "how": "Sede electrónica de Euskadi (Mi carpeta) o con cita en Zuzenean o Alokabide; adjunta contrato y justificantes de pago.",
+   "kind": "ayuda",
+   "org": "Gobierno Vasco · Alokabide",
+   "requirements": [
+    "18 a 35 años (se extingue al cumplir 36)",
+    "6 meses de residencia efectiva e ininterrumpida en Euskadi",
+    "Ingresos brutos individuales entre 3.000 y 30.000 € al año",
+    "Contrato de alquiler de vivienda libre como domicilio habitual, sin parentesco hasta 3.er grado con el arrendador",
+    "Renta inicial máxima 900 € en Bilbao, pagada por transferencia",
+    "Incompatible con VPP en alquiler, RGI, IMV y PCV"
+   ],
+   "source": {
+    "name": "BOPV · Orden de 5-06-2026 (Gaztelagun)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/06/2602608a.shtml"
+   },
+   "status": "abierta",
+   "text": "Pago mensual de parte del alquiler de vivienda libre a jóvenes de 18 a 35 años (cumples la edad). Desde mayo cubre habitaciones y subarriendo; el límite individual de ingresos es de 30.000 €.",
+   "title": "Gaztelagun 2026 · ayuda al alquiler joven"
+  },
+  {
+   "kind": "ayuda",
+   "status": "proxima",
+   "title": "AlokaPlus · seguro público de impago de alquiler",
+   "org": "Gobierno Vasco · Vivienda",
+   "amount": "Gratuito para el propietario; hasta 14 mensualidades (20 si el inquilino tiene 35 años o menos)",
+   "text": "Aprobado por el Consejo de Gobierno; en vigor en noviembre. Lo contrata el propietario (hasta 5 viviendas) en zonas tensionadas: a ti, con 20 años, te daría más cobertura y facilita que te alquilen.",
+   "requirements": [
+    "Lo solicita el propietario, no la inquilina",
+    "Vivienda en municipio declarado zona tensionada, renta dentro del índice de referencia",
+    "Fianza limitada a una mensualidad",
+    "Edad: cumples (20 meses de cobertura hasta 35 años)",
+    "No borra la deuda: la Administración reclama después al inquilino"
+   ],
+   "how": "Propietario e inquilino firman el compromiso y registran el anexo del contrato antes de demandar; detalles de solicitud al entrar en vigor.",
+   "source": {
+    "name": "Orain · Seguro contra impagos aprobado (13-10-2026)",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/13/el-seguro-contra-los-impagos-del-alquiler-aprobado-el-gobierno-vasco-cubrira-20-mensualidades/"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "proxima",
+   "title": "Reforma de Etxebide · vivienda protegida",
+   "org": "Gobierno Vasco · Vivienda",
+   "text": "Proyecto de decreto en tramitación: reservaría el 30 % de cada promoción a rentas medias y daría más peso a la antigüedad en el registro. Aún no aprobado.",
+   "amount": "Sin importe: cambia el acceso a vivienda protegida",
+   "requirements": [
+    "Apartamentos dotacionales para jóvenes: menos de 36 años (cumples)",
+    "Ingresos mínimos equivalentes al SMI",
+    "Cupo del 30 %: ingresos de 20.000 a 46.000 € por unidad convivencial",
+    "Inscripción previa en Etxebide",
+    "Norma aún no aprobada: confirmar en el texto final"
+   ],
+   "how": "Inscríbete o actualiza tu solicitud en Etxebide; los cambios se aplicarán cuando se apruebe el decreto.",
+   "source": {
+    "name": "Gobierno Vasco · Reforma de Etxebide (9-07-2026)",
+    "url": "https://www.euskadi.eus/gobierno-vasco/-/noticia/2026/el-gobierno-vasco-inicia-tramitacion-que-reformara-etxebide-y-criterios-adjudicacion-vivienda-protegida-publica-alquiler/"
+   }
+  },
+  {
+   "amount": "50 % de reducción hasta 31-12-2026 (aviso Bizkaibus)",
+   "how": "Cárgalo en tu tarjeta Barik personalizada; consulta puntos de recarga y oficinas en la web de Bizkaibus.",
+   "kind": "ayuda",
+   "org": "Consorcio de Transportes de Bizkaia · Bizkaibus",
+   "requirements": [
+    "Menor de 26 años",
+    "Empadronada en un municipio de Bizkaia",
+    "Tarjeta Barik personalizada",
+    "Uso personal e intransferible"
+   ],
+   "source": {
+    "name": "Bizkaibus · Tarifas",
+    "url": "https://www.bizkaia.eus/es/web/bizkaibus/tarifas"
+   },
+   "status": "permanente",
+   "text": "Abonos Barik para menores de 26: Gazte 70 (70 viajes en 30 días) y Gazte Oro (ilimitado 30 días). Valen en Bizkaibus, Metro Bilbao, Euskotren y Tranvía. Cumples la edad.",
+   "title": "Gazte 70 y Gazte Oro (Barik, menores de 26)"
+  }
+ ],
+ "elections": {
+  "title": "Elecciones generales 29-N",
+  "date": "2026-11-29",
+  "status": "A seis semanas de las urnas, la precampaña se traslada a Castilla y León: Sánchez estuvo el lunes en Valladolid y Abascal tenía previsto estar hoy en Ponferrada. Según eldiario.es, Vox sondea con el PP un acuerdo contra la unión de las izquierdas en el Senado. El PP presentó el domingo a Albiol por Barcelona y lanza su «Contrato con España»; el PSOE suspendió el acto de Toledo del 21. Las encuestas divergen: el CIS da ventaja al PSOE y el agregador de The Objective sitúa al PP en cabeza.",
+  "euskadi": "EH Bildu propone a Oskar Matute para encabezar Bizkaia al Congreso y a Idurre Bideguren al Senado, sin Aizpurua, Pozueta ni Iñarritu; en Euskadi no hay acuerdo entre Podemos y el Frente Amplio, y Ezker Anitza-IU trabaja en una coalición con este último.",
+  "polls": {
+   "name": "Votómetro (agregador de Redlines) · The Objective",
+   "date": "2026-10-17",
+   "url": "https://theobjective.com/espana/politica/2026-10-17/votometro-pp-vox-mayoria-absoluta-psoe-izquierda/",
+   "items": [
+    {
+     "party": "PP",
+     "value": 32.2,
+     "seats": "hasta 145"
+    },
+    {
+     "party": "PSOE",
+     "value": 26.6,
+     "seats": "101-110"
+    },
+    {
+     "party": "Vox",
+     "value": 18.3,
+     "seats": "64-70"
+    },
+    {
+     "party": "Sumar",
+     "value": null,
+     "seats": "8-12"
+    },
+    {
+     "party": "Podemos",
+     "value": null,
+     "seats": "1-2"
+    },
+    {
+     "party": "ERC",
+     "value": null,
+     "seats": "menos de 7"
+    },
+    {
+     "party": "EH Bildu",
+     "value": null,
+     "seats": "6"
+    },
+    {
+     "party": "PNV",
+     "value": null,
+     "seats": "5"
+    },
+    {
+     "party": "Adelante Andalucía",
+     "value": null,
+     "seats": "1-2"
+    },
+    {
+     "party": "UPN",
+     "value": null,
+     "seats": "1"
+    },
+    {
+     "party": "BNG",
+     "value": null,
+     "seats": "1"
+    },
+    {
+     "party": "Coalición Canaria",
+     "value": null,
+     "seats": "1"
+    }
+   ]
+  },
+  "keyDates": [
+   {
+    "date": "2026-10-21",
+    "text": "Empieza el plazo para presentar candidaturas ante las juntas"
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Las Juntas Electorales proclaman a los candidatos"
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Arranca la campaña electoral a las 00:00"
+   },
+   {
+    "date": "2026-11-19",
+    "text": "Último día para solicitar el voto por correo"
+   },
+   {
+    "date": "2026-11-28",
+    "text": "Jornada de reflexión, antes de las urnas del 29-N"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "id": "2026-10-20-iran-ormuz-plan-paz-siete-dias",
+   "section": "mundo",
+   "weight": 3,
+   "title": "Irán ofrece reabrir Ormuz en siete días si Washington acepta su plan de paz, tras dos petroleros incendiados por minas",
+   "dek": "Teherán condiciona la reapertura del estrecho a que EE UU acepte sus términos; el crudo se mantiene en torno a los 110 dólares.",
+   "figure": {
+    "value": "7",
+    "label": "días para reabrir"
+   },
+   "place": "Estrecho de Ormuz",
+   "thread": {
+    "id": "guerra-iran",
+    "label": "Guerra de Irán"
+   },
+   "body": [
+    "Irán ha planteado que el estrecho de Ormuz podría volver a abrirse en una semana siempre que Estados Unidos acepte el plan de paz que le ha presentado. Así lo recogió el 19 de octubre el medio Moncloa.com. Es la continuación de la oferta de la que informó la edición de ayer, y de momento no hay señales públicas de que Washington la haya aceptado.",
+    "El ofrecimiento llega después de que dos petroleros ardieran en la zona al golpear, según la versión de Irán, minas navales. Esa afirmación procede de Teherán y no se ha podido contrastar de forma independiente en las fuentes consultadas hoy.",
+    "El mercado sigue pendiente de cada gesto: el Brent cerró el viernes en 109,86 dólares, su mayor nivel desde mayo, y las informaciones del fin de semana lo situaban en torno a los 110. Mientras Ormuz no se normalice, el tráfico de crudo seguirá condicionado."
+   ],
+   "keys": [
+    "La oferta iraní depende de que EE UU acepte su plan de paz",
+    "Dos petroleros incendiados por minas, según Irán",
+    "El Brent ronda los 110 dólares"
+   ],
+   "why": "Si Ormuz reabre, el petróleo podría abaratarse y con él la gasolina y la luz, algo que se notaría en tu compra y en el transporte. Si no, la inflación española, ya alta, seguiría presionando tu coste de vida y tus inversiones en bolsa. Conviene vigilar si Washington responde en los próximos días; hoy es una oferta, no un acuerdo.",
+   "sources": [
+    {
+     "name": "Moncloa.com",
+     "url": "https://www.moncloa.com/2026/10/19/iran-reabre-ormuz-plan-paz-eeuu-3451104/"
+    },
+    {
+     "name": "Moncloa.com",
+     "url": "https://www.moncloa.com/2026/10/18/petroleros-arden-estrecho-ormuz-minas-3450875"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-campana-sanchez-abascal-castilla-leon-senado",
+   "section": "espana",
+   "weight": 2,
+   "title": "La precampaña del 29-N se traslada a Castilla y León: Sánchez en Valladolid, Abascal en Ponferrada y Vox sondea un pacto con el PP en el Senado",
+   "dek": "Los tres grandes partidos calientan motores a seis semanas de las urnas, con la lectura de cada medio muy distinta.",
+   "figure": {
+    "value": "29N",
+    "label": "elecciones generales"
+   },
+   "place": "Valladolid / Ponferrada",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "Según eldiario.es, Pedro Sánchez continuó su precampaña el lunes en Valladolid, mientras que Santiago Abascal tenía previsto estar hoy martes en Ponferrada. Ambos eligieron Castilla y León como escenario de la semana, según también adelantó El Español.",
+    "eldiario.es, medio de línea progresista, cuenta además que Vox sondea con el PP un «acuerdo» para frenar la unión de las izquierdas en el Senado. La información procede de esa cabecera y no figura como confirmada por los partidos en los titulares consultados.",
+    "The Objective, de línea conservadora, recoge que Abascal advierte de que el 29-N «no va a ser limpio» y acusa a Sánchez de preparar trampas, una afirmación del líder de Vox sin pruebas aportadas en el titular. Por su parte, El Debate resume el mensaje de Vox en la campaña con el lema «nos lo jugamos todo».",
+    "Sánchez, por su parte, pidió al Supremo que garantice el voto de los nacionalizados por la ley de nietos, que según su petición Feijóo y Abascal quieren impedir, según eldiario.es."
+   ],
+   "keys": [
+    "Sánchez, el lunes en Valladolid; Abascal, hoy en Ponferrada",
+    "Vox sondea con el PP un acuerdo en el Senado (eldiario.es)",
+    "Abascal dice que el 29-N «no va a ser limpio» (The Objective)"
+   ],
+   "why": "El reparto de escaños, y quién pacta con quién, decidirá la política de vivienda, empleo público y sanidad de los próximos años. Para ti, lo más concreto es que un gobierno nuevo fija las ofertas de empleo público del Estado (como la de auxiliar administrativo) y las ayudas al alquiler. Hoy son declaraciones de campaña; los programas y las encuestas dirán más.",
+   "sources": [
+    {
+     "name": "eldiario.es",
+     "url": "https://www.eldiario.es/castilla-y-leon/politica/sanchez-sigue-precampana-lunes-valladolid-abascal-martes-ponferrada_1_13589476.html"
+    },
+    {
+     "name": "eldiario.es",
+     "url": "https://www.eldiario.es/politica/vox-sondea-acuerdo-pp-union-izquierdas-senado_1_13598276.html"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-10-18/abascal-29-n-sanchez-trampas/"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/espana/20261014/claves-mensaje-abascal-campana-29n-jugamos-todo_469249.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-milan-meloni-decreto-sicurezza-ejercito",
+   "section": "italia",
+   "weight": 2,
+   "title": "Meloni acelera un decreto de seguridad tras los disturbios de Milán y el Gobierno envía a unos 500 militares",
+   "dek": "El Ejecutivo estudia endurecer las medidas contra quienes provocan altercados en la calle, incluido el arresto preventivo, también para menores.",
+   "figure": {
+    "value": "500",
+    "label": "militares a Milán"
+   },
+   "place": "Milán / Roma",
+   "thread": {
+    "id": "italia-meloni",
+    "label": "Italia de Meloni"
+   },
+   "body": [
+    "Tras los enfrentamientos y saqueos en el centro de Milán, Giorgia Meloni reunió el lunes un vértice de seguridad en el Palacio Chigi y, según Infodifesa, quiere aprobar ya un decreto contra quienes siembran el caos en las plazas. Entre las hipótesis figura la detención preventiva incluso de menores, según Quotidiano.net.",
+    "El mismo medio informa de que el Gobierno enviará al ejército a Milán: 500 militares para defender la ciudad. Hay división política: según Infodifesa, Matteo Renzi pide la dimisión del ministro del Interior, Piantedosi.",
+    "El presidente Mattarella calificó la violencia de inaceptable, la atribuyó a «sujetos inéditos» y pidió un análisis. Il Mattino añade que Trump vincula las protestas con la inmigración, una lectura que corresponde al presidente estadounidense."
+   ],
+   "keys": [
+    "Decreto de seguridad previsto, con posible arresto preventivo",
+    "Unos 500 militares a Milán",
+    "Mattarella pide un análisis de los «sujetos inéditos»"
+   ],
+   "why": "Si vas a Italia con tu pareja, conviene mirar los avisos de viaje de Milán y las huelgas o bloqueos que puedan afectar a trenes y carreteras estos días. También puede cambiar el clima político en Italia, de lo que quizá hable su familia. De momento son medidas anunciadas, no aprobadas.",
+   "sources": [
+    {
+     "name": "Sky TG24",
+     "url": "https://tg24.sky.it/cronaca/2026/10/19/milano-proteste-ultime-notizie-diretta"
+    },
+    {
+     "name": "Infodifesa",
+     "url": "https://infodifesa.it/decreto-ordine-pubblico-meloni-scontri-milano-renzi/"
+    },
+    {
+     "name": "Quotidiano.net",
+     "url": "https://quotidiano.net/cronaca/scontri-meloni-decreto-m3d4554u"
+    },
+    {
+     "name": "Il Mattino",
+     "url": "https://www.ilmattino.it/primopiano/cronaca/scontri_milano_diretta_live_oggi-9834670.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-wall-street-rebote-nasdaq-ia",
+   "section": "economia",
+   "weight": 2,
+   "title": "Wall Street rebota el lunes con las tecnológicas de IA: el Nasdaq sube alrededor de un 1,1 % y el Dow Jones cede un 0,07 %",
+   "dek": "Tras una semana de caídas, el índice tecnológico recupera parte del terreno perdido.",
+   "figure": {
+    "value": "+1,1%",
+    "label": "Nasdaq, lunes"
+   },
+   "place": "Nueva York",
+   "body": [
+    "Wall Street cerró mixto el lunes 19 de octubre: según Alto Nivel y El Boletín, el Nasdaq subió un 1,1 % y el Dow Jones cayó un 0,07 %. El Financiero sitúa el avance del Nasdaq en el 1,49 %, una diferencia que puede deberse al índice o al momento de la medición.",
+    "Los medios atribuyen el repunte a los valores vinculados a la inteligencia artificial, después de que el Nasdaq perdiera un 4,5 % en la semana anterior. Eso afecta a Nvidia, uno de los valores que más peso tiene en tu cartera.",
+    "No hemos podido confirmar con fuente fechada el cierre del S&P 500, del MSCI World ni de Nvidia para el lunes; por eso el recuadro de mercados mantiene el último dato verificado."
+   ],
+   "keys": [
+    "Nasdaq, +1,1 % (otra fuente: +1,49 %)",
+    "Dow Jones, -0,07 %",
+    "Rebote tras caer un 4,5 % la semana anterior"
+   ],
+   "why": "Un día de subida no cambia la tendencia: tus inversiones en MSCI World, S&P 500 y Nvidia siguen muy ligadas al ánimo hacia la IA y al petróleo. Conviene vigilar la reunión de la Fed el 27-28 y el BCE el 29. Es información, no una recomendación.",
+   "sources": [
+    {
+     "name": "Alto Nivel",
+     "url": "https://www.altonivel.com.mx/lunes-negro-nasdaq-rebota-1-1-tras-caidas-de-la-semana-pasada-dow-jones-baja-0-07/"
+    },
+    {
+     "name": "El Boletín",
+     "url": "https://www.elboletin.com/wall-street-cierra-mixto-mientras-el-nasdaq-sube-un-11-y-el-dow-jones-cae/"
+    },
+    {
+     "name": "El Financiero",
+     "url": "https://www.elfinanciero.com.mx/mercados/2026/10/19/acciones-de-tecnologicas-impulsan-a-wall-street-nasdaq-avanza-149/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-inflacion-espana-doble-guerra-iran",
+   "section": "economia",
+   "weight": 1,
+   "title": "España duplica su inflación desde el inicio de la guerra de Irán y ya está un 30 % por encima de la media de la UE",
+   "dek": "El FMI prevé un 3,7 % en 2026; The Objective sitúa a España como la gran economía del euro con más inflación.",
+   "figure": {
+    "value": "3,7%",
+    "label": "inflación prevista 2026"
+   },
+   "place": "España",
+   "thread": {
+    "id": "guerra-iran",
+    "label": "Guerra de Irán"
+   },
+   "body": [
+    "El Español publicó el 17 de octubre que la inflación española se ha duplicado desde que empezó la guerra de Irán y supera en un 30 % la media de la Unión Europea. El FMI, que recogieron El Español, El Independiente y The Objective el 13 de octubre, prevé que el IPC cierre 2026 en el 3,7 % y que el PIB crezca un 2,5 %.",
+    "The Objective añade el 18 de octubre que España es ya la gran economía del euro con más inflación, tras subir seis puestos en el ranking. El Español había adelantado además que cerraría el año con el mayor paro entre las grandes economías de la eurozona."
+   ],
+   "keys": [
+    "IPC del 3,7 % previsto por el FMI para 2026",
+    "España, la gran economía del euro con más inflación",
+    "Crecimiento del 2,5 % según el FMI"
+   ],
+   "why": "Una inflación alta encarece la compra, la luz y la gasolina y reduce lo que rinde tu sueldo. También empuja a los bancos centrales a mantener los tipos altos, lo que sostiene el euríbor y el precio de las hipotecas y alquileres. Conviene mirar la reunión del BCE del día 29.",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20261017/espana-duplica-inflacion-comienzo-guerra-iran-encima-media-ue/1003744420280_0.html"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/economia/macroeconomia/2026-10-18/espana-economia-euro-inflacion-ranking/"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/economia/2026/10/13/fmi-eleva-crecimiento-espana-dispara-37-prevision-inflacion/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-tiempo-bilbao-martes-lluvia-escasa",
+   "section": "bilbao",
+   "weight": 2,
+   "title": "Martes con lluvia escasa y 18 grados en Bilbao; el miércoles llega la lluvia",
+   "dek": "La máxima de hoy ronda los 18 °C, y la previsión de ayer anticipaba lluvia continua el miércoles.",
+   "figure": {
+    "value": "18°",
+    "label": "máxima de hoy"
+   },
+   "place": "Bilbao",
+   "body": [
+    "Bilbao Hiria titula que hoy martes 20 de octubre habrá lluvia escasa y una máxima de 18 grados en la capital vizcaína. La previsión publicada ayer, basada en AEMET, apuntaba a una mínima de unos 4 grados.",
+    "Según esa previsión de ayer, el miércoles 21 volvería la lluvia con viento (probabilidad del 100 % y máxima de 17 grados) y el jueves 22 quedaría lluvia escasa con 21 grados. Conviene comprobar la actualización antes de salir."
+   ],
+   "keys": [
+    "Hoy: lluvia escasa y 18 °C de máxima",
+    "Miércoles: lluvia y viento, según la previsión de ayer",
+    "Jueves: lluvia escasa y 21 °C"
+   ],
+   "why": "Lleva paraguas y chaqueta hoy y mañana, y comprueba el aviso de Euskalmet si piensas salir fuera de Bilbao o ir a planes al aire libre, como la subida a Gaztelugatxe.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bilbao/tiempo-bilbao-hoy-martes-20-octubre-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-gobierno-vasco-acreditacion-euskera-octubre",
+   "section": "euskadi",
+   "weight": 2,
+   "title": "El Gobierno Vasco aplicará un nuevo modelo de acreditación del euskera a partir de la convocatoria de octubre",
+   "dek": "Habrá más oportunidades para reconocer las competencias lingüísticas, según el Ejecutivo.",
+   "figure": {
+    "value": "Oct",
+    "label": "nueva convocatoria"
+   },
+   "place": "Euskadi",
+   "body": [
+    "Según el propio Gobierno Vasco en su web de noticias, el nuevo modelo de acreditación del euskera se implantará a partir de la convocatoria de octubre y ofrecerá más oportunidades para reconocer las competencias lingüísticas.",
+    "En los titulares consultados no constan todavía los detalles del cambio (fechas de examen, tasas o equivalencias de perfiles), de modo que hay que esperar a las bases publicadas en el boletín oficial."
+   ],
+   "keys": [
+    "Nuevo modelo desde la convocatoria de octubre",
+    "Más oportunidades de acreditación",
+    "Detalles pendientes del BOPV"
+   ],
+   "why": "Los perfiles lingüísticos pesan en las plazas de Osakidetza y del Gobierno Vasco; un modelo con más opciones de acreditación puede facilitarte acreditar un nivel. Falta saber cuándo y cómo se inscribe, así que conviene mirar la web de HABE y el BOPV.",
+   "sources": [
+    {
+     "name": "Gobierno Vasco",
+     "url": "https://www.euskadi.eus/gobierno-vasco/-/noticia/2026/el-gobierno-vasco-implantara-nuevo-modelo-acreditacion-del-euskera-mas-oportunidades-reconocer-competencias-linguisticas-partir-convocatoria-octubre/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-eh-bildu-pradales-desprecio-parlamento",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "EH Bildu acusa al Gobierno de Pradales de «desprecio» al Parlamento Vasco por no responder a la oposición",
+   "dek": "La coalición critica que el Ejecutivo no conteste a sus iniciativas y preguntas.",
+   "figure": {
+    "value": "18 oct",
+    "label": "acusación de Bildu"
+   },
+   "place": "Vitoria-Gasteiz",
+   "thread": {
+    "id": "autogobierno",
+    "label": "Autogobierno vasco"
+   },
+   "body": [
+    "EH Bildu denunció el 18 de octubre que el Gobierno del lehendakari Imanol Pradales muestra «desprecio» por la Cámara vasca al no responder a las preguntas de la oposición, según Moncloa.com.",
+    "La crítica es de un partido de la oposición; en los titulares consultados no consta la respuesta del Ejecutivo vasco, formado por PNV y PSE-EE."
+   ],
+   "keys": [
+    "Acusación de EH Bildu, del 18 de octubre",
+    "Sin respuesta del Gobierno en lo consultado"
+   ],
+   "why": "Es política institucional sin efecto directo e inmediato en tu día a día, pero ayuda a entender el clima previo al 29-N en Euskadi.",
+   "sources": [
+    {
+     "name": "Moncloa.com",
+     "url": "https://www.moncloa.com/2026/10/18/eh-bildu-parlamento-vasco-pradales-3450936"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-osakidetza-cinco-huelgas-30-octubre",
+   "section": "sociedad",
+   "weight": 2,
+   "title": "Osakidetza afronta cinco jornadas de huelga entre octubre y diciembre, la primera el 30 de octubre",
+   "dek": "Los sindicatos convocan paros por la situación laboral de la sanidad pública vasca; Bizkaia tiene una jornada propia.",
+   "figure": {
+    "value": "30 oct",
+    "label": "primera huelga"
+   },
+   "place": "Euskadi",
+   "thread": {
+    "id": "sanidad",
+    "label": "Sanidad"
+   },
+   "body": [
+    "Los sindicatos de Osakidetza convocaron cinco jornadas de huelga entre octubre y diciembre, con una propia en Bizkaia, según Orain y Bilbao Hiria. La primera es el 30 de octubre en toda la red; la de Bizkaia es el 10 de diciembre y la general del 14 de diciembre.",
+    "Los sindicatos denunciaron en septiembre que el Gobierno Vasco no tiene voluntad de mejorar la situación de todos los colectivos. En lo consultado hoy no consta el resultado de la Mesa Sectorial del lunes."
+   ],
+   "keys": [
+    "Huelga el 30 de octubre en toda Osakidetza",
+    "Otras jornadas: 10 y 14 de diciembre",
+    "Resultado de la Mesa Sectorial sin confirmar"
+   ],
+   "why": "Una huelga puede retrasar consultas y pruebas si tienes cita. Como opositora a Osakidetza, el conflicto laboral también influye en las condiciones de las plazas y las bolsas. Conviene vigilar la web de Osakidetza.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/euskal-herria/huelga-osakidetza-fechas-octubre-diciembre-2026-bizkaia/"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/09/10/sindicatos-osakidetza-convocan-cinco-jornadas-huelga-octubre-diciembre/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-athletic-levante-miercoles-nueva-fecha",
+   "section": "deportes",
+   "weight": 2,
+   "title": "El Athletic juega el miércoles en Valencia el Levante, partido aplazado por un aguacero en septiembre",
+   "dek": "El choque de la jornada 6 se suspendió el 16 de septiembre y se disputa el 21 de octubre.",
+   "figure": {
+    "value": "21 oct",
+    "label": "Levante - Athletic"
+   },
+   "place": "Valencia",
+   "thread": {
+    "id": "athletic",
+    "label": "Athletic Club"
+   },
+   "body": [
+    "El Levante-Athletic de la jornada 6 de LaLiga quedó suspendido el 16 de septiembre por un fuerte aguacero, según Deia, y se juega el miércoles 21 de octubre. El club ofrece el Matchday Live en Athletic Play.",
+    "Bilbao Hiria cuenta que Nico Williams se entrenó con el grupo en Lezama antes de las visitas a Valencia y del partido contra el Getafe. El domingo 25 el Athletic recibe al Getafe en San Mamés."
+   ],
+   "keys": [
+    "Levante-Athletic, miércoles 21 de octubre",
+    "Suspendido el 16 de septiembre por lluvia",
+    "Domingo 25: Athletic-Getafe"
+   ],
+   "why": "Si vas a San Mamés el domingo, el resultado del miércoles marcará el ánimo y el ritmo de la plantilla. Mira la web del club para horarios y entradas.",
+   "sources": [
+    {
+     "name": "Athletic Club",
+     "url": "https://www.athletic-club.eus/noticias/2026/10/19/donde-ver-el-partido-levante-ud-athletic-club-j6-laliga-2026-27/"
+    },
+    {
+     "name": "Deia",
+     "url": "https://www.deia.eus/athletic/2026/09/17/levante-athletic-nueva-fecha-11553988.html"
+    },
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/deportes/nico-williams-entrena-grupo-lezama-levante-getafe-2"
+    }
+   ]
+  }
+ ],
+ "briefs": [
+  {
+   "id": "2026-10-20-b01",
+   "section": "bilbao",
+   "tag": "Peaje AP-68",
+   "text": "Las Juntas Generales de Bizkaia rechazan la gratuidad del peaje de la AP-68, que sobrevive al fin de la concesión, según Bilbao Hiria.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/ap-68-bizkaia-juntas-rechazan-gratuidad-peaje"
+   }
+  },
+  {
+   "id": "2026-10-20-b02",
+   "section": "bilbao",
+   "tag": "Juventud",
+   "text": "Bizkaia adquiere nuevos compromisos en transporte y en emancipación juvenil y cuidados, según las resoluciones del pleno de política general de las Juntas Generales.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/juntas-generales-bizkaia-pleno-politica-general-resoluciones-2026"
+   }
+  },
+  {
+   "id": "2026-10-20-b03",
+   "section": "bilbao",
+   "tag": "Infraestructuras",
+   "text": "El túnel bajo la ría arranca como alternativa a Rontegi para 40.000 coches, según Bilbao Hiria.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/tunel-bajo-ria-bilbao-obras-ballonti-artatza-rontegi"
+   }
+  },
+  {
+   "id": "2026-10-20-b04",
+   "section": "bilbao",
+   "tag": "Gastronomía",
+   "text": "Bizkaia compite por su segunda txapela del Campeonato de Pintxos de Euskadi, que se decide en el BEC.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/campeonato-pintxos-euskadi-navarra-bec-2026-bizkaia"
+   }
+  },
+  {
+   "id": "2026-10-20-b05",
+   "section": "espana",
+   "tag": "Voto exterior",
+   "text": "Sánchez pide al Supremo que garantice el voto de los nacionalizados por la ley de nietos, según eldiario.es.",
+   "source": {
+    "name": "eldiario.es",
+    "url": "https://elbierzo.eldiario.es/ponferrada/sanchez-pide-supremo-frene-atropello-feijoo-abascal-garantice-derecho-voto-nacionalizados-ley-nietos_1_13578387.html"
+   }
+  },
+  {
+   "id": "2026-10-20-b06",
+   "section": "espana",
+   "tag": "Campaña",
+   "text": "El Independiente titula «El beso de Fuenlabrada»: Sánchez mete a Begoña Gómez en la campaña con un «te quiero» en su acto del 17 de octubre.",
+   "source": {
+    "name": "El Independiente",
+    "url": "https://www.elindependiente.com/espana/2026/10/17/sanchez-proclamacion-beso-fuenlabrada-mete-begona-gomez-campana-29n/"
+   }
+  },
+  {
+   "id": "2026-10-20-b07",
+   "section": "deportes",
+   "tag": "Pelota",
+   "text": "Durango abre el Cuatro y Medio Eusko Label, que se decide en el Bizkaia Frontoia.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/deportes/cuatro-y-medio-2026-sedes-durango-bizkaia-frontoia/"
+   },
+   "comarca": "du"
+  },
+  {
+   "id": "2026-10-20-b08",
+   "section": "euskadi",
+   "tag": "Salud",
+   "text": "Osakidetza amplía a cinco los txertogunes de gripe sin cita en Bizkaia.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/txertogunes-bizkaia-vacuna-gripe-sin-cita-2026"
+   }
+  }
+ ]
+}
