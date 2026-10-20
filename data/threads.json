@@ -1,15 +1,45 @@
 {
- "guerra-iran": {
-  "label": "Guerra de Irán",
+ "dana": {
+  "label": "DANA",
   "last": "2026-10-20",
-  "first": "2026-10-09",
-  "count": 12
+  "first": "2026-10-20",
+  "count": 1
+ },
+ "francia-protestas": {
+  "label": "Protestas en Francia",
+  "last": "2026-10-20",
+  "first": "2026-10-20",
+  "count": 3
+ },
+ "amnistia": {
+  "label": "Amnistía",
+  "last": "2026-10-20",
+  "first": "2026-10-20",
+  "count": 1
  },
  "elecciones-29n": {
   "label": "Elecciones 29-N",
   "last": "2026-10-20",
   "first": "2026-10-08",
-  "count": 46
+  "count": 47
+ },
+ "ceuta": {
+  "label": "Ceuta",
+  "last": "2026-10-20",
+  "first": "2026-10-20",
+  "count": 1
+ },
+ "ucrania": {
+  "label": "Ucrania",
+  "last": "2026-10-20",
+  "first": "2026-10-08",
+  "count": 10
+ },
+ "guerra-iran": {
+  "label": "Guerra de Irán",
+  "last": "2026-10-20",
+  "first": "2026-10-09",
+  "count": 12
  },
  "italia-meloni": {
   "label": "Italia de Meloni",
@@ -58,12 +88,6 @@
   "last": "2026-10-19",
   "first": "2026-10-09",
   "count": 4
- },
- "ucrania": {
-  "label": "Guerra de Ucrania",
-  "last": "2026-10-19",
-  "first": "2026-10-08",
-  "count": 9
  },
  "pnv-bizkaia": {
   "label": "PNV de Bizkaia",

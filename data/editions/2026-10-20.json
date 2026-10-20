@@ -2,8 +2,24 @@
  "date": "2026-10-20",
  "number": 13,
  "generatedAt": "2026-10-20T06:55:00+02:00",
- "summary": "Irán ofrece reabrir Ormuz en siete días, Milán lleva al Gobierno de Meloni a endurecer la seguridad y arranca otra semana de campaña del 29-N; edición reducida por falta de acceso a las portadas.",
+ "summary": "La dana Adam deja muertos y lluvias extremas en Valencia y Alicante, Francia impone toques de queda tras los disturbios y el Supremo aplica la amnistía a Junqueras.",
  "essentials": [
+  {
+   "story": "2026-10-20-dana-adam-valencia",
+   "text": "La dana Adam deja entre cuatro y seis muertos, más de 1.000 rescates y lluvias de hasta 720 l/m² en Valencia y Alicante; persisten avisos hoy."
+  },
+  {
+   "story": "2026-10-20-francia-disturbios-toque-de-queda",
+   "text": "Francia impone toques de queda en París, Lyon y Niza tras disturbios con unos 2.400 detenidos; Macron rechaza la dimisión de su ministro del Interior."
+  },
+  {
+   "story": "2026-10-20-supremo-amnistia-malversacion-proces",
+   "text": "El Supremo aplica la amnistía a la malversación de Junqueras, Romeva, Turull y Bassa y critica al Constitucional; falta decidir sobre Puigdemont."
+  },
+  {
+   "story": "2026-10-20-senado-pp-vox-constitucional",
+   "text": "Feijóo confirma que negocia con Vox una mayoría de 161 senadores para renovar el Constitucional; las candidaturas se presentan hasta el 26."
+  },
   {
    "story": "2026-10-20-iran-ormuz-plan-paz-siete-dias",
    "text": "Irán ofrece reabrir Ormuz en siete días si EE UU acepta su plan; el Brent ronda los 110 dólares y presiona gasolina y luz."
@@ -27,14 +43,6 @@
   {
    "story": "2026-10-20-eh-bildu-pradales-desprecio-parlamento",
    "text": "Nuevo modelo de acreditación del euskera desde la convocatoria de octubre; atenta al BOPV."
-  },
-  {
-   "story": "2026-10-20-osakidetza-cinco-huelgas-30-octubre",
-   "text": "Osakidetza: primera huelga el 30 de octubre; revisa si tienes citas médicas esa semana."
-  },
-  {
-   "story": "2026-10-20-tiempo-bilbao-martes-lluvia-escasa",
-   "text": "Hoy lluvia escasa y 18 °C en Bilbao; mañana lluvia y viento, según la previsión de ayer."
   }
  ],
  "weather": {
@@ -1095,6 +1103,441 @@
   ]
  },
  "stories": [
+  {
+   "id": "2026-10-20-dana-adam-valencia",
+   "section": "espana",
+   "weight": 3,
+   "title": "La dana Adam deja entre cuatro y seis muertos y lluvias de hasta 720 l/m² en Valencia y Alicante",
+   "dek": "Tras dos días de temporal, la Generalitat ha levantado los últimos confinamientos y la UME se retira, pero hoy sigue habiendo avisos en nueve provincias, con Barcelona y Girona en naranja.",
+   "figure": {
+    "value": "720 l/m²",
+    "label": "lluvia máxima, Forna"
+   },
+   "place": "Comunitat Valenciana, Cataluña y Baleares",
+   "thread": {
+    "id": "dana",
+    "label": "DANA"
+   },
+   "body": [
+    "La dana bautizada como Adam descargó entre el sábado 17 y la mañana del lunes 19 cantidades de lluvia que las estaciones de Avamet sitúan en 720 l/m² en Forna, 693 en Pego, 643 en Oliva y 615 en Real de Gandia. Es casi lo que llueve en un año entero en solo 48 horas, y el conseller Juan Carlos Valderrama la considera la tercera mayor lluvia registrada en la Comunitat Valenciana. Las comarcas más golpeadas son la Safor y la Marina Alta.",
+    "El número de víctimas aún no está cerrado y cambia según el medio. Orain recoge cuatro fallecidos (Cabrera de Mar, Sagunto y dos en Oliva), El Independiente cuenta cinco al sumar un hombre muerto por una roca en Benaoján (Málaga) y elDiario.es llega a seis al añadir un agricultor hallado en la marjal de Pego-Oliva, cuya relación con la dana se investiga, y un hombre en aguas de Menorca. Entre las víctimas hay una mujer mayor hallada en la planta baja de su casa en Oliva y un hombre de 64 años que sufrió un infarto en un camping.",
+    "La emergencia fue enorme. Llegaron a estar confinados 145 municipios del litoral sur de Valencia y norte de Alicante; el lunes se levantaron las restricciones en los últimos ocho (Bellreguard, Daimús, Miramar, Oliva, Piles, Xàbia, Pego y Els Poblets). La Guardia Civil rescató a 496 personas y evacuó a 2.141, el 112 gestionó 1.713 incidentes y el agua superó 1,5 metros en algunas zonas, con una decena de carreteras cortadas y los Cercanías C1 y C2 interrumpidos entre València y Gandia. Unos 102.000 alumnos se quedaron sin clase el lunes, y hoy siguen sin ella seis municipios.",
+    "La situación mejora: la UME ha sido desmovilizada y el nivel de emergencia ha bajado de 2 a 1, con vigilancia en la Safor y la Marina Alta. Cruz Roja mantiene albergues en Xàbia y Oliva para quienes no han podido volver a casa, y unas 380 personas fueron realojadas de forma provisional en Oliva. Sin embargo, la Aemet mantiene avisos en nueve provincias hoy, con naranja por lluvias en Barcelona y Girona y naranja en el litoral sur de Alicante entre las 21:00 y las 03:00. Baleares sigue en alerta, con Ibiza y Formentera en naranja.",
+    "Aún no hay cifra oficial de daños económicos. El Debate sostiene en su portada que este episodio evidencia la necesidad de actualizar los umbrales de aviso de la Aemet, una tesis de ese medio, no una conclusión oficial. El golpe llega justo antes del 29 de octubre, aniversario de la riada de 2024, que dejó 233 fallecidos."
+   ],
+   "keys": [
+    "Balance provisional de 4 a 6 muertos según la fuente; no hay cifra oficial única.",
+    "Se han levantado los confinamientos y la UME se retira, pero persisten avisos en nueve provincias.",
+    "Daños económicos todavía sin cuantificar."
+   ],
+   "why": "Si tienes pensado viajar o tienes familia en la costa mediterránea, mira el aviso de la Aemet y el estado de Cercanías antes de moverte.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/20/mejora-la-situacion-en-valencia-la-generalitat-levanta-los-confinamientos-se-desmoviliza-la-ume/"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/comunitat-valenciana/cuatro-fallecidos-millar-rescates-registros-historicos-dana-adam-gente-perdido-2024_1_13598067.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/valencia/2026/10/19/generalitat-valenciana-envia-es-alert-urge-evitar-desplazamientos/"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/valencia/comunitat/20261020/valencia-revive-horror-anos-despues-dana-adam-muertos-pueblos-confinados-rescates/1003744426386_0.html"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/espana/comunidad-valenciana/20261020/ultima-dana-valencia-evidencia-necesidad-actualizar-umbrales-avisos-aemet_471283.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-francia-disturbios-toque-de-queda",
+   "section": "mundo",
+   "weight": 2,
+   "title": "Francia impone toques de queda tras un fin de semana de disturbios con unos 2.400 detenidos",
+   "dek": "Las protestas estudiantiles por la educación y el coste de la vida derivaron en saqueos e incendios. Macron ha rechazado la dimisión de su ministro del Interior.",
+   "figure": {
+    "value": "2.400",
+    "label": "detenidos"
+   },
+   "place": "París, Lyon, Limoges, Niza",
+   "thread": {
+    "id": "francia-protestas",
+    "label": "Protestas en Francia"
+   },
+   "body": [
+    "Las protestas del sábado 17 de octubre derivaron en disturbios, saqueos y destrozos en París, Lyon, Limoges y otras ciudades. En Limoges ardió el campanario del ayuntamiento y en Lyon, la oficina de turismo. El ministro del Interior, Laurent Nuñez, reconoció que acudieron unas 500.000 personas, muy por encima de las 200.000 que esperaba la policía, y que en algunas ciudades las fuerzas de seguridad perdieron el control.",
+    "El balance es muy duro: unos 2.400 detenidos según El Independiente y 2.513 según El Debate, que cita al ministro de Justicia, Gérald Darmanin, con 67 encarcelados durante el fin de semana. Cerca de un millar de agentes resultaron heridos. Entre los manifestantes, elDiario.es recoge que un joven perdió una mano por una granada en Saint-Étienne y una chica de 17 años perdió un ojo en Mulhouse.",
+    "Las autoridades han respondido con restricciones hasta las 06:00 de hoy. En París se prohibió la presencia en torno a la plaza de la República y Les Halles entre las 23:00 y las 06:00; en Lyon hay toque de queda de 21:00 a 06:00 en parte de la Presqu'île, y en Niza, el alcalde Éric Ciotti lo impuso a menores en el centro. Darmanin ha ordenado a los fiscales tratar los casos como crimen organizado, lo que alarga la detención de 48 a 72 horas.",
+    "El origen está en los institutos. Según elDiario.es, la primera protesta estudiantil fue el 17 de septiembre y reclama arreglar edificios, bajar ratios, frenar una reforma del acceso a la universidad y abaratar la vida; también hay quejas por recortes y violencia policial. El Gobierno francés, según ese medio, culpa a la «ultraizquierda». Macron rechazó la dimisión de Nuñez, que dijo ser «responsable de todo lo que está ocurriendo», y le pidió nuevos métodos de actuación y transparencia sobre los fallos de previsión.",
+    "El primer ministro, Sébastien Lecornu, ha anunciado toques de queda parciales y la fiscalía antiterrorista estudia hacerse cargo del incendio de Limoges. Queda por ver si las movilizaciones continúan, con un Gobierno que, según El Español, no tiene mayoría para sacar adelante sus presupuestos."
+   ],
+   "keys": [
+    "Toques de queda y prohibiciones de manifestarse en París, Lyon y Niza hasta las 06:00 de hoy.",
+    "Darmanin pide tratar los casos como crimen organizado.",
+    "El detonante son las protestas de estudiantes por la educación y el coste de la vida."
+   ],
+   "why": "Si piensas viajar a París, Lyon o Niza estos días, consulta las restricciones horarias y evita las concentraciones.",
+   "sources": [
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/internacional/20261019/francia-impone-toque-queda-paris-lyon-lille-niza-cataloga-actos-violencia-crimen-organizado_471480.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/internacional/2026/10/19/macron-rechaza-dimision-del-ministro-del-interior-y-pide-mas-medidas-contra-los-violentos/"
+    },
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/internacional/protestas-extienden-europa-derecha-culpa-migracion-disturbios-francia_1_13598229.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-macron-golfo-crisis",
+   "section": "mundo",
+   "weight": 1,
+   "title": "Macron viaja al Golfo mientras Francia lidia con los disturbios y presiones sobre su mandato",
+   "dek": "El presidente mantiene una gira de tres días por países del Golfo para tratar de estabilizar Ormuz, y sus críticos le acusan de estar desconectado de la calle.",
+   "figure": {
+    "value": "146 pb",
+    "label": "prima de riesgo"
+   },
+   "place": "Kuwait, Emiratos, Baréin y Catar",
+   "thread": {
+    "id": "francia-protestas",
+    "label": "Protestas en Francia"
+   },
+   "body": [
+    "Según El Español, Macron comenzó el lunes 19 una gira de tres días por el Golfo. Se reunió con el emir de Kuwait y visitará Emiratos, Baréin y Catar. El Elíseo afirma que busca respaldar el regreso a la estabilidad y la libre navegación en Ormuz y asegurar el suministro de energía para limitar el impacto en los hogares franceses.",
+    "El diario recuerda que Francia ha enviado un sistema de intercepción a Arabia Saudí y que lidera junto a otros países el plan de una misión de desminado de Ormuz tras un alto el fuego. Pero mantener el viaje en plena crisis interior ha alimentado la imagen de un presidente alejado de la ciudadanía, y sus críticos le comparan con Luis XVI por haber acudido a un concierto de Céline Dion la víspera de los disturbios.",
+    "El Español apunta también a la fragilidad política y económica: Macron gobierna sin mayoría, le cuesta sacar los recortes del presupuesto de 2027 y la diferencia entre el bono francés y el alemán a diez años subió a 146 puntos básicos. El ex primer ministro Édouard Philippe pide «decisiones e iniciativas» para restablecer el orden. Marine Le Pen aparece como favorita para las presidenciales del año próximo, según ese medio."
+   ],
+   "keys": [
+    "Gira de tres días por el Golfo centrada en Ormuz.",
+    "Las críticas lo retratan como un presidente aislado; se trata de la lectura de El Español.",
+    "Presión en mercados: el diferencial con Alemania llegó a 146 puntos básicos."
+   ],
+   "why": "La crisis de Ormuz afecta al precio de la energía que pagas, así que lo que pase en esta gira acabará notándose en la factura.",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/mundo/europa/20261020/francia-arde-macron-viaja-golfo-persico-buscando-soluciones-crisis-ormuz-agonia-mandato/1003744426564_0.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-protestas-europa-migracion",
+   "section": "mundo",
+   "weight": 1,
+   "title": "Las protestas se extienden por Europa y la derecha las atribuye a la migración",
+   "dek": "Hay manifestaciones en Bélgica, Italia, Albania y Portugal por el coste de la vida y la educación, mientras líderes de derechas culpan a la inmigración.",
+   "figure": {
+    "value": "271",
+    "label": "detenidos en Italia"
+   },
+   "place": "Europa",
+   "thread": {
+    "id": "francia-protestas",
+    "label": "Protestas en Francia"
+   },
+   "body": [
+    "Según elDiario.es, el 17 de octubre hubo manifestaciones en Bruselas, Lieja, Milán, Turín, Bolonia, Tirana y Lisboa, con motivos distintos pero parecidos: coste de la vida, vivienda, salarios y recortes en educación y servicios públicos. En Italia, la agencia ANSA cuenta 271 detenidos, el 80 % menores. Tras los disturbios de Milán, el Gobierno quiere desplegar 500 soldados durante tres meses, y la oposición de centroizquierda lo critica como un intento de «militarizar» la ciudad.",
+    "Varios dirigentes conservadores han vinculado la violencia con la migración. Donald Trump escribió que los migrantes «han tomado Francia», el canciller austriaco Christian Stocker y el húngaro Péter Magyar apuntaron en la misma línea, y en España Vox habló de «remigración». El Gobierno francés, por su parte, señala a la ultraizquierda y Marine Le Pen se presenta como la voz del orden.",
+    "El propio elDiario.es señala que no hay pruebas de que los disturbios en Francia los protagonizasen inmigrantes. Expertos citados por ese medio, como Vicente Valentim, de IE University, apuntan a causas estructurales (desigualdad y acceso a derechos básicos). Conviene tener en cuenta que esta lectura procede de un medio de línea progresista y que la atribución a la migración es la tesis de los políticos que la defienden."
+   ],
+   "keys": [
+    "Protestas en al menos seis países europeos por el coste de la vida y la educación.",
+    "271 detenidos en Italia, el 80 % menores, según ANSA.",
+    "La causa migratoria es una tesis política; elDiario.es dice que no hay pruebas."
+   ],
+   "why": "Entender qué piden los estudiantes y jóvenes europeos ayuda a leer lo que pasa con la vivienda y los salarios también aquí.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/internacional/protestas-extienden-europa-derecha-culpa-migracion-disturbios-francia_1_13598229.html"
+    },
+    {
+     "name": "elDiario.es (Milán)",
+     "url": "https://www.eldiario.es/internacional/gobierno-meloni-quiere-desplegar-soldados-calles-milan-disturbios-pasado-semana_1_13600238.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-supremo-amnistia-malversacion-proces",
+   "section": "espana",
+   "weight": 2,
+   "title": "El Supremo aplica la amnistía a la malversación de Junqueras, Romeva, Turull y Bassa",
+   "dek": "La Sala Penal critica con dureza el tono del Constitucional, y Llarena mantiene sin efecto las órdenes de detención contra Puigdemont.",
+   "figure": {
+    "value": "4",
+    "label": "líderes del procés"
+   },
+   "place": "Madrid",
+   "thread": {
+    "id": "amnistia",
+    "label": "Amnistía"
+   },
+   "body": [
+    "La Sala de lo Penal del Tribunal Supremo declara extinguida la responsabilidad penal por malversación de Oriol Junqueras, Raül Romeva, Jordi Turull y Dolors Bassa, según elDiario.es. Además, traslada al Ministerio de Justicia la petición de borrar sus antecedentes. El ponente es Manuel Marchena.",
+    "El Supremo había negado antes la amnistía para la malversación, pero la sentencia del Tribunal Constitucional, con Cándido Conde-Pumpido como ponente en el caso de Bassa, le obliga a aplicarla. La Sala lo hace criticando al Constitucional por su «injerencia» y su «innecesaria grandilocuencia», y le acusa de invadir su terreno y de apartarse de sus precedentes. Recuerda que la decisión del TC no fue unánime, como tampoco lo fue la suya.",
+    "El día anterior, El Independiente informó de que el magistrado Pablo Llarena rechazó el recurso de Vox y mantiene sin efecto las órdenes de detención contra Carles Puigdemont y Toni Comín, que había suspendido provisionalmente el 6 de octubre. Llarena reprocha al TC falta de «mesura en los calificativos», pero admite que su decisión vincula. Esta resolución no pone fin al procedimiento.",
+    "Queda pendiente que se resuelva si la amnistía cubre la malversación atribuida al propio Puigdemont, decisión que corresponde a la Sala. La causa empezó en 2017 con una querella de la Fiscalía por rebelión y en 2019 hubo condenas de hasta 13 años; luego vinieron los indultos de 2021 y la reforma de los delitos de sedición y malversación. Los medios consultados coinciden en los hechos, y el debate político se centra en si el Supremo acata o resiste al Constitucional."
+   ],
+   "keys": [
+    "Se extingue la responsabilidad por malversación de los cuatro condenados.",
+    "El Supremo critica el tono del Constitucional pero acata su doctrina.",
+    "Falta la decisión final sobre Puigdemont."
+   ],
+   "why": "Es un asunto que condiciona la campaña del 29-N y hace más probable que el Constitucional siga en el centro del debate.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/catalunya/supremo-amnistia-malversacion-lideres-proces-carga-grandilocuencia-constitucional_1_13599766.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/19/puigdemont-podra-volver-a-espana-tras-aplicar-el-supremo-la-amnistia/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-senado-pp-vox-constitucional",
+   "section": "espana",
+   "weight": 2,
+   "title": "Feijóo confirma que negocia con Vox para lograr mayoría en el Senado antes del 29-N",
+   "dek": "El objetivo es sumar los 161 senadores que permitirían renovar el Constitucional, y el plazo para presentar candidaturas acaba el 26 de octubre.",
+   "figure": {
+    "value": "161",
+    "label": "senadores necesarios"
+   },
+   "place": "Madrid",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "Alberto Núñez Feijóo confirmó que el PP «está hablando» con Vox para conseguir en el Senado la mayoría de tres quintos, 161 de 267 escaños, que permitiría renovar un tercio del Tribunal Constitucional y la mitad del CGPJ. El Constitucional lleva un año sin renovarse, con los mandatos de sus magistrados caducados desde diciembre de 2025, un bloqueo que elDiario.es atribuye al PP.",
+    "Desde el lado conservador, El Español presenta la negociación como una forma de neutralizar el pacto de listas unitarias entre el PSOE y el Frente Amplio en el Senado. Abascal se abre a pactar con el PP, aunque ni PP ni Vox confirman las conversaciones. Las coaliciones ya no son posibles porque el plazo terminó el viernes 16, así que se barajan fórmulas como que Vox no se presente en algunas provincias o que sus candidatos vayan como independientes en listas del PP.",
+    "Los números son ajustados. Los parlamentos autonómicos designan 58 senadores (PP 23, Vox 5), así que PP y Vox necesitarían 133 de los 209 elegidos en las urnas. Según una proyección de SocioMétrica recogida por El Español, si Vox se retira en 19 circunscripciones clave, el PP llegaría a 155 senadores y Vox a 7, un total de 162.",
+    "El calendario es corto: las candidaturas se presentan del miércoles 21 al lunes 26, y después solo se pueden retocar en la subsanación. En paralelo, El Independiente cuenta que Vox sitúa en el número dos de su lista por Madrid a Montse Lluís, su negociadora con el PP, y que Feijóo se compromete a convocar elecciones si encadena dos años sin Presupuestos."
+   ],
+   "keys": [
+    "El PP y Vox buscan 161 senadores para renovar el Constitucional y el CGPJ.",
+    "Plazo de candidaturas del 21 al 26 de octubre.",
+    "Izquierda y derecha lo enmarcan de forma opuesta: control del TC o freno al pacto PSOE-Frente Amplio."
+   ],
+   "why": "Quién controle el Senado decidirá cómo se renuevan los tribunales que resuelven asuntos que te afectan, desde la vivienda hasta los derechos.",
+   "sources": [
+    {
+     "name": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/feijoo-confirma-negociaciones-vox-buscar-mayoria-senado-les-permita-controlar-constitucional_1_13598996.html"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/politica/20261020/pp-dispuesto-escuchar-oferta-vox-neutralizar-pacto-psoe-frente-amplio-senado-dias-plazo/1003744426921_0.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/19/abascal-elecciones-generales-comite-ejcutivo-pp-feijoo/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-ceuta-supremo-recurso-entrada-masiva",
+   "section": "espana",
+   "weight": 2,
+   "title": "Ceuta lleva al Gobierno al Supremo por la falta de expulsiones tras la entrada masiva de julio",
+   "dek": "La ciudad autónoma denuncia inacción del Estado, mientras un informe del CNI atribuye a Marruecos un dispositivo insuficiente durante la crisis del 30 y 31 de julio.",
+   "figure": {
+    "value": "45,3 M€",
+    "label": "gasto extra, según Ceuta"
+   },
+   "place": "Ceuta",
+   "thread": {
+    "id": "ceuta",
+    "label": "Ceuta"
+   },
+   "body": [
+    "El Gobierno de Ceuta prevé aprobar hoy un recurso contencioso ante el Tribunal Supremo contra la «inacción» del Ejecutivo central, según El Español. Pide medidas cautelarísimas para que el Estado dote de personal y medios la tramitación de expulsiones, devoluciones y solicitudes de asilo. La ciudad aclara que no reclama devoluciones automáticas y que cada caso debe seguir su procedimiento, respetando el asilo y la protección de menores.",
+    "El escrito, cuya versión es la de Ceuta, sostiene que no consta ninguna expulsión ejecutada y que el requerimiento del 18 de septiembre no recibió respuesta antes de que venciera el plazo, el 19 de octubre. Calcula en 45,32 millones los gastos extraordinarios en servicios y emergencias y en 81 millones más la atención a menores, y señala que el sistema de protección atendía a 3.019 menores, muy por encima de su capacidad ordinaria. Según los datos oficiales que cita, a mediados de octubre solo se había completado el triaje de 4.432 adultos, y se estima que unas 25.000 personas siguen en la ciudad.",
+    "Por otro lado, El Independiente publica un informe del CNI entregado a la jueza María Tardón, según el cual Marruecos desplegó pocos efectivos en las horas críticas del 30 y 31 de julio porque priorizó la seguridad de la Fiesta del Trono, celebrada a menos de 30 kilómetros. El CNI habría avisado a Rabat el 29 de julio a las 18:26 y sus alertas habrían sido ignoradas. El medio habla de unas 80.000 entradas, una cifra que aporta él mismo sin verificación independiente.",
+    "El Gobierno declaró el 25 de agosto la situación de interés para la Seguridad Nacional por Real Decreto 705/2026, y el Parlamento Europeo aprobó el 17 de septiembre una resolución sin los votos de la izquierda. No he localizado la respuesta del Gobierno central a este recurso, que los medios consultados todavía no recogen; las acusaciones proceden de la ciudad y de medios de línea conservadora."
+   ],
+   "keys": [
+    "Ceuta pide al Supremo que obligue al Estado a actuar.",
+    "Las cifras de entradas varían según la fuente y no están verificadas.",
+    "Falta la versión del Gobierno central."
+   ],
+   "why": "Es un asunto que va a pesar en la campaña del 29-N y en el debate sobre la política migratoria en toda España.",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/politica/20261020/ceuta-lleva-gobierno-supremo-no-hacer-sola-expulsion-pide-fuerce-devolver-invasores/1003744425948_0.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/20/cni-justifica-marruecos-desatendiera-frontera-ceuta-para-blindar-fiesta-del-trono-mohamed-vi/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-irun-detenidos-terrorismo-audiencia-nacional",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "Dos detenidos por terrorismo en Irun pasan hoy a disposición de la Audiencia Nacional",
+   "dek": "La Ertzaintza investiga a un hombre de 34 años y una mujer de 22, vinculados a sectores disidentes de la izquierda abertzale, tras un control en Eskoriatza el 26 de septiembre.",
+   "figure": {
+    "value": "2",
+    "label": "detenidos"
+   },
+   "place": "Irun (Gipuzkoa)",
+   "body": [
+    "Según Orain, los dos detenidos se personaron el sábado 17 de octubre en la comisaría de Irun acompañados de su abogado y quedaron arrestados. Hoy pasan a disposición de la Audiencia Nacional, en Madrid, tras ser trasladados desde Irun. El Departamento de Seguridad menciona «antecedentes relevantes», sin concretarlos.",
+    "La investigación arrancó el 26 de septiembre en un control en Eskoriatza, donde los agentes identificaron a tres personas que llevaban «material muy sensible» sobre fuerzas de seguridad y una posible localización de armas y explosivos. The Objective añade que se halló una lista de guardias civiles destinados en Euskadi, dos zulos, uno de ellos con armas, y dispositivos con memorias cifradas, y que entre los ocupantes del coche había un ciudadano irlandés vinculado a Saoradh, grupo que el medio relaciona con el IRA Nuevo.",
+    "The Objective sostiene que es la primera vez que la Ertzaintza acusa de terrorismo a radicales desde el fin de ETA, y señala que el anuncio de las detenciones llegó unas tres semanas después del control, sin explicación. Son datos de ese medio, y los detenidos tienen presunción de inocencia. Queda por ver qué decide el juez tras tomarles declaración."
+   ],
+   "keys": [
+    "Detenidos el 17 de octubre; pasan hoy a disposición de la Audiencia Nacional.",
+    "El caso se originó en un control en Eskoriatza el 26 de septiembre.",
+    "Presunción de inocencia: no hay condena."
+   ],
+   "why": "Es un caso muy cercano que reabre el debate sobre la seguridad en Euskadi, aunque por ahora no hay detalles sobre ningún riesgo concreto.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/politica/2026/10/20/pasan-disposicion-la-audiencia-nacional-los-dos-detenidos-terrorismo-en-irun/"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/tribunales/2026-10-20/ertzaintza-terrorismo-radicales-eta/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-zelenski-trump-tension-ucrania",
+   "section": "mundo",
+   "weight": 1,
+   "title": "Máxima tensión entre Zelenski y Trump por el gasóleo ruso y la falta de alerta ante los misiles",
+   "dek": "Kiev vuelve a recibir misiles balísticos sin aviso temprano en pleno desencuentro con Washington sobre las negociaciones con Rusia.",
+   "figure": {
+    "value": "12",
+    "label": "Patriot al mes"
+   },
+   "place": "Kiev / Washington",
+   "thread": {
+    "id": "ucrania",
+    "label": "Ucrania"
+   },
+   "body": [
+    "Según El Español, el 9 de octubre Trump anunció un acuerdo con el Kremlin para comprar gasóleo ruso pese a las sanciones, y dijo que quería «dar las gracias» a Putin. Zelenski lo calificó de «regalo de cumpleaños» para el líder ruso, y Trump respondió sugiriendo a los ucranianos que buscasen otro líder capaz de cerrar un acuerdo y culpó a Kiev de la subida de precios por sus ataques a refinerías, sin aportar pruebas.",
+    "Tras una «tregua energética» de tres días anunciada el 11 de octubre, que Zelenski dio por rota el 15, Ucrania perdió la alerta temprana de sus aliados ante misiles balísticos entre el 12 y el 13. Washington habría amenazado con cortarla, algo que EE. UU. niega; Marco Rubio asegura que sigue compartiendo inteligencia. En la madrugada del 19 al 20, nuevos misiles cayeron sobre Kiev sin aviso.",
+    "Zelenski denuncia que EE. UU. solo envía 12 misiles Patriot al mes, una cuarta parte que con Biden. Rusia exige ceder Donbás, Zaporiyia y Jersón y un cambio de gobierno, y Zelenski ofreció elecciones a cambio de un alto el fuego de 60 días; el Kremlin responde que Putin solo dejaría de bombardear el día de la votación. Los líderes europeos respaldan a Kiev y rechazan relajar las sanciones."
+   ],
+   "keys": [
+    "Trump y Zelenski chocan por el gasóleo ruso y la alerta temprana.",
+    "Kiev recibió misiles sin aviso en la madrugada del 20.",
+    "Europa mantiene las sanciones a Rusia."
+   ],
+   "why": "La guerra afecta al precio del gas y de la luz, así que lo que decidan Washington y Moscú acaba notándose en tu factura.",
+   "sources": [
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/mundo/europa/20261020/maxima-tension-zelenski-trump-kiev-reprocha-muertes-civiles-ucranianos-querer-hacer-dinero-rusia/1003744426775_0.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-luz-maximos-del-ano-gas",
+   "section": "economia",
+   "weight": 1,
+   "title": "El precio de la luz marca máximos del año por el encarecimiento del gas",
+   "dek": "El lunes la media del mercado mayorista llegó a 215 €/MWh, con picos de 296, y hoy la media sigue en 195 €/MWh.",
+   "figure": {
+    "value": "215",
+    "label": "€/MWh, máximo anual"
+   },
+   "place": "España",
+   "body": [
+    "Según El Independiente, el lunes 19 el precio medio del mercado mayorista (OMIE) fue de 215 €/MWh, con picos de 296, el nivel más alto del año. Hoy la media baja a 195 €/MWh, con un máximo de 278 a las 20:00 y la hora más barata a las 16:00, con 58,1 €/MWh. La electricidad cuesta esta semana alrededor de un 15 % más que la anterior.",
+    "El motivo principal es el gas: el índice europeo TTF llegó a 88 €/MWh el 19 de octubre, un 180 % más que en febrero, a raíz de la crisis de Irán. Al ser el gas el que marca el precio en muchas horas, la menor producción solar del otoño y el menor viento aumentan la dependencia de las centrales de ciclo combinado.",
+    "Los más expuestos son los cerca de 9,7 millones de hogares con tarifa regulada (PVPC), cuyo precio cambia cada hora, aunque la fórmula incluye precios de futuros que amortiguan los picos. Los 20,4 millones de usuarios del mercado libre tienen precios fijados por periodos. Las asociaciones de consumidores aconsejan concentrar los consumos grandes en las horas baratas, normalmente a mediodía."
+   ],
+   "keys": [
+    "Máximo anual de 215 €/MWh de media el lunes.",
+    "El gas explica el encarecimiento.",
+    "La tarifa PVPC es la más expuesta."
+   ],
+   "why": "Si tienes PVPC, usa lavadora y horno a mediodía, cuando es más barato; y si estás en mercado libre, revisa tus condiciones al renovar.",
+   "sources": [
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/economia/2026/10/20/precio-luz-maximos-anuales-subida-gas-pvpc-mercado-libre/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-abauntz-neandertal-navarra",
+   "section": "ciencia",
+   "weight": 1,
+   "title": "Hallan en la cueva de Abauntz los primeros restos neandertales de Navarra",
+   "dek": "Seis huesos de un varón adulto, de entre 44.000 y 49.000 años, son los restos humanos más antiguos encontrados en la comunidad.",
+   "figure": {
+    "value": "49.000",
+    "label": "años, como máximo"
+   },
+   "place": "Arraitz-Orkin (Navarra)",
+   "body": [
+    "Orain informa de que el equipo arqueológico de la cueva de Abauntz, en el valle de Ultzama, ha recuperado seis huesos de un neandertal adulto varón: tres metacarpianos y una falange de la mano derecha, más dos fragmentos identificados mediante análisis de proteínas. La presidenta navarra, María Chivite, presentó el hallazgo el lunes 19 en Arraitz.",
+    "La datación por carbono 14 los sitúa entre 44.000 y 49.000 años, cuando los neandertales estaban a punto de extinguirse. Son los restos humanos más antiguos hallados en Navarra y la primera identificación de neandertales en la zona.",
+    "Según el artículo, la combinación de restos datados directamente y ADN conservado hace especialmente valioso el yacimiento para estudiar a los últimos neandertales de Europa. No se indica en qué revista se publicarán los resultados, y los análisis y las excavaciones continúan."
+   ],
+   "keys": [
+    "Seis huesos de un neandertal adulto.",
+    "Entre 44.000 y 49.000 años de antigüedad.",
+    "Es el primer neandertal identificado en Navarra."
+   ],
+   "why": "Es un hallazgo en el país vecino que cuenta quién vivía en estas tierras hace casi 50.000 años.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/19/descubren-en-la-cueva-abauntz-los-primeros-restos-neandertales-navarra/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-20-txertagunes-vacuna-gripe-bizkaia",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "Vacunas de gripe y covid sin cita en Bilbao hasta el 1 de noviembre",
+   "dek": "Osakidetza ha abierto txertagunes en Bizkaia, y el de Bilbao, en Sáenz de Buruaga, atiende todos los días de 8:00 a 20:00.",
+   "figure": {
+    "value": "1 nov",
+    "label": "último día sin cita"
+   },
+   "place": "Bilbao y Bizkaia",
+   "body": [
+    "Los puntos de vacunación sin cita previa funcionan desde el lunes 19 de octubre y estarán abiertos hasta el 1 de noviembre, según Orain. Ofrecen la vacuna de la gripe y la de la covid-19, como complemento a la vacunación habitual con cita en los centros de salud.",
+    "En Bilbao, el punto está en el Centro de Salud de Sáenz de Buruaga y abre de lunes a domingo, de 8:00 a 20:00. En el resto de Bizkaia hay puntos en el Hospital San Eloy (Barakaldo), el ambulatorio de Repélega (Portugalete), el centro de salud de Amorebieta y el de Mungia, de lunes a viernes de 15:00 a 20:00.",
+    "El artículo no detalla requisitos de edad ni qué documentación llevar, por lo que conviene llevar la tarjeta sanitaria y confirmar con Osakidetza si perteneces a un grupo recomendado."
+   ],
+   "keys": [
+    "Sin cita previa hasta el 1 de noviembre.",
+    "Bilbao: Sáenz de Buruaga, todos los días de 8:00 a 20:00.",
+    "El artículo no precisa requisitos de edad."
+   ],
+   "why": "Si trabajas en horario de panadería, el punto de Bilbao abre hasta las 20:00 incluso en fin de semana.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/16/estos-son-todos-los-puntos-en-los-sera-posible-vacunarse-contra-la-gripe-sin-cita-previa/"
+    }
+   ]
+  },
   {
    "id": "2026-10-20-iran-ormuz-plan-paz-siete-dias",
    "section": "mundo",
