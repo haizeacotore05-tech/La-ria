@@ -1,81 +1,87 @@
 {
- "dana": {
-  "label": "DANA",
-  "last": "2026-10-20",
-  "first": "2026-10-20",
-  "count": 1
+ "sanidad": {
+  "label": "Sanidad",
+  "last": "2026-10-21",
+  "first": "2026-10-08",
+  "count": 13
  },
- "francia-protestas": {
-  "label": "Protestas en Francia",
-  "last": "2026-10-20",
-  "first": "2026-10-20",
-  "count": 3
+ "vivienda": {
+  "label": "Crisis de la vivienda",
+  "last": "2026-10-21",
+  "first": "2026-10-08",
+  "count": 42
  },
- "amnistia": {
-  "label": "Amnistía",
-  "last": "2026-10-20",
-  "first": "2026-10-20",
-  "count": 1
+ "pnv-bizkaia": {
+  "label": "PNV de Bizkaia",
+  "last": "2026-10-21",
+  "first": "2026-10-10",
+  "count": 7
  },
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-10-20",
+  "last": "2026-10-21",
   "first": "2026-10-08",
-  "count": 47
+  "count": 49
+ },
+ "dana": {
+  "label": "DANA",
+  "last": "2026-10-21",
+  "first": "2026-10-20",
+  "count": 2
+ },
+ "amnistia": {
+  "label": "Amnistía",
+  "last": "2026-10-21",
+  "first": "2026-10-20",
+  "count": 2
  },
  "ceuta": {
   "label": "Ceuta",
-  "last": "2026-10-20",
+  "last": "2026-10-21",
   "first": "2026-10-20",
-  "count": 1
+  "count": 2
  },
- "ucrania": {
-  "label": "Ucrania",
-  "last": "2026-10-20",
+ "tribunales-psoe": {
+  "label": "Casos judiciales del PSOE",
+  "last": "2026-10-21",
   "first": "2026-10-08",
-  "count": 10
+  "count": 9
+ },
+ "francia-protestas": {
+  "label": "Protestas en Francia",
+  "last": "2026-10-21",
+  "first": "2026-10-20",
+  "count": 4
  },
  "guerra-iran": {
   "label": "Guerra de Irán",
-  "last": "2026-10-20",
+  "last": "2026-10-21",
   "first": "2026-10-09",
-  "count": 12
+  "count": 13
+ },
+ "ucrania": {
+  "label": "Ucrania",
+  "last": "2026-10-21",
+  "first": "2026-10-08",
+  "count": 11
  },
  "italia-meloni": {
   "label": "Italia de Meloni",
-  "last": "2026-10-20",
+  "last": "2026-10-21",
   "first": "2026-10-08",
-  "count": 12
+  "count": 15
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-10-21",
+  "first": "2026-10-08",
+  "count": 21
  },
  "autogobierno": {
   "label": "Autogobierno vasco",
   "last": "2026-10-20",
   "first": "2026-10-08",
   "count": 4
- },
- "sanidad": {
-  "label": "Sanidad",
-  "last": "2026-10-20",
-  "first": "2026-10-08",
-  "count": 12
- },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-10-20",
-  "first": "2026-10-08",
-  "count": 19
- },
- "vivienda": {
-  "label": "Crisis de la vivienda",
-  "last": "2026-10-19",
-  "first": "2026-10-08",
-  "count": 40
- },
- "tribunales-psoe": {
-  "label": "Casos judiciales del PSOE",
-  "last": "2026-10-19",
-  "first": "2026-10-08",
-  "count": 8
  },
  "marruecos-ceuta": {
   "label": "Crisis de Ceuta",
@@ -88,12 +94,6 @@
   "last": "2026-10-19",
   "first": "2026-10-09",
   "count": 4
- },
- "pnv-bizkaia": {
-  "label": "PNV de Bizkaia",
-  "last": "2026-10-18",
-  "first": "2026-10-10",
-  "count": 6
  },
  "metro-bilbao": {
   "label": "Metro de Bilbao",
