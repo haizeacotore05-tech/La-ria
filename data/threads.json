@@ -1,69 +1,75 @@
 {
- "vivienda": {
-  "label": "Crisis de la vivienda",
-  "last": "2026-10-22",
-  "first": "2026-10-08",
-  "count": 44
- },
- "pnv-bizkaia": {
-  "label": "PNV de Bizkaia",
-  "last": "2026-10-22",
-  "first": "2026-10-10",
-  "count": 8
- },
- "tubos-reunidos": {
-  "label": "Tubos Reunidos",
-  "last": "2026-10-22",
-  "first": "2026-10-13",
-  "count": 3
- },
- "marruecos-ceuta": {
-  "label": "Crisis de Ceuta",
-  "last": "2026-10-22",
-  "first": "2026-10-10",
-  "count": 11
- },
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-10-22",
+  "last": "2026-10-23",
   "first": "2026-10-08",
-  "count": 50
+  "count": 53
  },
  "tribunales-psoe": {
   "label": "Casos judiciales del PSOE",
-  "last": "2026-10-22",
+  "last": "2026-10-23",
   "first": "2026-10-08",
-  "count": 10
+  "count": 11
+ },
+ "marruecos-ceuta": {
+  "label": "Crisis de Ceuta",
+  "last": "2026-10-23",
+  "first": "2026-10-10",
+  "count": 12
  },
  "francia-protestas": {
   "label": "Protestas en Francia",
-  "last": "2026-10-22",
+  "last": "2026-10-23",
   "first": "2026-10-20",
-  "count": 5
- },
- "ucrania": {
-  "label": "Ucrania",
-  "last": "2026-10-22",
-  "first": "2026-10-08",
-  "count": 12
+  "count": 6
  },
  "guerra-iran": {
   "label": "Guerra de Irán",
-  "last": "2026-10-22",
+  "last": "2026-10-23",
   "first": "2026-10-09",
-  "count": 15
+  "count": 16
+ },
+ "ucrania": {
+  "label": "Ucrania",
+  "last": "2026-10-23",
+  "first": "2026-10-08",
+  "count": 13
+ },
+ "vivienda": {
+  "label": "Crisis de la vivienda",
+  "last": "2026-10-23",
+  "first": "2026-10-08",
+  "count": 46
+ },
+ "metro-bilbao": {
+  "label": "Metro de Bilbao",
+  "last": "2026-10-23",
+  "first": "2026-10-08",
+  "count": 5
+ },
+ "pnv-bizkaia": {
+  "label": "PNV de Bizkaia",
+  "last": "2026-10-23",
+  "first": "2026-10-10",
+  "count": 9
+ },
+ "tubos-reunidos": {
+  "label": "Tubos Reunidos",
+  "last": "2026-10-23",
+  "first": "2026-10-13",
+  "count": 4
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-10-23",
+  "first": "2026-10-08",
+  "count": 23
  },
  "italia-meloni": {
   "label": "Italia de Meloni",
   "last": "2026-10-22",
   "first": "2026-10-08",
   "count": 17
- },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-10-22",
-  "first": "2026-10-08",
-  "count": 22
  },
  "sanidad": {
   "label": "Sanidad",
@@ -99,12 +105,6 @@
   "label": "Protestas estudiantiles en Francia",
   "last": "2026-10-19",
   "first": "2026-10-09",
-  "count": 4
- },
- "metro-bilbao": {
-  "label": "Metro de Bilbao",
-  "last": "2026-10-17",
-  "first": "2026-10-08",
   "count": 4
  },
  "eeuu-midterms": {
