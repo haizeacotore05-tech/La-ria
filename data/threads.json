@@ -1,9 +1,15 @@
 {
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-10-23",
+  "last": "2026-10-24",
   "first": "2026-10-08",
-  "count": 53
+  "count": 54
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-10-24",
+  "first": "2026-10-08",
+  "count": 24
  },
  "tribunales-psoe": {
   "label": "Casos judiciales del PSOE",
@@ -58,12 +64,6 @@
   "last": "2026-10-23",
   "first": "2026-10-13",
   "count": 4
- },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-10-23",
-  "first": "2026-10-08",
-  "count": 23
  },
  "italia-meloni": {
   "label": "Italia de Meloni",
