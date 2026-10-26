@@ -1,39 +1,69 @@
 {
  "disturbios-barcelona": {
   "label": "Disturbios en Barcelona",
-  "last": "2026-10-25",
+  "last": "2026-10-26",
   "first": "2026-10-25",
-  "count": 1
- },
- "dana": {
-  "label": "DANA",
-  "last": "2026-10-25",
-  "first": "2026-10-20",
-  "count": 3
+  "count": 2
  },
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-10-25",
+  "last": "2026-10-26",
   "first": "2026-10-08",
-  "count": 55
+  "count": 56
+ },
+ "vivienda": {
+  "label": "Crisis de la vivienda",
+  "last": "2026-10-26",
+  "first": "2026-10-08",
+  "count": 51
  },
  "marruecos-ceuta": {
   "label": "Crisis de Ceuta",
-  "last": "2026-10-25",
+  "last": "2026-10-26",
   "first": "2026-10-10",
-  "count": 13
+  "count": 14
+ },
+ "dana": {
+  "label": "DANA",
+  "last": "2026-10-26",
+  "first": "2026-10-20",
+  "count": 4
+ },
+ "autogobierno": {
+  "label": "Autogobierno vasco",
+  "last": "2026-10-26",
+  "first": "2026-10-08",
+  "count": 6
+ },
+ "francia-protestas": {
+  "label": "Protestas en Francia",
+  "last": "2026-10-26",
+  "first": "2026-10-20",
+  "count": 8
+ },
+ "italia-meloni": {
+  "label": "Italia de Meloni",
+  "last": "2026-10-26",
+  "first": "2026-10-08",
+  "count": 20
+ },
+ "sanidad": {
+  "label": "Sanidad",
+  "last": "2026-10-26",
+  "first": "2026-10-08",
+  "count": 14
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-10-26",
+  "first": "2026-10-08",
+  "count": 26
  },
  "amnistia": {
   "label": "Amnistía",
   "last": "2026-10-25",
   "first": "2026-10-20",
   "count": 3
- },
- "autogobierno": {
-  "label": "Autogobierno vasco",
-  "last": "2026-10-25",
-  "first": "2026-10-08",
-  "count": 5
  },
  "pnv-bizkaia": {
   "label": "PNV de Bizkaia",
@@ -53,12 +83,6 @@
   "first": "2026-10-08",
   "count": 6
  },
- "francia-protestas": {
-  "label": "Protestas en Francia",
-  "last": "2026-10-25",
-  "first": "2026-10-20",
-  "count": 7
- },
  "ucrania": {
   "label": "Guerra de Ucrania",
   "last": "2026-10-25",
@@ -71,35 +95,11 @@
   "first": "2026-10-09",
   "count": 17
  },
- "vivienda": {
-  "label": "Crisis de la vivienda",
-  "last": "2026-10-25",
-  "first": "2026-10-08",
-  "count": 47
- },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-10-25",
-  "first": "2026-10-08",
-  "count": 25
- },
- "italia-meloni": {
-  "label": "Italia de Meloni",
-  "last": "2026-10-25",
-  "first": "2026-10-08",
-  "count": 19
- },
  "tribunales-psoe": {
   "label": "Casos judiciales del PSOE",
   "last": "2026-10-23",
   "first": "2026-10-08",
   "count": 11
- },
- "sanidad": {
-  "label": "Sanidad",
-  "last": "2026-10-21",
-  "first": "2026-10-08",
-  "count": 13
  },
  "ceuta": {
   "label": "Ceuta",
