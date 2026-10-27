@@ -33,7 +33,7 @@
   "label": "Italia y Meloni",
   "last": "2026-10-27",
   "first": "2026-10-08",
-  "count": 21
+  "count": 22
  },
  "athletic": {
   "label": "Athletic Club",
@@ -41,17 +41,17 @@
   "first": "2026-10-08",
   "count": 27
  },
+ "vivienda": {
+  "label": "Crisis de la vivienda",
+  "last": "2026-10-27",
+  "first": "2026-10-08",
+  "count": 53
+ },
  "disturbios-barcelona": {
   "label": "Disturbios en Barcelona",
   "last": "2026-10-26",
   "first": "2026-10-25",
   "count": 2
- },
- "vivienda": {
-  "label": "Crisis de la vivienda",
-  "last": "2026-10-26",
-  "first": "2026-10-08",
-  "count": 51
  },
  "autogobierno": {
   "label": "Autogobierno vasco",
