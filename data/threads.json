@@ -1,15 +1,51 @@
 {
+ "elecciones-29n": {
+  "label": "Elecciones 29-N",
+  "last": "2026-10-27",
+  "first": "2026-10-08",
+  "count": 58
+ },
+ "marruecos-ceuta": {
+  "label": "Entrada masiva en Ceuta",
+  "last": "2026-10-27",
+  "first": "2026-10-10",
+  "count": 15
+ },
+ "dana": {
+  "label": "DANA",
+  "last": "2026-10-27",
+  "first": "2026-10-20",
+  "count": 5
+ },
+ "gaza": {
+  "label": "Guerra de Gaza",
+  "last": "2026-10-27",
+  "first": "2026-10-08",
+  "count": 5
+ },
+ "francia-protestas": {
+  "label": "Protestas en Francia",
+  "last": "2026-10-27",
+  "first": "2026-10-20",
+  "count": 9
+ },
+ "italia-meloni": {
+  "label": "Italia y Meloni",
+  "last": "2026-10-27",
+  "first": "2026-10-08",
+  "count": 21
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-10-27",
+  "first": "2026-10-08",
+  "count": 27
+ },
  "disturbios-barcelona": {
   "label": "Disturbios en Barcelona",
   "last": "2026-10-26",
   "first": "2026-10-25",
   "count": 2
- },
- "elecciones-29n": {
-  "label": "Elecciones 29-N",
-  "last": "2026-10-26",
-  "first": "2026-10-08",
-  "count": 56
  },
  "vivienda": {
   "label": "Crisis de la vivienda",
@@ -17,47 +53,17 @@
   "first": "2026-10-08",
   "count": 51
  },
- "marruecos-ceuta": {
-  "label": "Crisis de Ceuta",
-  "last": "2026-10-26",
-  "first": "2026-10-10",
-  "count": 14
- },
- "dana": {
-  "label": "DANA",
-  "last": "2026-10-26",
-  "first": "2026-10-20",
-  "count": 4
- },
  "autogobierno": {
   "label": "Autogobierno vasco",
   "last": "2026-10-26",
   "first": "2026-10-08",
   "count": 6
  },
- "francia-protestas": {
-  "label": "Protestas en Francia",
-  "last": "2026-10-26",
-  "first": "2026-10-20",
-  "count": 8
- },
- "italia-meloni": {
-  "label": "Italia de Meloni",
-  "last": "2026-10-26",
-  "first": "2026-10-08",
-  "count": 20
- },
  "sanidad": {
   "label": "Sanidad",
   "last": "2026-10-26",
   "first": "2026-10-08",
   "count": 14
- },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-10-26",
-  "first": "2026-10-08",
-  "count": 26
  },
  "amnistia": {
   "label": "Amnistía",
@@ -124,12 +130,6 @@
   "last": "2026-10-17",
   "first": "2026-10-08",
   "count": 6
- },
- "gaza": {
-  "label": "Guerra de Gaza",
-  "last": "2026-10-16",
-  "first": "2026-10-08",
-  "count": 4
  },
  "juicio-maduro": {
   "label": "Juicio a Maduro",
