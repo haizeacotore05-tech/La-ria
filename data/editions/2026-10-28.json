@@ -1,0 +1,2109 @@
+{
+ "date": "2026-10-28",
+ "number": 21,
+ "generatedAt": "2026-10-28T05:47:20+00:00",
+ "summary": "Bilbao limpia tras los disturbios, Brasil y Israel marcan la agenda internacional y Feijóo arranca la precampaña con la mirada puesta en el orden público.",
+ "essentials": [
+  {
+   "story": "2026-10-28-bilbao-disturbios-balance",
+   "text": "Bilbao amanece tras los disturbios por el acto de Vito Quiles: 19 detenidos (7 menores) y unos 55.000 € de daños; los sindicatos de la Ertzaintza piden explicaciones."
+  },
+  {
+   "story": "2026-10-28-espana-blocus-saqueos-31-octubre",
+   "text": "Tras los saqueos de Barcelona, hay convocatorias en Madrid el 31 de octubre a las 17:00 y 18:00; el Gobierno avisa de que los padres responderán por daños de menores."
+  },
+  {
+   "story": "2026-10-28-espana-feijoo-lista-madrid-orden",
+   "text": "Feijóo presenta la lista de Madrid con Ayuso: promete «orden» y un millón de viviendas; la media de encuestas da PP 130, PSOE 108, Vox 67."
+  },
+  {
+   "story": "2026-10-28-mundo-israel-escrutinio",
+   "text": "Recuento en Israel: 59 escaños para el bloque de Netanyahu y 46 para el opositor con un tercio escrutado; la mayoría son 61 y los votos de soldados decidirán."
+  },
+  {
+   "story": "2026-10-28-mundo-flavio-bolsonaro-huida",
+   "text": "Flávio Bolsonaro huye a EE. UU. tras perder ante Lula con el 51,8 % y quedarse sin pasaportes; Lula lo llama «vergonzoso»."
+  },
+  {
+   "story": "2026-10-28-mundo-ucrania-oleshky-kiev",
+   "text": "Tregua local en Oleshky hasta el 1 de noviembre, pero Rusia lanzó 16 misiles balísticos y 280 drones; Abu Dhabi, a principios de noviembre."
+  },
+  {
+   "story": "2026-10-28-economia-wall-street-ibex-cierre",
+   "text": "Wall Street y el Ibex cierran al alza (S&P 500 +0,60 %, Ibex +0,67 %); Nvidia sube un 0,9 % y hoy decide la Fed."
+  },
+  {
+   "story": "2026-10-28-euskadi-presupuestos-2027",
+   "text": "El Gobierno Vasco presenta 17.629 millones para 2027, pero mantiene en 300 € la ayuda de vivienda por cuarto año; Auxilio Judicial sigue sin convocatoria."
+  }
+ ],
+ "markets": {
+  "asOf": "Cierre del martes 27 de octubre",
+  "items": [
+   {
+    "name": "MSCI World (último nivel confirmado, viernes 23 oct)",
+    "value": "4.874,68",
+    "change": null,
+    "mine": true,
+    "note": "Sin dato posterior confirmado."
+   },
+   {
+    "name": "S&P 500",
+    "value": "7.722",
+    "change": 0.6,
+    "mine": true
+   },
+   {
+    "name": "Nvidia",
+    "value": "precio sin confirmar",
+    "change": 0.9,
+    "mine": true,
+    "note": "Sube un 0,9 % pese a su inversión de 3.000 M$ en Meta."
+   },
+   {
+    "name": "Nasdaq Composite",
+    "value": "26.447",
+    "change": 1.18,
+    "mine": true,
+    "note": "El Nasdaq 100 no aparece por separado."
+   },
+   {
+    "name": "Dow Jones",
+    "value": "52.377",
+    "change": 0.03,
+    "mine": true
+   },
+   {
+    "name": "Ibex 35",
+    "value": "19.160,60",
+    "change": 0.67
+   },
+   {
+    "name": "Repsol",
+    "value": "precio sin confirmar",
+    "change": -3.29
+   },
+   {
+    "name": "Telefónica",
+    "value": "precio sin confirmar",
+    "change": 1.84
+   },
+   {
+    "name": "Santander",
+    "value": "precio sin confirmar",
+    "change": 1.02
+   },
+   {
+    "name": "Inditex",
+    "value": "precio sin confirmar",
+    "change": -0.42
+   },
+   {
+    "name": "BBVA",
+    "value": "precio sin confirmar",
+    "change": -0.13
+   },
+   {
+    "name": "Iberdrola",
+    "value": "precio sin confirmar",
+    "change": 0.0
+   },
+   {
+    "name": "Brent",
+    "value": "113,88 $",
+    "change": -1.67
+   }
+  ],
+  "comment": "Wall Street cerró al alza el martes, impulsado por los fabricantes de chips: S&P 500 +0,60 %, Nasdaq +1,18 % y Nvidia +0,9 %. El Ibex sumó un 0,67 % con el petróleo en descenso; hoy se reúne la Fed y se espera que mantenga los tipos. Falta el nivel actual del MSCI World y el precio de Nvidia.",
+  "sources": [
+   {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/america/agencias/2026/10/27/wall-street-sube-gracias-a-los-chips-y-amd-gana-un-54-mientras-boeing-cae-un-106/"
+   },
+   {
+    "name": "Bolsamania",
+    "url": "https://www.bolsamania.com/noticias/mercados-ultima-hora/cierre-en-wall-street-dow-jones003-sp500060-nasdaq118--23933566.html"
+   },
+   {
+    "name": "Bolsamania",
+    "url": "https://www.bolsamania.com/noticias/mercados-ultima-hora/el-ibex-35-cierra-con-subidas-del-067-hasta-1916060-puntos--23932695.html"
+   },
+   {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/america/agencias/2026/10/27/el-crudo-brent-baja-un-167-y-cierra-por-debajo-de-los-114-dolares/"
+   }
+  ]
+ },
+ "alerts": [
+  {
+   "kind": "otros",
+   "title": "Tensión tras los disturbios en Bilbao",
+   "text": "Posible presencia policial en Deusto y el centro tras la noche del lunes; comercios con daños y limpieza de contenedores y coches quemados.",
+   "when": "Hoy",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/espana/agencias/2026/10/27/bilbao-limpia-los-destrozos-de-los-disturbios-que-condenan-partidos-e-instituciones/"
+   }
+  },
+  {
+   "kind": "huelga",
+   "title": "Huelga en Osakidetza el 30 de octubre",
+   "text": "SATSE, ELA, LAB, CCOO y UGT paran en toda Osakidetza. Siguen jornadas el 9 de diciembre en Álava y el 14 de diciembre en toda la red.",
+   "when": "30 oct",
+   "source": {
+    "name": "Gasteiz Hoy",
+    "url": "https://www.gasteizhoy.com/huelga-osakidetza-alava-octubre-diciembre-2026/"
+   }
+  },
+  {
+   "kind": "obras",
+   "title": "Cierre del túnel de Artxanda La Salve-Txorierri",
+   "text": "Cinco meses de cierre por rehabilitación. Cambian Bizkaibus 3247 (aeropuerto, solo desde Termibus), 3414, 2321, 2610 y 2611.",
+   "when": "Desde el 2 nov",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/bizkaibus-aeropuerto-termibus-cierre-tuneles-artxanda-noviembre-2026/"
+   }
+  },
+  {
+   "kind": "otros",
+   "title": "Vacunación gripe y covid sin cita en Bizkaia",
+   "text": "Cinco puntos de Osakidetza sin cita: Sáenz de Buruaga (Bilbao) de 8:00 a 20:00 todos los días; los demás, de lunes a viernes de 15:00 a 20:00.",
+   "when": "Hasta el 1 nov",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/16/estos-son-todos-los-puntos-en-los-sera-posible-vacunarse-contra-la-gripe-sin-cita-previa/"
+   }
+  },
+  {
+   "kind": "huelga",
+   "title": "Huelga general el 11 de noviembre",
+   "text": "ELA, LAB, ESK, Steilas, Etxalde y Hiru convocan en Euskal Herria por la vivienda y los salarios; CCOO y UGT paran el mismo día a escala estatal.",
+   "when": "11 nov",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/economia/2026/10/22/sindicatos-vascos-vivienda-diran-no-la-especulacion-exigiran-subidas-salariales-el-11n/"
+   }
+  },
+  {
+   "kind": "huelga",
+   "title": "Huelga general en Italia el viernes 30",
+   "text": "Prevista afectación a trenes y aviones en Italia; revisa vuelos y trenes si viajáis esos días.",
+   "when": "30 oct",
+   "source": {
+    "name": "ANSA",
+    "url": "https://www.ilpost.it/2026/10/27/venerdi-30-ottobre-sciopero-generale/"
+   }
+  }
+ ],
+ "agenda": [
+  {
+   "date": "2026-10-28",
+   "until": "2027-02-21",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "Steve McQueen: 66–76–26",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Gran exposición del artista y cineasta Steve McQueen; plan seguro para un día de lluvia.",
+   "price": "12 €; estudiantes de 18 a 26 años: 6 €",
+   "couple": true,
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://pro.guggenheim-bilbao.eus/fr/expositions"
+   }
+  },
+  {
+   "date": "2026-10-28",
+   "until": "2027-01-17",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "Ever is Over All. Pipilotti Rist",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Instalaciones de vídeo muy coloridas de Pipilotti Rist, abiertas desde el 1 de octubre, para pasar una tarde bajo techo.",
+   "price": "12 €; estudiantes de 18 a 26 años: 6 €",
+   "couple": true,
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://pro.guggenheim-bilbao.eus/fr/expositions"
+   }
+  },
+  {
+   "date": "2026-10-28",
+   "until": "2026-11-01",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "in situ: Igshaan Adams. Levantando el polvo",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Últimos días para ver al artista sudafricano Igshaan Adams y su archivo del cuerpo, entre tejido, memoria y polvo.",
+   "price": "12 €; estudiantes de 18 a 26 años: 6 €",
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://pro.guggenheim-bilbao.eus/fr/expositions"
+   }
+  },
+  {
+   "date": "2026-10-28",
+   "until": "2026-11-04",
+   "time": "10:00-20:00 (domingos hasta 15:00)",
+   "kind": "exposicion",
+   "title": "Museo de Bellas Artes de Bilbao: «La búsqueda del comienzo» y colección",
+   "place": "Museo de Bellas Artes, Bilbao",
+   "text": "Tras su reapertura ampliada, un Velázquez, un Veronese y un Sánchez Cotán de la colección Arango, junto a la colección permanente.",
+   "price": "12 €; reducida: 6 €; menores de 18: gratis",
+   "couple": true,
+   "source": {
+    "name": "Totenart",
+    "url": "https://totenart.com/noticias/museo-bellas-artes-bilbao-reapertura-2026/"
+   }
+  },
+  {
+   "date": "2026-10-28",
+   "until": "2026-10-29",
+   "time": "10:30 (de lunes a jueves)",
+   "kind": "plan",
+   "title": "Bilboats: «Navegando Bilbao», paseo de 1 hora por la ría",
+   "place": "Salida desde Bilbao (Bilboats)",
+   "text": "Ver el Guggenheim, el Euskalduna y San Mamés desde el agua con audioguía; plan tranquilo para enseñar la ciudad.",
+   "price": "14 €; reducida: 10 €",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel",
+    "url": "https://blog.euskaltel.com/paseos-barco-ria-bilbao/"
+   }
+  },
+  {
+   "date": "2026-10-28",
+   "until": "2026-11-04",
+   "time": "11:00-14:00 y 16:00-20:00 (domingos hasta 14:00; cierra los lunes)",
+   "kind": "exposicion",
+   "title": "Estrella fugaz y corazón, de M. Benito Píriz",
+   "place": "Sala URIBITARTE40, Fundación BilbaoArte, Bilbao",
+   "text": "Esculturas hechas con piezas de moto y protecciones de carretera sobre la fragilidad y la resistencia; entrada y actividades libres.",
+   "price": "Gratis",
+   "source": {
+    "name": "Arteinformado",
+    "url": "https://www.arteinformado.com/agenda/f/estrella-fugaz-y-corazon-246073"
+   }
+  },
+  {
+   "date": "2026-10-28",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "Herencia",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Thriller onírico sobre el misterio de una familia, ambientado en un dormitorio durante la última noche de una pareja.",
+   "price": "5-18 €; plazas juveniles limitadas a 5 €",
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/herencia/?lang=en"
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "time": "19:00",
+   "kind": "concierto",
+   "title": "Arianna Puello + Novato + Nehor",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Noche de música alternativa en el teatro modernista, con tres propuestas distintas y entrada sin coste.",
+   "price": "Gratis",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/arianna-puello-novato-nehor-bilbao-1017938"
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "time": "19:00",
+   "kind": "plan",
+   "title": "Presentación del libro de la exposición «Estrella fugaz y corazón»",
+   "place": "Sala URIBITARTE40, Fundación BilbaoArte, Bilbao",
+   "text": "Acto abierto en la sala con el catálogo de la muestra de Benito Píriz, ocasión de conocer la creación local.",
+   "price": "Gratis",
+   "source": {
+    "name": "Arteinformado",
+    "url": "https://www.arteinformado.com/agenda/f/estrella-fugaz-y-corazon-246073"
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "time": "19:30",
+   "kind": "concierto",
+   "title": "Banda Municipal de Bilbao: «Ibilbideak – Caminos»",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Arreglos de Puccini (La Bohème, Gianni Schicchi, Turandot) y la Sinfonía nº 2 «La Odisea» de Robert W. Smith.",
+   "price": "5 €",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/bilboko-udal-musika-banda-banda-municipal-de-bilbao-3/?lang=en"
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "time": "20:00",
+   "kind": "teatro",
+   "title": "Hablar no sirve. De nada, de Bob Pop",
+   "place": "Teatro Campos Elíseos (Sala Teatro), Bilbao",
+   "text": "Monólogo íntimo y con humor del escritor y guionista Bob Pop sobre la comunicación y la vida.",
+   "price": "22-26 €",
+   "source": {
+    "name": "Teatro Campos Elíseos",
+    "url": "https://www.teatrocampos.com/espectaculo/hablar-no-sirve-de-nada/"
+   }
+  },
+  {
+   "date": "2026-10-30",
+   "time": "17:00",
+   "kind": "concierto",
+   "title": "BIME Live: concierto al aire libre con Alcalá Norte, 1111 y Jimena Amarillo",
+   "place": "Paseo de Uribitarte, Bilbao",
+   "text": "Cierre del BIME con dos escenarios junto a la ría y presentación del segundo disco de Alcalá Norte.",
+   "price": "Gratis",
+   "source": {
+    "name": "La Ganzúa - Alcalá Norte, concierto gratis",
+    "url": "https://www.laganzua.net/noticias/32789-alcala-norte-concierto-gratis-en-bilbao-el-30-de-octubre-para-cerrar-el-bime-2026"
+   }
+  },
+  {
+   "date": "2026-10-30",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "Panorama desde el puente, de Arthur Miller",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Clásico de Miller sobre un estibador, la lealtad familiar y la ley; 110 minutos de drama intenso en el teatro más emblemático de la ciudad.",
+   "price": "14-26 €; descuentos para jóvenes y mayores de 65",
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/panorama-desde-el-puente-2/?lang=en"
+   }
+  },
+  {
+   "date": "2026-10-30",
+   "time": "20:00",
+   "kind": "teatro",
+   "title": "Ya me has tocado el cuento",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Comedia en la que cuatro príncipes de cuento buscan a las princesas que los dejaron y descubren otra masculinidad; unos 75-90 minutos, mayores de 16.",
+   "price": "Desde 17,85 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/entradas/ya-me-has-tocado-el-cuento"
+   }
+  },
+  {
+   "date": "2026-10-30",
+   "time": "21:00",
+   "kind": "concierto",
+   "title": "Abhir",
+   "place": "Sala Santana 27, Bilbao",
+   "text": "Concierto de trap y rhythm & blues en Santana 27.",
+   "price": "Desde 25 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/abhir-bilbao-1016209"
+   }
+  },
+  {
+   "date": "2026-10-30",
+   "time": "21:30",
+   "kind": "concierto",
+   "title": "El Altar del Holocausto",
+   "place": "Sala Kubik, Vitoria-Gasteiz",
+   "text": "Concierto de metal extremo en Vitoria, a unos 50 minutos de Bilbao, para quien quiera una noche de ruido sin concesiones.",
+   "price": "Desde 18 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/el-altar-del-holocausto-vitoria-gasteiz-1017060"
+   }
+  },
+  {
+   "date": "2026-10-31",
+   "time": "17:45-20:15",
+   "kind": "cine",
+   "title": "Halloween en Barakaldo: merienda y película de terror",
+   "place": "Topalekus, Barakaldo",
+   "text": "Sesión de cine de miedo con merienda para cerrar el programa de Halloween del municipio.",
+   "price": "Gratis",
+   "source": {
+    "name": "Jaiak.eus",
+    "url": "https://jaiak.eus/programa-halloween-en-barakaldo-2026"
+   }
+  },
+  {
+   "date": "2026-10-31",
+   "time": "19:00",
+   "kind": "concierto",
+   "title": "Candlelight: Coldplay vs. Imagine Dragons",
+   "place": "Iglesia de la Encarnación, Bilbao",
+   "text": "Versiones de Coldplay e Imagine Dragons en cuarteto de cuerda, a la luz de las velas, en una iglesia del Casco Viejo.",
+   "price": "Desde 21,50 €",
+   "couple": true,
+   "source": {
+    "name": "Fever",
+    "url": "https://feverup.com/m/156210/en"
+   }
+  },
+  {
+   "date": "2026-10-31",
+   "time": "19:00",
+   "kind": "teatro",
+   "title": "Panorama desde el puente, de Arthur Miller",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Segunda función del drama de Miller sobre lealtad, deseo y ley, con montaje de 110 minutos.",
+   "price": "14-26 €; descuentos para jóvenes y mayores de 65",
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/panorama-desde-el-puente-2/?lang=en"
+   }
+  },
+  {
+   "date": "2026-10-31",
+   "time": "19:30",
+   "kind": "concierto",
+   "title": "Nanpa Básico",
+   "place": "Sala Santana 27, Bilbao",
+   "text": "Hip hop y rap en directo en Santana 27, sábado de Halloween.",
+   "price": "Desde 34 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/nanpa-basico-bilbao-1015956"
+   }
+  },
+  {
+   "date": "2026-10-31",
+   "time": "20:00",
+   "kind": "teatro",
+   "title": "N.A.N, de Anna Fontanet (danza)",
+   "place": "La Fundición, Bilbao",
+   "text": "Pieza de danza contemporánea en una sala pequeña y cercana, buena forma de acercarse a la escena local sin gastar mucho.",
+   "price": "Desde 8 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/espectaculos/danza/bilbao"
+   }
+  },
+  {
+   "date": "2026-10-31",
+   "time": "20:00",
+   "kind": "concierto",
+   "title": "Rebrote",
+   "place": "Sala Jimmy Jazz, Vitoria-Gasteiz",
+   "text": "Directo en la sala de referencia de Vitoria, a menos de una hora en coche, para una noche de Halloween con música en vivo.",
+   "price": "Desde 27,50 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/rebrote-vitoria-gasteiz-1016513"
+   }
+  },
+  {
+   "date": "2026-10-31",
+   "time": "20:00",
+   "kind": "teatro",
+   "title": "El Entusiasmo",
+   "place": "Teatro Barakaldo, Barakaldo",
+   "text": "Función en el Teatro Barakaldo en la noche de Halloween.",
+   "price": "Desde 16,50 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/barakaldo/teatro-barakaldo"
+   }
+  },
+  {
+   "date": "2026-10-31",
+   "time": "20:30",
+   "kind": "concierto",
+   "title": "Miguel Costas (Siniestro Total)",
+   "place": "Crazy Horse, Bilbao",
+   "text": "El cantante de Siniestro Total en directo, rock gamberro para la noche de Halloween.",
+   "price": "Consulta la tarifa en su web",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/miguel-costas-siniestro-total-bilbao-1017189"
+   }
+  },
+  {
+   "date": "2026-10-31",
+   "time": "21:00",
+   "kind": "concierto",
+   "title": "Candlelight: Halloween Classics",
+   "place": "Iglesia de la Encarnación, Bilbao",
+   "text": "Concierto de cuerda a la luz de las velas con música de miedo clásica, plan de Halloween diferente en el Casco Viejo.",
+   "price": "Desde 15,50 €",
+   "couple": true,
+   "source": {
+    "name": "Fever",
+    "url": "https://feverup.com/m/746239/en"
+   }
+  },
+  {
+   "date": "2026-11-01",
+   "time": "09:00-18:00",
+   "kind": "feria",
+   "title": "Feria de Todos los Santos de Arredondo",
+   "place": "Arredondo (Cantabria, valle del Asón)",
+   "text": "Feria tradicional de otoño en el valle del Asón, a poco más de una hora de Bilbao, con productos y ganado de la zona.",
+   "price": "Gratis",
+   "source": {
+    "name": "Festivales de España",
+    "url": "https://www.festivalesdeespana.com/festival/feria-de-todos-los-santos-arredondo"
+   }
+  },
+  {
+   "date": "2026-11-01",
+   "time": "10:00-15:00",
+   "kind": "feria",
+   "title": "Gazta Eguna (Día del Queso) de Trucios-Turtzioz",
+   "place": "Plaza de toros y calle Esteban Terreros, Trucios-Turtzioz",
+   "text": "Unos 40 puestos de queso y productos locales, catas guiadas y fallo del concurso popular de queso de oveja a las 13:30.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Festivales de España",
+    "url": "https://www.festivalesdeespana.com/festival/gazta-eguna-de-trucios-turtzioz-d-ia-del-queso-trucios-turtzioz"
+   }
+  },
+  {
+   "date": "2026-11-01",
+   "time": "10:30",
+   "kind": "plan",
+   "title": "Bilboats: paseo en barco por la ría (festivo)",
+   "place": "Salida desde Bilbao (Bilboats)",
+   "text": "En noviembre solo navega en fines de semana y festivos; el día de Todos los Santos hay salida, con ruta de 1 hora.",
+   "price": "14 €; reducida: 10 €",
+   "couple": true,
+   "source": {
+    "name": "Euskaltel",
+    "url": "https://blog.euskaltel.com/paseos-barco-ria-bilbao/"
+   }
+  },
+  {
+   "date": "2026-11-01",
+   "time": "19:00",
+   "kind": "teatro",
+   "title": "N.A.N, de Anna Fontanet (danza)",
+   "place": "La Fundición, Bilbao",
+   "text": "Última función de esta pieza de danza en La Fundición, para cerrar el puente de Todos los Santos con algo distinto.",
+   "price": "Desde 8 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/espectaculos/danza/bilbao"
+   }
+  },
+  {
+   "date": "2026-11-01",
+   "time": "19:00",
+   "kind": "concierto",
+   "title": "Pasión Almodóvar, con Pasión Vega",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Pasión Vega canta las canciones de las películas de Almodóvar con piano y trío, en una puesta en escena de Joan Anton Rechi.",
+   "price": "24-48 €",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/pasion-almodovar/?lang=en"
+   }
+  },
+  {
+   "date": "2026-11-01",
+   "time": "21:00",
+   "kind": "deporte",
+   "title": "Athletic Club – Real Sociedad (LaLiga)",
+   "place": "San Mamés, Bilbao",
+   "text": "Derbi vasco en La Catedral, uno de los ambientes más intensos del fútbol; ideal para enseñar la pasión rojiblanca a alguien de fuera.",
+   "price": "Consulta la tarifa en su web",
+   "couple": true,
+   "source": {
+    "name": "LaLiga",
+    "url": "https://www.laliga.com/clubes/athletic-club/proximos-partidos"
+   }
+  },
+  {
+   "date": "2026-11-03",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "El pesimismo alegre (mi suicidio)",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Monólogo con Mario Gas sobre la vida y la muerte, entre lo vitalista y lo sombrío.",
+   "price": "Desde 21 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/entradas/el-pesimismo-alegre"
+   }
+  },
+  {
+   "date": "2026-11-04",
+   "time": "19:00",
+   "kind": "experiencia",
+   "title": "Visita guiada en castellano a «Estrella fugaz y corazón»",
+   "place": "Sala URIBITARTE40, Fundación BilbaoArte, Bilbao",
+   "text": "Recorrido comentado de la exposición con interpretación en lengua de signos; acceso libre.",
+   "price": "Gratis",
+   "source": {
+    "name": "Arteinformado",
+    "url": "https://www.arteinformado.com/agenda/f/estrella-fugaz-y-corazon-246073"
+   }
+  },
+  {
+   "date": "2026-11-04",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "El pesimismo alegre (mi suicidio)",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Segunda función del monólogo de Mario Gas sobre vivir y morir con humor.",
+   "price": "Desde 21 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/entradas/el-pesimismo-alegre"
+   }
+  },
+  {
+   "date": "2026-11-05",
+   "time": "19:30",
+   "kind": "concierto",
+   "title": "María José Llergo: El Juego Tour",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Una de las grandes voces del flamenco actual presenta su nuevo proyecto con batería, teclados, bajo y violín.",
+   "price": "24-48 €",
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/maria-jose-llergo/?lang=en"
+   }
+  },
+  {
+   "date": "2026-11-06",
+   "time": "20:00",
+   "kind": "plan",
+   "title": "Bailaor@",
+   "place": "Teatro Barakaldo, Barakaldo",
+   "text": "Espectáculo de baile flamenco en el Teatro Barakaldo.",
+   "price": "Desde 20,25 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/barakaldo/teatro-barakaldo"
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "time": "18:00",
+   "kind": "teatro",
+   "title": "Soñando el Carnaval de los Animales",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Concierto escenificado para público desde 4 años, con Debussy, Saint-Saëns y grandes marionetas; también el 8 de noviembre a las 12:00 y 18:00.",
+   "price": "14-22 €",
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/sonando-el-carnaval-de-los-animales-3/?lang=en"
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "time": "20:00",
+   "kind": "teatro",
+   "title": "Charlas de Azucarillo",
+   "place": "Teatro Barakaldo, Barakaldo",
+   "text": "Función de humor en el Teatro Barakaldo.",
+   "price": "Desde 9 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/barakaldo/teatro-barakaldo"
+   }
+  }
+ ],
+ "jobs": [
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "Cuerpo de Auxilio Judicial (OEP 2026) · País Vasco",
+   "org": "Ministerio de Justicia",
+   "text": "La OEP 2026 (RD 387/2026) aprobó 335 plazas. A 28-10-2026 la convocatoria aún no consta en el BOE; se espera en el BOE entre dic 2026 y feb 2027, con examen hacia sept-oct 2027. Anterior: Orden PJC/1549/2025.",
+   "requirements": [
+    "ESO, Graduado Escolar o equivalente (grupo C2)",
+    "Nacionalidad y edad: confirmar en las bases",
+    "Plazas del País Vasco, tasa y temario: pendientes de la convocatoria",
+    "Inscripción: 20 días hábiles tras publicarse en el BOE"
+   ],
+   "how": "Vigila el BOE y mjusticia.gob.es; inscripción telemática cuando salga la convocatoria.",
+   "source": {
+    "name": "BOE-A-2026-12731 · Orden PJC/585/2026 (proceso anterior, Orden PJC/1549/2025)",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12731"
+   }
+  },
+  {
+   "deadline": "2026-11-02",
+   "how": "Instancia según las bases: 20 días hábiles desde el BOE del 2-10-2026 (cierre calculado, excluido el festivo del 12-10; confírmalo).",
+   "kind": "oposicion",
+   "org": "Ayuntamiento de Getxo – Getxo Kirolak (OAL)",
+   "requirements": [
+    "Graduado Escolar, FP1 o equivalente (o poder obtenerlo al acabar el plazo)",
+    "Perfil lingüístico 2 (B2) preceptivo; se puede acreditar en pruebas del propio proceso si lo indicas en la solicitud",
+    "Bases en BOB nº 143 (29-07-2026) y BOE del 2-10-2026",
+    "Tasa y nacionalidad: confirmar en las bases"
+   ],
+   "source": {
+    "name": "BOE-A-2026-20500 · Resolución de 28-09-2026, Getxo Kirolak",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20500"
+   },
+   "status": "abierta",
+   "text": "3 plazas de auxiliar administrativo/a, personal laboral fijo (C2), concurso-oposición, turno libre. Convocatoria en el BOE del 2-10-2026. La fecha de examen aún no consta.",
+   "title": "Auxiliar Administrativo/a · Getxo Kirolak"
+  },
+  {
+   "kind": "oposicion",
+   "status": "abierta",
+   "title": "OPE Administración General · Gobierno Vasco (367 plazas)",
+   "org": "Gobierno Vasco",
+   "text": "367 plazas de funcionarios en 15 escalas (BOPV nº 195, 13-10-2026): 86 Administración, 85 Jurídica, 49 Economía, 48 Gestión Administrativa y otras. La mayoría pide título universitario.",
+   "requirements": [
+    "Anexos I-V (superiores): grado, licenciatura o ingeniería; tasa 20,68 €",
+    "Gestión Administrativa (48 plazas): titulación, tasa y perfil de euskera no constan en lo leído; no parece accesible solo con ESO",
+    "Confirmar en las bases (Anexo XII) antes de inscribirte"
+   ],
+   "deadline": "2026-11-10",
+   "how": "Inscripción telemática en euskadi.eus del 14-10 al 10-11-2026 (14:00).",
+   "source": {
+    "name": "BOPV nº 195 · Orden de 21-09-2026",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/10/2604202a.pdf"
+   }
+  },
+  {
+   "how": "Plazo cerrado el 16-09-2026. Vigila listas de admitidas y fecha de examen en la sede de empleo público de euskadi.eus.",
+   "kind": "oposicion",
+   "org": "Gobierno Vasco (Administración General)",
+   "requirements": [
+    "No se exige titulación; la ESO suma 7,20 puntos de mérito",
+    "Euskera: 107 plazas generales exigen PL1; 5 sin perfil",
+    "Tasa 8,18 €",
+    "Oposición (30 temas, hasta 100 puntos) más concurso (hasta 45)"
+   ],
+   "source": {
+    "name": "BOPV · Orden de 30-07-2026, Agrupación Profesional de Personal de Apoyo",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/08/2603653a.shtml"
+   },
+   "status": "en-curso",
+   "text": "117 plazas turno libre (112 generales, 5 discapacidad), concurso-oposición, sin titulación exigida. Recepción, correspondencia, almacén. Plazo cerrado el 16-09; primera prueba prevista en enero de 2027.",
+   "title": "Personal de Apoyo · Gobierno Vasco"
+  },
+  {
+   "kind": "oposicion",
+   "status": "en-curso",
+   "title": "Celador/a y Operario/a de servicios · Osakidetza",
+   "org": "Osakidetza",
+   "text": "OPE de subalternos (Resolución 468/2026): plazo cerrado el 22-04-2026; examen en junio. Faltan plantilla definitiva y resultados. La 2.ª fase de la OPE (exámenes 6-27 nov) no incluye celador ni operario.",
+   "requirements": [
+    "Certificación de años cursados: ESO o equivalente",
+    "Euskera no obligatorio para celador/a; puntúa como mérito en el concurso",
+    "7 % de destinos reservado a discapacidad",
+    "Resolución 468/2026, BOPV nº 54 (20-03-2026)"
+   ],
+   "how": "Plazo cerrado. Sigue plantillas, notas y la fase de concurso en la web de la OPE de Osakidetza.",
+   "source": {
+    "name": "BOPV · Resolución 468/2026 de Osakidetza (subalternos)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/03/2601239a.shtml"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "Subalterno/a (Grupo E) · UPV/EHU",
+   "org": "UPV/EHU",
+   "text": "10 plazas de funcionariado de carrera, Escala Subalterna, concurso-oposición: 9 de acceso libre (6 con PL2, 3 con PL1) y 1 para discapacidad. Bases en el BOPV nº 144 (30-07-2026).",
+   "requirements": [
+    "Certificado de Escolaridad",
+    "Perfil lingüístico: PL2 (6 plazas) o PL1 (3 plazas), preceptivo",
+    "Tasa de 20,68 €",
+    "Plazo de solicitud y fecha de examen: confirmar en las bases generales"
+   ],
+   "how": "Consulta el plazo en las bases generales (base 5.1) y en la web de la UPV/EHU antes de inscribirte.",
+   "source": {
+    "name": "BOPV nº 144 · Resolución del rector de 15-07-2026 (Grupo E)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/07/2603395a.pdf"
+   }
+  },
+  {
+   "how": "Cuando se publique en el BOE, inscripción telemática en el plazo que fije la convocatoria; vigila el BOE.",
+   "kind": "oposicion",
+   "org": "Administración General del Estado (Función Pública / INAP)",
+   "requirements": [
+    "ESO, Graduado Escolar, FP1 o equivalente (grupo C2, como en la convocatoria anterior)",
+    "Nacionalidad y edad: según el EBEP; confirmar en las bases",
+    "Tasa de la anterior: 11,66 € (turno libre); la nueva, pendiente",
+    "Plazas, plazo y fechas: pendientes de la convocatoria"
+   ],
+   "source": {
+    "name": "INAP · Oferta de empleo público 2026",
+    "url": "https://laadministracionaldia.inap.es/noticia.asp?id=1265646"
+   },
+   "status": "proxima",
+   "text": "La convocatoria anterior (1.700 plazas, examen 23-05-2026) está resuelta. La OEP 2026 (RD 387/2026) refuerza el cuerpo, pero su convocatoria aún no consta en el BOE a 28-10-2026.",
+   "title": "Auxiliar Administrativo del Estado (OEP 2026)"
+  },
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "OPE 2026 · Diputación Foral de Bizkaia",
+   "org": "Diputación Foral de Bizkaia",
+   "text": "OPE anunciada en mayo con 69 plazas: 34 administrativos, 19 trabajo social, 5 auxiliares de bibliotecas y 5 de servicios múltiples. Bases y plazos, pendientes en el BOB; prevén una segunda OPE este año.",
+   "requirements": [
+    "Titulación de cada plaza: confirmar en las bases",
+    "Euskera: confirmar en las bases",
+    "Auxiliar de bibliotecas y servicios múltiples serían las vías más probables con ESO (sin confirmar)",
+    "Nacionalidad y tasa: confirmar en las bases"
+   ],
+   "how": "Espera la publicación de bases en el BOB y en la web de la Diputación; la inscripción será telemática.",
+   "source": {
+    "name": "Onda Vasca · OPE de 69 plazas (28-05-2026)",
+    "url": "https://www.ondavasca.com/la-diputacion-de-bizkaia-lanzara-una-ope-de-69-plazas-este-ano/"
+   }
+  },
+  {
+   "amount": "600 a 1.000 € por nivel A1-B2 (C1: 700 € si naciste en 1996 o después)",
+   "deadline": "2026-11-03",
+   "how": "Sede electrónica de euskadi.eus (servicio 1038713), 2.º turno del 1-09 al 3-11-2026, con justificantes de matrícula.",
+   "kind": "ayuda",
+   "org": "HABE · Gobierno Vasco",
+   "requirements": [
+    "Matrícula pagada en euskaltegi o autoaprendizaje homologado (1-06-2025 a 30-09-2026)",
+    "Nivel superado o acreditado entre 1-08 y 31-10-2026 (2.º turno)",
+    "Mínimo 50 horas lectivas (30 en verano) y 75 % de asistencia",
+    "Sin límite de edad: cumples; cada nivel se subvenciona una vez"
+   ],
+   "source": {
+    "name": "BOPV · Resolución HABE de 27-05-2026",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/06/2602457a.pdf"
+   },
+   "status": "abierta",
+   "text": "Subvención fija por nivel superado para quien se matriculó en un euskaltegi homologado entre jun-2025 y sep-2026. No es un porcentaje de la matrícula. Exenta de IRPF.",
+   "title": "Ayudas HABE para aprender euskera 2025-26 (2.º turno)"
+  },
+  {
+   "amount": "Hasta el 60 % de la renta, máx. 300 €/mes",
+   "deadline": "2026-12-31",
+   "how": "Sede electrónica de Euskadi (Mi carpeta) o con cita en Zuzenean o Alokabide; adjunta contrato y justificantes de pago.",
+   "kind": "ayuda",
+   "org": "Gobierno Vasco · Alokabide",
+   "requirements": [
+    "18 a 35 años (se extingue al cumplir 36)",
+    "6 meses de residencia efectiva e ininterrumpida en Euskadi",
+    "Ingresos brutos individuales entre 3.000 y 30.000 € al año",
+    "Contrato de alquiler de vivienda libre como domicilio habitual, sin parentesco hasta 3.er grado con el arrendador",
+    "Renta inicial máxima 900 € en Bilbao, pagada por transferencia",
+    "Incompatible con VPP en alquiler, RGI, IMV y PCV"
+   ],
+   "source": {
+    "name": "BOPV · Orden de 5-06-2026 (Gaztelagun)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/06/2602608a.shtml"
+   },
+   "status": "abierta",
+   "text": "Pago mensual de parte del alquiler de vivienda libre a jóvenes de 18 a 35 años (cumples). Cubre habitaciones y subarriendo. Orden urgente mantiene pagos en 2026; borrador para hacerla permanente en 2027.",
+   "title": "Gaztelagun 2026 · ayuda al alquiler joven"
+  },
+  {
+   "kind": "ayuda",
+   "status": "proxima",
+   "title": "AlokaPlus · seguro público de impago de alquiler",
+   "org": "Gobierno Vasco · Vivienda",
+   "amount": "Gratuito para el propietario; hasta 14 mensualidades (20 si el inquilino tiene 35 años o menos)",
+   "text": "Aprobado por el Consejo de Gobierno; en vigor en noviembre. Lo contrata el propietario (hasta 5 viviendas) en zonas tensionadas: a ti, con 20 años, te daría más cobertura y facilita que te alquilen.",
+   "requirements": [
+    "Lo solicita el propietario, no la inquilina",
+    "Vivienda en municipio declarado zona tensionada, renta dentro del índice de referencia",
+    "Fianza limitada a una mensualidad",
+    "Edad: cumples (20 meses de cobertura hasta 35 años)",
+    "No borra la deuda: la Administración reclama después al inquilino"
+   ],
+   "how": "Propietario e inquilino firman el compromiso y registran el anexo del contrato antes de demandar; detalles de solicitud al entrar en vigor.",
+   "source": {
+    "name": "Orain · Seguro contra impagos aprobado (13-10-2026)",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/13/el-seguro-contra-los-impagos-del-alquiler-aprobado-el-gobierno-vasco-cubrira-20-mensualidades/"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "proxima",
+   "title": "Reforma de Etxebide · vivienda protegida",
+   "org": "Gobierno Vasco · Vivienda",
+   "text": "Proyecto de decreto en tramitación: reservaría el 30 % de cada promoción a rentas medias y daría más peso a la antigüedad en el registro. Aún no aprobado.",
+   "amount": "Sin importe: cambia el acceso a vivienda protegida",
+   "requirements": [
+    "Apartamentos dotacionales para jóvenes: menos de 36 años (cumples)",
+    "Ingresos mínimos equivalentes al SMI",
+    "Cupo del 30 %: ingresos de 20.000 a 46.000 € por unidad convivencial",
+    "Inscripción previa en Etxebide",
+    "Norma aún no aprobada: confirmar en el texto final"
+   ],
+   "how": "Inscríbete o actualiza tu solicitud en Etxebide; los cambios se aplicarán cuando se apruebe el decreto.",
+   "source": {
+    "name": "Gobierno Vasco · Reforma de Etxebide (9-07-2026)",
+    "url": "https://www.euskadi.eus/gobierno-vasco/-/noticia/2026/el-gobierno-vasco-inicia-tramitacion-que-reformara-etxebide-y-criterios-adjudicacion-vivienda-protegida-publica-alquiler/"
+   }
+  },
+  {
+   "amount": "50 % de reducción hasta 31-12-2026 (aviso Bizkaibus)",
+   "how": "Cárgalo en tu tarjeta Barik personalizada; consulta puntos de recarga y oficinas en la web de Bizkaibus.",
+   "kind": "ayuda",
+   "org": "Consorcio de Transportes de Bizkaia · Bizkaibus",
+   "requirements": [
+    "Menor de 26 años",
+    "Empadronada en un municipio de Bizkaia",
+    "Tarjeta Barik personalizada",
+    "Uso personal e intransferible"
+   ],
+   "source": {
+    "name": "Bizkaibus · Tarifas",
+    "url": "https://www.bizkaia.eus/es/web/bizkaibus/tarifas"
+   },
+   "status": "permanente",
+   "text": "Abonos Barik para menores de 26: Gazte 70 (70 viajes en 30 días) y Gazte Oro (ilimitado 30 días). Valen en Bizkaibus, Metro Bilbao, Euskotren y Tranvía. Cumples la edad.",
+   "title": "Gazte 70 y Gazte Oro (Barik, menores de 26)"
+  }
+ ],
+ "elections": {
+  "title": "Elecciones generales 29-N",
+  "date": "2026-11-29",
+  "status": "Las candidaturas están cerradas tras el pacto PP-Vox en el Senado. Feijóo presentó ayer la lista de Madrid con Ayuso y prometió «orden» y un millón de viviendas, mientras los disturbios de Bilbao y Barcelona dominan el arranque de precampaña y PP y Gobierno se acusan mutuamente. La media de encuestas del 26 de octubre da a PP+Vox 197 escaños, por debajo de 200 por primera vez en meses.",
+  "euskadi": "EH Bildu propone a Oskar Matute para encabezar Bizkaia al Congreso y a Idurre Bideguren al Senado; el PSE apuesta por Patxi López, el PP vasco por su secretaria general, Esther Martínez, y el PNV, con Aitor Esteban, repite que nunca apoyará un escenario con la extrema derecha en el poder.",
+  "polls": {
+   "name": "Media de Sociométrica (El Español), Sigma Dos (El Mundo) y Ateneo del Dato (eldiario.es), según El Independiente",
+   "date": "2026-10-26",
+   "url": "https://www.elindependiente.com/espana/2026/10/26/encuestas-29-n-generales-sanchez-recorta-pp-vox-debajo-200-escanos/",
+   "items": [
+    {
+     "party": "PP",
+     "value": 31.2,
+     "seats": "130"
+    },
+    {
+     "party": "PSOE",
+     "value": null,
+     "seats": "108"
+    },
+    {
+     "party": "Vox",
+     "value": null,
+     "seats": "67"
+    },
+    {
+     "party": "Frente Amplio",
+     "value": 6.8,
+     "seats": "14"
+    }
+   ]
+  },
+  "keyDates": [
+   {
+    "date": "2026-11-02",
+    "text": "Las Juntas Electorales proclaman a los candidatos"
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Arranca la campaña electoral a las 00:00"
+   },
+   {
+    "date": "2026-11-19",
+    "text": "Último día para solicitar el voto por correo"
+   },
+   {
+    "date": "2026-11-28",
+    "text": "Jornada de reflexión, antes de las urnas del 29-N"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "id": "2026-10-28-bilbao-disturbios-balance",
+   "section": "bilbao",
+   "weight": 3,
+   "title": "Bilbao amanece entre contenedores quemados: 19 detenidos y unos 55.000 euros en daños públicos",
+   "dek": "Tras la cancelación del acto de Vito Quiles, el Ayuntamiento limpia los destrozos de Deusto y el centro mientras la Ertzaintza busca a más participantes.",
+   "figure": {
+    "value": "19",
+    "label": "detenidos"
+   },
+   "place": "Bilbao",
+   "thread": {
+    "id": "disturbios-calle",
+    "label": "Disturbios y violencia callejera"
+   },
+   "body": [
+    "La noche del lunes quedó marcada por disturbios en el centro de Bilbao y en el barrio de Deusto tras suspenderse el acto del activista Vito Quiles. Hubo cargas de la Ertzaintza, contenedores y coches incendiados y daños en comercios. El martes, los operarios municipales retiraron los vehículos calcinados y limpiaron las calles.",
+    "El Ayuntamiento calcula unos 55.000 euros en daños al mobiliario público, con 38 contenedores quemados; cinco coches ardieron y sus dueños asumen la pérdida. El balance de detenidos ha ido cambiando: Infobae (EFE) hablaba de 17 arrestados, diez de ellos menores, y el último recuento de Orain eleva la cifra a 19, siete menores. Según la información disponible, ninguno tenía antecedentes y se sigue buscando a más participantes.",
+    "El alcalde, Juan Mari Aburto, condenó la violencia «sin paliativos» y dijo que quienes la ejercieron son fascistas, no antifascistas. El consejero de Seguridad, Bingen Zupiria, apuntó a posibles influencias externas o grupos organizados. En el Ayuntamiento, todos los grupos menos EH Bildu firmaron una condena de los disturbios y de los gritos de apoyo a ETA; Bildu rechazó la violencia y mostró solidaridad con los afectados.",
+    "Los sindicatos de la Ertzaintza Esan y Erne culpan a la cúpula policial de desmontar el dispositivo demasiado pronto, convencida de que la cancelación del acto eliminaba el riesgo. La portada de ABC del miércoles recoge precisamente que la Ertzaintza se retiró en momentos clave; la lectura es del medio, no una conclusión oficial.",
+    "Lo que viene: la investigación para identificar a más implicados y el debate político sobre el operativo, mientras el Gobierno central y el PP cruzan acusaciones por la violencia callejera."
+   ],
+   "keys": [
+    "19 detenidos en el último balance conocido (7 menores)",
+    "Unos 55.000 € de daños en mobiliario público",
+    "Condena de todos los grupos municipales salvo EH Bildu, que rechaza la violencia",
+    "Sindicatos de la Ertzaintza piden explicaciones por la retirada del dispositivo"
+   ],
+   "why": "Si vives o trabajas en el Casco Viejo, Deusto o Indautxu, espera presencia policial y algún comercio con daños estos días.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/politica/2026/10/27/diecinueve-detenidos-ellos-7-menores-los-incidentes-tras-las-marchas-contra-vito-quiles-en-bilbao/"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/27/bilbao-limpia-los-destrozos-de-los-disturbios-que-condenan-partidos-e-instituciones/"
+    },
+    {
+     "name": "eldiario.es",
+     "url": "https://www.eldiario.es/euskadi/criticas-unanimes-partidos-graves-incidentes-bilbao-no-son-antifascistas-son-autenticos-fascistas_1_13617084.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-bilbao-bime-arranca",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "El BIME vuelve a Bilbao con cientos de profesionales y 70 conciertos",
+   "dek": "La feria y festival de la industria musical abre esta semana en la ciudad.",
+   "figure": {
+    "value": "70",
+    "label": "conciertos"
+   },
+   "place": "Bilbao",
+   "body": [
+    "El BIME Bilbao, cita de la industria musical, reúne a cientos de profesionales del sector y ofrece unos 70 conciertos, según la información publicada por Orain (EITB) el 27 de octubre.",
+    "La programación combina jornadas profesionales con actuaciones en directo en distintas salas de la ciudad. La web de Orain no detallaba precios ni entradas en la página consultada, así que conviene comprobarlos en la web oficial del festival antes de ir.",
+    "Es una de las pocas ocasiones del año en que Bilbao concentra tantos conciertos de música emergente en pocos días."
+   ],
+   "keys": [
+    "Unos 70 conciertos",
+    "Cientos de profesionales de la música",
+    "Consulta precios y horarios en la web oficial"
+   ],
+   "why": "Buen plan para ver música nueva en directo con tu pareja; revisa entradas y horarios antes.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/lo-ultimo.bime-bilbao-reune-cientos-profesionales-la-musica-ofrece-70-conciertos/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-euskadi-presupuestos-2027",
+   "section": "euskadi",
+   "weight": 2,
+   "title": "El Gobierno Vasco presenta unos presupuestos de 17.629 millones para 2027: ¿+7,6 % o +1,8 %?",
+   "dek": "Sanidad y Educación se llevan el 54 % del gasto; las prestaciones de vivienda se congelan en 300 euros por cuarto año.",
+   "figure": {
+    "value": "17.629",
+    "label": "millones €"
+   },
+   "place": "Vitoria-Gasteiz",
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   },
+   "body": [
+    "El Consejo de Gobierno aprobó el martes el proyecto de presupuestos vascos de 2027, con 17.629 millones de euros. El Ejecutivo PNV-PSE los presenta como unas cuentas récord y habla de un aumento del 7,6 %. Sanidad recibe 5.724,3 millones (+7,4 %) y Educación 3.792,5 millones (+13,3 %), tras los malos resultados en PISA; entre las dos suman el 54 % del dinero.",
+    "Vivienda sube un 4,5 % y supera por primera vez los 500 millones (504,1), con 1.495 viviendas nuevas de Visesa y 279 alojamientos dotacionales. Movilidad Sostenible es la partida que más crece (+19,5 %) y Hacienda y Finanzas la única que baja. Los funcionarios tendrán una subida salarial del 5 %.",
+    "La lectura de eldiario.es es más crítica: sostiene que, sin la inyección extraordinaria de casi 1.000 millones del programa Eraldatuz en la base de 2026, el techo de gasto crece solo un 1,82 %, por debajo de la recaudación y de la inflación. Recuerda además que las prestaciones de vivienda siguen congeladas en 300 euros al mes y que la renta de garantía de ingresos sube un 2 %.",
+    "El proyecto se registra hoy en el Parlamento Vasco, los consejeros comparecerán del 2 al 4 de noviembre y la aprobación definitiva está prevista para el pleno del 21 de diciembre; PNV y PSE tienen mayoría absoluta."
+   ],
+   "keys": [
+    "Total: 17.629 M€",
+    "Vivienda: 504,1 M€ (+4,5 %), prestaciones congeladas en 300 €",
+    "Aprobación definitiva el 21 de diciembre"
+   ],
+   "why": "La congelación de la ayuda de 300 euros al alquiler afecta directamente a quien, como tú, vive de alquiler en Bilbao.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/27/el-gobierno-vasco-aprueba-un-proyecto-presupuestos-record-2027/"
+    },
+    {
+     "name": "eldiario.es",
+     "url": "https://www.eldiario.es/euskadi/gobierno-pradales-presenta-2027-presupuesto-1-8-alto-inyeccion-educacion-pisa_1_13617442.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-euskadi-reacciones-politicas-disturbios",
+   "section": "euskadi",
+   "weight": 2,
+   "title": "El PP vasco pide la dimisión del consejero de Seguridad y Tellado ve «responsabilidad del Gobierno» en los disturbios",
+   "dek": "Los partidos condenan la violencia en Bilbao, pero discrepan sobre quién responde por el dispositivo y por el clima político.",
+   "figure": {
+    "value": "1",
+    "label": "dimisión pedida"
+   },
+   "place": "Euskadi",
+   "thread": {
+    "id": "disturbios-calle",
+    "label": "Disturbios y violencia callejera"
+   },
+   "body": [
+    "Pasada la noche de disturbios, el debate político se centra en las responsabilidades. El PP vasco reclama la dimisión del consejero de Seguridad, Bingen Zupiria, mientras el secretario general del PP, Miguel Tellado, afirma que los altercados no son «aislados» y que el Gobierno central tiene también responsabilidad política por no anticiparlos, según recoge eldiario.es.",
+    "Desde el PSOE, Patxi López pidió al PP no responder alimentando el odio. El PNV defiende que las provocaciones no deben contestarse con más violencia ni normalizarse, y Sumar sostiene que los disturbios solo benefician a la derecha y la extrema derecha. CCOO pidió aclarar quién promueve estas movilizaciones violentas y ELA advirtió de que las fuerzas más reaccionarias son las que ganan políticamente.",
+    "El lehendakari Imanol Pradales habló de «caos provocado» por varios cientos de personas radicales y organizadas. El Gobierno Vasco insiste en que una minoría violenta no puede alterar la convivencia.",
+    "El choque se produce a un mes de las elecciones generales del 29-N, con la seguridad y el orden público ya instalados en la campaña."
+   ],
+   "keys": [
+    "El PP vasco pide la dimisión de Zupiria",
+    "Tellado: responsabilidad política también del Gobierno central",
+    "PNV, PSE y Sumar condenan la violencia con matices distintos"
+   ],
+   "why": "El tono de la campaña se endurece: este asunto marcará lo que oigas en los medios hasta el 29-N.",
+   "sources": [
+    {
+     "name": "eldiario.es",
+     "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13617339_1126159.html"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/27/bilbao-limpia-los-destrozos-de-los-disturbios-que-condenan-partidos-e-instituciones/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-espana-feijoo-lista-madrid-orden",
+   "section": "espana",
+   "weight": 3,
+   "title": "Feijóo presenta la lista de Madrid con Ayuso y promete «orden» y un millón de viviendas",
+   "dek": "El líder del PP aprovecha el acto de candidaturas para responder a los disturbios y presentar su primera promesa de campaña.",
+   "figure": {
+    "value": "1 M",
+    "label": "viviendas"
+   },
+   "place": "Madrid",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "Alberto Núñez Feijóo presentó el martes en Madrid la candidatura del PP al Congreso y al Senado para las elecciones del 29 de noviembre, acompañado de Isabel Díaz Ayuso y de Cayetana Álvarez de Toledo, número dos por Madrid. Según The Objective, dijo que a partir del 30 de noviembre «habrá orden» y que serán «implacables con los violentos».",
+    "Su primer compromiso fue construir un millón de viviendas, con «más suelo y menos papeleo». Habló también del coste de la vida, con especial atención a la factura de la luz este invierno, y de tapar tres «agujeros»: precios, impuestos y corrupción. Acusó al Gobierno de generar tensión y a sus socios de justificar la violencia.",
+    "Ayuso acusó al «sanchismo» de intentar comprar las elecciones y pidió no acostumbrarse a las calles ardiendo. Álvarez de Toledo afirmó que Sánchez ha legitimado la violencia con la amnistía; desde el Gobierno, la portavoz Elma Saiz replicó que la derecha busca un mal clima y señaló a la ultraderecha como beneficiaria del caos. Son lecturas políticas de cada parte, no hechos probados.",
+    "El PP defiende además que el Ejecutivo garantice el orden público o dimita, y la polémica sobre las pelotas de goma, que El Debate vincula al pacto del PSOE con Bildu de 2024, sigue abierta."
+   ],
+   "keys": [
+    "Presentación de la lista del PP por Madrid el 27 de octubre",
+    "Primera promesa: un millón de viviendas",
+    "Mensaje central: orden público y coste de la vida"
+   ],
+   "why": "La vivienda es el tema central de la campaña y afecta a tu alquiler; compara las promesas de cada partido.",
+   "sources": [
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-10-27/feijoo-pp-violencia/"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://eldebate.com/espana/20261027/feijoo-presenta-candidatura-elecciones-29n-junto-ayuso-alvarez-toledo-directo_473731.html"
+    },
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/america/agencias/2026/10/28/principales-titulares-de-los-periodicos-para-el-miercoles-28-de-octubre/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-espana-encuestas-media-pp-vox-200",
+   "section": "espana",
+   "weight": 2,
+   "title": "Las encuestas del 29-N: el PP baja a 130 escaños y PP+Vox queda por debajo de 200 por primera vez en meses",
+   "dek": "La media de Sociométrica, Sigma Dos y Ateneo del Dato sitúa al PSOE en 108 y al Frente Amplio en 14.",
+   "figure": {
+    "value": "130",
+    "label": "escaños PP"
+   },
+   "place": "España",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "Una media de los sondeos de Sociométrica (El Español), Sigma Dos (El Mundo) y El Ateneo del Dato (eldiario.es), publicada el 26 de octubre por El Independiente, otorga al PP unos 130 escaños (rango 119-135) y el 31,2 % de los votos. Vox tendría 67 escaños con casi un 20 %, el PSOE 108 y el Frente Amplio 14, con un 6,8 %.",
+    "El Independiente destaca que el PP pierde hasta siete escaños respecto a sondeos anteriores de las mismas firmas y que PP más Vox suman 197, por debajo de 200 por primera vez en meses. La izquierda gana terreno, aunque sigue a más de 20 diputados de la mayoría absoluta. El diario señala que no está claro si la subida viene de votantes del PP o de un trasvase interno entre PP y Vox.",
+    "Entre los socios, ERC subiría de 7 a 9, EH Bildu tendría 7-8 y el PNV 4-5. En el mejor escenario, los socios darían a Sánchez 155 escaños, o 162 si Junts apoyara al PSOE. Un sondeo de IMOP del jueves anterior daba al PSOE 113 escaños, algo más que esta media.",
+    "Conviene tomar los sondeos como una foto parcial: la campaña oficial empieza el 13 de noviembre y los pactos postelectorales decidirán el Gobierno."
+   ],
+   "keys": [
+    "PP 130, PSOE 108, Vox 67, Frente Amplio 14 (media)",
+    "PP+Vox: 197 escaños",
+    "Sin mayoría absoluta clara para ningún bloque"
+   ],
+   "why": "Si ningún bloque suma mayoría, los pactos con partidos como PNV o Junts decidirán políticas de vivienda y ayudas.",
+   "sources": [
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/10/26/encuestas-29-n-generales-sanchez-recorta-pp-vox-debajo-200-escanos/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-espana-blocus-saqueos-31-octubre",
+   "section": "espana",
+   "weight": 3,
+   "title": "Blocus, TikTok y saqueos: el Gobierno y los Mossos vigilan nuevas convocatorias para Halloween",
+   "dek": "Tras los disturbios de Barcelona (128 detenidos) hay convocatorias en Madrid el 31 y los padres podrían responder por daños de sus hijos menores.",
+   "figure": {
+    "value": "128",
+    "label": "detenidos Barcelona"
+   },
+   "place": "España",
+   "thread": {
+    "id": "disturbios-calle",
+    "label": "Disturbios y violencia callejera"
+   },
+   "body": [
+    "Los disturbios del 24 de octubre en Barcelona, convocados por perfiles anónimos de TikTok bajo el nombre «Blocus» y presentados como protesta por la calidad de los institutos, acabaron con saqueos, barricadas y enfrentamientos con los Mossos: 128 detenidos en el primer balance (72 menores), 14 agentes heridos, 33 intervenciones de bomberos y 23 comercios dañados.",
+    "Fuentes policiales citadas por Infobae sitúan para el 31 de octubre dos convocatorias en el centro de Madrid, a las 17:00 en la Puerta del Sol y una hora después en la plaza de España, y hay llamamientos similares en Algeciras y San Pedro de Alcántara. La jefa de los Mossos, Silvia Catà, dijo que se trabaja con policías europeas para rastrear los mensajes. Por ahora no hay una movilización confirmada, solo anuncios.",
+    "El Gobierno anunció que trabajará para «prevenir y contener» nuevos incidentes y advirtió de que los padres serán responsables de los daños de sus hijos menores, según El Debate. Ese diario encuadra la violencia como un problema político para el PSOE y sus aliados por el pacto con Bildu sobre pelotas de goma; el Ejecutivo y Sumar rechazan esa lectura y señalan a la ultraderecha. La portada de El Periódico recoge que las fuerzas de seguridad pedirán a las redes sociales colaborar contra los saqueos.",
+    "A los episodios de Barcelona, Bilbao, A Coruña y Avilés se suma el contexto de Francia, donde el presidente Macron teme otra jornada de riesgo el sábado 31."
+   ],
+   "keys": [
+    "Barcelona: 128 detenidos, 72 menores, 23 comercios dañados",
+    "Convocatorias en Madrid el 31 a las 17:00 y 18:00",
+    "Padres, responsables civiles de daños de menores"
+   ],
+   "why": "Si el 31 de octubre vas al centro de Bilbao o a Madrid, ten en cuenta posible presencia policial y cortes puntuales.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/espana/2026/10/26/blocus-amenaza-con-trasladar-a-madrid-los-disturbios-de-barcelona-con-dos-convocatorias-en-sol-y-plaza-de-espana-en-halloween/"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/espana/20261028/violencia-empieza-preocupar-gobierno-pacto-bildu-retirar-pelotas-goma-policia_474569.html"
+    },
+    {
+     "name": "Infobae (titulares)",
+     "url": "https://www.infobae.com/america/agencias/2026/10/28/principales-titulares-de-los-periodicos-para-el-miercoles-28-de-octubre/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-espana-dana-adam-zona-emergencia",
+   "section": "espana",
+   "weight": 2,
+   "title": "El Gobierno declara zona gravemente afectada la Marina Alta y la Safor tras la DANA Adam",
+   "dek": "El Consejo de Ministros incluye 45 episodios adversos en nueve comunidades; el balance provisional es de siete muertos.",
+   "figure": {
+    "value": "7",
+    "label": "muertos"
+   },
+   "place": "Comunitat Valenciana",
+   "thread": {
+    "id": "dana",
+    "label": "DANA"
+   },
+   "body": [
+    "El Consejo de Ministros declaró el 27 de octubre zonas afectadas gravemente por una emergencia de protección civil, la antigua «zona catastrófica», por 45 episodios adversos en nueve comunidades entre el 13 de septiembre y el 20 de octubre. El más grave fue la DANA Adam, que desde el 17 de octubre golpeó el Mediterráneo y Baleares, con especial impacto en la Marina Alta (Alicante) y la Safor (Valencia). El balance provisional es de siete fallecidos.",
+    "La declaración abre la vía a ayudas por daños personales, en viviendas y enseres, a ayuntamientos y a empresas, siempre con acreditación del daño. Interior estudia eximir tasas de la DGT por vehículos siniestrados y la reposición del DNI; Hacienda fijará exenciones en el IBI y reducciones en el IAE, y las ayudas por daños personales no tributarán en el IRPF.",
+    "Trabajo y Seguridad Social podrán aprobar bonificaciones en cuotas y Política Territorial financiará hasta el 50 % de las obras municipales de reparación. La valoración de daños materiales sigue en marcha y no hay cifra económica total.",
+    "El Gobierno valenciano aprobó su propio paquete de 23,5 millones de euros para los afectados."
+   ],
+   "keys": [
+    "45 episodios en nueve comunidades",
+    "Siete muertos en el balance provisional",
+    "Ayudas e exenciones fiscales con acreditación del daño"
+   ],
+   "why": "Si tienes familia o amistades en la costa valenciana, estas ayudas se piden con prueba del daño.",
+   "sources": [
+    {
+     "name": "elDiario.es La Marina",
+     "url": "https://lamarina.eldiario.es/2026/10/27/el-consejo-de-ministros-declara-zona-catastrofica-la-marina-alta-y-la-safor-por-los-danos-de-la-dana-adam/"
+    },
+    {
+     "name": "eldiario.es",
+     "url": "https://www.eldiario.es/comunitat-valenciana/gobierno-valenciano-aprueba-paquete-ayudas-23-5-millones-euros-afectados-dana-adam_1_13603195.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-mundo-israel-escrutinio",
+   "section": "mundo",
+   "weight": 3,
+   "title": "Israel cuenta los votos: Netanyahu gana en escaños por partido, pero ningún bloque tiene mayoría clara",
+   "dek": "Con un tercio del recuento, el bloque de Netanyahu ronda los 59 escaños y el opositor los 46; los sobres de soldados pueden cambiarlo todo.",
+   "figure": {
+    "value": "61",
+    "label": "escaños mayoría"
+   },
+   "place": "Israel",
+   "thread": {
+    "id": "gaza",
+    "label": "Guerra de Gaza"
+   },
+   "body": [
+    "El recuento de las elecciones israelíes avanza con datos parciales. Con el 32,5 % escrutado, según el minuto a minuto de Infobae, el bloque pro-Netanyahu tenía 59 escaños y el contrario 46, cuando la mayoría es de 61 de 120. Las cifras han oscilado entre actualizaciones, así que hay que esperar al dato final de la Comisión Electoral Central.",
+    "Los sondeos a pie de urna del martes dibujaron un empate técnico: los canales 11, 12 y 13 daban entre 50 y 53 escaños a cada bloque. El Likud sería el mayor partido, con unos 24 o 25 escaños, seguido de Yashar!, y los partidos árabes lograrían un resultado histórico, casi duplicando el de 2022. Orain titulaba que Netanyahu gana pero no podría formar gobierno según los sondeos.",
+    "Netanyahu pidió esperar a los «resultados reales» y defendió un gobierno de «derecha fuerte», rechazando cooperar con los partidos árabes. Gadi Eisenkot aseguró que hará todo lo posible por formar un gobierno sin Netanyahu y que convocar otras elecciones sería un error.",
+    "Los votos en sobre doble, incluidos los de los soldados, se cuentan más tarde y pueden modificar el reparto. Si ningún bloque suma 61, Israel podría volver a votar con Netanyahu como primer ministro en funciones. Portadas como la de El País hablan de un revés para su coalición."
+   ],
+   "keys": [
+    "Mayoría: 61 de 120 escaños",
+    "Recuento parcial: 59 (Netanyahu) frente a 46 (oposición)",
+    "Los sobres de soldados pueden cambiar el resultado"
+   ],
+   "why": "El resultado influye en la guerra de Gaza y en la tensión con Irán, que mueve el precio del petróleo y la gasolina.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/america/mundo/2026/10/28/en-vivo-elecciones-parlamentarias-en-israel/"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/10/27/netanyahu-gana-las-elecciones-no-podra-formar-gobierno-segun-los-sondeos/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-mundo-flavio-bolsonaro-huida",
+   "section": "mundo",
+   "weight": 2,
+   "title": "Flávio Bolsonaro huye a Estados Unidos tras perder ante Lula y Brasil le anula los pasaportes",
+   "dek": "El candidato derrotado abandonó el país horas después de que la Policía Federal cancelara sus documentos; Lula lo llama «vergonzoso».",
+   "figure": {
+    "value": "51,8 %",
+    "label": "votos de Lula"
+   },
+   "place": "Brasil",
+   "body": [
+    "Flávio Bolsonaro, derrotado el domingo en la segunda vuelta, habría salido de Brasil con su esposa y sus dos hijas rumbo a Estados Unidos, según EFE y medios brasileños. El lunes, el juez Alexandre de Moraes le dio 24 horas para entregar sus pasaportes y el Supremo le había prohibido salir del país; vencido el plazo, la Policía Federal los canceló. Una fuente de su entorno confirmó que ya estaban en EE. UU., aunque se desconoce la ruta; Infobae sostiene que cruzó a Argentina para tomar un avión privado, algo que el Gobierno argentino dice no constar.",
+    "Está investigado por presunto blanqueo de dinero, en una causa bajo secreto sumarial. Habría estado a salvo si hubiera ganado, porque un presidente no puede ser juzgado por actos previos al mandato. Perderá su escaño de senador en febrero.",
+    "Lula, que ganó con el 51,8 % de los votos y cumplió 81 años, calificó la huida de «vergonzosa»: «Quien no debe, no teme». Donald Trump volvió a poner en duda el resultado, aunque admitió que no gobierna Brasil, y su Administración dice que concederá visados a la familia. Diputados del PT piden prisión preventiva y alerta roja de Interpol.",
+    "Su hermano Eduardo vive en EE. UU. desde marzo de 2025. La Bolsa de Brasil se hundió tras la victoria de Lula, lo que arrastró a Telefónica y Santander."
+   ],
+   "keys": [
+    "Pasaportes cancelados por la Policía Federal",
+    "Piden prisión preventiva e Interpol",
+    "Trump cuestiona el resultado; Lula lo critica"
+   ],
+   "why": "Telefónica y Santander tienen mucho negocio en Brasil, por eso la política brasileña mueve el Ibex.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/agencias/2026/10/28/flavio-bolsonaro-huye-a-eeuu-con-su-familia-y-lula-califica-la-salida-de-vergonzosa/"
+    },
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/america/america-latina/2026/10/27/flavio-bolsonaro-abandono-brasil-en-vivo/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-mundo-ucrania-oleshky-kiev",
+   "section": "mundo",
+   "weight": 2,
+   "title": "Tregua en Oleshky hasta el 1 de noviembre mientras Rusia lanza 16 misiles balísticos sobre Ucrania",
+   "dek": "El alto el fuego humanitario en Jersón convive con la mayor escalada contra la logística ucraniana, incluido el puente del Dniéper en Kiev.",
+   "figure": {
+    "value": "16",
+    "label": "misiles balísticos"
+   },
+   "place": "Ucrania",
+   "thread": {
+    "id": "ucrania",
+    "label": "Guerra de Ucrania"
+   },
+   "body": [
+    "Una tregua local entró en vigor el martes 27 a las 03:00 en Oleshky, localidad de Jersón ocupada por Rusia, y durará hasta el domingo 1 de noviembre a las 22:59 según el comisionado ucraniano de derechos humanos. Está impulsada por Washington, a través de Melania Trump y con la participación del papa León XIV. Oleshky tenía unos 24.000 vecinos antes de la guerra y quedan unos miles, sin agua, luz ni calefacción; el objetivo es dejar entrar ayuda y evacuar.",
+    "Fuera de ese enclave, la guerra sigue. La noche del lunes Rusia lanzó 16 misiles balísticos, de los que Ucrania derribó 2, y 280 drones, 255 neutralizados. Hubo impactos en 25 lugares de Kiev y otras diez regiones, daños en infraestructura energética y logística y en el principal puente sobre el Dniéper, que se cerró. Hay un muerto y 12 heridos en un campus universitario.",
+    "Zelenski habló de una «seria escalada» y se quejó de retrasos en la entrega de misiles Patriot y NASAMS ya pagados. La ONU atribuyó a Rusia crímenes de guerra por los ataques a la energía ucraniana.",
+    "Las conversaciones tripartitas entre Kiev, Moscú y Washington deberían reanudarse en Abu Dhabi a principios de noviembre, tras meses de bloqueo. El Kremlin exige que Ucrania ceda el 20 % restante de Donetsk."
+   ],
+   "keys": [
+    "Tregua en Oleshky hasta el 1 de noviembre",
+    "16 misiles y 280 drones en una noche",
+    "Abu Dhabi, talks a principios de noviembre"
+   ],
+   "why": "Las tensiones en el frente ucraniano afectan a la energía y a los precios que pagas en casa.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/mundo/2026/10/27/rusia-y-ucrania-sostienen-el-alto-el-fuego-impulsado-por-washington-en-una-localidad-devastada/"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/agencias/2026/10/27/ucrania-derribo-anoche-dos-de-los-16-misiles-balisticos-lanzados-por-rusia/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-mundo-iran-ormuz-petroleo",
+   "section": "mundo",
+   "weight": 2,
+   "title": "Ormuz, entre minas y diplomacia: el Brent roza los 114 dólares mientras Irán insiste en que el estrecho «sigue cerrado»",
+   "dek": "Octubre es el peor mes registrado en ataques a buques en el estrecho; Arabia Saudí, Turquía y Pakistán dialogan con Teherán.",
+   "figure": {
+    "value": "113,88",
+    "label": "$ el Brent"
+   },
+   "place": "Golfo Pérsico",
+   "thread": {
+    "id": "guerra-iran",
+    "label": "Guerra de Irán"
+   },
+   "body": [
+    "La Armada iraní afirmó el martes que un petrolero se incendió tras chocar con minas en el este del estrecho de Ormuz y sostiene que el paso «permanece cerrado» salvo coordinación con sus fuerzas. La Guardia Revolucionaria contabiliza al menos 15 incidentes en las últimas semanas (4 ataques y 11 choques con minas) y, según un centro de estudios de Washington citado por Reuters, octubre es el peor mes desde 2017.",
+    "Hay versiones contrapuestas sobre el tráfico: el Mando Central de EE. UU. dice que unos 400 buques cruzaron la semana pasada, mientras ANZ Research estima que el flujo ronda el 60 % de lo normal. La guerra comenzó el 28 de febrero con ataques de EE. UU. e Israel contra Irán.",
+    "En paralelo, el secretario del Consejo Supremo de Seguridad Nacional iraní se reunió en Teherán con representantes de Arabia Saudí, Pakistán y Turquía, la primera cita cuatripartita de este bloque. El líder supremo, Mojtaba Jameneí, insiste en que el fin de la guerra depende de las condiciones de Irán, y el presidente Pezeshkian denuncia «terrorismo económico» de EE. UU.",
+    "El Brent para diciembre cerró en 113,88 dólares (-1,67 %) tras rozar los 117, por el optimismo diplomático y la espera del resultado electoral en Israel; sigue en máximos desde abril."
+   ],
+   "keys": [
+    "Brent: 113,88 $ (-1,67 %)",
+    "15 incidentes marítimos en pocas semanas",
+    "Reunión cuatripartita en Teherán"
+   ],
+   "why": "El petróleo caro se nota en la gasolina, la calefacción y, con el tiempo, en la factura de la luz.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/mundo/2026/10/27/nuevo-incidente-en-el-estrecho-de-ormuz-el-regimen-de-iran-dijo-que-un-petrolero-se-incendio-tras-chocar-con-minas-submarinas/"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/agencias/2026/10/27/el-crudo-brent-baja-un-167-y-cierra-por-debajo-de-los-114-dolares/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-mundo-francia-macron-31-octubre",
+   "section": "mundo",
+   "weight": 2,
+   "title": "Francia teme un sábado 31 de «alto riesgo»: Macron descarta por ahora el estado de emergencia",
+   "dek": "El presidente pide calma tras las semanas de disturbios y crea un fondo para comerciantes afectados por saqueos.",
+   "figure": {
+    "value": "31 oct",
+    "label": "jornada de riesgo"
+   },
+   "place": "Francia",
+   "thread": {
+    "id": "francia-protestas",
+    "label": "Protestas en Francia"
+   },
+   "body": [
+    "Emmanuel Macron pidió calma ante el riesgo de nuevos disturbios y descartó, de momento, declarar el estado de emergencia, aunque no lo excluyó. Advirtió de que las protestas del sábado 31 de octubre, convocadas por sindicatos y «chalecos amarillos», serán de «alto riesgo»: «Manifestarse es un derecho. Destruir nunca lo será».",
+    "El Gobierno mantendrá los dispositivos de seguridad y trata de trazar recorridos fuera de los centros urbanos; ya hay recorridos restringidos y toques de queda parciales en algunas localidades. Se ha creado un fondo de asistencia para comerciantes afectados por saqueos o cierres, y aseguradoras y bancos deben acelerar indemnizaciones.",
+    "Macron vinculó además las redes sociales con los actos vandálicos y dijo que «dañan la democracia». El primer ministro, Sébastien Lecornu, se reunió con representantes estudiantiles, y está previsto abrir mesas con sindicatos y empresarios sobre las dificultades económicas.",
+    "Las protestas del 17 de octubre dejaron saqueos y ataques a instituciones, entre ellos el ayuntamiento de Marsella parcialmente vandalizado."
+   ],
+   "keys": [
+    "Sin estado de emergencia por ahora",
+    "Protestas el sábado 31",
+    "Fondo para comerciantes"
+   ],
+   "why": "Si tenéis planes para el puente de Todos los Santos en Francia, consulta las alertas de viaje y los transportes.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/america/mundo/2026/10/27/macron-pidio-calma-ante-el-riesgo-de-nuevos-disturbios-en-francia-y-descarto-por-ahora-declarar-el-estado-de-emergencia/"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/10/26/macron-dice-las-redes-sociales-danan-la-democracia-las-vincula-actos-vandalicos/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-economia-wall-street-ibex-cierre",
+   "section": "economia",
+   "weight": 2,
+   "title": "Wall Street cierra al alza con los chips (Nasdaq +1,18 %) y el Ibex sube un 0,67 % pese a Repsol",
+   "dek": "Nvidia sube un 0,9 % y los inversores esperan hoy la decisión de la Fed; Boeing se desploma un 10,65 %.",
+   "figure": {
+    "value": "+0,60 %",
+    "label": "S&P 500"
+   },
+   "place": "Nueva York",
+   "body": [
+    "Wall Street cerró el martes 27 de octubre en positivo, impulsado por los fabricantes de chips: el Dow Jones subió un 0,03 % hasta 52.377 puntos, el S&P 500 un 0,60 % hasta 7.722 y el Nasdaq un 1,18 % hasta 26.447. AMD ganó un 5,4 % tras anunciar una inversión de 1.000 millones de dólares en Meta para infraestructura de IA, y Broadcom un 4 %. Nvidia avanzó un 0,9 %, pese a su anunciada inversión de 3.000 millones en Meta, que cayó un 1,64 %.",
+    "Boeing se hundió un 10,65 % porque su pérdida ajustada por acción fue de 0,34 dólares, peor que los 0,21 previstos; UPS subió un 5,75 % y Coca-Cola cayó un 1,66 %. El crudo Texas bajó un 1,83 % hasta 99,90 dólares, el oro subió un 0,84 % hasta 4.072 dólares la onza y el bono a 10 años EE. UU. rindió el 4,995 %. Hoy se reúne la Reserva Federal y el mercado descuenta que mantenga los tipos.",
+    "En España, el Ibex 35 sumó 127,3 puntos (+0,67 %) hasta 19.160,6, y acumula un 10,71 % en el año, según EFE y Bolsamania. Repsol fue lo peor (-3,29 %), Telefónica subió un 1,84 % y Santander un 1,02 % tras el golpe del lunes por Brasil, mientras Iberdrola quedó plana, Inditex bajó un 0,42 % y BBVA un 0,13 %. El petróleo, que cayó cerca de un 2 %, ayudó al ánimo."
+   ],
+   "keys": [
+    "S&P 500: 7.722 (+0,60 %)",
+    "Nasdaq Composite: 26.447 (+1,18 %)",
+    "Ibex 35: 19.160,6 (+0,67 %)"
+   ],
+   "why": "Es un buen día para tu MSCI World y el S&P 500; Nvidia subió un 0,9 %. No es consejo de inversión.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/agencias/2026/10/27/wall-street-sube-gracias-a-los-chips-y-amd-gana-un-54-mientras-boeing-cae-un-106/"
+    },
+    {
+     "name": "Bolsamania",
+     "url": "https://www.bolsamania.com/noticias/mercados-ultima-hora/cierre-en-wall-street-dow-jones003-sp500060-nasdaq118--23933566.html"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/27/la-bolsa-sube-el-067-y-se-acerca-a-19200-puntos-mientras-el-petroleo-cae-cerca-del-2/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-economia-microsoft-60000-bajas",
+   "section": "economia",
+   "weight": 2,
+   "title": "Microsoft ofrece bajas voluntarias a unos 60.000 empleados, cerca de una cuarta parte de la plantilla",
+   "dek": "El plan, para Canadá, India, Reino Unido y EE. UU., acompaña su giro hacia la inteligencia artificial.",
+   "figure": {
+    "value": "60.000",
+    "label": "empleados"
+   },
+   "place": "EE. UU.",
+   "body": [
+    "Microsoft ofrece un programa voluntario y por tiempo limitado de bajas a unos 60.000 empleados, según Europa Press y Orain. Solo pueden acogerse los de «nivel 70 o inferior», que incluye a directores sénior e ingenieros pero no a la alta dirección, en Canadá, India, Reino Unido y Estados Unidos. Las condiciones económicas serían parecidas a la indemnización estándar por despido.",
+    "La directora de Recursos Humanos, Amy Coleman, lo presentó como un enfoque con más flexibilidad para elegir la siguiente etapa. Según una fuente citada por CNBC, algunos equipos de marketing, ventas e ingeniería habrían decidido no participar.",
+    "La plantilla global ronda los 223.000 trabajadores. En abril Microsoft lanzó su primer programa de jubilación voluntaria, dirigido al 7 % de la plantilla en EE. UU. (unas 8.750 personas). Infobae recuerda que más de 30 grandes empresas han recortado personal este año mientras reorientan inversión a la IA."
+   ],
+   "keys": [
+    "Unos 60.000 empleados elegibles",
+    "Países: Canadá, India, Reino Unido y EE. UU.",
+    "Plantilla global: unos 223.000"
+   ],
+   "why": "Es un termómetro del impacto de la IA en el empleo tecnológico, que conviene seguir si piensas en tu futuro laboral.",
+   "sources": [
+    {
+     "name": "Infobae (Europa Press)",
+     "url": "https://www.infobae.com/america/agencias/2026/10/26/microsoft-ofrece-un-plan-de-bajas-voluntarias-para-unos-60000-empleados/"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/10/26/microsoft-pretende-recortar-60-000-empleos-cerca-un-cuarto-su-plantilla/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-sociedad-feria-gernika-sequia",
+   "section": "sociedad",
+   "weight": 1,
+   "title": "Más de 100.000 personas en la feria de Gernika, con la sequía marcando los precios",
+   "dek": "El queso ganador de Azkarra se subastó por 4.200 euros para la Fundación Residencia Calzada.",
+   "figure": {
+    "value": "4.200",
+    "label": "€ el queso"
+   },
+   "place": "Gernika-Lumo",
+   "body": [
+    "La feria del Último Lunes de Octubre de Gernika-Lumo reunió el 26 de octubre a más de 100.000 visitantes (Orain habla de unos 110.000) en 251 puestos de baserritarras y artesanos, con sol y máximas de 20 grados. La sequía redujo la oferta y subió algunos precios.",
+    "Por kilo se pagaban 22 euros la alubia de Gernika, 14 la miel, 27 el queso y 8 las nueces. En la subasta solidaria de queso Idiazabal, la mitad del queso ganador de la quesería alavesa Azkarra se vendió por 4.200 euros al bar Eguzki de Bermeo, y el segundo premio (800 euros) fue para Ricardo Remiro, de Eulate. La recaudación irá a la Fundación Residencia Calzada.",
+    "El Ayuntamiento homenajeó a los pelotaris Lekerika y Barandika, campeones del mundo de cesta punta, y más de 80 personas de Cruz Roja, Ertzaintza, Policía Municipal y Bomberos cubrieron la seguridad."
+   ],
+   "keys": [
+    "251 puestos",
+    "Alubia 22 €/kg, queso 27 €/kg",
+    "Sequía: menos oferta"
+   ],
+   "why": "Un plan típico para enseñar la cultura vasca a tu pareja en una próxima edición.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/26/4200-euros-el-mejor-queso-la-feria-en-gernika-la-granja-alavesa-azkarra/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-ciencia-ictus-biomarcadores",
+   "section": "ciencia",
+   "weight": 1,
+   "title": "Tres sustancias en sangre ayudarían a evaluar la recuperación tras un ictus",
+   "dek": "Un estudio del Vall d'Hebron con 62 pacientes identifica endostatina, GDF-10 y uPAR.",
+   "figure": {
+    "value": "62",
+    "label": "pacientes"
+   },
+   "place": "Barcelona",
+   "body": [
+    "Investigadores del hospital Vall d'Hebron de Barcelona han identificado tres biomarcadores en sangre —endostatina, GDF-10 y uPAR— que pueden ayudar a entender cómo se recupera cada paciente tras un ictus. Analizaron cuatro moléculas; la cuarta, uPA, no destacó.",
+    "El estudio siguió a 62 personas con un primer ictus y a 43 sanas como grupo de control, con controles al mes, a los tres y a los seis meses, y se publicó en Scientific Reports.",
+    "Los autores advierten de que las asociaciones aún no permiten predecir la recuperación de un paciente concreto ni sustituir la valoración clínica; antes de usarlos en la práctica habría que demostrar que mejoran las decisiones médicas."
+   ],
+   "keys": [
+    "Tres biomarcadores: endostatina, GDF-10, uPAR",
+    "62 pacientes y 43 controles",
+    "Aún no sirve para predecir a nivel individual"
+   ],
+   "why": "Un avance prudente en rehabilitación del ictus, que afecta a muchas familias.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/espana/2026/10/27/investigadores-del-hospital-vall-dhebron-de-barcelona-descubren-tres-sustancias-en-la-sangre-que-pueden-ayudar-a-evaluar-la-recuperacion-tras-un-ictus/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-deportes-mbappe-china-laliga",
+   "section": "deportes",
+   "weight": 2,
+   "title": "China veta a Mbappé: la televisión estatal suspende LaLiga tras su broma sobre Mao",
+   "dek": "Marcas chinas rompen contratos y LaLiga y Tebas piden perdón mientras el jugador se disculpa.",
+   "figure": {
+    "value": "2º",
+    "label": "Mbappé, Balón de Oro"
+   },
+   "place": "China",
+   "body": [
+    "Kylian Mbappé dijo en una entrevista que el meme con el que más se ha reído es el que pone su cara en un dictador chino, una imagen que circulaba desde hace meses con el retrato de Mao Zedong. Las autoridades chinas respondieron que las palabras que hieren los sentimientos del pueblo chino serán rechazadas por todos los sectores.",
+    "La televisión estatal CCTV suspendió desde la noche del lunes la emisión de LaLiga y de los partidos con Mbappé y retiró anuncios y vídeos con su imagen. Dongpeng Beverage (Bu Shui La) rompió su relación de inmediato, y los lácteos Mengniu y Milkground también. Un portal deportivo chino borró su nombre, segundo del Balón de Oro 2026.",
+    "Mbappé presentó disculpas y dijo tener «profundo respeto» por el pueblo chino; LaLiga lamentó «profundamente» sus palabras y su presidente, Javier Tebas, pidió perdón en nombre de la competición. El presidente de la RFEF, Rafael Louzán, pidió valorar que rectificara de inmediato.",
+    "El episodio se suma a otros incidentes del fútbol español en China: Barcelona pidió disculpas en abril por una bandera de Taiwán y el Real Madrid en febrero por un contenido considerado racista."
+   ],
+   "keys": [
+    "CCTV suspende LaLiga",
+    "Marcas chinas rompen con el jugador",
+    "LaLiga y Mbappé piden disculpas"
+   ],
+   "why": "Muestra cómo el negocio del fútbol depende de mercados lejanos; afecta a derechos de televisión de LaLiga.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/espana/deportes/2026/10/27/china-suspende-las-emisiones-de-la-liga-despues-de-que-mbappe-se-ria-de-su-meme-con-el-dictador-mao-zedong/"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/agencias/2026/10/27/laliga-lamenta-profundamente-las-palabras-de-mbappe-no-podemos-permitir-que-empanen-esa-relacion/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-deportes-athletic-prat-copa",
+   "section": "deportes",
+   "weight": 2,
+   "title": "El Athletic, con el 4-0 al Getafe aún fresco, visita al AE Prat el jueves en la Copa",
+   "dek": "Terzic recupera sensaciones tras cuatro jornadas sin ganar; el cruce es a partido único.",
+   "figure": {
+    "value": "4-0",
+    "label": "al Getafe"
+   },
+   "place": "San Mamés / El Prat",
+   "thread": {
+    "id": "athletic",
+    "label": "Athletic Club"
+   },
+   "body": [
+    "El Athletic jugará el jueves 29 de octubre a las 21:00 en El Prat de Llobregat contra el AE Prat, en la primera eliminatoria de la Copa del Rey, según Kirolak (EITB).",
+    "Llega con moral tras golear 4-0 al Getafe en San Mamés el domingo, ante 44.160 espectadores: Berenguer (17'), Iñaki Williams (35', su primer gol del curso), Paredes (70') y Yuri (88') firmaron los goles. Interrumpía así una racha de cuatro jornadas sin ganar. Galarreta se lesionó y salió en el minuto 18, debutaron los canteranos Imga y Vizcay y volvió Prados tras una grave lesión de rodilla.",
+    "Getafe acabó con diez por la roja a Mario Martín. El equipo de Terzic no tendrá margen en una eliminatoria a partido único ante un rival de menor categoría."
+   ],
+   "keys": [
+    "Jueves 29 a las 21:00 en El Prat",
+    "4-0 al Getafe el domingo",
+    "Debutan Imga y Vizcay"
+   ],
+   "why": "Plan de jueves por la noche; la Copa se ve en directo en abierto.",
+   "sources": [
+    {
+     "name": "Kirolak EITB",
+     "url": "https://kirolakeitb.eus/es/futbol/equipos/athletic-club/2026/10/11/el-ae-prat-sera-el-rival-del-athletic-en-la-copa/"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/25/4-0-el-athletic-coge-aire-y-deja-tocado-al-getafe/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-cultura-bime-seminci-artium",
+   "section": "cultura",
+   "weight": 1,
+   "title": "Artium prepara su 25 aniversario y «Hermanas» llega a la Seminci",
+   "dek": "El museo vitoriano mostrará más de 3.000 obras de su colección en 2027; la película de Ione Hernandez aborda los lazos familiares tras un abuso.",
+   "figure": {
+    "value": "3.000",
+    "label": "obras"
+   },
+   "place": "Vitoria / Valladolid",
+   "body": [
+    "Artium Museoa celebrará en 2027 su 25 aniversario con su propia colección como protagonista, con más de 3.000 obras, y prevé un intercambio de piezas con el Museo de Bellas Artes de Álava, según Orain.",
+    "En la Seminci de Valladolid, Ione Hernandez presenta «Hermanas», protagonizada por Emma Suárez y Elena Anaya, que trata los lazos familiares tras un abuso."
+   ],
+   "keys": [
+    "Artium cumple 25 años en 2027",
+    "«Hermanas» se presenta en la Seminci"
+   ],
+   "why": "Si te gusta el cine, la Seminci y el Artium son buenos planes de fin de semana fuera de Bilbao.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/cultura/arte/2026/10/26/artium-museoa-celebrara-su-25-aniversario-en-2027-su-coleccion-protagonista/"
+    },
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/cultura/cine/2026/10/26/ione-hernandez-presenta-hermanas-en-la-seminci/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-italia-manovra-23500",
+   "section": "italia",
+   "weight": 2,
+   "title": "La ley de presupuestos italiana ronda los 23.500 millones y baraja rebajas fiscales para jóvenes y alquileres",
+   "dek": "El Gobierno y los socios de coalición discuten qué entra en la «manovra»: impuesto del 5 % para jóvenes, alquileres más baratos de gravar y 2.400 millones para sanidad.",
+   "figure": {
+    "value": "23.500",
+    "label": "millones € de manovra"
+   },
+   "place": "Roma",
+   "thread": {
+    "id": "italia-meloni",
+    "label": "Gobierno Meloni"
+   },
+   "body": [
+    "Según ANSA, la ley de presupuestos de 2027 costaría unos 23.500 millones de euros y todavía es un catálogo de propuestas: algunas podrían quedar fuera del texto final. El medio la resume como un paquete de medidas pensadas para «tiempos complejos».",
+    "Para financiarla se contaría con 14.400 millones procedentes de la cláusula de salvaguardia nacional ligada a defensa y energía, 5.000 millones que se piden a bancos y aseguradoras y ahorros de ministerios y del plan de recuperación europeo. Los bancos, según la agencia, se resisten a nuevos pagos después del acuerdo de 10.000 millones del año pasado.",
+    "En el capítulo de jóvenes se estudia un impuesto plano del 5 % para menores de 30-35 años con ingresos de hasta 20.000-30.000 euros, además de elevar al 140 % la superdeducción por contratar a jóvenes (180 % en el caso de jóvenes madres). En vivienda, el tipo fijo sobre alquileres de larga duración podría bajar al 5 %.",
+    "En sanidad se prevén 2.400 millones, la mitad de lo que reclaman el ministro Schillaci y las regiones. Forza Italia propone una tarjeta de 300 a 500 euros para gastos médicos de mayores de 75 años, y los impuestos sobre el azúcar y el plástico podrían aplazarse seis meses.",
+    "En paralelo hay choques sobre pensiones (la Lega quiere jubilarse a los 64 años) y sobre el IRPF. Nada de esto está cerrado, y ANSA recuerda que el calendario político, con tensiones en la mayoría, complica los equilibrios."
+   ],
+   "keys": [
+    "Coste total previsto: 23.500 millones de euros",
+    "Se estudia un impuesto del 5 % para menores de 30-35 años con rentas bajas",
+    "Sanidad recibiría 2.400 millones, la mitad de lo pedido",
+    "Son propuestas en discusión, no medidas aprobadas"
+   ],
+   "why": "Si su pareja o su familia trabajan o alquilan en Italia, estas medidas sobre jóvenes y alquileres podrían afectarles de lleno.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/economia/2026/10/26/manovra-le-misure-sul-tavolo-dai-giovani-alle-pensioni_15fe28f6-37bf-43ae-8fac-256f2338cd34.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-italia-hackeo-camara-meloni",
+   "section": "italia",
+   "weight": 2,
+   "title": "Un ciberataque llega a los correos de la Cámara de Diputados italiana, incluido el de Meloni",
+   "dek": "Los intrusos accedieron a tres buzones de diputados; Palazzo Chigi dice que el de la primera ministra no se usa para comunicaciones de Gobierno.",
+   "figure": {
+    "value": "3",
+    "label": "buzones afectados"
+   },
+   "place": "Roma",
+   "body": [
+    "Un ataque informático contra la Cámara de Diputados permitió acceder a tres cuentas de correo, entre ellas la de Giorgia Meloni, según ANSA. Las otras dos pertenecen a Andrea Delmastro, de Fratelli d'Italia, y Paolo Formentini, de la Lega.",
+    "Palazzo Chigi explicó que esa casilla recibe muchos mensajes dirigidos a la presidenta del Consejo pero no es la que se emplea para las comunicaciones del Gobierno. La agencia añade que la alarma se dio por contenida a media tarde, mientras la Agencia de Ciberseguridad y los técnicos de la Cámara aislaban sistemas y cerraban vulnerabilidades.",
+    "La Fiscalía de Roma se disponía a abrir un expediente por acceso abusivo a un sistema informático, a la espera del informe de la Policía Postal. El Copasir, el comité parlamentario de seguridad, aún no había tratado el caso, aunque podría hacerlo pronto.",
+    "ANSA sitúa el episodio en el marco de la llamada «amenaza híbrida», con Rusia y China como actores habituales, y recuerda ataques recientes al Parlamento noruego y al Ministerio de Exteriores italiano. Según el medio, este tipo de campañas suele tener más efecto propagandístico que real. Por ahora no hay atribución del ataque."
+   ],
+   "keys": [
+    "Afectados: Meloni, Delmastro (FdI) y Formentini (Lega)",
+    "Palazzo Chigi: esa cuenta no sirve para comunicaciones de Gobierno",
+    "Investigan la Fiscalía de Roma y la Policía Postal; sin autor identificado"
+   ],
+   "why": "Es un ejemplo cercano de las campañas de ciberataques contra países que apoyan a Ucrania, un asunto que también afecta al resto de Europa.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/politica/2026/10/27/hacker-nelle-caselle-mail-della-camera-anche-di-giorgia-meloni_8e6c4a5b-ef5b-42ed-ac4b-ede46bf891d9.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-italia-huelga-30-octubre",
+   "section": "italia",
+   "weight": 1,
+   "title": "Italia se prepara para una huelga general el viernes 30 con trenes y aviones afectados",
+   "dek": "El sindicato de base USB convoca paros y manifestaciones contra el encarecimiento de la vida, el gasto militar y las políticas del Gobierno.",
+   "figure": {
+    "value": "30 oct",
+    "label": "huelga general"
+   },
+   "place": "Roma, Milán y otras ciudades",
+   "body": [
+    "Il Post informa de que la Unione Sindacale di Base y otros sindicatos de base convocan para el viernes 30 de octubre una huelga general con manifestaciones en Roma, Milán, Bolonia, Turín, Florencia, Nápoles y Palermo. Se suman estudiantes, agricultores, transportistas y movimientos por la vivienda.",
+    "Entre sus reclamaciones figuran subir los salarios al ritmo del coste de la vida, recuperar la antigua escala móvil, bajar el IVA de productos básicos y reducir facturas y alquileres, además de más dinero para sanidad y educación frente al gasto militar.",
+    "El tren para desde las 21:00 del jueves 29 hasta las 20:59 del viernes; el transporte aéreo y los taxis, todo el viernes, y el personal de autopistas desde las 22:00 del jueves. El transporte local varía por ciudad y escuelas y servicios sanitarios podrían verse afectados. Il Post no da cifras de adhesión esperada."
+   ],
+   "keys": [
+    "Tren: de las 21:00 del jueves 29 a las 20:59 del viernes 30",
+    "Aviones y taxis, todo el viernes",
+    "Jornada de protesta en más de 100 puertos de 17 países, según los organizadores"
+   ],
+   "why": "Si ella o su pareja viajan a Italia estos días, podrían encontrarse con vuelos y trenes cancelados.",
+   "sources": [
+    {
+     "name": "Il Post",
+     "url": "https://www.ilpost.it/2026/10/27/venerdi-30-ottobre-sciopero-generale/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-italia-listas-espera-gimbe",
+   "section": "italia",
+   "weight": 1,
+   "title": "Las listas de espera sanitarias italianas mejoran poco: 4 millones de citas siguen fuera de plazo",
+   "dek": "La fundación Gimbe ve más citas dentro de plazo, pero sin reducir el retraso acumulado; casi 5,6 millones de personas renunciaron a alguna visita en 2025.",
+   "figure": {
+    "value": "4,06 M",
+    "label": "citas fuera de plazo"
+   },
+   "place": "Italia",
+   "body": [
+    "La fundación Gimbe comparó enero-septiembre de 2026 con el mismo periodo de 2025 a partir de datos de Agenas. Las reservas monitorizadas subieron de 19,75 a 21,81 millones, y las primeras visitas dentro de plazo pasaron del 76,9 % al 78,6 %; los exámenes, del 83,3 % al 85 %.",
+    "Sin embargo, según Gimbe, la mayor parte de la mejora (81,5 %) se debe al aumento del volumen de reservas y solo el 18,5 % a una mejora real de la proporción. Las citas fuera de plazo pasaron de 4,03 a 4,06 millones, es decir, no bajan.",
+    "Citando datos de Istat, el informe recuerda que en 2025 el 9,6 % de la población, más de 5,6 millones de personas, renunció al menos a una visita necesaria, sobre todo por las esperas largas (6,5 %) y el coste (5,2 %). Calabria, Campania, Lazio, Molise, Sicilia y Toscana empeoraron en visitas y exámenes."
+   ],
+   "keys": [
+    "Primeras visitas en plazo: 78,6 % (76,9 % un año antes)",
+    "Fuera de plazo: 4.057.139 citas, ligeramente más que en 2025",
+    "9,6 % de la población renunció a alguna visita en 2025"
+   ],
+   "why": "Sirve de contraste con la sanidad pública vasca si planea vivir, trabajar o enfermar en Italia con su pareja.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/10/27/liste-attesa-gimbe-nel-2026-piu-prenotazioni-ma-pochi-progressi-nei_d2f8a770-d200-4890-945c-f0a5061125ca.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-italia-sanremo-giovani",
+   "section": "italia",
+   "weight": 1,
+   "title": "Sanremo Giovani 2026 avanza con 15 artistas seleccionados y final el 11 de diciembre",
+   "dek": "Rai cambia el formato del camino hacia el Festival: seis finalistas y un único ganador que accede a Sanremo.",
+   "figure": {
+    "value": "11 dic",
+    "label": "final en Rai 1"
+   },
+   "place": "Roma",
+   "body": [
+    "Tras las audiciones del 26 de octubre en Roma, 15 artistas han pasado la primera criba, según ANSA. Entre ellos hay nombres venidos de «X Factor» y «Amici», como Les Votives, Rob, Albe, Petit y Plasma.",
+    "El nuevo formato es más compacto: una comisión escoge seis finalistas que llegan al programa «Sarà Sanremo», emitido en horario de máxima audiencia en Rai 1 el viernes 11 de diciembre, y de ahí sale un único vencedor con acceso al Festival.",
+    "Stefano De Martino es director artístico y preside la comisión, de la que forman parte Noemi, Fabio Volo, Ema Stokholma y otros. La selección de los artistas de Area Sanremo empieza a mediados de noviembre."
+   ],
+   "keys": [
+    "15 artistas avanzan de las audiciones de Roma",
+    "6 finalistas y 1 ganador",
+    "Final en Rai 1 el 11 de diciembre"
+   ],
+   "why": "Sanremo es un plan televisivo muy italiano y una buena forma de conectar con la cultura de su pareja.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/10/27/sanremo-giovani-sei-artisti-una-finale-un-solo-vincitore_af658884-fe96-4265-a4a7-ab65a6879f23.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-italia-monza-napoli",
+   "section": "italia",
+   "weight": 1,
+   "title": "El Napoli de Allegri visita al Monza con Allegri sancionado y sin tres titulares",
+   "dek": "Partido de Serie A este miércoles a las 20:45 para un Napoli que, según su entrenador, va rezagado en la tabla.",
+   "figure": {
+    "value": "20:45",
+    "label": "hoy, Monza-Napoli"
+   },
+   "place": "Monza",
+   "body": [
+    "ANSA anuncia Monza-Napoli para el miércoles a las 20:45. Allegri pide realismo porque su equipo está por detrás en la clasificación y reconoce un problema defensivo: dos goles recibidos en primeras partes y ocho en segundas.",
+    "El técnico renunció a recurrir su sanción, por lo que no estará en el banquillo. Vuelven McTominay y Anguissa tras dos meses parados, pero Neres se ha vuelto a lesionar y Badiashile tiene otro problema físico.",
+    "En el Monza, Juric admite que su defensa todavía no es la que quiere y elogia la versión más ofensiva del Napoli frente a la Roma. La jornada incluye también Sassuolo-Lazio, Torino-Como y Roma-Cagliari."
+   ],
+   "keys": [
+    "Allegri cumple sanción y no estará en el banquillo",
+    "Vuelven McTominay y Anguissa; Neres, lesionado",
+    "El Napoli encaja más en segundas partes (8 goles contra 2)"
+   ],
+   "why": "Es una buena excusa para ver un partido con su pareja y entender de qué equipo habla en casa.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/27/serie-a-monza-napoli-in-campo-mercoledi-alle-2045-diretta_dc3bf708-6ef0-40da-bd21-2a67145432f4.html"
+    }
+   ]
+  }
+ ],
+ "briefs": [
+  {
+   "id": "2026-10-28-b01",
+   "section": "euskadi",
+   "tag": "Educación",
+   "text": "Las ikastolas reducirán el uso de pantallas desde el próximo curso y no las usarán hasta 3º de Primaria.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/26/ikastolas-reduciran-uso-de-pantallas-a-partir-del-proximo-curso/"
+   }
+  },
+  {
+   "id": "2026-10-28-b02",
+   "section": "bilbao",
+   "tag": "Subfluvial",
+   "text": "Un activista ecologista se subió a un árbol del parque Artaza, en Leioa, para protestar por el impacto ambiental del túnel bajo la ría entre Getxo y Portugalete.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/26/un-activista-se-sube-un-arbol-en-el-parque-artaza-contra-el-proyecto-del-subfluvial/"
+   },
+   "comarca": "md"
+  },
+  {
+   "id": "2026-10-28-b03",
+   "section": "euskadi",
+   "tag": "Parlamento",
+   "text": "El Parlamento Vasco suspende tres plenos en noviembre por la campaña de las elecciones generales.",
+   "source": {
+    "name": "eldiario.es",
+    "url": "https://www.eldiario.es/euskadi/parlamento-vasco-suspende-tres-plenos-noviembre-campana-elecciones-generales_1_13566064.html"
+   }
+  },
+  {
+   "id": "2026-10-28-b04",
+   "section": "espana",
+   "tag": "Gobierno",
+   "text": "La portavoz Elma Saiz apunta a la ultraderecha como beneficiaria del caos y el odio tras los disturbios de estos días.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/espana/agencias/2026/10/26/elma-saiz-apunta-a-la-ultraderecha-como-responsable-de-los-disturbios-es-quien-sale-ganando-en-el-caos-y-el-odio/"
+   }
+  },
+  {
+   "id": "2026-10-28-b05",
+   "section": "espana",
+   "tag": "Prensa",
+   "text": "El Mundo titula que el PP propone multar a los padres por los actos violentos de sus hijos; La Razón recoge una convocatoria contra los ricos y la Policía para el día 31.",
+   "source": {
+    "name": "Infobae (titulares)",
+    "url": "https://www.infobae.com/america/agencias/2026/10/28/principales-titulares-de-los-periodicos-para-el-miercoles-28-de-octubre/"
+   }
+  },
+  {
+   "id": "2026-10-28-b06",
+   "section": "espana",
+   "tag": "Consumo",
+   "text": "El Periódico informa de que la prohibición de supermercados abiertos 24 horas se extiende más allá de Barcelona.",
+   "source": {
+    "name": "Infobae (titulares)",
+    "url": "https://www.infobae.com/america/agencias/2026/10/28/principales-titulares-de-los-periodicos-para-el-miercoles-28-de-octubre/"
+   }
+  },
+  {
+   "id": "2026-10-28-b07",
+   "section": "mundo",
+   "tag": "ONU",
+   "text": "La ONU atribuye a Rusia crímenes de guerra por los ataques contra el sistema energético de Ucrania.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/america/mundo/2026/10/28/la-onu-atribuyo-a-rusia-crimenes-de-guerra-por-los-ataques-contra-la-energia-de-ucrania/"
+   }
+  },
+  {
+   "id": "2026-10-28-b08",
+   "section": "mundo",
+   "tag": "Gaza",
+   "text": "Los ataques israelíes en Gaza desde el alto el fuego dejan más de 1.520 palestinos muertos, según el último recuento publicado el 19 de octubre.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/america/agencias/2026/10/19/aumentan-a-mas-de-1520-los-palestinos-muertos-por-ataques-de-israel-contra-gaza-pese-al-alto-el-fuego/"
+   }
+  },
+  {
+   "id": "2026-10-28-b09",
+   "section": "mundo",
+   "tag": "Brasil",
+   "text": "Lula cumplió 81 años en la residencia oficial y recordó que él sí se quedó a afrontar la causa Lava Jato.",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/america/agencias/2026/10/28/flavio-bolsonaro-huye-a-eeuu-con-su-familia-y-lula-califica-la-salida-de-vergonzosa/"
+   }
+  },
+  {
+   "id": "2026-10-28-b10",
+   "section": "economia",
+   "tag": "Boeing",
+   "text": "Boeing se desploma un 10,65 % en Wall Street pese a reducir su pérdida trimestral: la pérdida por acción fue peor de lo previsto.",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/america/agencias/2026/10/27/wall-street-sube-gracias-a-los-chips-y-amd-gana-un-54-mientras-boeing-cae-un-106/"
+   }
+  },
+  {
+   "id": "2026-10-28-b11",
+   "section": "economia",
+   "tag": "Fed",
+   "text": "La Reserva Federal se reúne hoy miércoles y el mercado espera que mantenga los tipos de interés sin cambios.",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/america/agencias/2026/10/27/wall-street-sube-gracias-a-los-chips-y-amd-gana-un-54-mientras-boeing-cae-un-106/"
+   }
+  },
+  {
+   "id": "2026-10-28-b12",
+   "section": "economia",
+   "tag": "Oro",
+   "text": "El oro sube un 0,84 % hasta 4.072 dólares la onza y la plata alcanza 54,45 dólares.",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/america/agencias/2026/10/27/wall-street-sube-gracias-a-los-chips-y-amd-gana-un-54-mientras-boeing-cae-un-106/"
+   }
+  },
+  {
+   "id": "2026-10-28-b13",
+   "section": "deportes",
+   "tag": "RFEF",
+   "text": "Rafael Louzán pide valorar que Mbappé rectificara de inmediato tras la polémica con China.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/america/agencias/2026/10/27/rafael-louzan-sobre-la-polemica-de-mbappe-y-china-hay-que-valorar-que-haya-rectificado-de-manera-inmediata/"
+   }
+  },
+  {
+   "id": "2026-10-28-b14",
+   "section": "ciencia",
+   "tag": "Cerebro",
+   "text": "El cerebro de los cuervos procesa señales visuales casi dos veces más rápido que el de humanos y monos, según un estudio.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/salud/ciencia/2026/10/27/el-cerebro-de-los-cuervos-procesa-senales-visuales-casi-dos-veces-mas-rapido-que-el-de-humanos-y-monos-segun-un-estudio/"
+   }
+  },
+  {
+   "id": "2026-10-28-b15",
+   "section": "ciencia",
+   "tag": "Botánica",
+   "text": "Descubren una nueva especie de nenúfar gigante.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/america/mundo/2026/10/27/descubrieron-una-nueva-especie-de-nenufar-gigante/"
+   }
+  },
+  {
+   "id": "2026-10-28-b16",
+   "section": "ciencia",
+   "tag": "Salud",
+   "text": "Un solo minuto de subir o bajar escaleras después de comer ayuda a reducir el pico de glucosa en sangre, según un estudio.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/america/ciencia-america/2026/10/27/importa-mas-el-momento-que-la-duracion-por-que-hacer-ejercicio-luego-de-comer-puede-reducir-el-pico-de-glucosa-en-sangre-segun-la-ciencia/"
+   }
+  },
+  {
+   "id": "2026-10-28-b17",
+   "section": "ciencia",
+   "tag": "Geofísica",
+   "text": "Un estudio explica por qué el escudo magnético de la Tierra se debilita de forma desigual.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/america/ciencia-america/2026/10/26/descubren-por-que-el-escudo-magnetico-de-la-tierra-se-debilita-de-forma-desigual/"
+   }
+  },
+  {
+   "id": "2026-10-28-b18",
+   "section": "cultura",
+   "tag": "Seminci",
+   "text": "La directora Ione Hernandez presenta «Hermanas» en la Seminci, con Emma Suárez y Elena Anaya.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/cultura/cine/2026/10/26/ione-hernandez-presenta-hermanas-en-la-seminci/"
+   }
+  },
+  {
+   "id": "2026-10-28-b19",
+   "section": "sociedad",
+   "tag": "Ayudas",
+   "text": "Gaztelagun sigue abierto hasta el 31 de diciembre para jóvenes que alquilan; consulta requisitos en el bloque de ayudas.",
+   "source": {
+    "name": "Euskadi.eus",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/06/2602608a.shtml"
+   }
+  }
+ ]
+}
