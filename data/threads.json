@@ -1,39 +1,69 @@
 {
+ "accidente-toledo": {
+  "label": "Accidente ferroviario de Toledo",
+  "last": "2026-10-29",
+  "first": "2026-10-29",
+  "count": 4
+ },
  "disturbios-calle": {
   "label": "Disturbios y violencia callejera",
-  "last": "2026-10-28",
+  "last": "2026-10-29",
   "first": "2026-10-28",
-  "count": 3
+  "count": 5
+ },
+ "elecciones-29n": {
+  "label": "Elecciones 29-N",
+  "last": "2026-10-29",
+  "first": "2026-10-08",
+  "count": 62
+ },
+ "dana": {
+  "label": "DANA",
+  "last": "2026-10-29",
+  "first": "2026-10-20",
+  "count": 7
+ },
+ "gaza": {
+  "label": "Guerra de Gaza",
+  "last": "2026-10-29",
+  "first": "2026-10-08",
+  "count": 7
+ },
+ "ucrania": {
+  "label": "Guerra de Ucrania",
+  "last": "2026-10-29",
+  "first": "2026-10-08",
+  "count": 16
+ },
+ "italia-meloni": {
+  "label": "Gobierno Meloni",
+  "last": "2026-10-29",
+  "first": "2026-10-08",
+  "count": 25
+ },
+ "protestas-italia": {
+  "label": "Protestas por la carestía en Italia",
+  "last": "2026-10-29",
+  "first": "2026-10-29",
+  "count": 2
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-10-29",
+  "first": "2026-10-08",
+  "count": 29
+ },
+ "pnv-bizkaia": {
+  "label": "PNV de Bizkaia",
+  "last": "2026-10-29",
+  "first": "2026-10-10",
+  "count": 11
  },
  "vivienda": {
   "label": "Crisis de la vivienda",
   "last": "2026-10-28",
   "first": "2026-10-08",
   "count": 54
- },
- "elecciones-29n": {
-  "label": "Elecciones 29-N",
-  "last": "2026-10-28",
-  "first": "2026-10-08",
-  "count": 60
- },
- "dana": {
-  "label": "DANA",
-  "last": "2026-10-28",
-  "first": "2026-10-20",
-  "count": 6
- },
- "gaza": {
-  "label": "Guerra de Gaza",
-  "last": "2026-10-28",
-  "first": "2026-10-08",
-  "count": 6
- },
- "ucrania": {
-  "label": "Guerra de Ucrania",
-  "last": "2026-10-28",
-  "first": "2026-10-08",
-  "count": 15
  },
  "guerra-iran": {
   "label": "Guerra de Irán",
@@ -46,18 +76,6 @@
   "last": "2026-10-28",
   "first": "2026-10-20",
   "count": 10
- },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-10-28",
-  "first": "2026-10-08",
-  "count": 28
- },
- "italia-meloni": {
-  "label": "Gobierno Meloni",
-  "last": "2026-10-28",
-  "first": "2026-10-08",
-  "count": 23
  },
  "marruecos-ceuta": {
   "label": "Entrada masiva en Ceuta",
@@ -88,12 +106,6 @@
   "last": "2026-10-25",
   "first": "2026-10-20",
   "count": 3
- },
- "pnv-bizkaia": {
-  "label": "PNV de Bizkaia",
-  "last": "2026-10-25",
-  "first": "2026-10-10",
-  "count": 10
  },
  "tubos-reunidos": {
   "label": "Tubos Reunidos",
