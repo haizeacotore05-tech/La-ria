@@ -1,21 +1,75 @@
 {
- "accidente-toledo": {
-  "label": "Accidente ferroviario de Toledo",
-  "last": "2026-10-31",
-  "first": "2026-10-29",
-  "count": 9
- },
  "disturbios-calle": {
   "label": "Disturbios y violencia callejera",
-  "last": "2026-10-31",
+  "last": "2026-11-01",
   "first": "2026-10-28",
-  "count": 9
+  "count": 11
+ },
+ "metro-bilbao": {
+  "label": "Metro de Bilbao",
+  "last": "2026-11-01",
+  "first": "2026-10-08",
+  "count": 8
+ },
+ "accidente-toledo": {
+  "label": "Accidente ferroviario de Toledo",
+  "last": "2026-11-01",
+  "first": "2026-10-29",
+  "count": 11
  },
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-10-31",
+  "last": "2026-11-01",
   "first": "2026-10-08",
-  "count": 65
+  "count": 66
+ },
+ "tribunales-psoe": {
+  "label": "Casos judiciales del PSOE",
+  "last": "2026-11-01",
+  "first": "2026-10-08",
+  "count": 12
+ },
+ "guerra-iran": {
+  "label": "Guerra de Irán",
+  "last": "2026-11-01",
+  "first": "2026-10-09",
+  "count": 20
+ },
+ "francia-protestas": {
+  "label": "Protestas en Francia",
+  "last": "2026-11-01",
+  "first": "2026-10-20",
+  "count": 12
+ },
+ "ucrania": {
+  "label": "Guerra de Ucrania",
+  "last": "2026-11-01",
+  "first": "2026-10-08",
+  "count": 19
+ },
+ "protestas-italia": {
+  "label": "Protestas por la carestía en Italia",
+  "last": "2026-11-01",
+  "first": "2026-10-29",
+  "count": 9
+ },
+ "italia-meloni": {
+  "label": "Gobierno Meloni",
+  "last": "2026-11-01",
+  "first": "2026-10-08",
+  "count": 28
+ },
+ "vivienda": {
+  "label": "Crisis de la vivienda",
+  "last": "2026-11-01",
+  "first": "2026-10-08",
+  "count": 58
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-11-01",
+  "first": "2026-10-08",
+  "count": 32
  },
  "dana": {
   "label": "DANA",
@@ -40,48 +94,6 @@
   "last": "2026-10-31",
   "first": "2026-10-13",
   "count": 6
- },
- "guerra-iran": {
-  "label": "Guerra de Irán",
-  "last": "2026-10-31",
-  "first": "2026-10-09",
-  "count": 19
- },
- "francia-protestas": {
-  "label": "Protestas en Francia",
-  "last": "2026-10-31",
-  "first": "2026-10-20",
-  "count": 11
- },
- "ucrania": {
-  "label": "Guerra de Ucrania",
-  "last": "2026-10-31",
-  "first": "2026-10-08",
-  "count": 18
- },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-10-31",
-  "first": "2026-10-08",
-  "count": 31
- },
- "vivienda": {
-  "label": "Crisis de la vivienda",
-  "last": "2026-10-31",
-  "first": "2026-10-08",
-  "count": 57
- },
- "protestas-italia": {
-  "label": "Protestas por la carestía en Italia",
-  "last": "2026-10-31",
-  "first": "2026-10-29",
-  "count": 7
- },
- "italia-meloni": {
-  "label": "Gobierno Meloni",
-  "last": "2026-10-31",
-  "first": "2026-10-08",
-  "count": 27
  },
  "sanidad": {
   "label": "Sanidad",
@@ -112,18 +124,6 @@
   "last": "2026-10-25",
   "first": "2026-10-20",
   "count": 3
- },
- "metro-bilbao": {
-  "label": "Metro de Bilbao",
-  "last": "2026-10-25",
-  "first": "2026-10-08",
-  "count": 6
- },
- "tribunales-psoe": {
-  "label": "Casos judiciales del PSOE",
-  "last": "2026-10-23",
-  "first": "2026-10-08",
-  "count": 11
  },
  "ceuta": {
   "label": "Ceuta",
