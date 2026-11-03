@@ -1,0 +1,1954 @@
+{
+ "date": "2026-11-03",
+ "number": 27,
+ "generatedAt": "2026-11-03T07:00:00+01:00",
+ "summary": "Puente comparece hoy por Urda, EE. UU. vota las midterms y Irán negocia mientras el Brent se hunde; edición reducida porque varias fuentes no se abrieron. Sin noticias de Italia hoy.",
+ "essentials": [
+  {
+   "story": "2026-11-03-espana-urda-puente-congreso",
+   "text": "Puente comparece hoy en el Congreso por Urda y el Gobierno aprueba el decreto con bajas específicas y adelanto de indemnizaciones; el balance era de 69 fallecidos."
+  },
+  {
+   "story": "2026-11-03-mundo-midterms-hoy",
+   "text": "EE. UU. vota hoy las elecciones de medio mandato: los demócratas quieren quitar a Trump una o las dos cámaras del Congreso."
+  },
+  {
+   "story": "2026-11-03-mundo-ormuz-petroleros-minas",
+   "text": "Irán dice que dos petroleros chocaron con minas en Ormuz mientras negocia con EE. UU. vía Catar; el Brent se hundió un 7,6 % ayer."
+  },
+  {
+   "story": "2026-11-03-espana-huelga-general-11n-sindicatos",
+   "text": "Euskadi se prepara para la huelga general del 11 de noviembre por salarios, vivienda y precios; faltan los servicios mínimos."
+  },
+  {
+   "story": "2026-11-03-bilbao-artxanda-cierre-primer-dia",
+   "text": "El túnel de Artxanda está cerrado hasta el 2 de abril de 2027: evita la franja de 7:30 a 9:30 y usa el transporte público."
+  },
+  {
+   "story": "2026-11-03-mundo-ciberataques-refrigeracion",
+   "text": "Ciberataques apagaron la refrigeración de supermercados en cinco países europeos; no hay autores identificados."
+  },
+  {
+   "story": "2026-11-03-economia-wall-street-lunes",
+   "text": "Wall Street cerró mixto ayer: S&P 500 -0,51 %, Nasdaq -1,1 %, Dow +0,41 %, y Nvidia terminó con una caída del 1,3 %."
+  },
+  {
+   "story": "2026-11-03-euskadi-presupuestos-lanbide-euskera",
+   "text": "Los presupuestos vascos entran en el Parlamento: Lanbide gestionará unos 1.192 millones y se votan el 21 de diciembre."
+  }
+ ],
+ "weather": {
+  "place": "Bilbao",
+  "days": [
+   {
+    "date": "2026-11-03",
+    "sky": "cloud",
+    "text": "Nuboso, frío",
+    "max": 14,
+    "min": 8
+   },
+   {
+    "date": "2026-11-04",
+    "sky": "cloud",
+    "text": "Nuboso, helada interior",
+    "max": 15,
+    "min": 6
+   },
+   {
+    "date": "2026-11-05",
+    "sky": "partly",
+    "text": "Nubes y claros",
+    "max": 16
+   }
+  ],
+  "source": {
+   "name": "Orain (previsión semanal)",
+   "url": "https://orain.eus/es/eguraldia/2026/11/01/prevision-meteorologica-primera-semana-noviembre-2026-frio-sin-lluvia/"
+  }
+ },
+ "markets": {
+  "asOf": "Cierre del lunes 2 de noviembre",
+  "items": [
+   {
+    "name": "MSCI World",
+    "value": "precio sin confirmar",
+    "change": null,
+    "mine": true
+   },
+   {
+    "name": "S&P 500",
+    "value": "7.541,40",
+    "change": -0.51,
+    "mine": true
+   },
+   {
+    "name": "Nvidia",
+    "value": "precio sin confirmar",
+    "change": -1.3,
+    "mine": true,
+    "note": "Variación al cierre según Infobae; no se publicó el precio."
+   },
+   {
+    "name": "Nasdaq Composite (no se halló el Nasdaq 100)",
+    "value": "25.164,32",
+    "change": -1.07,
+    "mine": true
+   },
+   {
+    "name": "Dow Jones",
+    "value": "51.983,98",
+    "change": 0.41,
+    "mine": true
+   },
+   {
+    "name": "Brent",
+    "value": "104,77 $",
+    "change": -7.6
+   }
+  ],
+  "comment": "Wall Street cerró mixto: el S&P 500 cedió un 0,51 % y el Nasdaq un 1,07 % por las dudas sobre la rentabilidad de la IA, mientras el Dow subió un 0,41 %. Nvidia pasó de subir a caer un 1,3 % al cierre. Ibex, MSCI World y valores españoles no se pudieron confirmar hoy.",
+  "sources": [
+   {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/estados-unidos/2026/11/02/el-nasdaq-cayo-un-11-y-arrastro-al-sp-500-tras-perder-el-repunte-inicial/"
+   },
+   {
+    "name": "El CEO",
+    "url": "https://elceo.com/mercados/bmv-ipc-wall-street-hoy-2-de-noviembre-de-2026-cierre/"
+   }
+  ]
+ },
+ "alerts": [
+  {
+   "kind": "tiempo",
+   "title": "Semana fría: martes, el más frío",
+   "text": "Hoy nieblas; mañana máximas de 11-14 grados; el miércoles heladas en el interior de Euskadi.",
+   "when": "Esta semana",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/eguraldia/2026/11/01/prevision-meteorologica-primera-semana-noviembre-2026-frio-sin-lluvia/"
+   }
+  },
+  {
+   "kind": "obras",
+   "title": "Cierre del túnel de Artxanda desde las 20:00",
+   "text": "Cinco meses de cierre (hasta abril de 2027). Pico mañana 7:30-9:30. Bizkaibus al aeropuerto sale solo de Termibus; cambios en A3414 y otras.",
+   "when": "Hasta el 2 abr 2027",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bilbao/cierre-tunel-artxanda-obras-cinco-meses-desvios-bilbao"
+   }
+  },
+  {
+   "kind": "huelga",
+   "title": "Huelga general el 11 de noviembre",
+   "text": "ELA, LAB, ESK, Steilas, Etxalde y Hiru convocan en Euskal Herria por la vivienda y los salarios; CCOO y UGT paran el mismo día a escala estatal.",
+   "when": "11 nov",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/economia/2026/10/22/sindicatos-vascos-vivienda-diran-no-la-especulacion-exigiran-subidas-salariales-el-11n/"
+   }
+  }
+ ],
+ "agenda": [
+  {
+   "date": "2026-11-03",
+   "until": "2027-02-21",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "Steve McQueen: 66–76–26",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Gran exposición del artista y cineasta Steve McQueen; plan seguro para un día de lluvia.",
+   "price": "12 €; estudiantes de 18 a 26 años: 6 €",
+   "couple": true,
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://pro.guggenheim-bilbao.eus/fr/expositions"
+   }
+  },
+  {
+   "date": "2026-11-03",
+   "until": "2027-01-17",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "Ever is Over All. Pipilotti Rist",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Instalaciones de vídeo muy coloridas de Pipilotti Rist, abiertas desde el 1 de octubre, para pasar una tarde bajo techo.",
+   "price": "12 €; estudiantes de 18 a 26 años: 6 €",
+   "couple": true,
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://pro.guggenheim-bilbao.eus/fr/expositions"
+   }
+  },
+  {
+   "date": "2026-11-03",
+   "until": "2026-11-04",
+   "time": "10:00-20:00 (domingos hasta 15:00)",
+   "kind": "exposicion",
+   "title": "Museo de Bellas Artes de Bilbao: «La búsqueda del comienzo» y colección",
+   "place": "Museo de Bellas Artes, Bilbao",
+   "text": "Tras su reapertura ampliada, un Velázquez, un Veronese y un Sánchez Cotán de la colección Arango, junto a la colección permanente.",
+   "price": "12 €; reducida: 6 €; menores de 18: gratis",
+   "couple": true,
+   "source": {
+    "name": "Totenart",
+    "url": "https://totenart.com/noticias/museo-bellas-artes-bilbao-reapertura-2026/"
+   }
+  },
+  {
+   "date": "2026-11-03",
+   "until": "2026-11-04",
+   "time": "11:00-14:00 y 16:00-20:00 (domingos hasta 14:00; cierra los lunes)",
+   "kind": "exposicion",
+   "title": "Estrella fugaz y corazón, de M. Benito Píriz",
+   "place": "Sala URIBITARTE40, Fundación BilbaoArte, Bilbao",
+   "text": "Esculturas hechas con piezas de moto y protecciones de carretera sobre la fragilidad y la resistencia; entrada y actividades libres.",
+   "price": "Gratis",
+   "source": {
+    "name": "Arteinformado",
+    "url": "https://www.arteinformado.com/agenda/f/estrella-fugaz-y-corazon-246073"
+   }
+  },
+  {
+   "date": "2026-11-03",
+   "until": "2026-11-09",
+   "time": "17:00, 19:00 o 19:30",
+   "kind": "cine",
+   "title": "Zinemateka: Cineastas de la Transición (1976-1984)",
+   "place": "AZ Azkuna Zentroa, Bilbao",
+   "text": "Ciclo de cine español con Cría cuervos o Almodóvar; sesiones los lunes 2 y 9 y el jueves 5.",
+   "price": "5 €",
+   "couple": true,
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/02/zinemateka-azkuna-zentroa-fritz-lang-en-america-/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-03",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "El pesimismo alegre (mi suicidio)",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Monólogo con Mario Gas sobre la vida y la muerte, entre lo vitalista y lo sombrío.",
+   "price": "Desde 21 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/entradas/el-pesimismo-alegre"
+   }
+  },
+  {
+   "date": "2026-11-04",
+   "time": "19:00",
+   "kind": "experiencia",
+   "title": "Visita guiada en castellano a «Estrella fugaz y corazón»",
+   "place": "Sala URIBITARTE40, Fundación BilbaoArte, Bilbao",
+   "text": "Recorrido comentado de la exposición con interpretación en lengua de signos; acceso libre.",
+   "price": "Gratis",
+   "source": {
+    "name": "Arteinformado",
+    "url": "https://www.arteinformado.com/agenda/f/estrella-fugaz-y-corazon-246073"
+   }
+  },
+  {
+   "date": "2026-11-04",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "El pesimismo alegre (mi suicidio)",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Segunda función del monólogo de Mario Gas sobre vivir y morir con humor.",
+   "price": "Desde 21 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/entradas/el-pesimismo-alegre"
+   }
+  },
+  {
+   "date": "2026-11-05",
+   "time": "19:30",
+   "kind": "concierto",
+   "title": "María José Llergo: El Juego Tour",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Una de las grandes voces del flamenco actual presenta su nuevo proyecto con batería, teclados, bajo y violín.",
+   "price": "24-48 €",
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/maria-jose-llergo/?lang=en"
+   }
+  },
+  {
+   "date": "2026-11-05",
+   "time": "20:00",
+   "kind": "concierto",
+   "title": "Jazz inmersivo",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Concierto de jazz en formato inmersivo en uno de los teatros históricos de Bilbao.",
+   "price": "Desde 18 €",
+   "couple": true,
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-06",
+   "until": "2026-11-08",
+   "time": "10:00",
+   "kind": "taller",
+   "title": "Dramaturgia Biziak: jornadas de dramaturgia vasca",
+   "place": "Sala BBK, Bilbao",
+   "text": "Mesas redondas sobre dramaturgia actual y torneo de escritura con semifinal el sábado 19:30 y final el domingo 19:00.",
+   "price": "Gratis (inscripción previa)",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/06/dramaturgia-biziak-2026-primeras-jornadas-de-dramaturgia/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-06",
+   "until": "2026-11-08",
+   "time": "11:00-23:00",
+   "kind": "feria",
+   "title": "Afrikarte 2026, Feria Cultural Africana",
+   "place": "Plaza de Rekalde, Bilbao",
+   "text": "Mercado de artesanía africana, gastronomía, música, percusión, talleres, pase de moda y cine africano.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/06/afrikarte-feria-cultural-africana/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-06",
+   "until": "2026-11-07",
+   "time": "18:00",
+   "kind": "concierto",
+   "title": "Track 1 Fest 2026",
+   "place": "Merkatu Zaharra, Erandio",
+   "text": "Festival gratuito con cuatro grupos cada tarde-noche; empieza a las 18:00 con bandas locales.",
+   "price": "Gratis",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/06/track-1-fest-2026/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-06",
+   "time": "20:00",
+   "kind": "plan",
+   "title": "Bailaor@",
+   "place": "Teatro Barakaldo, Barakaldo",
+   "text": "Espectáculo de baile flamenco en el Teatro Barakaldo.",
+   "price": "Desde 20,25 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/barakaldo/teatro-barakaldo"
+   }
+  },
+  {
+   "date": "2026-11-06",
+   "time": "20:30",
+   "kind": "teatro",
+   "title": "English Stand Up Comedy",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Monólogos de humor en inglés: plan fácil si tu pareja italiana prefiere no depender del castellano.",
+   "price": "Desde 18 €",
+   "couple": true,
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-06",
+   "time": "21:00",
+   "kind": "concierto",
+   "title": "Go Cactus presenta «Vidas Modelo»",
+   "place": "Cotton Club, Bilbao",
+   "text": "Gira de presentación de su nuevo disco con un directo enérgico, en una sala pequeña del centro.",
+   "price": "13 €",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/06/entradas-andres-koi-bilbao-/webkklik00-detalle/es/"
+   }
+  },
+  {
+   "date": "2026-11-06",
+   "time": "21:00",
+   "kind": "teatro",
+   "title": "Las Fellini: cabaré de playback y humor",
+   "place": "La Sinsorga, kulturgune feminista, Bilbao",
+   "text": "Cabaré cómico con números de playback, improvisación y mirada crítica en un espacio feminista del Casco Viejo.",
+   "price": "10 €",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/06/las-fellini/webkklik00-detalle/es/"
+   }
+  },
+  {
+   "date": "2026-11-06",
+   "time": "21:30",
+   "kind": "concierto",
+   "title": "El Kanka",
+   "place": "Sala Santana 27, Bilbao",
+   "text": "Cantautor malagueño de pop-folk con directos muy coreados, en la sala de Bolueta.",
+   "price": "35 €",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/06/entradas-el-kanka-6-de-noviembre-bilbao-/webkklik00-detalle/es/"
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "time": "09:45",
+   "kind": "experiencia",
+   "title": "Jokoteknia: jornada vasca del videojuego",
+   "place": "La Perrera, Bilbao",
+   "text": "Jornada en euskera sobre la industria del videojuego vasco, con proyectos, debate del sector y producción en euskera.",
+   "price": "Gratis",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/07/jokoteknia-bideojokoen-euskal-jardunaldia-2026/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "time": "13:00",
+   "kind": "fiesta",
+   "title": "XIV Rudelari Eguna de Gernika",
+   "place": "Gernika-Lumo",
+   "text": "Jornada de ska y reggae con comida popular a las 15:00, concierto gratis a las 19:00 y conciertos a las 22:00.",
+   "price": "Comida: 20 €; conciertos nocturnos: 12 €",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/07/xiv-rudelari-eguna-de-gernika/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "time": "18:00",
+   "kind": "teatro",
+   "title": "Soñando el Carnaval de los Animales",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Concierto escenificado para público desde 4 años, con Debussy, Saint-Saëns y grandes marionetas; también el 8 de noviembre a las 12:00 y 18:00.",
+   "price": "14-22 €",
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/sonando-el-carnaval-de-los-animales-3/?lang=en"
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "time": "18:00",
+   "kind": "concierto",
+   "title": "La Trend Bilbao 2026, con JC Reyes",
+   "place": "Bizkaia Arena - BEC, Barakaldo",
+   "text": "Noche de música urbana con JC Reyes y DJs locales en la sala CUBEC.",
+   "price": "25-31 €",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/07/la-trend-bilbao-2026-7-de-noviembre-/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "time": "19:00",
+   "kind": "teatro",
+   "title": "Extrasensorial",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Espectáculo de mentalismo y sugestión en el Campos Elíseos, para un sábado diferente.",
+   "price": "Desde 17 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "time": "20:00",
+   "kind": "teatro",
+   "title": "Charlas de Azucarillo",
+   "place": "Teatro Barakaldo, Barakaldo",
+   "text": "Función de humor en el Teatro Barakaldo.",
+   "price": "Desde 9 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/barakaldo/teatro-barakaldo"
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "time": "20:00",
+   "kind": "concierto",
+   "title": "Halloween Metal Fest 2026",
+   "place": "Bermeoko Kafe Antzokia, Bermeo",
+   "text": "Festival de metal en el kafe-antzoki de Bermeo.",
+   "price": "20-22 €",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/07/halloween-metal-fest-2026-bermeoko-kafe-antzokia-/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "time": "20:00",
+   "kind": "concierto",
+   "title": "Sepulnation + Kaizoku (tributos)",
+   "place": "D8 Sorkuntza Faktoria, Bilbao",
+   "text": "Concierto de las bandas tributo Sepulnation y Kaizoku en Basurtu-Zorrotza.",
+   "price": "15 €",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/07/sepulnation-+-kaizoku/webkklik00-detalle/es/"
+   }
+  },
+  {
+   "date": "2026-11-08",
+   "time": "12:00",
+   "kind": "teatro",
+   "title": "La Bella y la Bestia",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Versión teatral del clásico, función de mediodía del domingo para ir en familia.",
+   "price": "Desde 15,30 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-08",
+   "time": "12:00",
+   "kind": "teatro",
+   "title": "Soñando el Carnaval de los Animales (ABAO Txiki)",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Función familiar de 50 minutos, recomendada a partir de 4 años; también a las 18:00.",
+   "price": "14-22 €",
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/sonando-el-carnaval-de-los-animales-3/?lang=en"
+   }
+  },
+  {
+   "date": "2026-11-08",
+   "time": "18:00",
+   "kind": "teatro",
+   "title": "Yo sobreviví a la EGB",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Comedia nostálgica sobre la infancia de los años 80 y 90.",
+   "price": "Desde 15,30 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-08",
+   "time": "18:00",
+   "kind": "teatro",
+   "title": "Soñando el Carnaval de los Animales (ABAO Txiki)",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Segunda función del domingo del espectáculo familiar de 50 minutos, a partir de 4 años.",
+   "price": "14-22 €",
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/sonando-el-carnaval-de-los-animales-3/?lang=en"
+   }
+  },
+  {
+   "date": "2026-11-08",
+   "time": "19:00",
+   "kind": "concierto",
+   "title": "Michael Schenker MSG feat. Robin McAuley",
+   "place": "Sala Santana 27 (Sala Gold), Bilbao",
+   "text": "Guitarrista histórico de UFO y Scorpions con su MSG: hard rock clásico en directo para domingo.",
+   "price": "Desde 38,5 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/michael-schenker-msg-feat-robin-mcauley-bilbao-1016338"
+   }
+  },
+  {
+   "date": "2026-11-10",
+   "time": "20:30",
+   "kind": "teatro",
+   "title": "Fraude, con Jaime Ferraro",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Espectáculo de humor del cómico Jaime Ferraro un martes por la noche.",
+   "price": "Desde 21,25 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-10",
+   "time": "20:30",
+   "kind": "concierto",
+   "title": "The Del Fuegos",
+   "place": "Sala Kafe Antzokia, Bilbao",
+   "text": "Concierto de rock en el kafe-antzoki de la calle San Vicente.",
+   "price": "Desde 27 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/the-del-fuegos-bilbao-1016747"
+   }
+  }
+ ],
+ "jobs": [
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "Cuerpo de Auxilio Judicial (OEP 2026) · País Vasco",
+   "org": "Ministerio de Justicia",
+   "text": "La OEP 2026 (RD 387/2026) aprobó 335 plazas. A 3-11-2026 la convocatoria no consta en el BOE; se espera entre dic 2026 y feb 2027, con examen hacia sept-oct 2027.",
+   "requirements": [
+    "ESO, Graduado Escolar o equivalente (grupo C2)",
+    "Nacionalidad y edad: confirmar en las bases",
+    "Plazas del País Vasco, tasa y temario: pendientes de la convocatoria",
+    "Inscripción: 20 días hábiles tras publicarse en el BOE"
+   ],
+   "how": "Vigila el BOE, mjusticia.gob.es y justizia.eus; inscripción telemática cuando salga la convocatoria.",
+   "source": {
+    "name": "Ministerio de Justicia · Auxilio Judicial (convocatorias)",
+    "url": "https://www.mjusticia.gob.es/es/ciudadania/empleo-publico/acceso-convocatorias-perfiles/auxilio-judicial"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "en-curso",
+   "title": "Personal de Apoyo · Gobierno Vasco",
+   "org": "Gobierno Vasco (Administración General)",
+   "text": "117 plazas turno libre (112 generales, 5 discapacidad), concurso-oposición, sin titulación exigida. Recepción, correspondencia, almacén. Plazo cerrado el 16-09; primera prueba prevista en enero de 2027.",
+   "requirements": [
+    "No se exige titulación; la ESO suma 7,20 puntos de mérito",
+    "Euskera: 107 plazas generales exigen PL1; 5 sin perfil",
+    "Tasa 8,18 €",
+    "Oposición (30 temas, hasta 100 puntos) más concurso (hasta 45)"
+   ],
+   "how": "Plazo cerrado el 16-09-2026. Vigila listas de admitidas y fecha de examen en la sede de empleo público de euskadi.eus.",
+   "source": {
+    "name": "BOPV · Orden de 30-07-2026, Agrupación Profesional de Personal de Apoyo",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/08/2603653a.shtml"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "en-curso",
+   "title": "Auxiliar de Biblioteca · Diputación Foral de Bizkaia",
+   "org": "Diputación Foral de Bizkaia",
+   "text": "Bases en el BOB del 12-06-2026 (corrección el 10-07). Plazo cerrado el 13-08-2026 para auxiliar de biblioteca: 4 plazas (3 libres, 1 discapacidad). Faltan listas y examen; la OPE 2026 suma 69 plazas.",
+   "requirements": [
+    "ESO, Graduado Escolar, FP1 o equivalente",
+    "Euskera: B2; preceptivo en 1 plaza libre, no preceptivo en las otras 2",
+    "Plazo cerrado: vigila listas de admitidas y fecha de examen",
+    "Nacionalidad y tasa: confirmar en las bases"
+   ],
+   "how": "Plazo cerrado. Sigue listas y exámenes en la web de empleo público de la Diputación y en Bizkaia Gazteak; contacto Oep-epe@bizkaia.eus.",
+   "source": {
+    "name": "Bizkaia Gazteak · Dipu Auxiliar de Biblioteca",
+    "url": "https://gazteak.bizkaia.eus/es/-/dipu-liburutegiko-laguntzaile"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "en-curso",
+   "title": "Celador/a y Operario/a de servicios · Osakidetza",
+   "org": "Osakidetza",
+   "text": "OPE de subalternos (Resolución 468/2026): plazo cerrado el 22-04-2026; examen en junio. Faltan plantilla definitiva y resultados. La 2.ª fase de la OPE (exámenes 6-27 nov) no incluye celador ni operario.",
+   "requirements": [
+    "Certificación de años cursados: ESO o equivalente",
+    "Euskera no obligatorio para celador/a; puntúa como mérito en el concurso",
+    "7 % de destinos reservado a discapacidad",
+    "Resolución 468/2026, BOPV nº 54 (20-03-2026)"
+   ],
+   "how": "Plazo cerrado. Sigue plantillas, notas y la fase de concurso en la web de la OPE de Osakidetza.",
+   "source": {
+    "name": "BOPV · Resolución 468/2026 de Osakidetza (subalternos)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/03/2601239a.shtml"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "Subalterno/a (Grupo E) · UPV/EHU",
+   "org": "UPV/EHU",
+   "text": "10 plazas de funcionariado de carrera, Escala Subalterna, concurso-oposición: 9 de acceso libre (6 con PL2, 3 con PL1) y 1 para discapacidad. Bases en el BOPV nº 144 (30-07-2026).",
+   "requirements": [
+    "Certificado de Escolaridad",
+    "Perfil lingüístico: PL2 (6 plazas) o PL1 (3 plazas), preceptivo",
+    "Tasa de 20,68 €",
+    "Plazo de solicitud y fecha de examen: confirmar en las bases generales"
+   ],
+   "how": "Consulta el plazo en las bases generales (base 5.1) y en la web de la UPV/EHU antes de inscribirte.",
+   "source": {
+    "name": "BOPV nº 144 · Resolución del rector de 15-07-2026 (Grupo E)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/07/2603395a.pdf"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "Auxiliar Administrativo del Estado (OEP 2026)",
+   "org": "Administración General del Estado (Función Pública / INAP)",
+   "text": "La convocatoria anterior (1.700 plazas, examen 23-05-2026) está resuelta. La OEP 2026 (RD 387/2026) refuerza el cuerpo, pero su convocatoria aún no consta en el BOE a 1-11-2026.",
+   "requirements": [
+    "ESO, Graduado Escolar, FP1 o equivalente (grupo C2, como en la convocatoria anterior)",
+    "Nacionalidad y edad: según el EBEP; confirmar en las bases",
+    "Tasa de la anterior: 11,66 € (turno libre); la nueva, pendiente",
+    "Plazas, plazo y fechas: pendientes de la convocatoria"
+   ],
+   "how": "Cuando se publique en el BOE, inscripción telemática en el plazo que fije la convocatoria; vigila el BOE.",
+   "source": {
+    "name": "INAP · Oferta de empleo público 2026",
+    "url": "https://laadministracionaldia.inap.es/noticia.asp?id=1265646"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "Auxiliar administrativo/a de servicios generales · Trapagaran",
+   "org": "Ayuntamiento de Trapagaran",
+   "text": "1 plaza C2, concurso-oposición. Bases publicadas en el BOB del 20-07-2026; no consta aún el anuncio en el BOE que abrirá el plazo de instancias.",
+   "requirements": [
+    "Grupo C2: titulación exacta, confirmar en las bases",
+    "Perfil lingüístico PL2 preceptivo",
+    "Plazo: 20 días hábiles tras el anuncio en BOE (confirmar en las bases)",
+    "Tasa y nacionalidad: confirmar en las bases"
+   ],
+   "how": "Vigila el BOE y la web municipal de empleo público; inscripción según las bases.",
+   "source": {
+    "name": "BOB 20-07-2026 · Bases Trapagaran",
+    "url": "https://www.bizkaia.eus/lehendakaritza/Bao_bob/2026/07/20/II-3930_cas.pdf"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "abierta",
+   "title": "Ayudas HABE para aprender euskera 2025-26 (2.º turno)",
+   "org": "HABE · Gobierno Vasco",
+   "text": "ÚLTIMO DÍA (3-11-2026) del 2.º turno. Subvención fija por nivel superado para quien se matriculó en un euskaltegi homologado entre jun-2025 y sep-2026. No es un porcentaje de la matrícula. Exenta de IRPF.",
+   "amount": "600 a 1.000 € por nivel A1-B2 (C1: 700 € si naciste en 1996 o después)",
+   "requirements": [
+    "Matrícula pagada en euskaltegi o autoaprendizaje homologado (1-06-2025 a 30-09-2026)",
+    "Nivel superado o acreditado entre 1-08 y 31-10-2026 (2.º turno)",
+    "Mínimo 50 horas lectivas (30 en verano) y 75 % de asistencia",
+    "Sin límite de edad: cumples; cada nivel se subvenciona una vez"
+   ],
+   "deadline": "2026-11-03",
+   "how": "Sede electrónica de euskadi.eus (servicio 1038713), 2.º turno del 1-09 al 3-11-2026, con justificantes de matrícula.",
+   "source": {
+    "name": "BOPV · Resolución HABE de 27-05-2026",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/06/2602457a.pdf"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "abierta",
+   "title": "Gaztelagun 2026 · ayuda al alquiler joven",
+   "org": "Gobierno Vasco · Alokabide",
+   "text": "Pago mensual de parte del alquiler de vivienda libre a jóvenes de 18 a 35 años (cumples). Cubre habitaciones y subarriendo. Orden urgente mantiene pagos en 2026; borrador para hacerla permanente en 2027.",
+   "amount": "Hasta el 60 % de la renta, máx. 300 €/mes",
+   "requirements": [
+    "18 a 35 años (se extingue al cumplir 36)",
+    "6 meses de residencia efectiva e ininterrumpida en Euskadi",
+    "Ingresos brutos individuales entre 3.000 y 30.000 € al año",
+    "Contrato de alquiler de vivienda libre como domicilio habitual, sin parentesco hasta 3.er grado con el arrendador",
+    "Renta inicial máxima 900 € en Bilbao, pagada por transferencia",
+    "Incompatible con VPP en alquiler, RGI, IMV y PCV"
+   ],
+   "deadline": "2026-12-31",
+   "how": "Sede electrónica de Euskadi (Mi carpeta) o con cita en Zuzenean o Alokabide; adjunta contrato y justificantes de pago.",
+   "source": {
+    "name": "BOPV · Orden de 5-06-2026 (Gaztelagun)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/06/2602608a.shtml"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "permanente",
+   "title": "Alokaplus · seguro público de impago de alquiler",
+   "org": "Gobierno Vasco · Vivienda",
+   "text": "Seguro público y gratuito lanzado el 29-10-2026. Lo contrata el propietario (hasta 5 viviendas) junto a ti. Cubre hasta 14 mensualidades impagadas, 20 si el inquilino tiene 35 años o menos.",
+   "amount": "Gratuito para el propietario; hasta 14 mensualidades (20 si el inquilino tiene 35 años o menos)",
+   "requirements": [
+    "Lo solicita el propietario, no la inquilina; ambos firman un compromiso",
+    "Vivienda en zona tensionada, habitual del inquilino y renta dentro del índice de referencia",
+    "Edad: cumples (20 mensualidades hasta 35 años)",
+    "No borra la deuda: si paga la Administración, el inquilino debe devolverlo después"
+   ],
+   "how": "Propone a tu casero que se adhiera: ambos firman el compromiso. Canal exacto de solicitud: confirmar en euskadi.eus.",
+   "source": {
+    "name": "Orain · Alokaplus, seguro público contra impagos (29-10-2026)",
+    "url": "https://orain.eus/es/actualidad/economia/2026/10/29/alokaplus-seguro-publico-contra-impagos-del-alquiler-en-euskadi/"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "proxima",
+   "title": "Reforma de Etxebide · vivienda protegida",
+   "org": "Gobierno Vasco · Vivienda",
+   "text": "Proyecto de decreto en tramitación: reservaría el 30 % de cada promoción a rentas medias y daría más peso a la antigüedad en el registro. Aún no aprobado.",
+   "amount": "Sin importe: cambia el acceso a vivienda protegida",
+   "requirements": [
+    "Apartamentos dotacionales para jóvenes: menos de 36 años (cumples)",
+    "Ingresos mínimos equivalentes al SMI",
+    "Cupo del 30 %: ingresos de 20.000 a 46.000 € por unidad convivencial",
+    "Inscripción previa en Etxebide",
+    "Norma aún no aprobada: confirmar en el texto final"
+   ],
+   "how": "Inscríbete o actualiza tu solicitud en Etxebide; los cambios se aplicarán cuando se apruebe el decreto.",
+   "source": {
+    "name": "Gobierno Vasco · Reforma de Etxebide (9-07-2026)",
+    "url": "https://www.euskadi.eus/gobierno-vasco/-/noticia/2026/el-gobierno-vasco-inicia-tramitacion-que-reformara-etxebide-y-criterios-adjudicacion-vivienda-protegida-publica-alquiler/"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "permanente",
+   "title": "Gazte 70 y Gazte Oro (Barik, menores de 26)",
+   "org": "Consorcio de Transportes de Bizkaia · Bizkaibus",
+   "text": "Abonos Barik para menores de 26: Gazte 70 (70 viajes en 30 días) y Gazte Oro (ilimitado 30 días). Valen en Bizkaibus, Metro Bilbao, Euskotren y Tranvía. Cumples la edad.",
+   "amount": "50 % de reducción hasta 31-12-2026 (aviso Bizkaibus)",
+   "requirements": [
+    "Menor de 26 años",
+    "Empadronada en un municipio de Bizkaia",
+    "Tarjeta Barik personalizada",
+    "Uso personal e intransferible"
+   ],
+   "how": "Cárgalo en tu tarjeta Barik personalizada; consulta puntos de recarga y oficinas en la web de Bizkaibus.",
+   "source": {
+    "name": "Bizkaibus · Tarifas",
+    "url": "https://www.bizkaia.eus/es/web/bizkaibus/tarifas"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "permanente",
+   "title": "Gazte-txartela · descuentos para jóvenes",
+   "org": "Gobierno Vasco · Gazteaukera",
+   "text": "Tarjeta con unos 2.000 descuentos en Euskadi (cultura, deporte, transporte, formación, salud, turismo), cupones anuales, sorteos y seguro de viaje gratuito. Cumples la edad.",
+   "amount": "Descuentos variables; precio de la tarjeta: confirmar en la web",
+   "requirements": [
+    "Tener entre 14 y 29 años (caduca al cumplir 30)",
+    "Estar empadronada en la Comunidad Autónoma Vasca",
+    "No hace falta ser estudiante"
+   ],
+   "how": "Solicítala en Gazteaukera; el procedimiento y el precio exactos, en sus preguntas frecuentes.",
+   "source": {
+    "name": "Gazteaukera · ¿Qué es Gazte-txartela?",
+    "url": "https://www.gazteaukera.euskadi.eus/que-es-gazte-txartela/webgaz00-gtxarte0/es/"
+   }
+  }
+ ],
+ "elections": {
+  "title": "Elecciones generales 29-N",
+  "date": "2026-11-29",
+  "status": "Las candidaturas se proclamaron ayer; la campaña formal arranca el 13 de noviembre. La disputa por el tiempo gratuito en RTVE entre Frente Amplio y Podemos y el libro anunciado por Leire Díez para el 9-N animan la precampaña, mientras Urda marca la agenda política (Infobae).",
+  "euskadi": "Según el Sociómetro del Gobierno Vasco (30-10), EH Bildu sería primera en la CAV con 7 escaños, seguida de PSE-EE (5), PNV (4) y PP (2). El candidato del PP por Gipuzkoa, Jon Echeverría, hace hoy acto en San Sebastián.",
+  "polls": {
+   "name": "Media de Sociométrica (El Español), Sigma Dos (El Mundo) y Ateneo del Dato (eldiario.es), según El Independiente",
+   "date": "2026-10-26",
+   "url": "https://www.elindependiente.com/espana/2026/10/26/encuestas-29-n-generales-sanchez-recorta-pp-vox-debajo-200-escanos/",
+   "items": [
+    {
+     "party": "PP",
+     "value": 31.2,
+     "seats": "130"
+    },
+    {
+     "party": "PSOE",
+     "value": null,
+     "seats": "108"
+    },
+    {
+     "party": "Vox",
+     "value": null,
+     "seats": "67"
+    },
+    {
+     "party": "Frente Amplio",
+     "value": 6.8,
+     "seats": "14"
+    }
+   ]
+  },
+  "keyDates": [
+   {
+    "date": "2026-11-13",
+    "text": "Arranca la campaña electoral a las 00:00"
+   },
+   {
+    "date": "2026-11-19",
+    "text": "Último día para solicitar el voto por correo"
+   },
+   {
+    "date": "2026-11-28",
+    "text": "Jornada de reflexión, antes de las urnas del 29-N"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "id": "2026-11-03-espana-urda-puente-congreso",
+   "section": "espana",
+   "weight": 3,
+   "title": "Puente comparece hoy en el Congreso por Urda mientras el Gobierno aprueba el decreto de ayudas",
+   "dek": "El ministro de Transportes responde por el accidente ferroviario tras las peticiones de dimisión de casi todos los grupos; el decreto incluye bajas laborales específicas y adelanto de indemnizaciones.",
+   "figure": {
+    "value": "69",
+    "label": "fallecidos en Urda"
+   },
+   "place": "Madrid / Urda (Toledo)",
+   "body": [
+    "El ministro de Transportes, Óscar Puente, comparece este martes en el Congreso para dar explicaciones por el accidente ferroviario de Urda (Toledo), según Orain. Llega a la cita después de que casi todos los grupos parlamentarios hayan pedido su dimisión.",
+    "El Consejo de Ministros aprueba hoy un decreto de ayudas para las víctimas. Según Orain, el texto prevé bajas laborales específicas para los afectados y la posibilidad de anticipar indemnizaciones, de modo que las familias no tengan que esperar a la resolución de los procedimientos.",
+    "El último balance conocido, de Infobae (1 de noviembre), mantenía en 69 los fallecidos y bajaba a 31 los heridos hospitalizados. Ese mismo día la jueza que instruye el caso pidió más operarios para localizar todos los restos y que la búsqueda no se detenga por la noche.",
+    "En paralelo, Renfe trabaja en un nuevo documento para reforzar la seguridad ferroviaria, según Infobae. El accidente condiciona también la precampaña del 29-N, con el ferrocarril como asunto central del debate político."
+   ],
+   "keys": [
+    "Puente comparece hoy en el Congreso",
+    "Decreto con bajas específicas y anticipo de indemnizaciones",
+    "69 fallecidos y 31 hospitalizados (balance del 1-N)"
+   ],
+   "why": "Si viajas en tren, conviene seguir los avisos de Renfe y Euskotren estos días, porque el accidente ha reabierto la revisión de seguridad.",
+   "sources": [
+    {
+     "name": "Orain (Puente comparecerá)",
+     "url": "https://orain.eus/es/politica/2026/11/02/puente-comparecera-este-martes-en-el-congreso-despues-aprobar-las-ayudas-las-victimas/"
+    },
+    {
+     "name": "Orain (decreto Urda)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/11/02/el-decreto-el-accidente-urda-preve-bajas-especificas-anticipar-indemnizaciones/"
+    },
+    {
+     "name": "Infobae (balance Urda)",
+     "url": "https://www.infobae.com/espana/2026/11/01/accidente-ferroviario-de-urda-bajan-a-31-los-heridos-hospitalizados-mientras-se-mantiene-en-69-la-cifra-de-fallecidos/"
+    }
+   ],
+   "thread": {
+    "id": "accidente-toledo",
+    "label": "Accidente ferroviario de Urda"
+   }
+  },
+  {
+   "id": "2026-11-03-mundo-midterms-hoy",
+   "section": "mundo",
+   "weight": 3,
+   "title": "EE. UU. vota hoy las elecciones de medio mandato con el control del Congreso en juego",
+   "dek": "Los demócratas aspiran a quitar a Trump una o las dos cámaras; el presidente pide votar contra candidatos que califica de «extremistas y peligrosos».",
+   "figure": {
+    "value": "3 nov",
+    "label": "midterms EE. UU."
+   },
+   "place": "Washington",
+   "body": [
+    "Estados Unidos celebra hoy, 3 de noviembre, las elecciones legislativas de medio mandato. Los demócratas buscan hacerse con una o ambas cámaras del Congreso, lo que limitaría la agenda de Donald Trump, según Orain (EITB).",
+    "Si lo consiguen, podrían frenar iniciativas del presidente, abrir investigaciones y, en último término, plantear un nuevo proceso de impeachment, señala la misma información. Ayer, nuestra edición recogía una ventaja demócrata de 7 puntos en una encuesta.",
+    "Trump cerró la campaña llamando a votar contra los candidatos demócratas, a los que describió como extremistas y peligrosos. El malestar económico, con el encarecimiento del combustible ligado a la guerra de Irán, pesa en el ánimo de los votantes, según Orain.",
+    "Los mercados llegaron a la cita con cautela: Wall Street cerró ayer mixto, con el Nasdaq cayendo un 1,1 %, a la espera de las elecciones y de los resultados de Apple, según Infobae."
+   ],
+   "keys": [
+    "Votación hoy 3 de noviembre",
+    "Los demócratas aspiran a una o dos cámaras",
+    "Resultados previstos durante la noche (hora española)"
+   ],
+   "why": "El resultado puede mover los mercados y la política comercial de EE. UU., que afecta a tus inversiones en S&P 500 y MSCI World.",
+   "sources": [
+    {
+     "name": "Orain (midterms)",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/11/02/trump-se-juega-el-control-del-congreso-en-las-elecciones-medio-mandato/"
+    },
+    {
+     "name": "Orain (Trump llama a votar)",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/11/02/trump-llama-votar-en-las-midterm-contra-los-extremistas-peligrosos-candidatos-democratas/"
+    },
+    {
+     "name": "Infobae (Wall Street)",
+     "url": "https://www.infobae.com/estados-unidos/2026/11/02/el-nasdaq-cayo-un-11-y-arrastro-al-sp-500-tras-perder-el-repunte-inicial/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-mundo-ormuz-petroleros-minas",
+   "section": "mundo",
+   "weight": 2,
+   "title": "Dos petroleros chocan con minas en Ormuz, según Irán, en plena negociación con EE. UU.",
+   "dek": "Teherán cuenta unos 30 incidentes con buques en tres semanas; Catar media y Irán dice que reabrir el estrecho llevaría dos días si Washington acepta sus demandas.",
+   "figure": {
+    "value": "30",
+    "label": "incidentes en 3 semanas"
+   },
+   "place": "Estrecho de Ormuz",
+   "body": [
+    "La Guardia Revolucionaria iraní informó, según la agencia Tasnim, de que dos petroleros explotaron tras chocar con minas navales en una ruta no autorizada del estrecho de Ormuz. Uno de ellos, un superpetrolero, sufrió una fuerte explosión y quedó en llamas. No se han precisado banderas, víctimas ni daños.",
+    "Irán asegura que en las últimas tres semanas ha registrado unas 30 incidencias con buques, al menos 20 causadas por minas, y afirma que mantiene el estrecho bajo su control.",
+    "Irán y Estados Unidos mantienen conversaciones indirectas mediadas por Catar. El portavoz de Exteriores iraní, Ismail Bagaei, sostuvo que, si Washington acepta las demandas de Teherán, el plan para reabrir Ormuz podría ejecutarse en dos días y después empezarían negociaciones más profundas. Entre las exigencias figura que EE. UU. levante el bloqueo a puertos y buques iraníes.",
+    "Ayer el Brent se desplomó un 7,6 % hasta unos 104,77 dólares por el optimismo ante un posible acuerdo, según Infobae."
+   ],
+   "keys": [
+    "Dos petroleros dañados por minas, versión iraní",
+    "Negociación indirecta vía Catar",
+    "Brent a la baja por la esperanza de acuerdo"
+   ],
+   "why": "El precio del crudo condiciona la gasolina y la inflación, y por tanto el coste de la vida en Bizkaia.",
+   "sources": [
+    {
+     "name": "Orain (Ormuz)",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/11/02/otros-dos-petroleros-chocan-minas-en-ormuz-en-plenas-negociaciones-segun-iran/"
+    },
+    {
+     "name": "Infobae (cierre Wall Street)",
+     "url": "https://www.infobae.com/estados-unidos/2026/11/02/el-nasdaq-cayo-un-11-y-arrastro-al-sp-500-tras-perder-el-repunte-inicial/"
+    }
+   ],
+   "thread": {
+    "id": "guerra-iran",
+    "label": "Guerra de Irán"
+   }
+  },
+  {
+   "id": "2026-11-03-mundo-ciberataques-refrigeracion",
+   "section": "mundo",
+   "weight": 2,
+   "title": "Ciberataques apagan la refrigeración de supermercados en cinco países europeos",
+   "dek": "Delhaize, Carrefour, ICA, Coop y SuperValu, entre los afectados; los atacantes subieron temperaturas hasta 50 grados.",
+   "figure": {
+    "value": "50 °",
+    "label": "subida de temperatura"
+   },
+   "place": "Bélgica, Países Bajos, Suecia, Irlanda, Luxemburgo",
+   "body": [
+    "Una oleada de ciberataques golpeó en la madrugada del domingo al lunes a comercios de Bélgica, Luxemburgo, Países Bajos, Suecia e Irlanda. Los atacantes accedieron a distancia a los sistemas de control de refrigeración, incluso activaron el modo descongelación y provocaron subidas de hasta 50 grados, según Orain.",
+    "En Bélgica resultaron afectadas unas 40 tiendas Delhaize, 15 de Carrefour, Spar, una cadena de carnicerías en Amberes e IKEA en Mons. En Suecia, ICA y Coop, con una investigación del centro nacional de ciberseguridad; en Irlanda, 13 supermercados de Musgrave (SuperValu).",
+    "Danfoss, fabricante de los equipos, confirmó ataques contra al menos 17 empresas neerlandesas, sobre todo carnicerías y tiendas de barrio. Según la firma, se explotaron equipos conectados a internet, contraseñas por defecto y redes sin protección; había avisado a sus clientes a mediados de octubre.",
+    "No se ha identificado a los responsables ni confirmado que sea una sola operación. El método recuerda al ataque sufrido en Francia el 11-12 de octubre contra cientos de supermercados."
+   ],
+   "keys": [
+    "Cinco países, varias cadenas",
+    "Hasta 50 grados en cámaras",
+    "Sin autor identificado"
+   ],
+   "why": "Muestra lo frágil que es la cadena del frío; por ahora no se han comunicado incidencias en España.",
+   "sources": [
+    {
+     "name": "Orain (ciberataques)",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/11/02/ciberataques-supermercados-europa-refrigeracion/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-espana-huelga-general-11n-sindicatos",
+   "section": "espana",
+   "weight": 2,
+   "title": "UGT y CCOO presentan en Euskadi las movilizaciones del 11-N: salarios, vivienda y precios",
+   "dek": "La huelga general del 11 de noviembre en Euskal Herria la convocan también ELA, LAB, ESK, Steilas, Etxalde y Hiru por la vivienda y los salarios.",
+   "figure": {
+    "value": "11-N",
+    "label": "huelga general"
+   },
+   "place": "Euskadi",
+   "body": [
+    "UGT y CCOO de Euskadi presentaron ayer sus movilizaciones para la huelga general del 11 de noviembre, bajo el lema de salarios, vivienda y precios, según Orain. Los sindicatos hablan de movilizaciones masivas.",
+    "Ese día para en Euskal Herria el bloque sindical formado por ELA, LAB, ESK, Steilas, Etxalde y Hiru, que reclama medidas sobre la vivienda y los salarios, y CCOO y UGT paran a escala estatal, según la información de ayer.",
+    "En Cataluña, los trabajadores del metro de Barcelona, FGC y Rodalies también pararán ese día, según Metrópoli (El Español). Aún no constan servicios mínimos para Bizkaia en las fuentes consultadas."
+   ],
+   "keys": [
+    "Huelga general el 11 de noviembre",
+    "Lema: salarios, vivienda y precios",
+    "Servicios mínimos en Bizkaia aún sin confirmar"
+   ],
+   "why": "Afecta al transporte (Metro, Bilbobus, Bizkaibus) y a muchos centros de trabajo ese día; conviene revisar servicios mínimos.",
+   "sources": [
+    {
+     "name": "Orain (movilizaciones 11-N)",
+     "url": "https://orain.eus/es/actualidad/economia/2026/11/02/ugt-ccoo-euskadi-presentan-movilizaciones-la-huelga-general-del-11-noviembre/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-bilbao-artxanda-cierre-primer-dia",
+   "section": "bilbao",
+   "weight": 2,
+   "title": "Primer día sin túnel de Artxanda: cierre hasta el 2 de abril de 2027",
+   "dek": "El tramo La Salve-Txorierri está cerrado por rehabilitación; el pico de tráfico se esperaba entre 7:30 y 9:30.",
+   "figure": {
+    "value": "16.000",
+    "label": "vehículos al día"
+   },
+   "place": "Bilbao / Txorierri",
+   "body": [
+    "El túnel de Artxanda (BI-30), entre La Salve y el Txorierri, cerró anoche a las 20:00 por una rehabilitación integral de la Diputación Foral. Según Orain, estará cerrado hasta el 2 de abril de 2027, con cambios de rutas y de paradas de autobús.",
+    "Por el tubo pasan unos 16.000 vehículos diarios. El Ayuntamiento de Bilbao preveía unos 600 vehículos más en la rotonda de Pío X en hora punta y recomendaba evitar la franja de 7:30 a 9:30 y usar el transporte público; la Policía Municipal refuerza Pío X, Enekuri y Zabalbide.",
+    "Como alternativas hacia el Txorierri se aconseja el puente de La Salve y Maurice Ravel hasta la BI-631. Los flujos se revisarán durante las primeras semanas."
+   ],
+   "keys": [
+    "Cierre hasta el 2 de abril de 2027",
+    "Evitar 7:30-9:30",
+    "Refuerzo policial y cambio de semáforos"
+   ],
+   "why": "Si vas al aeropuerto o al Txorierri, cuenta con más tiempo o usa transporte público.",
+   "sources": [
+    {
+     "name": "Orain (guía del cierre)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/11/01/guia-practica-ante-el-cierre-del-tunel-artxanda-partir-del-2-noviembre-2026-principales-afecciones-rutas-alternativas-consejos/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-euskadi-presupuestos-lanbide-euskera",
+   "section": "euskadi",
+   "weight": 2,
+   "title": "Presupuestos vascos: Lanbide gestionará 1.192 millones y el euskera crece un 12,2 %",
+   "dek": "Los presupuestos ya están en el Parlamento Vasco y se aprobarán el 21 de diciembre.",
+   "figure": {
+    "value": "+5,68 %",
+    "label": "Economía y Empleo"
+   },
+   "place": "Vitoria-Gasteiz",
+   "body": [
+    "Los presupuestos del Gobierno Vasco ya están en el Parlamento y se aprobarán el 21 de diciembre, según Orain. El departamento de Economía, Trabajo y Empleo aumenta sus cuentas un 5,68 %, hasta unos 1.338 millones de euros.",
+    "De esa cantidad, Lanbide recibirá cerca de 1.192 millones, y es el eje del departamento. Para jóvenes que buscan empleo o formación, es el organismo que gestiona ayudas y programas.",
+    "El impulso al uso del euskera sube un 12,2 % hasta 105 millones. El Ejecutivo creará una oficina técnica para evaluar políticas públicas y sustituirá las subvenciones de Emakunde a ayuntamientos por un servicio de asistencia."
+   ],
+   "keys": [
+    "Aprobación el 21 de diciembre",
+    "Lanbide: 1.192 millones",
+    "Euskera: 105 millones"
+   ],
+   "why": "Lanbide y las políticas de euskera te afectan si buscas empleo público o formación en euskera.",
+   "sources": [
+    {
+     "name": "Orain (Economía y Empleo)",
+     "url": "https://orain.eus/es/actualidad/economia/2026/11/02/economia-trabajo-empleo-aumenta-sus-cuentas-en-un-568/"
+    },
+    {
+     "name": "Orain (euskera)",
+     "url": "https://orain.eus/es/actualidad/economia/2026/11/02/el-impulso-al-uso-del-euskera-aumenta-su-presupuesto-un-122-los-105-millones/"
+    },
+    {
+     "name": "Orain (presupuestos)",
+     "url": "https://orain.eus/es/politica/2026/10/28/los-presupuestos-entran-en-el-parlamento-vasco-se-aprobaran-el-21-diciembre/"
+    }
+   ],
+   "thread": {
+    "id": "autogobierno",
+    "label": "Autogobierno vasco"
+   }
+  },
+  {
+   "id": "2026-11-03-economia-primark-tsjpv",
+   "section": "economia",
+   "weight": 1,
+   "title": "El TSJPV obliga a Primark a pagar salarios del sector textil de Bizkaia",
+   "dek": "La sentencia da la razón a ELA y exige abonar la diferencia desde mayo de 2024.",
+   "figure": {
+    "value": "may. 2024",
+    "label": "fecha desde la que paga"
+   },
+   "place": "Bizkaia",
+   "body": [
+    "El Tribunal Superior de Justicia del País Vasco ha dado la razón al sindicato ELA y obliga a Primark a pagar salarios acordes con el convenio del sector textil de Bizkaia, no más bajos, según Orain.",
+    "La empresa deberá abonar la diferencia desde mayo de 2024. El titular de Orain no detalla el importe total ni el número de trabajadoras afectadas, por lo que no se pueden dar cifras.",
+    "Es un conflicto de convenio aplicable en el comercio textil, un sector con mucha plantilla joven y femenina en Bizkaia."
+   ],
+   "keys": [
+    "ELA gana ante el TSJPV",
+    "Pagos atrasados desde mayo de 2024",
+    "Cifras totales no publicadas aún"
+   ],
+   "why": "Si trabajas en comercio textil, indica qué convenio te corresponde.",
+   "sources": [
+    {
+     "name": "Orain (Primark)",
+     "url": "https://orain.eus/es/actualidad/economia/2026/11/02/obligan-primark-pagar-salarios-acordes-al-sector-bizkaia-abonar-la-diferencia-desde-mayo-2024/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-bilbao-blocus-aske-tras-31-o",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "Bilbao pasa el 31-O blindada ante Blocus: comercios protegidos y libertad provisional para un joven investigado",
+   "dek": "Una marcha de Aske reclamó la libertad de Aratz y Malen, detenidos en Irun acusados de terrorismo.",
+   "figure": {
+    "value": "20",
+    "label": "años del investigado"
+   },
+   "place": "Bilbao",
+   "body": [
+    "Bilbao, San Sebastián y Vitoria-Gasteiz se blindaron el 31 de octubre ante los llamamientos de Blocus a provocar destrozos. Varios comercios protegieron escaparates y la Ertzaintza y las policías locales vigilaron la situación, sin incidentes reseñados, según Orain.",
+    "Un joven de 20 años, administrador de una cuenta vinculada a Blocus Bilbao, quedó en libertad provisional sin fianza y debe comparecer periódicamente ante el juzgado durante la instrucción.",
+    "Ese mismo día, cientos de personas marcharon en Bilbao convocadas por Aske para pedir la libertad de Aratz y Malen, detenidos en Irun acusados de terrorismo. Los organizadores dijeron que no buscaban altercados, sino denunciar lo que consideran su criminalización."
+   ],
+   "keys": [
+    "Sin incidentes reseñados el 31-O",
+    "Libertad provisional sin fianza",
+    "Marcha por Aratz y Malen"
+   ],
+   "why": "Ayuda a entender el ambiente de tensión juvenil en el Casco Viejo y cómo reaccionan los comercios.",
+   "sources": [
+    {
+     "name": "Orain (se blindan)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/31/bilbao-san-sebastian-vitoriagasteiz-se-blindan-ante-los-llamamientos-blocus-provocar-destrozos-el-31-octubre/"
+    },
+    {
+     "name": "Orain (libertad provisional)",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/10/31/libertad-provisional-sin-fianza-el-administrador-una-cuenta-vinculada-blocus-bilbao/"
+    },
+    {
+     "name": "Orain (marcha Aske)",
+     "url": "https://orain.eus/es/politica/2026/10/31/cientos-personas-piden-en-bilbao-la-libertad-aratz-malen-los-detenidos-en-irun-acusados-terrorismo/"
+    }
+   ],
+   "thread": {
+    "id": "disturbios-calle",
+    "label": "Tensión en la calle"
+   }
+  },
+  {
+   "id": "2026-11-03-euskadi-osakidetza-huelga-diciembre",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "Osakidetza: tras la primera jornada de huelga, las siguientes serán del 9 al 14 de diciembre",
+   "dek": "El seguimiento del 30 de octubre fue del 15-17 % según Osakidetza; los sindicatos lo califican de contundente.",
+   "figure": {
+    "value": "17 %",
+    "label": "máximo seguimiento"
+   },
+   "place": "Euskadi",
+   "body": [
+    "La huelga del 30 de octubre en Osakidetza, convocada por SATSE, ELA, LAB, CCOO y UGT, tuvo un seguimiento del 15,42 % en el turno de mañana, 17,01 % en el de tarde y 0,10 % en el de noche, según datos de la propia Osakidetza. Los sindicatos la calificaron de contundente.",
+    "Es la primera de cinco jornadas. Las siguientes: 9 de diciembre en Álava, 10 en Bizkaia, 11 en Gipuzkoa y 14 en toda la red. Reclaman plantillas suficientes, mejores condiciones y frenar la privatización tras casi dos décadas sin convenio.",
+    "El Sindicato Médico de Euskadi no secundó la protesta."
+   ],
+   "keys": [
+    "Primera de cinco jornadas",
+    "Bizkaia: 10 de diciembre",
+    "Seguimiento oficial: 15-17 %"
+   ],
+   "why": "Si necesitas cita o pruebas en esas fechas, pueden retrasarse.",
+   "sources": [
+    {
+     "name": "eldiario.es",
+     "url": "https://eldiario.es/euskadi/huelga-osakidetza-buscar-mejoras-plantilla-despues-decadas-convenio_1_13627845.html"
+    }
+   ],
+   "thread": {
+    "id": "sanidad",
+    "label": "Sanidad"
+   }
+  },
+  {
+   "id": "2026-11-03-mundo-palm-beach-avion",
+   "section": "mundo",
+   "weight": 1,
+   "title": "Nueve muertos al estrellarse un avión privado en una zona residencial de Palm Beach",
+   "dek": "Según la información, no hay heridos entre los viandantes y se investigan las causas.",
+   "figure": {
+    "value": "9",
+    "label": "fallecidos"
+   },
+   "place": "Palm Beach (Florida)",
+   "body": [
+    "Un avión privado se estrelló contra una zona residencial de Palm Beach, en Florida, y murieron las nueve personas que viajaban a bordo, según Orain (EITB), que lo presenta como información no confirmada del todo («al parecer»).",
+    "Ningún viandante resultó herido. El aparato cayó a gran velocidad y dejó un socavón en el suelo. Las autoridades investigan las causas.",
+    "El texto no detalla la identidad de las víctimas, el modelo del avión ni la hora exacta del accidente."
+   ],
+   "keys": [
+    "Nueve fallecidos a bordo",
+    "Sin heridos en tierra",
+    "Causas bajo investigación"
+   ],
+   "why": "Suceso lejano, sin vínculo conocido con España.",
+   "sources": [
+    {
+     "name": "Orain (Palm Beach)",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/11/02/fallecen-9-personas-tras-estrellarse-un-avion-privado-en-una-zona-residencial-palm-beach-en-florida/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-mundo-polonia-tribunal-constitucional",
+   "section": "mundo",
+   "weight": 1,
+   "title": "Polonia, en crisis institucional por el control del Tribunal Constitucional",
+   "dek": "El choque entre el Gobierno liberal y el presidente conservador deriva en una batalla abierta tras suspender un mes al presidente del tribunal.",
+   "figure": {
+    "value": "1 mes",
+    "label": "suspensión del presidente"
+   },
+   "place": "Varsovia",
+   "body": [
+    "Polonia vive una crisis institucional sin precedentes por el control del Tribunal Constitucional, según Orain. El presidente del tribunal ha sido suspendido durante un mes, lo que ha provocado un conflicto de legitimidad.",
+    "La disputa enfrenta al Gobierno liberal con el presidente conservador y, según el titular de Orain del 2 de noviembre, ya es una batalla abierta por quién controla la institución.",
+    "Los detalles de las partes y de los próximos pasos no aparecen en los resúmenes consultados."
+   ],
+   "keys": [
+    "Presidente del tribunal suspendido un mes",
+    "Gobierno liberal contra presidente conservador",
+    "Conflicto sobre quién tiene legitimidad"
+   ],
+   "why": "Es otro caso de tensión sobre el Estado de derecho en la UE.",
+   "sources": [
+    {
+     "name": "Orain (batalla por el control)",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/11/02/la-crisis-en-torno-al-tribunal-constitucional-polaco-deriva-en-una-batalla-abierta-su-control/"
+    },
+    {
+     "name": "Orain (caos institucional)",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/10/31/caos-institucional-en-polonia-el-conflicto-legitimidad-en-el-tribunal-constitucional/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-mundo-portugal-desalojo-vivienda",
+   "section": "mundo",
+   "weight": 1,
+   "title": "Un centenar de heridos y 13 detenidos en el desalojo de las acampadas por la vivienda en Portugal",
+   "dek": "La policía despejó los campamentos de protesta en Lisboa y Oporto.",
+   "figure": {
+    "value": "100",
+    "label": "heridos aprox."
+   },
+   "place": "Lisboa y Oporto",
+   "body": [
+    "La policía portuguesa desalojó de nuevo las acampadas de protesta por la vivienda en Lisboa y Oporto, con un centenar de heridos y trece detenidos, según Orain.",
+    "El movimiento reclama medidas ante el precio de la vivienda, un problema parecido al de Bilbao y Euskadi, donde la vivienda es eje de la huelga general del 11-N.",
+    "Los resúmenes consultados no detallan el balance oficial ni la reacción del Gobierno portugués."
+   ],
+   "keys": [
+    "Desalojos en dos ciudades",
+    "Cerca de 100 heridos, 13 detenidos"
+   ],
+   "why": "La vivienda es un problema común entre jóvenes europeos.",
+   "sources": [
+    {
+     "name": "Orain (Portugal)",
+     "url": "https://orain.eus/es/actualidad/internacional/2026/11/01/un-centenar-heridos-trece-detenidos-en-el-nuevo-desalojo-las-acampadas-vivienda-en-portugal/"
+    }
+   ],
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   }
+  },
+  {
+   "id": "2026-11-03-espana-campana-29n-debates-libro",
+   "section": "espana",
+   "weight": 1,
+   "title": "29-N: disputa por el tiempo gratuito en RTVE y el libro de Leire Díez el 9 de noviembre",
+   "dek": "Frente Amplio y Podemos discuten los minutos de propaganda que correspondían a Sumar; Díez promete revelar delitos que salpican a periodistas, fiscales y políticos.",
+   "figure": {
+    "value": "9 nov",
+    "label": "libro de Leire Díez"
+   },
+   "place": "Madrid",
+   "body": [
+    "Frente Amplio y Podemos disputan los minutos de propaganda electoral gratuita en RTVE que correspondían a Sumar; según Infobae, Colau y Montero podrían compartir atril en el debate.",
+    "Leire Díez planea publicar un libro el 9 de noviembre en plena campaña, en el que, según Infobae, anunciará supuestos delitos que salpican a periodistas, fiscales, políticos y policías. Son afirmaciones suyas, no hechos comprobados.",
+    "La campaña formal arranca el 13 de noviembre, y las elecciones son el 29 de noviembre."
+   ],
+   "keys": [
+    "Pelea por el tiempo en RTVE",
+    "Libro de Díez el 9-N",
+    "Campaña formal desde el 13-N"
+   ],
+   "why": "Ayuda a entender cómo llega la campaña antes del voto del 29-N.",
+   "sources": [
+    {
+     "name": "Infobae (propaganda RTVE)",
+     "url": "https://www.infobae.com/espana/2026/11/01/frente-amplio-y-podemos-pelean-por-los-minutos-de-propaganda-gratis-que-correspondian-a-sumar-en-rtve-colau-y-montero-podrian-compartir-atril-en-el-debate/"
+    },
+    {
+     "name": "Infobae (libro Leire Díez)",
+     "url": "https://www.infobae.com/espana/2026/11/01/leire-diez-quiere-agitar-la-campana-con-su-primer-libro-el-9-de-noviembre-revelara-mas-de-600-delitos-que-salpican-a-periodistas-fiscales-politicos-y-policias/"
+    }
+   ],
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   }
+  },
+  {
+   "id": "2026-11-03-economia-wall-street-lunes",
+   "section": "economia",
+   "weight": 2,
+   "title": "Wall Street cierra mixto: el Nasdaq cae un 1,1 % por las dudas sobre la IA y el Brent se hunde un 7,6 %",
+   "dek": "El Dow Jones sube un 0,41 % y el S&P 500 baja un 0,51 % a la espera de las midterms y de Apple.",
+   "figure": {
+    "value": "-1,1 %",
+    "label": "Nasdaq Composite"
+   },
+   "place": "Nueva York",
+   "body": [
+    "Wall Street cerró el lunes 2 de noviembre sin rumbo claro: el Dow Jones subió 213,67 puntos (+0,41 %) hasta 51.983,98, el S&P 500 cedió 38,67 puntos (-0,51 %) hasta 7.541,40 y el Nasdaq Composite perdió 272,68 puntos (-1,1 %) hasta 25.164,32, según Infobae y El CEO.",
+    "Las acciones ligadas a la inteligencia artificial siguieron débiles por las dudas de que la inversión en centros de datos genere suficientes beneficios. Nvidia pasó de subir un 2,6 % por la mañana a caer un 1,3 % al cierre, según Infobae; no se informó de su precio.",
+    "El Brent se desplomó un 7,6 % hasta 104,77 dólares por el optimismo ante un posible acuerdo de paz entre EE. UU. e Irán. Los inversores esperaban también los resultados de Apple y las midterms de hoy."
+   ],
+   "keys": [
+    "Dow +0,41 %, S&P 500 -0,51 %, Nasdaq -1,1 %",
+    "Nvidia cae un 1,3 % al cierre",
+    "Brent a 104,77 $"
+   ],
+   "why": "Tus inversiones en S&P 500 y Nvidia retrocedieron ayer; es una foto de un día, sin consejo de compra o venta.",
+   "sources": [
+    {
+     "name": "Infobae (cierre)",
+     "url": "https://www.infobae.com/estados-unidos/2026/11/02/el-nasdaq-cayo-un-11-y-arrastro-al-sp-500-tras-perder-el-repunte-inicial/"
+    },
+    {
+     "name": "El CEO (cierre)",
+     "url": "https://elceo.com/mercados/bmv-ipc-wall-street-hoy-2-de-noviembre-de-2026-cierre/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-economia-tasa-temu-shein",
+   "section": "economia",
+   "weight": 1,
+   "title": "La UE empieza a cobrar una tasa a los paquetes de Temu y Shein",
+   "dek": "La nueva carga se aplica desde el domingo 1 de noviembre a los envíos de estas plataformas.",
+   "figure": {
+    "value": "1 nov",
+    "label": "inicio de la tasa"
+   },
+   "place": "Bruselas",
+   "body": [
+    "La Unión Europea empezó a cobrar el domingo 1 de noviembre una nueva tasa a los paquetes de plataformas como Temu y Shein, según Infobae.",
+    "El titular indaga en cómo afectará a las compras online. El resumen consultado no detalla el importe de la tasa por paquete.",
+    "Para quien compra ropa o complementos baratos por internet, es probable que se note en el precio final."
+   ],
+   "keys": [
+    "Tasa desde el 1 de noviembre",
+    "Afecta a Temu y Shein",
+    "Importe por paquete sin confirmar"
+   ],
+   "why": "Puede encarecer tus compras online de ropa barata.",
+   "sources": [
+    {
+     "name": "Infobae (tasa Temu y Shein)",
+     "url": "https://www.infobae.com/espana/2026/11/01/la-ue-cobra-desde-este-domingo-una-nueva-tasa-a-los-paquetes-de-temu-y-shein-como-afectara-a-tus-compras-online/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-cultura-patrick-stewart",
+   "section": "cultura",
+   "weight": 1,
+   "title": "Muere Patrick Stewart, el capitán Picard de «Star Trek», a los 86 años",
+   "dek": "El actor británico, también Profesor X en «X-Men», falleció por causa del alzhéimer, según Orain.",
+   "figure": {
+    "value": "86",
+    "label": "años"
+   },
+   "place": "Cine",
+   "body": [
+    "Ha muerto Patrick Stewart, el legendario actor de «Star Trek: la nueva generación» y del Profesor X en «X-Men», a los 86 años y a causa del alzhéimer, según Orain.",
+    "Su papel como el capitán Jean-Luc Picard marcó a varias generaciones de aficionados a la ciencia ficción.",
+    "El resumen consultado no ofrece más detalles sobre la fecha exacta ni homenajes previstos."
+   ],
+   "keys": [
+    "Murió a los 86 años",
+    "Picard y Profesor X",
+    "Causa: alzhéimer"
+   ],
+   "why": "Una referencia de cine y series de varias generaciones.",
+   "sources": [
+    {
+     "name": "Orain (Patrick Stewart)",
+     "url": "https://orain.eus/es/cultura/cine/2026/10/29/muere-el-legendario-actor-star-trek-patrick-stewart-causa-del-alzheimer/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-mundo-francia-protestas-semana",
+   "section": "mundo",
+   "weight": 2,
+   "title": "Francia afronta otra semana de tensión: bloqueos estudiantiles desde el martes y huelga general el jueves",
+   "dek": "La movilización cayó a 320.000 personas el sábado (550.000 la semana anterior) y los detenidos bajaron a 565, pero se investiga como intento de homicidio un ataque con artefacto incendiario a gendarmes.",
+   "figure": {
+    "value": "320.000",
+    "label": "manifestantes sáb."
+   },
+   "place": "Francia",
+   "thread": {
+    "id": "francia-protestas",
+    "label": "Protestas en Francia"
+   },
+   "body": [
+    "El sábado 31 de octubre salieron a la calle unas 320.000 personas, según el Gobierno, frente a las 550.000 de la semana anterior. Hubo 565 detenidos hasta las 21:00 (1.314 el sábado previo y 2.628 el 17 de octubre) y resultaron heridos cuatro policías y un gendarme. En París, un artefacto incendiario lanzado contra gendarmes prendió fuego a un agente, con heridas leves; el ministro del Interior, Laurent Nuñez, lo calificó de «tentativa de homicidio».",
+    "El movimiento nació a finales de septiembre por el deterioro de la educación pública y se amplió a otras quejas como la pérdida de poder adquisitivo. El Gobierno reconoció un «fallo de anticipación» el 17 de octubre, que derivó en una grave crisis de orden público, y dice que actuará con «humildad» y «vigilancia». La noche de Halloween, temida por convocatorias en redes, pasó sin grandes incidentes gracias al fuerte despliegue policial.",
+    "Para esta semana, las organizaciones estudiantiles llaman a retomar los bloqueos desde el martes, al volver a las aulas tras 15 días de vacaciones; algunos grupos piden empezar el lunes. Para el jueves se espera una huelga general con sindicatos y colectivos como los ferroviarios. Los estudiantes reclaman 10.000 millones para la educación pública y consideran insuficientes las promesas del Gobierno (limitar alumnos por clase, contratar docentes y cambiar Parcoursup)."
+   ],
+   "keys": [
+    "320.000 manifestantes y 565 detenidos el sábado",
+    "Bloqueos desde el martes; huelga general el jueves",
+    "Ataque a gendarmes investigado como intento de homicidio"
+   ],
+   "why": "Si tienes planes de viaje a Francia esta semana, ojo con huelgas de transporte y bloqueos.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/01/francia-se-prepara-para-otra-semana-de-tension-social-pese-a-la-caida-de-la-movilizacion/"
+    },
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/america/mundo/2026/11/01/protestas-en-francia-investigan-como-tentativa-de-asesinato-el-ataque-con-coctel-molotov-contra-gendarmes-en-paris/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-sociedad-huelga-docente-madrid",
+   "section": "sociedad",
+   "weight": 1,
+   "title": "La huelga docente indefinida de Madrid cumple su tercera semana y la universidad se suma el 4 y el 5",
+   "dek": "Los profesores reclaman subidas salariales y el Gobierno de Ayuso dice que aceptar sus demandas sería «quebrar» la educación.",
+   "figure": {
+    "value": "3",
+    "label": "semanas de huelga"
+   },
+   "place": "Madrid",
+   "body": [
+    "La huelga indefinida de profesores de Madrid entra en su tercera semana, según la agenda de EFE, y las universidades públicas madrileñas harán paros los días 4 y 5 de noviembre. El conflicto empezó a mediados de octubre con manifestaciones de miles de personas en el centro de la capital.",
+    "Según Infobae (EFE), el Gobierno regional afirma que aceptar las demandas docentes sería «quebrar» la educación; eldiario.es y otros medios cuentan que los sindicatos piden subidas de cientos de euros al mes. El Debate publicó un análisis que sostiene que no es cierto que los profesores madrileños sean los peor pagados de España; es una lectura de ese medio.",
+    "La protesta se enmarca en una ola de movilizaciones educativas en Europa, con Francia como caso más grave."
+   ],
+   "keys": [
+    "Tercera semana de huelga indefinida",
+    "Paros universitarios el 4 y 5",
+    "Sin acuerdo con la Comunidad"
+   ],
+   "why": "Tendencia que puede extenderse a otras comunidades; en Euskadi la educación pública ya fue noticia en el pasado.",
+   "sources": [
+    {
+     "name": "Infobae (EFE) · Temas del día",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/01/temas-del-dia-de-efe-espana-del-lunes-2-de-noviembre-de-2026/"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/23/el-gobierno-de-ayuso-dice-que-aceptar-las-demandas-docentes-seria-quebrar-la-educacion/"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/espana/madrid/20261026/esto-cobran-profesores-madrid-huelga-falso-sean-peor-pagados-espana_473136.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-sociedad-pobreza-laboral",
+   "section": "sociedad",
+   "weight": 1,
+   "title": "2,5 millones de trabajadores en España viven por debajo del umbral de la pobreza",
+   "dek": "La agenda de EFE destaca hoy un nuevo dato sobre pobreza laboral.",
+   "figure": {
+    "value": "2,5M",
+    "label": "trabajadores pobres"
+   },
+   "place": "España",
+   "body": [
+    "La agenda de EFE para el 2 de noviembre destaca que 2,5 millones de personas con empleo viven por debajo del umbral de la pobreza. La fuente no desglosa el informe de origen en el resumen consultado.",
+    "El dato llega en plena precampaña, con el coste de la vida y la vivienda entre los principales temas de preocupación social."
+   ],
+   "keys": [
+    "2,5 millones con empleo bajo el umbral de pobreza"
+   ],
+   "why": "Apunta a la brecha entre salarios y coste de vida, una de las razones de las huelgas del 11-N.",
+   "sources": [
+    {
+     "name": "Infobae (EFE) · Temas del día",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/01/temas-del-dia-de-efe-espana-del-lunes-2-de-noviembre-de-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-cultura-guggenheim-mcqueen",
+   "section": "cultura",
+   "weight": 2,
+   "title": "Steve McQueen en el Guggenheim: una gran exposición abierta hasta el 21 de febrero",
+   "dek": "La muestra «66–76–26» reúne la obra del artista y cineasta británico; entrada de 12 €, con 6 € para estudiantes de 18 a 26 años.",
+   "figure": {
+    "value": "21 feb",
+    "label": "cierra la muestra"
+   },
+   "place": "Bilbao",
+   "body": [
+    "El Museo Guggenheim Bilbao exhibe «Steve McQueen: 66–76–26», una gran exposición del artista y cineasta, abierta de 10:00 a 19:00 hasta el 21 de febrero de 2027. La entrada cuesta 12 euros y 6 euros para estudiantes de 18 a 26 años.",
+    "Junto a ella, el museo mantiene «Ever is Over All», de Pipilotti Rist, con instalaciones de vídeo muy coloridas abiertas desde el 1 de octubre y hasta el 17 de enero, mismo precio. Es un plan seguro para los días de frío y llovizna de esta semana."
+   ],
+   "keys": [
+    "Hasta el 21 de febrero de 2027",
+    "12 €; estudiantes 18-26: 6 €"
+   ],
+   "why": "Buen plan en pareja para un día frío en Bilbao.",
+   "sources": [
+    {
+     "name": "Museo Guggenheim Bilbao",
+     "url": "https://pro.guggenheim-bilbao.eus/fr/expositions"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-cultura-afrikarte-dramaturgia",
+   "section": "cultura",
+   "weight": 1,
+   "title": "Bilbao llena el fin de semana del 6 al 8 de noviembre de cultura gratuita: Afrikarte y jornadas de dramaturgia vasca",
+   "dek": "La Feria Cultural Africana se instala en la plaza de Rekalde y Dramaturgia Biziak reúne a autores vascos.",
+   "figure": {
+    "value": "Gratis",
+    "label": "entrada libre"
+   },
+   "place": "Bilbao",
+   "body": [
+    "Afrikarte 2026, Feria Cultural Africana, se celebra del 6 al 8 de noviembre en la plaza de Rekalde (de 11:00 a 23:00) con mercado de artesanía africana, gastronomía, música, percusión, talleres, pase de moda y cine africano. La entrada es gratuita.",
+    "Los mismos días, del 6 al 8, tienen lugar las jornadas Dramaturgia Biziak sobre dramaturgia vasca, también gratuitas con inscripción previa."
+   ],
+   "keys": [
+    "Afrikarte: del 6 al 8 de noviembre",
+    "Entrada libre"
+   ],
+   "why": "Plan barato para el fin de semana y para compartir culturas con tu pareja.",
+   "sources": [
+    {
+     "name": "Kulturklik",
+     "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/06/afrikarte-feria-cultural-africana/z12-detalle/es"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-cultura-cineuropa-40-anos",
+   "section": "cultura",
+   "weight": 1,
+   "title": "Cineuropa cumple 40 años con más de 150 películas y un homenaje a Hitchcock",
+   "dek": "El festival de Santiago de Compostela celebra su aniversario con una programación amplia.",
+   "figure": {
+    "value": "40",
+    "label": "años de festival"
+   },
+   "place": "Santiago de Compostela",
+   "body": [
+    "Cineuropa celebra sus 40 años con más de 150 películas y un homenaje a Alfred Hitchcock y al público, según EFE vía Infobae. Es uno de los festivales de cine europeo más veteranos de España."
+   ],
+   "keys": [
+    "Más de 150 películas",
+    "Homenaje a Hitchcock"
+   ],
+   "why": "Si te gusta el cine, es una cita a seguir de cerca.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/30/cineuropa-celebra-sus-40-anos-con-mas-de-150-peliculas-y-homenaje-a-hitchcok-y-al-publico/"
+    },
+    {
+     "name": "Infobae (EFE) · Temas del día",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/01/temas-del-dia-de-efe-espana-del-lunes-2-de-noviembre-de-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-ciencia-corazon-lactato",
+   "section": "ciencia",
+   "weight": 1,
+   "title": "El corazón usa glucosa y lactato a la vez: un hallazgo en «Nature» abre una vía contra la insuficiencia cardiaca",
+   "dek": "Investigadores de la Universidad de Utah identifican el papel de la proteína MCT1.",
+   "figure": {
+    "value": "MCT1",
+    "label": "proteína clave"
+   },
+   "place": "Utah (EE. UU.)",
+   "body": [
+    "Un equipo de la Universidad de Utah, con el profesor Stavros Drakos como coautor principal, publicó en «Nature» que el corazón, a diferencia de otros tejidos que usan una fuente de combustible cada vez, puede quemar glucosa y lactato en paralelo. Lo logra porque procesa la glucosa en el citosol y el lactato en las mitocondrias.",
+    "La proteína MCT1 transporta el lactato al interior de las mitocondrias. Si sufre mutaciones, el lactato no entra, se altera el equilibrio energético y el músculo cardiaco puede desarrollar insuficiencia bajo estrés. Los autores señalan que podría aprovecharse el lactato como combustible en pacientes con insuficiencia cardiaca o daño por infarto y que MCT1 es una posible diana terapéutica, aunque no describen tratamientos ni ensayos clínicos."
+   ],
+   "keys": [
+    "El corazón usa dos combustibles a la vez",
+    "MCT1, posible diana terapéutica"
+   ],
+   "why": "Un avance básico: aún lejos de aplicarse en consulta.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/salud/ciencia/2026/10/31/el-secreto-del-corazon-para-no-quedarse-sin-energia-el-mecanismo-celular-que-lo-distingue-de-otros-musculos/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-deportes-athletic-real-derbi",
+   "section": "deportes",
+   "weight": 2,
+   "title": "El Athletic gana el derbi a la Real Sociedad en San Mamés (2-1)",
+   "dek": "Iñaki Williams adelantó a los rojiblancos, Sucic empató y Berenguer marcó de penalti justo antes del descanso.",
+   "figure": {
+    "value": "2-1",
+    "label": "Athletic–Real"
+   },
+   "place": "San Mamés",
+   "thread": {
+    "id": "athletic",
+    "label": "Athletic Club"
+   },
+   "body": [
+    "El Athletic Club venció 2-1 a la Real Sociedad en la jornada 11 de LaLiga. Iñaki Williams abrió el marcador en el minuto 14 con una vaselina sobre Remiro tras un centro largo de su hermano Nico. Sucic empató hacia el minuto 30 con un disparo de zurda desde fuera del área que entró tras tocar el poste.",
+    "En el 45, Aramburu derribó a Nico en el área y Berenguer transformó el penalti; el delantero había fallado antes dos ocasiones y se marchó lesionado tras un choque con Maroan y Sarr. En la segunda parte, la Real apretó y Unai Simón evitó el empate con paradas ante Barrenetxea, Sucic, Oyarzabal y Soler (min. 73).",
+    "Terzic dijo tras el partido que el mensaje es que están «en el buen camino», según el titular de EFE. Kirolak EITB y Deia destacan la actuación de Simón."
+   ],
+   "keys": [
+    "Williams (14'), Sucic, Berenguer (pen.)",
+    "Berenguer se retiró lesionado",
+    "Simón evitó el empate"
+   ],
+   "why": "Tres puntos importantes en el derbi vasco; Berenguer, a vigilar con su lesión.",
+   "sources": [
+    {
+     "name": "Kirolak EITB",
+     "url": "https://kirolakeitb.eus/es/futbol/competiciones/laliga-ea-sports/2026/11/01/athletic-se-hace-fuerte-san-mames-ganar-derbi-real-sociedad-2-1/"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/01/terzic-el-mensaje-es-que-estamos-en-el-buen-camino/"
+    },
+    {
+     "name": "Deia",
+     "url": "https://www.deia.eus/athletic/2026/11/01/notas-pako-simon-numero-11713697.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-deportes-alcaraz-viena",
+   "section": "deportes",
+   "weight": 1,
+   "title": "Alcaraz conquista Viena y suma su cuarto título de 2026",
+   "dek": "Derrotó a De Miñaur en la final, tras más de cuatro meses de baja por una lesión de muñeca.",
+   "figure": {
+    "value": "4º",
+    "label": "título de 2026"
+   },
+   "place": "Viena",
+   "body": [
+    "Carlos Alcaraz ganó el ATP 500 de Viena al superar a Alex de Miñaur en la final, en dos sets, y levantó su cuarto título del año; es su primera corona en Viena y su primera final allí. Con el australiano acumula un 6-0 en los duelos directos.",
+    "El murciano regresó tras más de cuatro meses fuera por una lesión de muñeca y dijo que disfrutó sin estresarse. Su próxima cita será el Masters 1000 de París, seguido de la Copa Davis y las ATP Finals; Infobae destaca que su porcentaje de finales ganadas (75,6 %) se acerca al de Sinner (76,9 %)."
+   ],
+   "keys": [
+    "4.º título de 2026",
+    "6-0 contra De Miñaur",
+    "Próximo: Masters 1000 de París"
+   ],
+   "why": "Buena noticia para el tenis español antes del tramo final del año.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/espana/deportes/2026/11/01/carlos-alcaraz-se-pone-la-corona-en-viena-por-primera-vez-tras-acabar-con-de-minaur-y-firmar-un-impecable-torneo-con-el-que-recupera-sensaciones/"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/01/alcaraz-pisa-los-talones-a-sinner-en-porcentaje-de-finales-ganadas-756-frente-a-769/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-deportes-marquez-sepang",
+   "section": "deportes",
+   "weight": 1,
+   "title": "Marc Márquez gana en Sepang y acaricia su octavo título; Quiles es campeón de Moto3",
+   "dek": "Márquez suma 399 puntos, 44 más que Jorge Martín, ausente por lesión.",
+   "figure": {
+    "value": "399",
+    "label": "puntos de Márquez"
+   },
+   "place": "Sepang (Malasia)",
+   "body": [
+    "Marc Márquez ganó con autoridad el GP de Malasia, su séptima victoria del año; Pedro Acosta fue segundo y Álex Márquez tercero. Con 399 puntos aventaja en 44 a Jorge Martín, que no corrió por una lesión en el brazo derecho, y en 67 a Marco Bezzecchi. EFE califica la victoria de «paso decisivo» hacia su octavo título mundial.",
+    "En Moto3, Máximo Quiles ganó su undécima carrera y es campeón matemático. En Moto2 ganó David Alonso, y Manuel González sigue líder con 276,5 puntos, solo tres más que Izan Guevara."
+   ],
+   "keys": [
+    "Márquez: 7 victorias, 399 puntos",
+    "Quiles, campeón de Moto3",
+    "Moto2: lucha por 3 puntos"
+   ],
+   "why": "Un título para el motociclismo español más cerca.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://infobae.com/espana/agencias/2026/11/01/marc-marquez-da-un-paso-mas-hacia-el-titulo-en-motogp-tambien-ganan-alonso-y-quiles"
+    }
+   ]
+  }
+ ],
+ "briefs": [
+  {
+   "id": "2026-11-03-b01",
+   "section": "bilbao",
+   "tag": "Saharauis",
+   "text": "La comunidad saharaui celebró en Bilbao la no renovación de Minurso en la ONU, tras el veto ruso, con una concentración ante el consulado de Marruecos.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/10/31/la-comunidad-saharaui-en-euskadi-celebra-la-no-renovacion-la-mision-minurso-en-la-onu/"
+   },
+   "comarca": "bi"
+  },
+  {
+   "id": "2026-11-03-b02",
+   "section": "espana",
+   "tag": "Campaña",
+   "text": "Frente Amplio y Podemos pelean por el tiempo gratuito de propaganda en RTVE que correspondía a Sumar.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/espana/2026/11/01/frente-amplio-y-podemos-pelean-por-los-minutos-de-propaganda-gratis-que-correspondian-a-sumar-en-rtve-colau-y-montero-podrian-compartir-atril-en-el-debate/"
+   }
+  },
+  {
+   "id": "2026-11-03-b03",
+   "section": "espana",
+   "tag": "Votos y renta",
+   "text": "En el municipio más rico de España preocupa la inmigración y en Entrevías (Madrid), la sanidad pública, según un reportaje de Infobae.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/espana/2026/11/01/en-el-pueblo-mas-rico-de-espana-preocupa-la-inmigracion-y-en-el-barrio-mas-pobre-de-madrid-la-sanidad-publica-asi-cambia-el-voto-segun-la-renta-para-las-elecciones-generales-del-29-n/"
+   }
+  },
+  {
+   "id": "2026-11-03-b04",
+   "section": "espana",
+   "tag": "Renfe",
+   "text": "Renfe prepara un nuevo documento para reforzar la seguridad ferroviaria tras el accidente de Toledo.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/espana/2026/11/01/renfe-trabaja-en-un-nuevo-documento-para-reforzar-la-seguridad-ferroviaria-tras-el-accidente-en-toledo/"
+   }
+  },
+  {
+   "id": "2026-11-03-b05",
+   "section": "espana",
+   "tag": "Empleo público",
+   "text": "Adif exige bachillerato, FP o cuatro años como auxiliar de circulación y una oposición para ser responsable de circulación; no es una plaza para la ESO.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/espana/2026/11/01/adif-exige-bachillerato-fp-o-cuatro-anos-como-auxiliar-de-circulacion-y-superar-una-oposicion-para-ser-responsable-de-circulacion-con-sueldos-de-hasta-47000-euros-al-ano/"
+   }
+  },
+  {
+   "id": "2026-11-03-b06",
+   "section": "mundo",
+   "tag": "Bulgaria",
+   "text": "La candidata prorrusa Iliana Yotova gana las elecciones presidenciales en Bulgaria, según Orain.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/internacional/2026/11/02/la-candidata-prorrusa-iliana-yotova-gana-las-elecciones-presidenciales-en-bulgaria/"
+   }
+  },
+  {
+   "id": "2026-11-03-b07",
+   "section": "mundo",
+   "tag": "Alemania",
+   "text": "Decenas de miles de jóvenes se manifestaron en ciudades alemanas por la educación, la justicia social y el coste de la vida.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/internacional/2026/11/01/decenas-miles-jovenes-se-manifiestan-en-alemania/"
+   }
+  },
+  {
+   "id": "2026-11-03-b08",
+   "section": "mundo",
+   "tag": "EE. UU.",
+   "text": "El alza del combustible, ligada a la guerra de Irán, aprieta a los camioneros y agrava el malestar económico antes de las midterms.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/internacional/2026/11/01/el-precio-del-combustible-aprieta-los-camioneros-agrava-el-malestar-economico-en-estados-unidos/"
+   }
+  },
+  {
+   "id": "2026-11-03-b09",
+   "section": "mundo",
+   "tag": "Francia",
+   "text": "Francia cerró su tercer sábado de protestas con menos participación y más de 500 arrestos, según Orain.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/internacional/2026/10/31/manifestaciones-en-francia-el-31-octubre-tercer-sabado-consecutivo/"
+   }
+  },
+  {
+   "id": "2026-11-03-b10",
+   "section": "cultura",
+   "tag": "Coros",
+   "text": "El grupo británico The Epiphoni Consort gana el Certamen Coral de Tolosa 2026.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/cultura/2026/11/01/agrupacion-britanica-the-epiphoni-consort-gana-certamen-coral-tolosa-2026/"
+   }
+  },
+  {
+   "id": "2026-11-03-b11",
+   "section": "cultura",
+   "tag": "Bertsolaritza",
+   "text": "Nerea Ibarzabal gana la semifinal de Eibar; la próxima será el 7 de noviembre en Gernika-Lumo.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/cultura/bertsolaritza/2026/10/31/nerea-ibarzabal-gana-la-semifinal-eibar/"
+   },
+   "comarca": "bu"
+  },
+  {
+   "id": "2026-11-03-b12",
+   "section": "cultura",
+   "tag": "Euskera",
+   "text": "Fallece el lingüista y euskaltzain emérito Patxi Goenaga, investigador de gramática y sintaxis y exviceconsejero de política lingüística.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/cultura/2026/10/30/fallece-el-linguista-academico-emerito-patxi-goenaga/"
+   }
+  },
+  {
+   "id": "2026-11-03-b13",
+   "section": "cultura",
+   "tag": "Libros",
+   "text": "La 61.ª Durangoko Azoka se celebrará del 4 al 8 de diciembre.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/cultura/2026/10/28/durangoko-azoka-2026-fechas-e-imagen-la-61-edicion/"
+   },
+   "comarca": "du"
+  },
+  {
+   "id": "2026-11-03-b14",
+   "section": "cultura",
+   "tag": "Premios",
+   "text": "La historiadora Lola Valverde recibirá el Premio Manuel Lekuona de Eusko Ikaskuntza.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/cultura/2026/10/27/la-historiadora-lola-valverde-recibira-el-premio-manuel-lekuona-eusko-ikaskuntza/"
+   }
+  },
+  {
+   "id": "2026-11-03-b15",
+   "section": "cultura",
+   "tag": "Artium",
+   "text": "El museo Artium celebrará su 25.º aniversario en 2027 con su colección como protagonista.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/cultura/arte/2026/10/26/artium-museoa-celebrara-su-25-aniversario-en-2027-su-coleccion-protagonista/"
+   }
+  },
+  {
+   "id": "2026-11-03-b16",
+   "section": "cultura",
+   "tag": "Concierto",
+   "text": "Arde Bogotá tocará en San Mamés el 12 de junio; las entradas generales salieron a la venta el 22 de octubre.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/cultura/musica/2026/10/16/arde-bogota-actuara-en-san-mames-el-12-junio/"
+   },
+   "comarca": "bi"
+  },
+  {
+   "id": "2026-11-03-b17",
+   "section": "euskadi",
+   "tag": "Bertsolaris",
+   "text": "Se han agotado todas las entradas de la final del Campeonato de Bertsolaris de Euskal Herria.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/cultura/bertsolaritza/2026/10/29/se-han-vendido-todas-las-entradas-la-final-del-campeonato-bertsolaris-euskal-herria/"
+   }
+  }
+ ]
+}
