@@ -1,4 +1,40 @@
 {
+ "elecciones-29n": {
+  "label": "Elecciones 29-N",
+  "last": "2026-11-07",
+  "first": "2026-10-08",
+  "count": 73
+ },
+ "gaza": {
+  "label": "Guerra de Gaza",
+  "last": "2026-11-07",
+  "first": "2026-10-08",
+  "count": 9
+ },
+ "francia-protestas": {
+  "label": "Protestas en Francia",
+  "last": "2026-11-07",
+  "first": "2026-10-20",
+  "count": 16
+ },
+ "ucrania": {
+  "label": "Guerra de Ucrania",
+  "last": "2026-11-07",
+  "first": "2026-10-08",
+  "count": 23
+ },
+ "guerra-iran": {
+  "label": "Guerra de Irán",
+  "last": "2026-11-07",
+  "first": "2026-10-09",
+  "count": 25
+ },
+ "italia-meloni": {
+  "label": "Meloni",
+  "last": "2026-11-07",
+  "first": "2026-10-08",
+  "count": 31
+ },
  "tribunales-psoe": {
   "label": "Casos judiciales del PSOE",
   "last": "2026-11-06",
@@ -10,30 +46,6 @@
   "last": "2026-11-06",
   "first": "2026-10-29",
   "count": 16
- },
- "elecciones-29n": {
-  "label": "Elecciones 29-N",
-  "last": "2026-11-06",
-  "first": "2026-10-08",
-  "count": 72
- },
- "guerra-iran": {
-  "label": "Guerra de Irán",
-  "last": "2026-11-06",
-  "first": "2026-10-09",
-  "count": 24
- },
- "ucrania": {
-  "label": "Guerra de Ucrania",
-  "last": "2026-11-06",
-  "first": "2026-10-08",
-  "count": 22
- },
- "francia-protestas": {
-  "label": "Protestas en Francia",
-  "last": "2026-11-06",
-  "first": "2026-10-20",
-  "count": 15
  },
  "vivienda": {
   "label": "Crisis de la vivienda",
@@ -52,12 +64,6 @@
   "last": "2026-11-06",
   "first": "2026-10-08",
   "count": 36
- },
- "italia-meloni": {
-  "label": "Gobierno Meloni",
-  "last": "2026-11-06",
-  "first": "2026-10-08",
-  "count": 30
  },
  "protestas-italia": {
   "label": "Protestas por la carestía en Italia",
@@ -100,12 +106,6 @@
   "last": "2026-10-31",
   "first": "2026-10-13",
   "count": 6
- },
- "gaza": {
-  "label": "Guerra de Gaza",
-  "last": "2026-10-30",
-  "first": "2026-10-08",
-  "count": 8
  },
  "marruecos-ceuta": {
   "label": "Entrada masiva en Ceuta",
