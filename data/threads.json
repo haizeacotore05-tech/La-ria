@@ -1,75 +1,87 @@
 {
+ "accidente-toledo": {
+  "label": "Accidente de Urda",
+  "last": "2026-11-08",
+  "first": "2026-10-29",
+  "count": 17
+ },
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-11-07",
+  "last": "2026-11-08",
   "first": "2026-10-08",
-  "count": 73
- },
- "gaza": {
-  "label": "Guerra de Gaza",
-  "last": "2026-11-07",
-  "first": "2026-10-08",
-  "count": 9
- },
- "francia-protestas": {
-  "label": "Protestas en Francia",
-  "last": "2026-11-07",
-  "first": "2026-10-20",
-  "count": 16
- },
- "ucrania": {
-  "label": "Guerra de Ucrania",
-  "last": "2026-11-07",
-  "first": "2026-10-08",
-  "count": 23
- },
- "guerra-iran": {
-  "label": "Guerra de Irán",
-  "last": "2026-11-07",
-  "first": "2026-10-09",
-  "count": 25
- },
- "italia-meloni": {
-  "label": "Meloni",
-  "last": "2026-11-07",
-  "first": "2026-10-08",
-  "count": 31
+  "count": 74
  },
  "tribunales-psoe": {
   "label": "Casos judiciales del PSOE",
-  "last": "2026-11-06",
+  "last": "2026-11-08",
   "first": "2026-10-08",
-  "count": 13
- },
- "accidente-toledo": {
-  "label": "Accidente de Urda",
-  "last": "2026-11-06",
-  "first": "2026-10-29",
-  "count": 16
+  "count": 14
  },
  "vivienda": {
   "label": "Crisis de la vivienda",
-  "last": "2026-11-06",
+  "last": "2026-11-08",
   "first": "2026-10-08",
-  "count": 62
+  "count": 64
+ },
+ "guerra-iran": {
+  "label": "Guerra de Irán",
+  "last": "2026-11-08",
+  "first": "2026-10-09",
+  "count": 26
+ },
+ "francia-protestas": {
+  "label": "Protestas en Francia",
+  "last": "2026-11-08",
+  "first": "2026-10-20",
+  "count": 17
+ },
+ "ucrania": {
+  "label": "Guerra de Ucrania",
+  "last": "2026-11-08",
+  "first": "2026-10-08",
+  "count": 24
+ },
+ "gaza": {
+  "label": "Guerra de Gaza",
+  "last": "2026-11-08",
+  "first": "2026-10-08",
+  "count": 10
  },
  "autogobierno": {
   "label": "Autogobierno vasco",
-  "last": "2026-11-06",
+  "last": "2026-11-08",
   "first": "2026-10-08",
-  "count": 12
+  "count": 13
+ },
+ "pnv-bizkaia": {
+  "label": "PNV de Bizkaia",
+  "last": "2026-11-08",
+  "first": "2026-10-10",
+  "count": 13
+ },
+ "metro-bilbao": {
+  "label": "Metro de Bilbao",
+  "last": "2026-11-08",
+  "first": "2026-10-08",
+  "count": 9
  },
  "athletic": {
   "label": "Athletic Club",
-  "last": "2026-11-06",
+  "last": "2026-11-08",
   "first": "2026-10-08",
-  "count": 36
+  "count": 37
+ },
+ "italia-meloni": {
+  "label": "Meloni",
+  "last": "2026-11-08",
+  "first": "2026-10-08",
+  "count": 32
  },
  "protestas-italia": {
   "label": "Protestas por la carestía en Italia",
-  "last": "2026-11-06",
+  "last": "2026-11-08",
   "first": "2026-10-29",
-  "count": 11
+  "count": 12
  },
  "sanidad": {
   "label": "Sanidad",
@@ -83,23 +95,11 @@
   "first": "2026-10-28",
   "count": 13
  },
- "metro-bilbao": {
-  "label": "Metro de Bilbao",
-  "last": "2026-11-01",
-  "first": "2026-10-08",
-  "count": 8
- },
  "dana": {
   "label": "DANA",
   "last": "2026-10-31",
   "first": "2026-10-20",
   "count": 8
- },
- "pnv-bizkaia": {
-  "label": "PNV de Bizkaia",
-  "last": "2026-10-31",
-  "first": "2026-10-10",
-  "count": 12
  },
  "tubos-reunidos": {
   "label": "Tubos Reunidos",
