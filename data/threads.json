@@ -1,21 +1,51 @@
 {
+ "vivienda": {
+  "label": "Crisis de la vivienda",
+  "last": "2026-11-10",
+  "first": "2026-10-08",
+  "count": 70
+ },
  "accidente-toledo": {
   "label": "Accidente de Urda",
-  "last": "2026-11-09",
+  "last": "2026-11-10",
   "first": "2026-10-29",
-  "count": 18
+  "count": 20
  },
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-11-09",
+  "last": "2026-11-10",
   "first": "2026-10-08",
-  "count": 76
+  "count": 78
  },
- "vivienda": {
-  "label": "Crisis de la vivienda",
-  "last": "2026-11-09",
+ "sanidad": {
+  "label": "Sanidad",
+  "last": "2026-11-10",
   "first": "2026-10-08",
-  "count": 66
+  "count": 19
+ },
+ "ucrania": {
+  "label": "Guerra de Ucrania",
+  "last": "2026-11-10",
+  "first": "2026-10-08",
+  "count": 26
+ },
+ "francia-protestas": {
+  "label": "Protestas en Francia",
+  "last": "2026-11-10",
+  "first": "2026-10-20",
+  "count": 19
+ },
+ "italia-meloni": {
+  "label": "Meloni y los presupuestos",
+  "last": "2026-11-10",
+  "first": "2026-10-08",
+  "count": 36
+ },
+ "protestas-italia": {
+  "label": "Protestas por la carestía en Italia",
+  "last": "2026-11-10",
+  "first": "2026-10-29",
+  "count": 13
  },
  "autogobierno": {
   "label": "Autogobierno vasco",
@@ -23,29 +53,11 @@
   "first": "2026-10-08",
   "count": 15
  },
- "francia-protestas": {
-  "label": "Protestas en Francia",
-  "last": "2026-11-09",
-  "first": "2026-10-20",
-  "count": 18
- },
- "ucrania": {
-  "label": "Guerra de Ucrania",
-  "last": "2026-11-09",
-  "first": "2026-10-08",
-  "count": 25
- },
  "athletic": {
   "label": "Athletic Club",
   "last": "2026-11-09",
   "first": "2026-10-08",
   "count": 38
- },
- "italia-meloni": {
-  "label": "Meloni y los presupuestos",
-  "last": "2026-11-09",
-  "first": "2026-10-08",
-  "count": 34
  },
  "tribunales-psoe": {
   "label": "Casos judiciales del PSOE",
@@ -76,18 +88,6 @@
   "last": "2026-11-08",
   "first": "2026-10-08",
   "count": 9
- },
- "protestas-italia": {
-  "label": "Protestas por la carestía en Italia",
-  "last": "2026-11-08",
-  "first": "2026-10-29",
-  "count": 12
- },
- "sanidad": {
-  "label": "Sanidad",
-  "last": "2026-11-04",
-  "first": "2026-10-08",
-  "count": 18
  },
  "disturbios-calle": {
   "label": "Tensión en la calle",
