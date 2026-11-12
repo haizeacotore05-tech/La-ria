@@ -1,21 +1,51 @@
 {
  "vivienda": {
   "label": "Crisis de la vivienda",
-  "last": "2026-11-11",
+  "last": "2026-11-12",
   "first": "2026-10-08",
-  "count": 75
+  "count": 79
+ },
+ "elecciones-29n": {
+  "label": "Elecciones 29-N",
+  "last": "2026-11-12",
+  "first": "2026-10-08",
+  "count": 80
+ },
+ "ucrania": {
+  "label": "Guerra de Ucrania",
+  "last": "2026-11-12",
+  "first": "2026-10-08",
+  "count": 28
+ },
+ "guerra-iran": {
+  "label": "Guerra con Irán",
+  "last": "2026-11-12",
+  "first": "2026-10-09",
+  "count": 27
+ },
+ "allarmi-bomba-scuole": {
+  "label": "Alarmas de bomba en escuelas",
+  "last": "2026-11-12",
+  "first": "2026-11-12",
+  "count": 1
+ },
+ "italia-nations-league": {
+  "label": "Italia en la Nations League",
+  "last": "2026-11-12",
+  "first": "2026-11-12",
+  "count": 1
+ },
+ "nvidia-huang": {
+  "label": "Nvidia y Jensen Huang",
+  "last": "2026-11-12",
+  "first": "2026-11-12",
+  "count": 1
  },
  "oviedo-explosion": {
   "label": "Policía muerto en Oviedo",
   "last": "2026-11-11",
   "first": "2026-11-11",
   "count": 1
- },
- "elecciones-29n": {
-  "label": "Elecciones 29-N",
-  "last": "2026-11-11",
-  "first": "2026-10-08",
-  "count": 79
  },
  "accidente-toledo": {
   "label": "Accidente de Urda",
@@ -28,12 +58,6 @@
   "last": "2026-11-11",
   "first": "2026-10-08",
   "count": 10
- },
- "ucrania": {
-  "label": "Guerra de Ucrania",
-  "last": "2026-11-11",
-  "first": "2026-10-08",
-  "count": 27
  },
  "gaza": {
   "label": "Guerra de Gaza",
@@ -82,12 +106,6 @@
   "last": "2026-11-08",
   "first": "2026-10-08",
   "count": 14
- },
- "guerra-iran": {
-  "label": "Guerra de Irán",
-  "last": "2026-11-08",
-  "first": "2026-10-09",
-  "count": 26
  },
  "pnv-bizkaia": {
   "label": "PNV de Bizkaia",

@@ -1,0 +1,2221 @@
+{
+ "date": "2026-11-12",
+ "number": 35,
+ "generatedAt": "2026-11-12T10:00:00+01:00",
+ "summary": "Arranca la campaña del 29-N con el Congreso votando los decretos de vivienda tras la huelga del 11-N, mientras Nvidia se hunde fuera de horario y Kushner y Witkoff viajan a Moscú.",
+ "essentials": [
+  {
+   "story": "2026-11-12-huelga-general-balance",
+   "text": "La huelga del 11-N dejó 52 detenidos y cifras opuestas: éxito para los sindicatos, menos del 5 % según la CEOE; en Bilbao marcharon unas 50.000 personas."
+  },
+  {
+   "story": "2026-11-12-campana-decretos-vivienda",
+   "text": "Empieza la campaña del 29-N y el Congreso vota hoy a las 09:00 los decretos de vivienda; Sánchez abre en Sevilla y Feijóo en Badalona."
+  },
+  {
+   "story": "2026-11-12-huelga-euskadi-balance",
+   "text": "En Euskadi, 14 detenidos, paro del 60 % en colegios y 14,82 % en Osakidetza; el PNV discrepa y EH Bildu pide apoyar los decretos."
+  },
+  {
+   "story": "2026-11-12-ucrania-abu-dabi-moscu",
+   "text": "Abu Dabi cierra con un canje de prisioneros pactado en principio, sin avances en territorio; Kushner y Witkoff ven hoy a Putin en Moscú."
+  },
+  {
+   "story": "2026-11-12-iran-amenaza-bases-europa",
+   "text": "Irán amenaza con atacar bases de EE. UU. en Europa si se usan contra él; el Brent sube a unos 94 dólares."
+  },
+  {
+   "story": "2026-11-12-nvidia-huang-consejo",
+   "text": "Nvidia cae cerca de un 8 % fuera de horario por la posible destitución de Jensen Huang; resultados el martes 17. Importa por tus inversiones."
+  },
+  {
+   "story": "2026-11-12-it-allarmi-bomba-scuole",
+   "text": "En Italia, una falsa alarma de bomba afectó a unas 6.000 escuelas y Meloni recibe hoy a la oposición."
+  },
+  {
+   "story": "2026-11-12-tiempo-bilbao",
+   "text": "Hoy llueve por la mañana en Bilbao (13-19 grados); el viernes refresca. Hoy paran los maquinistas de Renfe."
+  }
+ ],
+ "weather": {
+  "place": "Bilbao",
+  "days": [
+   {
+    "date": "2026-11-12",
+    "sky": "rain",
+    "text": "Lluvia por la mañana",
+    "max": 19,
+    "min": 13,
+    "rain": 100
+   },
+   {
+    "date": "2026-11-13",
+    "sky": "cloud",
+    "text": "Nublado, posible lluvia",
+    "max": 15,
+    "min": 11,
+    "rain": 45
+   }
+  ],
+  "source": {
+   "name": "Bilbao Hiria (Aemet)",
+   "url": "https://bilbaohiria.com/bilbao/tiempo-bilbao-hoy-miercoles-11-noviembre-2026"
+  }
+ },
+ "markets": {
+  "asOf": "Cierre del miércoles 11 de noviembre",
+  "items": [
+   {
+    "name": "MSCI World",
+    "value": "precio sin confirmar",
+    "change": null,
+    "mine": true,
+    "note": "No se encontró el nivel con fecha comprobada; las bolsas de EE. UU. y Europa cerraron al alza el 11 de noviembre."
+   },
+   {
+    "name": "S&P 500",
+    "value": "7.619,38",
+    "change": 1.31,
+    "mine": true
+   },
+   {
+    "name": "Nvidia",
+    "value": "173,73 $",
+    "change": 2.87,
+    "mine": true,
+    "note": "Tras el cierre cayó cerca de un 8 % (≈160,28 $) por la incertidumbre sobre Jensen Huang."
+   },
+   {
+    "name": "Nasdaq Composite",
+    "value": "precio sin confirmar",
+    "change": 1.6,
+    "mine": true
+   },
+   {
+    "name": "Dow Jones",
+    "value": "52.486,49",
+    "change": 0.48,
+    "mine": true
+   },
+   {
+    "name": "Ibex 35",
+    "value": "20.027,90",
+    "change": 0.46
+   },
+   {
+    "name": "Iberdrola",
+    "value": "precio sin confirmar",
+    "change": 0.91
+   },
+   {
+    "name": "BBVA",
+    "value": "precio sin confirmar",
+    "change": -0.08
+   },
+   {
+    "name": "Santander",
+    "value": "precio sin confirmar",
+    "change": 0.34
+   },
+   {
+    "name": "Repsol",
+    "value": "precio sin confirmar",
+    "change": 3.03
+   },
+   {
+    "name": "Sabadell",
+    "value": "precio sin confirmar",
+    "change": null
+   },
+   {
+    "name": "Inditex",
+    "value": "precio sin confirmar",
+    "change": -0.1
+   },
+   {
+    "name": "Euro/dólar",
+    "value": "1,1164",
+    "change": null,
+    "note": "Calculado a partir de 0,8957 euros por dólar (Infobae, 11 nov)."
+   },
+   {
+    "name": "Brent",
+    "value": "94,00 $",
+    "change": 2.74,
+    "note": "Cifra aproximada."
+   }
+  ],
+  "comment": "El 11 de noviembre Wall Street subió con fuerza, con el S&P 500 un 1,31 % y el Nasdaq un 1,60 % más, liderados por la tecnología, y Nvidia ganó un 2,87 %; no se localizó el dato del MSCI World. Ya fuera de horario, Nvidia se desplomó cerca de un 8 % tras informar el Wall Street Journal de que su consejo debate una posible salida del consejero delegado, Jensen Huang.",
+  "sources": [
+   {
+    "name": "Investing.com: cierre de Wall Street",
+    "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-048-5019892"
+   },
+   {
+    "name": "Infobae: acciones de Nvidia",
+    "url": "https://www.infobae.com/america/agencias/2026/11/12/las-acciones-de-nvidia-se-desploman-casi-un-8-ante-la-incertidumbre-sobre-jensen-huang/"
+   },
+   {
+    "name": "Infobae: cierre de la Bolsa española",
+    "url": "https://www.infobae.com/espana/agencias/2026/11/11/la-bolsa-sube-un-046-y-recupera-los-20000-puntos-pese-al-repunte-del-precio-del-crudo/"
+   },
+   {
+    "name": "Infobae: euro frente al dólar",
+    "url": "https://www.infobae.com/espana/2026/11/11/como-esta-el-euro-frente-al-dolar-este-11-de-noviembre/"
+   }
+  ]
+ },
+ "alerts": [
+  {
+   "kind": "tiempo",
+   "title": "Lluvia en Bilbao esta mañana",
+   "text": "Lluvia segura por la mañana y 50 % por la tarde; 13-19 °C. Sin avisos meteorológicos para Bizkaia.",
+   "when": "Hoy",
+   "source": {
+    "name": "Bilbao Hiria (Aemet)",
+    "url": "https://bilbaohiria.com/bilbao/tiempo-bilbao-hoy-miercoles-11-noviembre-2026"
+   }
+  },
+  {
+   "kind": "transporte",
+   "title": "Paros de maquinistas de Renfe",
+   "text": "Semaf para el jueves 12 y el 17 se extiende a todo el ferrocarril. Hay servicios mínimos.",
+   "when": "12 y 17 nov",
+   "source": {
+    "name": "eldiario.es (iLeón)",
+    "url": "https://ileon.eldiario.es/actualidad/semaf-convoca-nueva-huelga-maquinistas-renfe-10-12-noviembre_1_13627619.html"
+   }
+  },
+  {
+   "kind": "obras",
+   "title": "Corte de tráfico en Matiko un mes",
+   "text": "Bilbao corta durante un mes el tráfico en Matiko por la recta final de las obras de la calle Tíboli. Consulta desvíos en el Ayuntamiento.",
+   "when": "Próximas semanas",
+   "source": {
+    "name": "Deia",
+    "url": "https://www.deia.eus/bizkaia/2026/11/03/bilbao-cortara-durante-mes-trafico-11717661.html"
+   }
+  },
+  {
+   "kind": "obras",
+   "title": "Cierre del túnel de Artxanda desde las 20:00",
+   "text": "Cinco meses de cierre (hasta abril de 2027). Pico mañana 7:30-9:30. Bizkaibus al aeropuerto sale solo de Termibus; cambios en A3414 y otras.",
+   "when": "Hasta el 2 abr 2027",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bilbao/cierre-tunel-artxanda-obras-cinco-meses-desvios-bilbao"
+   }
+  }
+ ],
+ "agenda": [
+  {
+   "date": "2026-11-12",
+   "until": "2026-11-21",
+   "time": "10:00-14:00 y 16:00-19:00",
+   "kind": "plan",
+   "title": "Puente Bizkaia: pasarela superior",
+   "place": "Puente Colgante, Portugalete-Getxo",
+   "text": "Subir a la pasarela del puente colgante, Patrimonio Mundial, y cruzar la ría; horario de invierno y ascensor con aforo limitado.",
+   "price": "11 € ida y vuelta; estudiantes 9 €",
+   "couple": true,
+   "source": {
+    "name": "Puente Colgante",
+    "url": "https://puente-colgante.com/en/?p=72758"
+   }
+  },
+  {
+   "date": "2026-11-12",
+   "until": "2027-02-21",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "Steve McQueen: 66–76–26",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Gran exposición del artista y cineasta Steve McQueen; plan seguro para un día de lluvia.",
+   "price": "12 €; estudiantes de 18 a 26 años: 6 €",
+   "couple": true,
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://pro.guggenheim-bilbao.eus/fr/expositions"
+   }
+  },
+  {
+   "date": "2026-11-12",
+   "until": "2027-01-17",
+   "time": "10:00-19:00",
+   "kind": "exposicion",
+   "title": "Ever is Over All. Pipilotti Rist",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Instalaciones de vídeo muy coloridas de Pipilotti Rist, abiertas desde el 1 de octubre, para pasar una tarde bajo techo.",
+   "price": "12 €; estudiantes de 18 a 26 años: 6 €",
+   "couple": true,
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://pro.guggenheim-bilbao.eus/fr/expositions"
+   }
+  },
+  {
+   "date": "2026-11-12",
+   "until": "2027-04-04",
+   "time": "10:00-20:00 (cierra los lunes)",
+   "kind": "exposicion",
+   "title": "Dan Flavin: Algo de luz",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Se inaugura la muestra del artista de las instalaciones de luz fluorescente, que transforman el espacio del museo.",
+   "price": "12 €; estudiantes de 18 a 26 años: 6 €",
+   "couple": true,
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/12/exposicion-guggenheim-dan-flavin-/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-12",
+   "time": "18:00",
+   "kind": "cine",
+   "title": "Thinking Football Film Festival: «Tony Cascarino: Extra Time»",
+   "place": "Sala BBK, Bilbao",
+   "text": "Documental de 50 minutos sobre el delantero irlandés Tony Cascarino, de aprendiz de peluquero a ídolo en Francia.",
+   "price": "Gratis",
+   "source": {
+    "name": "Sala BBK",
+    "url": "https://salabbk.bbk.eus/eventos/tony-cascarino-extra-time/"
+   }
+  },
+  {
+   "date": "2026-11-12",
+   "until": "2026-11-15",
+   "time": "18:00-20:00 (sábados y festivos también 12:00-14:00)",
+   "kind": "exposicion",
+   "title": "«De ayer a hoy», de Isabel M. Peralta",
+   "place": "Sala Ezkurdi, Durango",
+   "text": "Exposición de pintura en la sala municipal de Durango, a media hora de Bilbao; entrada libre.",
+   "price": "Gratis",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/06/exposicion-de-isabel-m-peralta/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-12",
+   "time": "20:00",
+   "kind": "concierto",
+   "title": "Kutte + 360 Pieces",
+   "place": "Sala BBK, Bilbao",
+   "text": "Doble propuesta musical en la Sala BBK de la Gran Vía; para Kutte se necesita invitación.",
+   "price": "Gratis (invitación para Kutte)",
+   "source": {
+    "name": "Sala BBK",
+    "url": "https://salabbk.bbk.eus/eventos/kutte-360-pieces/"
+   }
+  },
+  {
+   "date": "2026-11-12",
+   "time": "21:30",
+   "kind": "concierto",
+   "title": "Chiquita Movida",
+   "place": "Sala Kafe Antzokia, Bilbao",
+   "text": "Directo festivo de la banda en el Kafe Antzokia, sala emblemática del Casco Viejo.",
+   "price": "Desde 20 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/chiquita-movida-bilbao-1016280"
+   }
+  },
+  {
+   "date": "2026-11-12",
+   "until": "2026-11-19",
+   "time": "Lunes y jueves: 17:00, 19:00 o 19:30",
+   "kind": "cine",
+   "title": "Zinemateka: Cineastas de la Transición (1976-1984)",
+   "place": "AZ Azkuna Zentroa, Bilbao",
+   "text": "Ciclo de cine español de la Transición, con títulos como Cría cuervos o películas de Almodóvar, en sesiones de lunes y jueves.",
+   "price": "5 €",
+   "couple": true,
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/02/zinemateka-azkuna-zentroa-fritz-lang-en-america-/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-13",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "Compagnia Finzi Pasca: Titizé, a Venetian Dream",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Circo-teatro poético y acrobático del equipo de Finzi Pasca sobre un sueño veneciano; función de 90 minutos, también con sesiones de mañana.",
+   "price": "22-40 €",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/compagnia-finzi-pasca-titize-a-venetian-dream/?lang=en"
+   }
+  },
+  {
+   "date": "2026-11-13",
+   "time": "20:00",
+   "kind": "cine",
+   "title": "Thinking Football Film Festival: «El Partido»",
+   "place": "Sala BBK, Bilbao",
+   "text": "Documental sobre el cuarto de final Argentina-Inglaterra del Mundial 1986, con archivo inédito y testimonios de ambos equipos.",
+   "price": "Gratis (invitación obligatoria)",
+   "couple": true,
+   "source": {
+    "name": "Sala BBK",
+    "url": "https://salabbk.bbk.eus/eventos/el-partido/"
+   }
+  },
+  {
+   "date": "2026-11-13",
+   "time": "20:30",
+   "kind": "concierto",
+   "title": "Triángulo de Amor Bizarro",
+   "place": "Sala Stage Live, Bilbao",
+   "text": "Rock ruidoso y de culto del indie español en una sala junto a la ría.",
+   "price": "Desde 20 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/triangulo-de-amor-bizarro-bilbao-1015892"
+   }
+  },
+  {
+   "date": "2026-11-13",
+   "time": "21:00",
+   "kind": "concierto",
+   "title": "Bryan Adams",
+   "place": "Bizkaia Arena - BEC, Barakaldo",
+   "text": "El canadiense Bryan Adams en directo en Barakaldo, con sus grandes éxitos del rock melódico.",
+   "price": "Desde 54 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/bryan-adams-barakaldo-1015278"
+   }
+  },
+  {
+   "date": "2026-11-13",
+   "time": "21:30",
+   "kind": "teatro",
+   "title": "Facu Díaz: Buenas noches in the night",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Monólogo de humor político del cómico madrileño, entre la sátira y el espectáculo nocturno.",
+   "price": "27 €",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/13/entradas-facu-diaz-buenas-noches-in-the-night-13-de-noviembre-bilbao-/webkklik00-detalle/es/"
+   }
+  },
+  {
+   "date": "2026-11-13",
+   "time": "21:45",
+   "kind": "concierto",
+   "title": "Frijo",
+   "place": "Estudios Sodamusic, Bilbao",
+   "text": "El rapero y trapero argentino presenta su tercer álbum, «Detroit11», con sus últimos singles.",
+   "price": "Desde 11 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/frijo-bilbao-1018076"
+   }
+  },
+  {
+   "date": "2026-11-14",
+   "time": "11:00",
+   "kind": "fiesta",
+   "title": "Irrintzi Eguna de Orozko",
+   "place": "Orozko",
+   "text": "Jornada dedicada al irrintzi, el grito tradicional vasco, organizada por Iaiaiai irrintzi taldea; ideal para enseñar la cultura vasca a alguien de fuera.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/14/irrintzi-eguna-2026-de-orozko/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-14",
+   "time": "18:00",
+   "kind": "concierto",
+   "title": "Metal United Fest 2026",
+   "place": "D8 Sorkuntza Faktoria, Bilbao",
+   "text": "Festival de metal con Azrael, BudaSam, Mandragora Negra y Mala Decisión en Basurtu-Zorrotza.",
+   "price": "18 € anticipada; 22 € en taquilla",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/14/metal-united-fest-2026/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-14",
+   "time": "18:00",
+   "kind": "cine",
+   "title": "Thinking Football Film Festival: «Shooting for Socrates»",
+   "place": "Sala BBK, Bilbao",
+   "text": "Película británica ambientada en Belfast en 1985: un niño vive el Mundial de 1986 a través del fútbol y su padre.",
+   "price": "Gratis (invitación obligatoria)",
+   "source": {
+    "name": "Sala BBK",
+    "url": "https://salabbk.bbk.eus/eventos/shooting-for-socrates/"
+   }
+  },
+  {
+   "date": "2026-11-14",
+   "time": "19:00",
+   "kind": "teatro",
+   "title": "Compagnia Finzi Pasca: Titizé, a Venetian Dream (sábado)",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Segunda función del fin de semana de este espectáculo poético y acrobático inspirado en Venecia; hay también sesión a las 12:00.",
+   "price": "22-40 €",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/compagnia-finzi-pasca-titize-a-venetian-dream/?lang=en"
+   }
+  },
+  {
+   "date": "2026-11-14",
+   "time": "19:45",
+   "kind": "concierto",
+   "title": "Blow Up Fest 2026",
+   "place": "Santana 27 (Fever), Bilbao",
+   "text": "Festival de rock y sonidos alternativos en Bolueta con varias bandas en una sola noche.",
+   "price": "25 € / 30 €",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/14/blow-up-fest-2026-santana-27-bilbao-/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-14",
+   "time": "20:00",
+   "kind": "teatro",
+   "title": "Jorge Santos: Todos locos, un monólogo sobre salud mental",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Monólogo de humor que trata la salud mental con cercanía y sin tabúes.",
+   "price": "18 €",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/14/jorge-santos-todos-locos-un-monologo-sobre-salud-mental-/webkklik00-detalle/es/"
+   }
+  },
+  {
+   "date": "2026-11-14",
+   "time": "20:00",
+   "kind": "cine",
+   "title": "Thinking Football Film Festival: clausura con «Pioneras»",
+   "place": "Sala BBK, Bilbao",
+   "text": "Cierre del festival con un documental sobre pioneras del fútbol, tras la sesión de las 18:00 de «Shooting for Socrates».",
+   "price": "Gratis (reserva digital obligatoria)",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/09/programa-thinking-football-film-festival-2026/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-14",
+   "time": "20:00",
+   "kind": "concierto",
+   "title": "Anabel Lee",
+   "place": "Sala Azkena, Bilbao",
+   "text": "Punk pop catalán que presenta su tercer disco, «Todas las vidas», publicado en septiembre.",
+   "price": "Desde 17,61 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/anabel-lee-bilbao-1017431"
+   }
+  },
+  {
+   "date": "2026-11-14",
+   "time": "21:00",
+   "kind": "concierto",
+   "title": "Jpfernandez: Sombras y Destellos Tour",
+   "place": "Sala Fever Blue, Bilbao",
+   "text": "Flamenco fusionado con música urbana y trap; ideal para enseñar a tu pareja un sonido muy español.",
+   "price": "Desde 22 €",
+   "couple": true,
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/jpfernandez-bilbao-1013928"
+   }
+  },
+  {
+   "date": "2026-11-15",
+   "time": "12:00",
+   "kind": "teatro",
+   "title": "Compagnia Finzi Pasca: Titizé, a Venetian Dream (domingo mañana)",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Último fin de semana del espectáculo de circo-teatro poético de Finzi Pasca inspirado en Venecia; función matinal.",
+   "price": "22-40 €",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/compagnia-finzi-pasca-titize-a-venetian-dream/?lang=en"
+   }
+  },
+  {
+   "date": "2026-11-15",
+   "time": "19:00",
+   "kind": "concierto",
+   "title": "XI Concierto Benéfico BAE",
+   "place": "Sala BBK, Bilbao",
+   "text": "Concierto benéfico anual en la Sala BBK de la Gran Vía.",
+   "price": "6 €",
+   "source": {
+    "name": "Sala BBK",
+    "url": "https://salabbk.bbk.eus/eventos/xi-concierto-benefico-bae/"
+   }
+  },
+  {
+   "date": "2026-11-15",
+   "time": "19:00",
+   "kind": "teatro",
+   "title": "Compagnia Finzi Pasca: Titizé, a Venetian Dream (domingo)",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Última función de Titizé en el Arriaga, un sueño veneciano de circo, música y poesía visual.",
+   "price": "22-40 €",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/compagnia-finzi-pasca-titize-a-venetian-dream/?lang=en"
+   }
+  },
+  {
+   "date": "2026-11-17",
+   "time": "19:30",
+   "kind": "concierto",
+   "title": "Luken Munguira y Aurelio Viribay: Lied",
+   "place": "Teatro Arriaga (Espacio Foyer), Bilbao",
+   "text": "Recital de canción de cámara con lied vasco y obras de compositores británicos en el foyer del Arriaga.",
+   "price": "18 €",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/luken-munguira-y-aurelio-viribay/?lang=en"
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "Igogailua (El ascensor), función en euskera",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Teatro sobre qué pasa cuando la vida da un vuelco de la noche a la mañana; estreno en castellano el día 19.",
+   "price": "18 €; cupo joven: 5 €",
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/igogailua-el-ascensor/?lang=en"
+   }
+  },
+  {
+   "date": "2026-11-19",
+   "until": "2027-04-11",
+   "time": "10:00-19:00 (martes a domingo)",
+   "kind": "exposicion",
+   "title": "Zadie Xa: serie in situ",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Nueva intervención de la artista Zadie Xa que se abre en el Guggenheim esta semana, junto a Flavin, McQueen y Pipilotti Rist.",
+   "price": "12 €; estudiantes de 18 a 26 años: 6 €",
+   "couple": true,
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bilbao/planes-bilbao-fin-de-semana-guggenheim-igshaan-adams-2"
+   }
+  },
+  {
+   "date": "2026-11-19",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "Igogailua (El ascensor), estreno en castellano",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Estreno en castellano de la obra Igogailua, en el espacio de escena abierta del Arriaga.",
+   "price": "18 €; cupo joven: 5 €",
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/igogailua-el-ascensor/?lang=en"
+   }
+  },
+  {
+   "date": "2026-11-19",
+   "time": "20:30",
+   "kind": "concierto",
+   "title": "Besmaya",
+   "place": "Sala Stage Live, Bilbao",
+   "text": "Indie pop en la sala de Uribitarte.",
+   "price": "Desde 19,99 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/besmaya-bilbao-1016215"
+   }
+  },
+  {
+   "date": "2026-11-19",
+   "time": "21:30",
+   "kind": "concierto",
+   "title": "Niña Polaca (segunda fecha)",
+   "place": "Sala Kafe Antzokia, Bilbao",
+   "text": "Punk pop en el Kafe Antzokia; la web indica que las entradas de Bilbao se han agotado.",
+   "price": "Desde 24,20 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/nina-polaca-segunda-fecha-bilbao-bilbao-1017286"
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "time": "20:00",
+   "kind": "concierto",
+   "title": "Danny Bryant",
+   "place": "Sala BBK, Bilbao",
+   "text": "El guitarrista de blues-rock británico presenta su álbum «Nothing Left Behind».",
+   "price": "20 €",
+   "source": {
+    "name": "Sala BBK",
+    "url": "https://salabbk.bbk.eus/eventos/danny-bryant/"
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "time": "22:00",
+   "kind": "concierto",
+   "title": "Niña Polaca",
+   "place": "Sala Kafe Antzokia, Bilbao",
+   "text": "Punk pop en el Kafe Antzokia; la web indica que las entradas de Bilbao se han agotado.",
+   "price": "Desde 24,20 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/nina-polaca-bilbao-1016251"
+   }
+  }
+ ],
+ "jobs": [
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "Cuerpo de Auxilio Judicial (OEP 2026) · País Vasco",
+   "org": "Ministerio de Justicia",
+   "text": "OEP 2026 (RD 387/2026): 335 plazas. Convocatoria sin publicar a 12-11-2026 (esperada dic 2026-feb 2027); sin novedades en el BOE.",
+   "requirements": [
+    "ESO, Graduado Escolar o equivalente (grupo C2)",
+    "Nacionalidad española y 18 años cumplidos (según la web del Ministerio)",
+    "Dos tests: 100 preguntas de temario y 50 de caso práctico",
+    "Plazas del País Vasco, tasa y temario nuevos: pendientes de la convocatoria",
+    "Inscripción: 20 días hábiles tras publicarse en el BOE"
+   ],
+   "how": "Vigila el BOE, mjusticia.gob.es y justizia.eus; inscripción telemática cuando salga la convocatoria. Consulta notas de la convocatoria 2025 como referencia.",
+   "source": {
+    "name": "Ministerio de Justicia · Auxilio Judicial",
+    "url": "https://www.mjusticia.gob.es/es/ciudadania/empleo-publico/acceso-convocatorias-perfiles/auxilio-judicial"
+   }
+  },
+  {
+   "kind": "bolsa",
+   "title": "Bolsa de interinos · Auxilio Judicial (Euskadi)",
+   "org": "Gobierno Vasco · Administración de Justicia",
+   "text": "Bolsa de funcionarios interinos de Auxilio Judicial que se abre periódicamente; la última apertura localizada es de octubre de 2024. No consta plazo abierto ahora.",
+   "requirements": [
+    "ESO o equivalente",
+    "Nacionalidad española y mayoría de edad",
+    "Euskera: la web no lo menciona; confirmar en las bases",
+    "Fechas de apertura: confirmar en las bases"
+   ],
+   "how": "Vigila justizia.eus (buscador de convocatorias) o llama al 945 019 132 / infoadmjustizia@euskadi.eus; hay oficina en Bilbao.",
+   "source": {
+    "name": "Justizia.eus · Bolsa de trabajo",
+    "url": "https://www.justizia.eus/bolsa-de-trabajo/webjus00-contentgen/es/"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "en-curso",
+   "title": "Personal de Apoyo · Gobierno Vasco",
+   "org": "Gobierno Vasco (Administración General)",
+   "text": "117 plazas turno libre (112 generales, 5 discapacidad), concurso-oposición, sin titulación exigida. Recepción, correspondencia, almacén. Plazo cerrado el 16-09; primera prueba prevista en enero de 2027.",
+   "requirements": [
+    "No se exige titulación; la ESO suma 7,20 puntos de mérito",
+    "Euskera: 107 plazas generales exigen PL1; 5 sin perfil",
+    "Tasa 8,18 €",
+    "Oposición (30 temas, hasta 100 puntos) más concurso (hasta 45)"
+   ],
+   "how": "Plazo cerrado el 16-09-2026. Vigila listas de admitidas y fecha de examen en la sede de empleo público de euskadi.eus.",
+   "source": {
+    "name": "BOPV · Orden de 30-07-2026, Agrupación Profesional de Personal de Apoyo",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/08/2603653a.shtml"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "en-curso",
+   "title": "Auxiliar de Biblioteca · Diputación Foral de Bizkaia",
+   "org": "Diputación Foral de Bizkaia",
+   "text": "Bases en el BOB del 12-06-2026 (corrección el 10-07). Plazo cerrado el 13-08-2026 para auxiliar de biblioteca: 4 plazas (3 libres, 1 discapacidad). Faltan listas y examen; la OPE 2026 suma 69 plazas.",
+   "requirements": [
+    "ESO, Graduado Escolar, FP1 o equivalente",
+    "Euskera: B2; preceptivo en 1 plaza libre, no preceptivo en las otras 2",
+    "Plazo cerrado: vigila listas de admitidas y fecha de examen",
+    "Nacionalidad y tasa: confirmar en las bases"
+   ],
+   "how": "Plazo cerrado. Sigue listas y exámenes en la web de empleo público de la Diputación y en Bizkaia Gazteak; contacto Oep-epe@bizkaia.eus.",
+   "source": {
+    "name": "Bizkaia Gazteak · Dipu Auxiliar de Biblioteca",
+    "url": "https://gazteak.bizkaia.eus/es/-/dipu-liburutegiko-laguntzaile"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "en-curso",
+   "title": "Celador/a y Operario/a de servicios · Osakidetza",
+   "org": "Osakidetza",
+   "text": "OPE de subalternos (Resolución 468/2026): plazo cerrado el 22-04-2026; examen en junio. Faltan plantilla definitiva y resultados. La 2.ª fase de la OPE (exámenes 6-27 nov) no incluye celador ni operario.",
+   "requirements": [
+    "Certificación de años cursados: ESO o equivalente",
+    "Euskera no obligatorio para celador/a; puntúa como mérito en el concurso",
+    "7 % de destinos reservado a discapacidad",
+    "Resolución 468/2026, BOPV nº 54 (20-03-2026)"
+   ],
+   "how": "Plazo cerrado. Sigue plantillas, notas y la fase de concurso en la web de la OPE de Osakidetza.",
+   "source": {
+    "name": "BOPV · Resolución 468/2026 de Osakidetza (subalternos)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/03/2601239a.shtml"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "Subalterno/a (Grupo E) · UPV/EHU",
+   "org": "UPV/EHU",
+   "text": "10 plazas de funcionariado de carrera, Escala Subalterna, concurso-oposición: 9 de acceso libre (6 con PL2, 3 con PL1) y 1 para discapacidad. Bases en el BOPV nº 144 (30-07-2026).",
+   "requirements": [
+    "Certificado de Escolaridad",
+    "Perfil lingüístico: PL2 (6 plazas) o PL1 (3 plazas), preceptivo",
+    "Tasa de 20,68 €",
+    "Plazo de solicitud y fecha de examen: confirmar en las bases generales"
+   ],
+   "how": "Consulta el plazo en las bases generales (base 5.1) y en la web de la UPV/EHU antes de inscribirte.",
+   "source": {
+    "name": "BOPV nº 144 · Resolución del rector de 15-07-2026 (Grupo E)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/07/2603395a.pdf"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "Auxiliar Administrativo del Estado (OEP 2026)",
+   "org": "Administración General del Estado (Función Pública / INAP)",
+   "text": "La convocatoria anterior (1.700 plazas, examen 23-05-2026) está resuelta. La OEP 2026 (RD 387/2026) refuerza el cuerpo, pero su convocatoria aún no consta en el BOE a 1-11-2026.",
+   "requirements": [
+    "ESO, Graduado Escolar, FP1 o equivalente (grupo C2, como en la convocatoria anterior)",
+    "Nacionalidad y edad: según el EBEP; confirmar en las bases",
+    "Tasa de la anterior: 11,66 € (turno libre); la nueva, pendiente",
+    "Plazas, plazo y fechas: pendientes de la convocatoria"
+   ],
+   "how": "Cuando se publique en el BOE, inscripción telemática en el plazo que fije la convocatoria; vigila el BOE.",
+   "source": {
+    "name": "INAP · Oferta de empleo público 2026",
+    "url": "https://laadministracionaldia.inap.es/noticia.asp?id=1265646"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "Auxiliar administrativo/a de servicios generales · Trapagaran",
+   "org": "Ayuntamiento de Trapagaran",
+   "text": "1 plaza C2, concurso-oposición. Bases en el BOB del 20-07-2026; a 10-11 no localizo anuncio en BOE, así que el plazo de instancias no consta abierto.",
+   "requirements": [
+    "Grupo C2: titulación exacta, confirmar en las bases",
+    "Perfil lingüístico PL2P: euskera preceptivo (requisito imprescindible)",
+    "Plazo: 20 días hábiles tras el anuncio en BOE (confirmar en las bases)",
+    "Tasa y nacionalidad: confirmar en las bases"
+   ],
+   "how": "Vigila el BOE y la web municipal de empleo público; inscripción según las bases.",
+   "source": {
+    "name": "BOB 20-07-2026 · Bases Trapagaran",
+    "url": "https://www.bizkaia.eus/lehendakaritza/Bao_bob/2026/07/20/II-3930_cas.pdf"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "abierta",
+   "title": "Gaztelagun 2026 · ayuda al alquiler joven",
+   "org": "Gobierno Vasco · Alokabide",
+   "text": "Pago mensual de parte del alquiler de vivienda libre a jóvenes de 18 a 35 años (cumples). Cubre habitaciones y subarriendo. Orden urgente mantiene pagos en 2026; borrador para hacerla permanente en 2027.",
+   "amount": "Hasta el 60 % de la renta, máx. 300 €/mes",
+   "requirements": [
+    "18 a 35 años (se extingue al cumplir 36)",
+    "6 meses de residencia efectiva e ininterrumpida en Euskadi",
+    "Ingresos brutos individuales entre 3.000 y 30.000 € al año",
+    "Contrato de alquiler de vivienda libre como domicilio habitual, sin parentesco hasta 3.er grado con el arrendador",
+    "Renta inicial máxima 900 € en Bilbao, pagada por transferencia",
+    "Incompatible con VPP en alquiler, RGI, IMV y PCV"
+   ],
+   "deadline": "2026-12-31",
+   "how": "Sede electrónica de Euskadi (Mi carpeta) o con cita en Zuzenean o Alokabide; adjunta contrato y justificantes de pago.",
+   "source": {
+    "name": "BOPV · Orden de 5-06-2026 (Gaztelagun)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/06/2602608a.shtml"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "proxima",
+   "title": "Reforma de Etxebide · vivienda protegida",
+   "org": "Gobierno Vasco · Vivienda",
+   "text": "Proyecto de decreto en tramitación: reservaría el 30 % de cada promoción a rentas medias y daría más peso a la antigüedad en el registro. Aún no aprobado.",
+   "amount": "Sin importe: cambia el acceso a vivienda protegida",
+   "requirements": [
+    "Apartamentos dotacionales para jóvenes: menos de 36 años (cumples)",
+    "Ingresos mínimos equivalentes al SMI",
+    "Cupo del 30 %: ingresos de 20.000 a 46.000 € por unidad convivencial",
+    "Inscripción previa en Etxebide",
+    "Norma aún no aprobada: confirmar en el texto final"
+   ],
+   "how": "Inscríbete o actualiza tu solicitud en Etxebide; los cambios se aplicarán cuando se apruebe el decreto.",
+   "source": {
+    "name": "Gobierno Vasco · Reforma de Etxebide (9-07-2026)",
+    "url": "https://www.euskadi.eus/gobierno-vasco/-/noticia/2026/el-gobierno-vasco-inicia-tramitacion-que-reformara-etxebide-y-criterios-adjudicacion-vivienda-protegida-publica-alquiler/"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "title": "Subvención HABE para estudiar euskera",
+   "org": "Gobierno Vasco · HABE",
+   "text": "Ayuda fija por nivel superado en euskaltegi homologado (curso 2025-2026; segundo turno se resuelve antes del 14-12-2026). Útil para el perfil lingüístico de las oposiciones. Edad: sin límite, cumples.",
+   "amount": "A1 600 €, A2 800 €, B1 900 €, B2 1.000 €, C1 700 € (nacidos desde 1996), C2 100 € (máx. matrícula pagada)",
+   "requirements": [
+    "Matrícula entre 01-06-2025 y 30-09-2026 en euskaltegi homologado",
+    "Haber superado el nivel o acreditarlo",
+    "No estar escolarizada con financiación pública",
+    "Cada nivel se subvenciona una sola vez",
+    "Plazo de solicitud: confirmar en las bases"
+   ],
+   "how": "Formulario online en euskadi.eus con identificación electrónica, o presencial con cita en HABE Bilbao. Dudas: ikasle-laguntzak@habe.eus, 943 022600.",
+   "source": {
+    "name": "Euskadi.eus · Subvenciones 2026 para estudiantes de euskera",
+    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/subvenciones-de-2026-para-estudiantes-de-euskera/web01-tramite/es/"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "permanente",
+   "title": "Alokaplus · seguro público de impago de alquiler",
+   "org": "Gobierno Vasco · Vivienda",
+   "text": "Seguro público y gratuito lanzado el 29-10-2026. Lo contrata el propietario (hasta 5 viviendas) junto a ti. Cubre hasta 14 mensualidades impagadas, 20 si el inquilino tiene 35 años o menos.",
+   "amount": "Gratuito para el propietario; hasta 14 mensualidades (20 si el inquilino tiene 35 años o menos)",
+   "requirements": [
+    "Lo solicita el propietario, no la inquilina; ambos firman un compromiso",
+    "Vivienda en zona tensionada, habitual del inquilino y renta dentro del índice de referencia",
+    "Edad: cumples (20 mensualidades hasta 35 años)",
+    "No borra la deuda: si paga la Administración, el inquilino debe devolverlo después"
+   ],
+   "how": "Propone a tu casero que se adhiera: ambos firman el compromiso. Canal exacto de solicitud: confirmar en euskadi.eus.",
+   "source": {
+    "name": "Orain · Alokaplus, seguro público contra impagos (29-10-2026)",
+    "url": "https://orain.eus/es/actualidad/economia/2026/10/29/alokaplus-seguro-publico-contra-impagos-del-alquiler-en-euskadi/"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "permanente",
+   "title": "Gazte 70 y Gazte Oro (Barik, menores de 26)",
+   "org": "Consorcio de Transportes de Bizkaia · Bizkaibus",
+   "text": "Abonos Barik para menores de 26: Gazte 70 (70 viajes en 30 días) y Gazte Oro (ilimitado 30 días). Valen en Bizkaibus, Metro Bilbao, Euskotren y Tranvía. Cumples la edad.",
+   "amount": "50 % de reducción hasta 31-12-2026 (aviso Bizkaibus)",
+   "requirements": [
+    "Menor de 26 años",
+    "Empadronada en un municipio de Bizkaia",
+    "Tarjeta Barik personalizada",
+    "Uso personal e intransferible"
+   ],
+   "how": "Cárgalo en tu tarjeta Barik personalizada; consulta puntos de recarga y oficinas en la web de Bizkaibus.",
+   "source": {
+    "name": "Bizkaibus · Tarifas",
+    "url": "https://www.bizkaia.eus/es/web/bizkaibus/tarifas"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "permanente",
+   "title": "Gazte-txartela · descuentos para jóvenes",
+   "org": "Gobierno Vasco · Gazteaukera",
+   "text": "Tarjeta con unos 2.000 descuentos en Euskadi (cultura, deporte, transporte, formación, salud, turismo), cupones anuales, sorteos y seguro de viaje gratuito. Cumples la edad.",
+   "amount": "Descuentos variables; precio de la tarjeta: confirmar en la web",
+   "requirements": [
+    "Tener entre 14 y 29 años (caduca al cumplir 30)",
+    "Estar empadronada en la Comunidad Autónoma Vasca",
+    "No hace falta ser estudiante"
+   ],
+   "how": "Solicítala en Gazteaukera; el procedimiento y el precio exactos, en sus preguntas frecuentes.",
+   "source": {
+    "name": "Gazteaukera · ¿Qué es Gazte-txartela?",
+    "url": "https://www.gazteaukera.euskadi.eus/que-es-gazte-txartela/webgaz00-gtxarte0/es/"
+   }
+  }
+ ],
+ "elections": {
+  "title": "Elecciones generales 29-N",
+  "date": "2026-11-29",
+  "status": "La campaña oficial arrancó a las 00:00 de hoy. El Congreso vota a las 09:00 los decretos de vivienda; Sánchez abre en Sevilla (19:00), Feijóo en Badalona (19:30), Abascal en Logroño y Huesca, y Colau en Vallecas (18:00). Las últimas encuestas mantienen al PP por delante, con PP y Vox cerca de la mayoría absoluta (EFE, Infobae, El Independiente).",
+  "euskadi": "EH Bildu abre campaña con Arnaldo Otegi a las 19:30 en Vitoria y el PNV con Pradales y Aitor Esteban a las 21:00 en la misma ciudad. Patxi López encabeza al PSE-EE por Bizkaia. El Sociómetro vasco de octubre daba a EH Bildu 7 escaños, PSE-EE 5, PNV 4 y PP 2.",
+  "polls": {
+   "name": "40dB (El País y Cadena SER)",
+   "date": "2026-11-09",
+   "url": "https://www.infobae.com/espana/2026/11/09/el-psoe-se-quedaria-cerca-de-ganar-las-elecciones-al-recortarle-2-puntos-la-ventaja-al-pp-segun-las-encuestas-posteriores-al-accidente-ferroviario-de-urda/",
+   "items": [
+    {
+     "party": "PP",
+     "value": 31.9,
+     "seats": "129"
+    },
+    {
+     "party": "PSOE",
+     "value": 29.9,
+     "seats": "119"
+    },
+    {
+     "party": "Vox",
+     "value": 18.0,
+     "seats": "61"
+    },
+    {
+     "party": "Frente Amplio",
+     "value": 5.0
+    }
+   ]
+  },
+  "keyDates": [
+   {
+    "date": "2026-11-13",
+    "text": "Arranca la campaña electoral a las 00:00"
+   },
+   {
+    "date": "2026-11-19",
+    "text": "Último día para solicitar el voto por correo"
+   },
+   {
+    "date": "2026-11-24",
+    "text": "Declara como testigo Cintia Rocho en el caso Leire"
+   },
+   {
+    "date": "2026-11-28",
+    "text": "Jornada de reflexión, antes de las urnas del 29-N"
+   },
+   {
+    "date": "2026-11-29",
+    "text": "Elecciones generales"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "id": "2026-11-12-huelga-bilbao-calles",
+   "section": "bilbao",
+   "weight": 2,
+   "title": "Piquetes en San Mamés, comercios cerrados en el centro y 50.000 personas en la manifestación de Bilbao",
+   "dek": "La jornada empezó con una sentada que cortó la entrada por San Mamés y terminó con una gran marcha por la vivienda.",
+   "figure": {
+    "value": "50.000",
+    "label": "personas, Policía Municipal"
+   },
+   "place": "Bilbao",
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   },
+   "body": [
+    "Los piquetes cortaron a primera hora la entrada de vehículos a Bilbao por San Mamés con una sentada, según Orain, y al mediodía cerraron varios comercios del centro; la Ertzaintza acudió a los centros comerciales de la Gran Vía. El mismo medio recoge también un corte del puente de Deusto con sofás y 11 vuelos cancelados en el aeropuerto de Loiu.",
+    "Muchos establecimientos habían tapiado escaparates el día anterior por miedo a incidentes. Por la tarde, la manifestación reunió a unas 50.000 personas según la Policía Municipal, en una jornada en la que los servicios mínimos del transporte fueron del 30 %.",
+    "Hoy, con la actividad normalizada, sigue en pie la huelga de maquinistas de Renfe convocada por Semaf para el 12 y el 17 de noviembre, con servicios mínimos."
+   ],
+   "keys": [
+    "Sentada en San Mamés a primera hora",
+    "Comercios del centro y Gran Vía, con presencia de la Ertzaintza",
+    "Hoy, paro de maquinistas de Renfe"
+   ],
+   "why": "Si hoy vas en Cercanías o Renfe, comprueba los servicios mínimos antes de salir.",
+   "sources": [
+    {
+     "name": "Orain: accesos por San Mamés",
+     "url": "https://orain.eus/es/actualidad/economia/2026/11/11/los-piquetes-cortan-los-accesos-bilbao-san-mames/"
+    },
+    {
+     "name": "Orain: centro de Bilbao",
+     "url": "https://orain.eus/es/actualidad/economia/2026/11/11/disturbios-en-el-centro-bilbao/"
+    },
+    {
+     "name": "Orain: escaparates tapiados",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/11/10/algunos-establecimientos-tapian-sus-escaparates-el-temor-incidentes-sabotajes-durante-la-huelga-del-11-n/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-tiempo-bilbao",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "Jueves de lluvia en Bilbao por la mañana y bajada a 19 grados",
+   "dek": "Hoy llueve seguro por la mañana y por la tarde queda muy nuboso; el viernes baja a 15 grados.",
+   "figure": {
+    "value": "19°",
+    "label": "máxima hoy"
+   },
+   "place": "Bilbao",
+   "body": [
+    "Según Bilbao Hiria con datos de Aemet y Euskalmet, hoy jueves hay un 100 % de probabilidad de lluvia por la mañana y un 50 % por la tarde, con mínima de 13 grados, máxima de 19 y viento del noreste de unos 10 km/h.",
+    "Mañana viernes quedará nublado con un 45 % de probabilidad de lluvia, entre 11 y 15 grados. No hay avisos meteorológicos para Bizkaia."
+   ],
+   "keys": [
+    "Hoy: lluvia por la mañana, 13-19 °C",
+    "Viernes: nublado, 11-15 °C",
+    "Sin avisos en Bizkaia"
+   ],
+   "why": "Paraguas por la mañana y capa para el viernes, que refresca bastante.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria (Aemet)",
+     "url": "https://bilbaohiria.com/bilbao/tiempo-bilbao-hoy-miercoles-11-noviembre-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-huelga-euskadi-balance",
+   "section": "euskadi",
+   "weight": 3,
+   "title": "Euskadi se echa a la calle por la vivienda: 50.000 personas en Bilbao y 14 detenidos en Hego Euskal Herria",
+   "dek": "ELA, LAB, CCOO y UGT hablan de «éxito»; el PNV dice que paralizar el país no es la solución y EH Bildu pide votar a favor de los decretos.",
+   "figure": {
+    "value": "50.000",
+    "label": "manifestantes en Bilbao"
+   },
+   "place": "Euskadi",
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   },
+   "body": [
+    "La huelga general de ayer tuvo un seguimiento amplio en la industria vasca: Petronor funcionó casi con servicios mínimos, Mercedes y ACB Sestao produjeron a la mitad y los talleres de CAF estuvieron parados, según Orain. En Osakidetza paró el 14,82 % en el turno de mañana, en los centros educativos el 60 % y en el resto del Gobierno Vasco el 38 %. El transporte público mantuvo servicios mínimos del 30 % y se cancelaron 11 vuelos en Bilbao.",
+    "Las manifestaciones llenaron las capitales: unas 50.000 personas en Bilbao según la Policía Municipal, «miles» en Vitoria-Gasteiz y Donostia y entre 18.000 y 25.000 en Pamplona. La Ertzaintza detuvo a 13 personas (8 en Portugalete, 2 en Vitoria y una en Agurain, Zamudio y San Sebastián) y la Policía Nacional a otra en Pamplona. Siete ertzainas fueron atendidos por lesiones y un delegado de CCOO resultó herido y arrestado en un piquete en Zamudio, lo que su sindicato calificó de actuación «desmedida». El PP denunció una agresión a dos jóvenes de Nuevas Generaciones en Barakaldo.",
+    "Las lecturas políticas divergen. ELA y LAB pidieron a los gobiernos vasco y navarro que intervengan el mercado de la vivienda; CCOO y UGT hablaron de «día histórico»; el PNV compartió la preocupación pero defendió que paralizar el país no es la solución; el PP denunció su carácter político. eldiario.es habla de «riada popular» en Vitoria, Bilbao y Donostia, y Crónica Vasca (El Español) siguió la jornada en directo."
+   ],
+   "keys": [
+    "Bilbao: unas 50.000 personas (Policía Municipal)",
+    "14 detenidos en Hego Euskal Herria",
+    "Paro del 60 % en centros educativos y 14,82 % en Osakidetza",
+    "EH Bildu pide votar a favor de los decretos de vivienda"
+   ],
+   "why": "Es el mayor pulso en la calle por el alquiler que se recuerda en Euskadi y marca el tono de los programas para el 29-N.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/11/11/los-sindicatos-consideran-todo-un-exito-la-huelga-general-la-vivienda/"
+    },
+    {
+     "name": "eldiario.es Euskadi",
+     "url": "https://www.eldiario.es/euskadi/huelga-general-crisis-vivienda-segunda-euskadi-directo_6_13654249_1126510.html"
+    },
+    {
+     "name": "Crónica Vasca (El Español)",
+     "url": "https://cronicavasca.elespanol.com/politica/20261111/siga-directo-huelga-general-vivienda-euskadi-seguimiento/1003742810813_10.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-an-iparragirre-semilibertad",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "La Audiencia Nacional revoca la semilibertad de Iparragirre y los terceros grados de Olarra Guridi y Agirregabiria",
+   "dek": "El tribunal tumba beneficios penitenciarios a tres presos de ETA en una decisión conocida el martes.",
+   "figure": {
+    "value": "3",
+    "label": "presos afectados"
+   },
+   "place": "Madrid / Euskadi",
+   "body": [
+    "Según Orain, la Audiencia Nacional ha revocado la semilibertad de Iparragirre y los terceros grados de Olarra Guridi y Agirregabiria, tres exmiembros de ETA.",
+    "El texto consultado no detalla los argumentos del tribunal ni las reacciones; es un tema que suele generar respuesta de las asociaciones de víctimas y de la izquierda abertzale en los días siguientes."
+   ],
+   "keys": [
+    "Revocada una semilibertad y dos terceros grados"
+   ],
+   "why": "Es un asunto que reaparece en campaña y en el debate político vasco.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/politica/2026/11/10/audiencia-nacional-revoca-la-semilibertad-iparragirre-los-terceros-grados-olarra-guridi-agirregabiria/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-angula-campana-suspendida",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "El Gobierno Vasco suspende la campaña de pesca de la angula por el empeoramiento de la especie",
+   "dek": "La medida se apoya en recomendaciones científicas sobre el estado de la población.",
+   "figure": {
+    "value": "0",
+    "label": "campañas de angula"
+   },
+   "place": "Euskadi",
+   "body": [
+    "El Gobierno Vasco ha suspendido la campaña de pesca de la angula ante el empeoramiento de la situación de la especie, según Orain, que cita recomendaciones científicas como base de la decisión.",
+    "Los detalles de duración y las reacciones del sector no figuran en el resumen consultado."
+   ],
+   "keys": [
+    "Campaña suspendida por recomendación científica"
+   ],
+   "why": "Afecta a un producto muy ligado a la gastronomía vasca y a los pescadores del Cantábrico.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/11/10/el-gobierno-vasco-suspende-la-campana-pesca-la-angula-ante-el-empeoramiento-desituacion-la-especie/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-huelga-general-balance",
+   "section": "espana",
+   "weight": 3,
+   "title": "La huelga general del 11-N deja 52 detenidos y cifras de seguimiento muy dispares entre sindicatos y patronal",
+   "dek": "CCOO y UGT hablan de «éxito total»; la CEOE cifra la adhesión en menos del 5 %. Las manifestaciones por la vivienda llenaron Madrid y Barcelona y acabaron con cargas y disturbios.",
+   "figure": {
+    "value": "52",
+    "label": "detenidos en España"
+   },
+   "place": "España",
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   },
+   "body": [
+    "La primera huelga general en 14 años se celebró ayer a 18 días de unas elecciones anticipadas. Los sindicatos la calificaron de éxito y dieron seguimientos que van del 41 % (Extremadura y Castilla-La Mancha) al 75 % (Andalucía y Aragón), con un 84 % en Cataluña según CCOO y UGT. La CEOE la tachó de «fracaso» y cifró la adhesión media en menos del 5 %; Pimec situó el paro en el 8,9 % de las empresas catalanas, aunque admitió que el 29 % sufrió cortes. Infobae recuerda que medir el seguimiento es difícil y que la demanda eléctrica estuvo un 7,5 % por debajo de lo previsto a las 10:00.",
+    "Las calles dieron otra medida. En Barcelona los piquetes bloquearon unas 50 carreteras, El Prat canceló 85 de 734 vuelos y la Guàrdia Urbana contó 55.000 manifestantes frente a los 400.000 de los organizadores; la marcha terminó con disturbios, daños en comercios y seis agentes heridos leves. En Madrid la Policía cargó por la mañana contra manifestantes que cortaban la Gran Vía, y por la tarde la Delegación del Gobierno cifró en 120.000 los asistentes, frente a los 600.000 del Sindicato de Inquilinas.",
+    "Según Interior hubo 52 detenidos en toda España (13 de ellos de la Ertzaintza); The Objective, con otro recuento, habla de más de un centenar y cerca de 1.000 incidencias. Los sindicatos planean acciones judiciales por las cargas contra piquetes y CCOO anunció una denuncia penal por lo ocurrido en Madrid.",
+    "En lo político, el PP, por boca de Miguel Tellado, la llamó «huelga electoral», mientras el Gobierno mantuvo un perfil bajo: Félix Bolaños dijo que las causas eran justas y Pablo Bustinduy expresó su apoyo. Hoy, con el arranque de la campaña, el Congreso vota los decretos de vivienda que están en el centro de la protesta."
+   ],
+   "keys": [
+    "Seguimiento: 41-84 % según sindicatos; menos del 5 % según la CEOE",
+    "52 detenidos según Interior; The Objective cuenta más de 100",
+    "Asistencia en Madrid: 120.000 (Delegación) frente a 600.000 (inquilinas)",
+    "Los sindicatos preparan acciones judiciales por las cargas"
+   ],
+   "why": "Es el movimiento más grande por el precio del alquiler en años y condiciona lo que se vote el 29-N sobre vivienda.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/2026/11/11/una-espana-en-huelga-grita-alto-y-claro-que-quiere-vivir-y-no-sobrevivir-exito-total-para-los-sindicatos-fracaso-para-la-ceoe-mas-de-50-detenidos-y-un-gobierno-ausente/"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/sociedad/suceso/2026-11-11/huelga-general-100-detenidos-1-000-incidencias-espana/"
+    },
+    {
+     "name": "eldiario.es",
+     "url": "https://eldiario.es/politica/sindicatos-planean-acciones-judiciales-cargas-policiales-piquetes_1_13654290.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-campana-decretos-vivienda",
+   "section": "espana",
+   "weight": 3,
+   "title": "Arranca la campaña del 29-N con el Congreso votando los decretos de vivienda que el PP promete derogar",
+   "dek": "La Diputación Permanente debate hoy a las 09:00 los dos decretos del 6 de octubre; a medianoche empezó la campaña, con Sánchez en Sevilla y Feijóo en Badalona.",
+   "figure": {
+    "value": "29-N",
+    "label": "elecciones generales"
+   },
+   "place": "Madrid",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "La campaña oficial comenzó a las 00:00 de hoy, jueves 12, con el recuerdo reciente de la huelga. A las 09:00 la Diputación Permanente del Congreso debate y vota los dos decretos de vivienda aprobados por el Gobierno el 6 de octubre. Según EFE, salvo sorpresa se convalidarán: incluyen protección antidesahucios para familias vulnerables, regulación del alquiler de temporada y por habitaciones, una prórroga de dos años de ciertos contratos y topes a la subida anual de rentas. Fue el rechazo previo del Congreso a esta política lo que precedió al adelanto electoral.",
+    "La agenda de arranque de los partidos es intensa. Pedro Sánchez abre campaña a las 19:00 en el auditorio FIBES de Sevilla; Alberto Núñez Feijóo cierra un acto a las 19:30 en Badalona con Xavier García Albiol; Santiago Abascal estará en Logroño por la mañana y en Huesca por la tarde; Ada Colau, candidata de Frente Amplio, empieza en Vallecas a las 18:00; y Junts (con Puigdemont por videoconferencia) y ERC lo hacen en Barcelona y Tarragona. En Euskadi, EH Bildu abre con Arnaldo Otegi a las 19:30 en Vitoria y el PNV, con Pradales y Aitor Esteban, a las 21:00 en la misma ciudad.",
+    "Feijóo prometió ayer, según Infobae, derogar los decretos de vivienda si gobierna y actualizar las pensiones con el IPC, y su programa incluye exención de IRPF para jóvenes de 18 a 35 años en su primer año como contribuyentes. Desde la derecha, El Español y El Debate presentan la huelga como un obstáculo para el Gobierno («el 29 de noviembre no hay huelga», dijo Feijóo), mientras que El Independiente subraya que las encuestas dejan al bloque de Sánchez 21 escaños por debajo de la mayoría absoluta.",
+    "La última encuesta que recoge la edición de ayer, 40dB, daba al PP 129 escaños, al PSOE 119 y a Vox 61. El calendario marca el 19 de noviembre como último día para pedir el voto por correo y el 28 como jornada de reflexión."
+   ],
+   "keys": [
+    "Votación de los decretos de vivienda hoy a las 09:00",
+    "Sánchez en Sevilla (19:00); Feijóo en Badalona (19:30)",
+    "PNV y EH Bildu abren campaña en Vitoria",
+    "Voto por correo hasta el 19 de noviembre"
+   ],
+   "why": "Lo que salga hoy del Congreso decide si los topes al alquiler y la protección antidesahucios siguen vigentes durante la campaña.",
+   "sources": [
+    {
+     "name": "Infobae (EFE): temas del día",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/11/temas-del-dia-de-efe-espana-del-jueves-12-de-noviembre-de-2026/"
+    },
+    {
+     "name": "Infobae (EFE): decreto de vivienda",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/11/congreso-aprueba-manana-salvo-sorpresa-el-decreto-de-vivienda-que-pp-derogara-si-gobierna/"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-11-11/campanas-electorales-elecciones-generales"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/espana/20261111/feijoo-29-noviembre-no-hay-huelga-espanoles-decir-opinan-verdad_479937.html"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/11/09/asi-encuestas-generales-21-escanos-separan-sanchez-nuevo-gobierno/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-ceuta-tardon-testigos",
+   "section": "espana",
+   "weight": 1,
+   "title": "La jueza Tardón interroga al jefe del puesto fronterizo de Ceuta por la entrada masiva de migrantes de julio",
+   "dek": "Declaran hoy en la Audiencia Nacional el jefe del puesto y dos policías por los hechos del 30 y 31 de julio.",
+   "figure": {
+    "value": "30-31 jul",
+    "label": "entrada masiva"
+   },
+   "place": "Madrid",
+   "body": [
+    "La magistrada de la Audiencia Nacional María Tardón toma declaración a las 10:00 a tres testigos de la Policía Nacional, entre ellos el jefe del puesto fronterizo de Ceuta, por la entrada masiva de migrantes ocurrida el 30 y 31 de julio.",
+    "Es una de las citas judiciales del día en la agenda de EFE y llega en plena campaña, con la inmigración como uno de los temas que los partidos usan en sus discursos."
+   ],
+   "keys": [
+    "Declaran tres testigos policiales",
+    "Hechos del 30 y 31 de julio"
+   ],
+   "why": "Un caso de seguimiento: puede condicionar el debate migratorio de la campaña.",
+   "sources": [
+    {
+     "name": "Infobae (EFE): temas del día",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/11/temas-del-dia-de-efe-espana-del-jueves-12-de-noviembre-de-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-canarias-emergencia-migratoria",
+   "section": "espana",
+   "weight": 1,
+   "title": "El Gobierno declara la emergencia migratoria en Canarias con fondos para plazas y traslados",
+   "dek": "La medida llega mientras los trabajadores de Salvamento Marítimo denuncian turnos de hasta 16 horas por el repunte de llegadas.",
+   "figure": {
+    "value": "16 h",
+    "label": "turnos denunciados"
+   },
+   "place": "Canarias",
+   "body": [
+    "El Consejo de Ministros declaró el martes la emergencia migratoria en Canarias y aprobó fondos para crear plazas de acogida y trasladar a migrantes, según Orain. La decisión responde al repunte de llegadas que vive el archipiélago.",
+    "Infobae recoge a su vez la denuncia de trabajadores de Salvamento Marítimo, que cuentan jornadas de hasta 16 horas y algunos sin poder pasar por casa. Los datos concretos del plan de fondos no figuran en el resumen consultado."
+   ],
+   "keys": [
+    "Emergencia migratoria declarada el martes",
+    "Salvamento Marítimo denuncia turnos de hasta 16 horas"
+   ],
+   "why": "Pone en el centro, en plena campaña, uno de los asuntos que más enfrentan a PP, Vox y Gobierno.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/politica/2026/11/10/el-gobierno-espanol-declara-la-emergencia-migratoria-en-canarias/"
+    },
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/espana/2026/11/11/los-trabajadores-de-salvamento-maritimo-denuncian-jornadas-de-hasta-16-horas-en-pleno-repunte-migratorio-en-canarias-algunos-no-han-podido-ni-pasar-por-casa-para-comer-o-darse-una-ducha/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-borrascas-bruna-charles",
+   "section": "espana",
+   "weight": 1,
+   "title": "Las borrascas Bruna y Charles traen lluvias intensas al Cantábrico, Galicia, Pirineos y Cataluña",
+   "dek": "El viento será fuerte en el centro, el este peninsular, Alborán y Baleares, según la previsión recogida por EFE.",
+   "figure": {
+    "value": "2",
+    "label": "borrascas"
+   },
+   "place": "España",
+   "body": [
+    "Según el resumen de EFE, las borrascas Bruna y Charles dejarán hoy cielos encapotados y lluvias intensas en Canarias, Galicia, el Cantábrico, los Pirineos y Cataluña.",
+    "Además se esperan fuertes rachas de viento en el centro y el este de la península, en Alborán y en Baleares."
+   ],
+   "keys": [
+    "Lluvias intensas en el Cantábrico",
+    "Viento fuerte en el centro y el este"
+   ],
+   "why": "Si te mueves por Bizkaia hoy, llévate paraguas: la lluvia sigue en Bilbao hasta la tarde.",
+   "sources": [
+    {
+     "name": "Infobae (EFE): temas del día",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/11/temas-del-dia-de-efe-espana-del-jueves-12-de-noviembre-de-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-ucrania-abu-dabi-moscu",
+   "section": "mundo",
+   "weight": 2,
+   "title": "Abu Dabi cierra con un acuerdo de principio para el mayor canje de prisioneros y Kushner y Witkoff viajan hoy a Moscú",
+   "dek": "Dos días de conversaciones EE. UU.-Rusia-Ucrania sin avances en territorio ni garantías de seguridad.",
+   "figure": {
+    "value": "2",
+    "label": "jornadas en Abu Dabi"
+   },
+   "place": "Abu Dabi / Moscú",
+   "thread": {
+    "id": "ucrania",
+    "label": "Guerra de Ucrania"
+   },
+   "body": [
+    "La primera ronda trilateral desde febrero terminó con un único resultado concreto: un acuerdo en principio para el mayor intercambio de prisioneros desde la invasión de 2022. La cifra se fijará hoy y, según TASS, el canje se haría en dos o tres semanas. El proceso se había frenado cuando empezó la guerra con Irán.",
+    "Lo difícil sigue sin resolverse. Putin exige que Ucrania entregue todo el Donbás; Kyiv lo rechaza y propone congelar el frente en la línea actual, y Jared Kushner admitió que el territorio es el asunto más duro. Moscú quiere primero un gran pacto de seguridad europeo y pactos de no agresión con miembros de la OTAN; los europeos responden que eso solo cabe tras un alto el fuego. Rusia se negó a reunirse con representantes europeos en Abu Dabi y Kyiv aún espera su respuesta a una tregua marítima del grano del mar Negro.",
+    "Hoy Kushner y Steve Witkoff viajan a Moscú para ver a Putin e intentar implicar a Europa, y luego irán a Dublín a encontrarse con Zelenski en una reunión de líderes europeos. Washington habla de «buen primer paso» pero sin confianza entre las partes; el negociador ruso Medinsky afirmó que cada centímetro de tierra rusa volverá a Rusia, y el ucraniano Arajamia ve impulso para un acuerdo antes de fin de año.",
+    "Mientras tanto la guerra sigue: Rusia golpeó anoche seis grandes subestaciones eléctricas del centro de Ucrania, y un bombardeo en un mercado de Odesa mató a tres personas."
+   ],
+   "keys": [
+    "Acuerdo de principio para el mayor canje de prisioneros",
+    "Territorio y garantías de seguridad, sin avances",
+    "Kushner y Witkoff, hoy en Moscú; luego, Dublín"
+   ],
+   "why": "El resultado pesa en el precio de la energía y en la seguridad de Europa, y también en la inflación.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/america/mundo/2026/11/11/estados-unidos-celebro-los-avances-del-dialogo-entre-rusia-y-ucrania-pero-alerto-que-no-hay-confianza-para-alcanzar-la-paz/"
+    },
+    {
+     "name": "Infobae: viaje a Moscú",
+     "url": "https://www.infobae.com/america/mundo/2026/11/11/el-enviados-de-trump-viajaran-a-moscu-para-reunirse-con-putin-tras-las-conversaciones-sobre-ucrania-en-abu-dhabi/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-iran-amenaza-bases-europa",
+   "section": "mundo",
+   "weight": 2,
+   "title": "Irán amenaza con atacar bases de EE. UU. en Europa si se usan para bombardearle; el petróleo vuelve a subir",
+   "dek": "Mohsen Rezaei lanza el aviso mientras las negociaciones con Washington siguen estancadas y el estrecho de Ormuz continúa bloqueado.",
+   "figure": {
+    "value": "94 $",
+    "label": "Brent aprox."
+   },
+   "place": "Irán / Europa",
+   "thread": {
+    "id": "guerra-iran",
+    "label": "Guerra con Irán"
+   },
+   "body": [
+    "Mohsen Rezaei, de la cúpula de seguridad iraní, dijo en una entrevista televisiva que si aviones estadounidenses despegan de bases en países europeos u otras regiones para bombardear Irán, esas bases también serán atacadas. No señaló objetivos concretos ni armamento, y Infobae no precisa qué bases europeas podrían estar en el punto de mira.",
+    "La guerra empezó el 28 de febrero con una ofensiva de EE. UU. e Israel que mató al líder supremo, Ali Jameneí, y Teherán mantiene bloqueado Ormuz desde entonces. Irán exige liberar activos congelados, levantar sanciones y reabrir el paso; Catar y Pakistán median sin acuerdo anunciado. El Comando Central de EE. UU. calcula que el bloqueo ha frenado exportaciones iraníes por unos 25.000 millones de dólares.",
+    "Marco Rubio dijo tras el G7 en París que la presión económica es tan fuerte que no hace falta, por ahora, una gran ofensiva, y advirtió de que si Irán cruza «líneas rojas» pagará un alto precio. Los cancilleres del G7 pidieron evitar la escalada y el francés Jean-Noël Barrot admitió que nuevos ataques siguen siendo posibles. El estancamiento ha empujado el crudo al alza: el Brent subió ayer un 2,74 % hasta unos 94 dólares.",
+    "En paralelo, según Infobae, el secretario del Tesoro estadounidense, Scott Bessent, fue trasladado a una instalación militar por amenazas iraníes contra su vida."
+   ],
+   "keys": [
+    "Amenaza explícita a bases de EE. UU. fuera de Oriente Medio",
+    "Ormuz sigue bloqueado desde el 28 de febrero",
+    "El G7 pide evitar la escalada",
+    "Brent, +2,74 % ayer"
+   ],
+   "why": "El petróleo caro se nota en la gasolina y en la inflación,.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/america/mundo/2026/11/11/el-regimen-de-iran-amenazo-con-atacar-bases-de-estados-unidos-en-europa-si-son-utilizadas-para-bombardear-su-territorio/"
+    },
+    {
+     "name": "Infobae: petróleo",
+     "url": "https://www.infobae.com/america/mundo/2026/11/11/el-petroleo-volvio-a-subir-tras-varios-dias-de-caidas-por-el-estancamiento-de-las-negociaciones-entre-estados-unidos-e-iran/"
+    },
+    {
+     "name": "Infobae: Bessent",
+     "url": "https://www.infobae.com/estados-unidos/2026/11/11/el-secretario-del-tesoro-estadounidense-fue-trasladado-a-una-instalacion-militar-por-las-amenazas-iranies-contra-su-vida/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-papa-leon-xiv-lujan-lima",
+   "section": "mundo",
+   "weight": 1,
+   "title": "León XIV cierra su visita a Argentina con una misa en Luján y llega a Perú",
+   "dek": "Infobae estima en más de dos millones los asistentes a la misa, en la que el papa pidió reconciliación.",
+   "figure": {
+    "value": "2 M",
+    "label": "asistentes (Infobae)"
+   },
+   "place": "Luján / Lima",
+   "body": [
+    "El papa León XIV cerró su viaje por Argentina con una misa multitudinaria en Luján en la que pidió la reconciliación de los argentinos; Infobae estima la convocatoria en más de dos millones de personas, una cifra que no hemos podido contrastar con otra fuente.",
+    "El pontífice continúa su gira en Perú, donde llegó a Lima y al Palacio de Gobierno entre miles de fieles."
+   ],
+   "keys": [
+    "Misa en Luján con petición de reconciliación",
+    "Llegada a Lima y al Palacio de Gobierno"
+   ],
+   "why": "Un viaje muy seguido en el mundo hispano.",
+   "sources": [
+    {
+     "name": "Infobae: Luján",
+     "url": "https://www.infobae.com/sociedad/2026/11/11/el-papa-cierra-su-visita-a-la-argentina-con-una-multitudinaria-misa-en-lujan-en-la-que-pidio-por-la-reconciliacion-de-los-argentinos/"
+    },
+    {
+     "name": "Infobae: Perú",
+     "url": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-en-peru-en-vivo-minuto-a-minuto-de-su-llegada-recorrido-calles-cerradas-y-ultimas-noticias-del-santo-padre/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-it-allarmi-bomba-scuole",
+   "section": "italia",
+   "weight": 2,
+   "title": "Meloni recibe hoy a la oposición tras la falsa alarma de bomba en unas 6.000 escuelas",
+   "dek": "Un correo anónimo con amenazas de exterminio llegó el miércoles a miles de centros escolares italianos. El Gobierno no ve peligro concreto, pero habla de una estrategia para sembrar el caos.",
+   "figure": {
+    "value": "6.000",
+    "label": "Escuelas con la amenaza"
+   },
+   "place": "Roma / toda Italia",
+   "thread": {
+    "id": "allarmi-bomba-scuole",
+    "label": "Alarmas de bomba en escuelas"
+   },
+   "body": [
+    "Según el Ministerio de Educación, citado por ANSA, el mismo correo llegó a unos 6.000 centros. A lo largo del día las cifras fueron subiendo: de un centenar a primera hora a unas 300 escuelas citadas por el ministro Valditara al mediodía. Hubo evacuaciones en Lacio, Turín (una decena de edificios), Trieste y otras zonas, mientras que algunos directores decidieron no evacuar tras consultar a las fuerzas del orden. ANSA añade que unas 300 escuelas de Irlanda del Norte recibieron el mismo aviso.",
+    "El mensaje, que empieza con un «os aniquilaremos», habla de una bomba en una bolsa de plástico y está firmado por un supuesto «Mikhail Antropov», líder de un llamado «Vilayat di Misoginistan». Los primeros análisis, según ANSA, apuntan a que salió de una cuenta comprometida de una universidad de Taiwán, y el mismo nombre ya apareció en falsas amenazas contra aviones y televisiones europeas. La Fiscalía de Génova investiga por alarma pública y amenazas graves, con posible agravante de terrorismo.",
+    "Meloni reunió el miércoles en Palazzo Chigi a sus ministros y a los responsables de inteligencia y ciberseguridad. Según el Gobierno, no hay peligro concreto, pero sí una estrategia para generar miedo; Valditara mencionó la «guerra híbrida». Adnkronos cuenta que la presidenta convocó para esta mañana a los líderes de la oposición, empezando por Elly Schlein a las 8:30, y que pide una respuesta unida.",
+    "La oposición acepta la cita, pero exige explicaciones en el Parlamento. El Pd pide que Meloni acuda a la Cámara y Conte (M5S) sugiere llevar los datos reservados al Copasir. Fratoianni (AVS), según ANSA, critica que el Gobierno hable a la vez de guerra híbrida y de «nada que temer». Crosetto y Piantedosi se han comprometido a informar al Parlamento con urgencia."
+   ],
+   "keys": [
+    "El correo llegó a unas 6.000 escuelas, pero el Gobierno no ve peligro real",
+    "Investigación en Génova por alarma pública y amenazas, con posible agravante terrorista",
+    "Meloni reúne hoy a la oposición; esta pide ir al Parlamento y al Copasir"
+   ],
+   "why": "Si tu pareja tiene familia con niños o sobrinos en edad escolar en Italia, es probable que hayan vivido evacuaciones o pánico en los chats de padres; conviene preguntar y no fiarse de los bulos.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allarme-bomba-in-oltre-6000-scuole-in-italia-evacuazioni-e-controlli.-meloni-grande_870b0024-72d2-4b15-bab5-0c74dcc1d653.html"
+    },
+    {
+     "name": "Adnkronos",
+     "url": "https://www.adnkronos.com/politica/allarme-bomba-scuole-meloni-vertice-opposizioni-news-oggi_1S4vfq6Dxulm54ySZXTM31"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-it-iran-minaccia-basi-europa",
+   "section": "italia",
+   "weight": 2,
+   "title": "Irán amenaza con atacar bases de EE. UU. en Europa mientras Israel prepara una nueva ofensiva",
+   "dek": "Un alto cargo iraní advierte de que, si Washington ataca, la respuesta no se limitará a la región. Al mismo tiempo, Vance estudia abrir un canal directo con Teherán.",
+   "figure": {
+    "value": "12 nov",
+    "label": "Amenaza a bases"
+   },
+   "place": "Teherán / Jerusalén / Washington",
+   "body": [
+    "Adnkronos informa de que Mohsen Rezaei, secretario del Consejo Supremo de Seguridad Nacional de Irán, dijo en una entrevista con la cadena libanesa Al Mayadeen que, si EE. UU. ataca, Irán podría golpear bases estadounidenses en países europeos y en «algunas islas». También pidió a los países que alojan tropas de EE. UU. que no colaboren en un ataque.",
+    "Rezaei negó que haya negociaciones con Washington y calificó de «mentiras» los rumores de un encuentro con el vicepresidente JD Vance en Catar. Aseguró además que el programa nuclear no se negocia y que ni una partícula de uranio enriquecido saldrá del país, según el relato del medio.",
+    "Del lado israelí, Adnkronos cuenta que el gabinete de seguridad de Netanyahu ordenó intensificar los preparativos para una posible nueva ofensiva y que el ejército está en máxima alerta, según la cadena pública Kan.",
+    "Según el Wall Street Journal, citado en el mismo texto, Vance estudia reunirse con Rezaei y Trump se ha mostrado abierto a ello, con Doha como posible sede y sin fecha. Esas conversaciones estarían en fase preliminar, de modo que la tensión convive con un posible canal diplomático."
+   ],
+   "keys": [
+    "Rezaei amenaza con bases de EE. UU. en Europa si hay ataque",
+    "Israel, en máxima alerta ante una posible nueva ofensiva",
+    "Vance valora un contacto directo; Irán niega que haya negociación"
+   ],
+   "why": "Un conflicto que se extienda a bases europeas encarecería la energía y podría afectar a vuelos y precios, algo que se nota tanto en Bilbao como en Italia.",
+   "sources": [
+    {
+     "name": "Adnkronos",
+     "url": "https://www.adnkronos.com/internazionale/esteri/iran-minaccia-basi-usa-europa-israele-prepara-attacco_605i7HtpBodEaCmXOepyG7"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-it-lavoro-istat-ceto-medio",
+   "section": "italia",
+   "weight": 1,
+   "title": "El Istat prevé que el empleo se enfríe y la manovra preocupa a la clase media",
+   "dek": "El instituto de estadística calcula que el empleo crecerá un 0,5% en 2027, mientras Il Fatto Quotidiano alerta de que unos 3 millones de familias de clase media saldrían perdiendo con el presupuesto.",
+   "figure": {
+    "value": "0,5%",
+    "label": "Empleo en 2027"
+   },
+   "place": "Roma",
+   "body": [
+    "Según ANSA, las previsiones del Istat apuntan a que el empleo (medido en unidades de trabajo) crecerá un 0,9% en 2026 y un 0,5% en 2027, tras el 1,2% de 2025. La tasa de paro bajaría del 6,1% al 6,0% este año y al 5,9% el próximo.",
+    "El Istat estima también que el déficit neto llegaría al 3,4% del PIB en 2027, frente al 2,9% tendencial. Por su parte, Confindustria dijo en las audiencias parlamentarias que el 43% de las coberturas de la manovra recae sobre las empresas, sobre todo vía banca, seguros, energía y juegos.",
+    "Il Fatto Quotidiano titula que unos 3 millones de familias de clase media saldrían perdiendo, con los ingresos de entre 35.000 y 50.000 euros y los pensionistas entre los más afectados, según su lectura. El diario añade que, tras una cumbre en Palazzo Chigi, la mayoría admite cambios en sanidad, pensiones, escuela y universidad."
+   ],
+   "keys": [
+    "Empleo: +0,9% en 2026 y +0,5% en 2027 según el Istat",
+    "Paro previsto: 6,0% en 2026 y 5,9% en 2027",
+    "Confindustria: el 43% de las coberturas pesa sobre las empresas"
+   ],
+   "why": "Un mercado laboral que crece más despacio y un presupuesto en revisión afectan a las oportunidades de trabajo y a las ayudas para jóvenes si algún día os planteáis vivir en Italia.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/economia/pmi/2026/11/11/istat-frena-la-crescita-delloccupazione-nel-2026-2027-giu-la-disoccupazione_c6c2b0c5-93d2-4ea9-99a9-84315413c5b2.html"
+    },
+    {
+     "name": "Il Fatto Quotidiano",
+     "url": "https://www.ilfattoquotidiano.it/in-edicola/articoli/2026/11/12/manovra-3-milioni-di-famiglie-del-ceto-medio-ci-perderanno/8568764/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-it-barcellona-sciopero-casa",
+   "section": "italia",
+   "weight": 1,
+   "title": "Huelga por la vivienda en Cataluña: la prensa italiana cuenta 400.000 manifestantes",
+   "dek": "Il Fatto Quotidiano recoge la jornada de huelga del miércoles en Barcelona, a pocos días de las elecciones anticipadas catalanas del 29 de noviembre.",
+   "figure": {
+    "value": "400.000",
+    "label": "Según sindicatos"
+   },
+   "place": "Barcelona",
+   "body": [
+    "Il Fatto Quotidiano relata una huelga general de 24 horas en Cataluña impulsada por el movimiento por el derecho a la vivienda. La marcha fue desde los Jardinets de Gràcia hasta la plaza de Catalunya, con 400.000 personas según los sindicatos y 55.000 según la Guardia Urbana.",
+    "Entre las reclamaciones que recoge el diario figuran dos millones de viviendas públicas, alquileres que no superen el 20% del salario mínimo y la expropiación de los grandes propietarios. Dan voz al Sindicat d'Estudiants y al Sindicat de Llogateres.",
+    "El artículo sitúa la protesta tras semanas de movilizaciones y acampadas en varias ciudades españolas, y menciona la presencia del presidente de la ANPI italiana, Gianfranco Pagliarulo."
+   ],
+   "keys": [
+    "400.000 según los sindicatos, 55.000 según la Guardia Urbana",
+    "Piden vivienda pública y un tope a los alquileres",
+    "Elecciones catalanas anticipadas el 29 de noviembre"
+   ],
+   "why": "El debate sobre el alquiler que ves en Bilbao también se sigue desde Italia, donde los jóvenes viven problemas parecidos.",
+   "sources": [
+    {
+     "name": "Il Fatto Quotidiano",
+     "url": "https://www.ilfattoquotidiano.it/2026/11/11/sciopero-casa-barcellona-catalogna-notizie/8568713/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-it-jeremy-irons-lecce",
+   "section": "italia",
+   "weight": 1,
+   "title": "Jeremy Irons recibe en Lecce el Ulivo d'Oro a la carrera",
+   "dek": "El Festival del cine europeo homenajea esta noche al actor británico con la proyección de «El misterio von Bülow».",
+   "figure": {
+    "value": "1991",
+    "label": "Oscar de Irons"
+   },
+   "place": "Lecce",
+   "body": [
+    "ANSA informa de que Jeremy Irons recogerá este jueves el Ulivo d'Oro alla Carriera en el Festival del cine europeo de Lecce, en la Sala 1 del Multisala Massimo, a las 20:30 según el texto de la noticia.",
+    "La agencia recuerda que Irons es uno de los pocos actores con Oscar, Emmy y Tony. Entre sus papeles cita «La mujer del teniente francés», «Mission», «Inseparables» y «House of Gucci».",
+    "El homenaje incluye la película de Barbet Schroeder «El misterio von Bülow» (1990, 111 minutos), en versión original con subtítulos en italiano, por la que Irons ganó el Oscar en 1991."
+   ],
+   "keys": [
+    "Premio a la carrera en el Festival del cine europeo de Lecce",
+    "Proyección de «El misterio von Bülow» en versión original",
+    "Irons tiene Oscar, Emmy y Tony"
+   ],
+   "why": "Un plan cultural fácil si visitáis el Salento con tu pareja: el festival suele proyectar cine europeo en versión original.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/11/jeremy-irons-al-festival-del-cinema-europeo-a-lecce-ulivo-doro-alla_afdc2e7d-8461-4d9e-ad88-ed4954f29194.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-it-italia-francia-mbappe",
+   "section": "italia",
+   "weight": 1,
+   "title": "Italia-Francia en San Siro, sin Mbappé y con la Nations League en juego",
+   "dek": "Zidane confirma la baja de su estrella por una molestia muscular; Mancini busca acercar a Italia a los cuartos antes del duelo con Bélgica.",
+   "figure": {
+    "value": "7 pts",
+    "label": "Puntos de Italia"
+   },
+   "place": "Milán",
+   "thread": {
+    "id": "italia-nations-league",
+    "label": "Italia en la Nations League"
+   },
+   "body": [
+    "Según ANSA, Zidane anunció en rueda de prensa que Kylian Mbappé no jugará contra Italia por una molestia muscular leve. Dijo que la política de Francia es no correr riesgos y espera tenerlo el domingo ante Turquía.",
+    "Corriere dello Sport sitúa el partido este jueves 12 de noviembre en San Siro. Según el diario, Italia tiene siete puntos y le quedan dos encuentros; Mancini habla de que clasificarse era algo inesperado y reconoce que en la ida, el 1-1 de París, hubo aspectos defensivos mejorables.",
+    "El diario recoge que Mancini mantendría el 4-3-3, con Donnarumma bajo palos, Tonali, Barella y Frattesi en el centro, y Sebastiano Esposito y Cambiaghi en las bandas. Zaniolo dejó la concentración por motivos personales, según su propio comunicado."
+   ],
+   "keys": [
+    "Mbappé es baja para Francia",
+    "Italia suma siete puntos y se la juega también contra Bélgica",
+    "Zaniolo abandona la concentración"
+   ],
+   "why": "Si veis el partido con la familia de tu pareja, hay buen plan para un jueves por la noche.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/11/nations-league-zidane-mbappe-salta-italia-nostra-politica-e-zero-rischi_d2fc13f3-e0d3-4aaf-a04c-f424be5acf85.html"
+    },
+    {
+     "name": "Corriere dello Sport",
+     "url": "https://www.corrieredellosport.it/news/calcio/italia/2026/11/11-152526963/mancini_in_vista_della_francia_fossi_in_zidane_non_rischierei_mbapp_ci_giochiamo_la_qualificazione_con_il_belgio"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-nvidia-huang-consejo",
+   "section": "economia",
+   "weight": 2,
+   "title": "Nvidia se hunde cerca de un 8 % fuera de horario por la posible destitución de Jensen Huang",
+   "dek": "El Wall Street Journal dice que el consejo estudia apartar al fundador por un escándalo personal; Nvidia presenta resultados el martes 17.",
+   "figure": {
+    "value": "-8 %",
+    "label": "fuera de horario"
+   },
+   "place": "EE. UU.",
+   "thread": {
+    "id": "nvidia-huang",
+    "label": "Nvidia y Jensen Huang"
+   },
+   "body": [
+    "La acción de Nvidia cerró el miércoles en 173,73 dólares, con una subida del 2,87 %, pero cayó cerca de un 8 % tras el cierre después de que el Wall Street Journal informara de que el consejo se prepara para destituir a su consejero delegado, Jensen Huang, y podría reunirse hoy mismo. Es una información de prensa que la empresa no ha confirmado y está en desarrollo.",
+    "El domingo 8 Huang reconoció ante la plantilla haber sido infiel a su esposa. Según el WSJ, mantuvo dos relaciones, una de ellas con una mujer sospechada de ser espía china. Ese mismo día el consejo abrió una investigación independiente para ver si se comprometieron secretos de empresa o de seguridad nacional; Trump confirmó que el FBI investiga y un grupo de accionistas ha demandado a la compañía y a Huang, según Reuters. El New York Times recuerda que no hay un sucesor evidente para el cofundador, que dirige la empresa desde 1993.",
+    "El mercado general fue bien: el S&P 500 subió un 1,31 % y el Nasdaq un 1,60 %. Nvidia presenta resultados trimestrales el martes 17 de noviembre."
+   ],
+   "keys": [
+    "Cierre: 173,73 $ (+2,87 %); cayó cerca de un 8 % fuera de horario",
+    "El WSJ habla de posible destitución; sin confirmar",
+    "Resultados el martes 17"
+   ],
+   "why": "Tienes acciones de Nvidia y tu fondo MSCI World y el S&P 500 la llevan en gran peso: hoy puede abrir con una caída fuerte.",
+   "sources": [
+    {
+     "name": "Infobae: destitución",
+     "url": "https://www.infobae.com/estados-unidos/2026/11/11/nvidia-se-prepararia-para-destituir-a-su-ceo-jensen-huang-el-directorio-podria-reunirse-hoy-para-definir-su-futuro/"
+    },
+    {
+     "name": "Infobae: caída de la acción",
+     "url": "https://www.infobae.com/economia/2026/11/11/se-desploman-las-acciones-de-nvidia-tras-las-nuevas-versiones-del-escandalo-que-involucra-a-su-ceo-jensen-huang/"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-048-5019892"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-ibex-20000-crudo",
+   "section": "economia",
+   "weight": 1,
+   "title": "El Ibex 35 recupera los 20.000 puntos pese al repunte del crudo",
+   "dek": "Subió un 0,46 % hasta 20.027,90, con Repsol (+3,03 %) a la cabeza.",
+   "figure": {
+    "value": "20.028",
+    "label": "puntos Ibex 35"
+   },
+   "place": "Madrid",
+   "body": [
+    "La Bolsa española cerró el miércoles con una subida del 0,46 % y recuperó los 20.000 puntos, hasta 20.027,90, según Infobae. Repsol subió un 3,03 % al calor del crudo; Iberdrola ganó un 0,91 % y Santander un 0,34 %, mientras BBVA cedió un 0,08 % e Inditex un 0,10 %.",
+    "El Brent subió un 2,74 % hasta unos 94 dólares por el estancamiento entre EE. UU. e Irán, y los analistas citados en prensa relacionan el encarecimiento del crudo con las expectativas de subidas de tipos."
+   ],
+   "keys": [
+    "Ibex: 20.027,90 puntos (+0,46 %)",
+    "Repsol +3,03 %",
+    "Brent ≈ 94 $ (+2,74 %)"
+   ],
+   "why": "Un crudo alto encarece la gasolina y puede retrasar las bajadas de tipos de tu hipoteca futura o alquiler.",
+   "sources": [
+    {
+     "name": "Infobae (Europa Press)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/11/la-bolsa-sube-un-046-y-recupera-los-20000-puntos-pese-al-repunte-del-precio-del-crudo/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-hipoteca-requisitos-salarios",
+   "section": "economia",
+   "weight": 1,
+   "title": "Comprar casa exige de media 3.000 euros de sueldo y 76.000 de ahorro, y los salarios suben dos puntos menos que la inflación",
+   "dek": "Dos análisis de Infobae retratan el mismo problema: la compra se aleja mientras el poder adquisitivo cae.",
+   "figure": {
+    "value": "76.000",
+    "label": "€ de ahorro medio"
+   },
+   "place": "España",
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   },
+   "body": [
+    "Según Infobae, el banco medio pide hoy unos 3.000 euros de sueldo y 76.000 euros de ahorro para conceder una hipoteca, un umbral muy alto para quien empieza a trabajar.",
+    "Otro análisis del mismo medio señala que los sueldos suben unos dos puntos por debajo de la inflación, por lo que los trabajadores pierden poder adquisitivo. Ambos textos conectan con las reivindicaciones de la huelga del 11-N."
+   ],
+   "keys": [
+    "Hipoteca media: 3.000 € de sueldo y 76.000 € de ahorro",
+    "Salarios, dos puntos por debajo de la inflación"
+   ],
+   "why": "Explica por qué el alquiler sigue siendo la opción y por qué las ayudas de vivienda pesan tanto.",
+   "sources": [
+    {
+     "name": "Infobae: hipoteca",
+     "url": "https://www.infobae.com/espana/2026/11/11/comprar-una-vivienda-ya-exige-3000-euros-de-sueldo-y-un-ahorro-de-76000-es-lo-que-pide-el-banco-de-media-para-conceder-una-hipoteca/"
+    },
+    {
+     "name": "Infobae: salarios",
+     "url": "https://www.infobae.com/espana/2026/11/10/los-trabajadores-pierden-poder-adquisitivo-los-sueldos-suben-pero-dos-puntos-menos-que-la-inflacion/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-poblacion-ine-record",
+   "section": "sociedad",
+   "weight": 1,
+   "title": "España alcanza los 49,8 millones de habitantes, el máximo de la serie histórica",
+   "dek": "El INE publica hoy la Estadística Continua de Población a 1 de octubre.",
+   "figure": {
+    "value": "49,8 M",
+    "label": "habitantes en julio"
+   },
+   "place": "España",
+   "body": [
+    "El INE publica hoy a las 09:00 la Estadística Continua de Población a 1 de octubre de 2026. En julio España tenía 49.801.559 habitantes, el máximo de la serie histórica, según el resumen de EFE.",
+    "El dato ayuda a entender la presión sobre la vivienda, uno de los ejes de la campaña."
+   ],
+   "keys": [
+    "49.801.559 habitantes en julio",
+    "Nueva publicación hoy a las 09:00"
+   ],
+   "why": "Más población y poca oferta de vivienda explican parte de los alquileres que pagas.",
+   "sources": [
+    {
+     "name": "Infobae (EFE): temas del día",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/11/temas-del-dia-de-efe-espana-del-jueves-12-de-noviembre-de-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-familias-monomarentales",
+   "section": "sociedad",
+   "weight": 1,
+   "title": "El Gobierno concede los beneficios de familia numerosa a las monomarentales con dos hijos",
+   "dek": "Y las empresas deberán explicar por escrito cómo se calculan las comisiones e incentivos del sueldo.",
+   "figure": {
+    "value": "2",
+    "label": "hijos para el beneficio"
+   },
+   "place": "España",
+   "body": [
+    "El Gobierno español extiende los beneficios de las familias numerosas a las familias monomarentales con dos hijos, según Orain.",
+    "Infobae informa además de que las comisiones e incentivos que completan el sueldo ya no podrán depender de objetivos que la empresa no haya explicado: deberá informar por escrito del cálculo y de los criterios."
+   ],
+   "keys": [
+    "Familia numerosa para monomarentales con dos hijos",
+    "Comisiones: cálculo y criterios por escrito"
+   ],
+   "why": "Si cobras comisiones o incentivos, tienes derecho a saber cómo se calculan.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/11/10/el-gobierno-espanol-concede-los-beneficios-familias-numerosas-las-monomarentales-dos-hijos/"
+    },
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/espana/2026/11/11/las-comisiones-e-incentivos-que-completan-tu-salario-ya-no-dependeran-de-cumplir-unos-objetivos-que-la-empresa-no-te-ha-explicado-debe-informar-por-escrito-del-calculo-y-los-criterios/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-bbk-live-2027-cartel",
+   "section": "cultura",
+   "weight": 2,
+   "title": "The xx, Pixies, The War on Drugs y alt-J, primeros nombres del Bilbao BBK Live 2027",
+   "dek": "El festival se celebrará del 8 al 10 de julio en Kobetamendi.",
+   "figure": {
+    "value": "8-10 jul",
+    "label": "BBK Live 2027"
+   },
+   "place": "Bilbao",
+   "body": [
+    "El Bilbao BBK Live 2027 anuncia sus primeros cabezas de cartel: The xx, Pixies, The War on Drugs y alt-J. Se celebrará del 8 al 10 de julio en Kobetamendi, según Orain.",
+    "Es el primer avance de un cartel que se irá completando durante los próximos meses."
+   ],
+   "keys": [
+    "The xx, Pixies, The War on Drugs y alt-J",
+    "8-10 de julio de 2027, en Kobetamendi"
+   ],
+   "why": "Ideal para apuntarlo con tiempo si quieres ir en pareja.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/cultura/musica/2026/11/06/the-xx-pixies-the-war-on-drugs-altj-primeros-nombres-del-bilbao-bbk-live-2027/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-azkue-museo-vasco",
+   "section": "cultura",
+   "weight": 1,
+   "title": "El Museo Vasco de Bilbao recoge el legado de R. M. Azkue, primer presidente de Euskaltzaindia",
+   "dek": "La exposición repasa la obra del sacerdote, músico y lingüista.",
+   "figure": {
+    "value": "1º",
+    "label": "presidente de Euskaltzaindia"
+   },
+   "place": "Bilbao",
+   "body": [
+    "El Museo Vasco de Bilbao acoge una exposición sobre Resurrección María de Azkue, primer presidente de la Real Academia de la Lengua Vasca, según Orain.",
+    "La muestra recoge su prolífico legado, ligado al euskera, el folclore y la música vasca."
+   ],
+   "keys": [
+    "Exposición sobre Azkue en el Museo Vasco"
+   ],
+   "why": "Un plan tranquilo para enseñar a tu pareja la cultura vasca.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/cultura/2026/11/09/exposicion-el-primer-presidente-euskaltzaindia-rm-azkue-en-el-museo-vasco-bilbao/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-hermanas-trailer",
+   "section": "cultura",
+   "weight": 1,
+   "title": "EITB estrena el tráiler de «Hermanas», con Elena Anaya y Emma Suárez, que llega a los cines el 27 de noviembre",
+   "dek": "La película está dirigida por Ione Hernández Sáenz.",
+   "figure": {
+    "value": "27 nov",
+    "label": "estreno en cines"
+   },
+   "place": "Euskadi",
+   "body": [
+    "EITB presentó el tráiler de «Hermanas», dirigida por Ione Hernández Sáenz y protagonizada por Elena Anaya y Emma Suárez. Se estrena en cines el 27 de noviembre, según Orain.",
+    "Orain también recoge que «Ghost in the Cell» fue la mejor película en la Semana de Cine Fantástico y de Terror de San Sebastián."
+   ],
+   "keys": [
+    "Estreno el 27 de noviembre",
+    "Dirige Ione Hernández Sáenz"
+   ],
+   "why": "Una opción de cine para el fin de semana del 27.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/cultura/cine/2026/11/06/presentamos-en-primicia-el-trailer-hermanas/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-euclid-datos",
+   "section": "ciencia",
+   "weight": 1,
+   "title": "La ESA publica hoy la primera gran entrega de datos del telescopio Euclid",
+   "dek": "La misión ha descubierto este año los cuásares más antiguos observados y su primer cometa.",
+   "figure": {
+    "value": "12 nov",
+    "label": "entrega de datos"
+   },
+   "place": "Europa",
+   "body": [
+    "Según la agenda de EFE, la Agencia Espacial Europea publica hoy la primera gran entrega de datos del telescopio Euclid, diseñado para cartografiar la estructura del universo.",
+    "Infobae recogió en julio que Euclid halló los dos cuásares más antiguos jamás observados y en octubre que descubrió su primer cometa."
+   ],
+   "keys": [
+    "Primera gran entrega de datos",
+    "Cuásares más antiguos (julio) y primer cometa (octubre)"
+   ],
+   "why": "Ciencia europea para entender cómo se organiza el universo.",
+   "sources": [
+    {
+     "name": "Infobae (EFE): temas del día",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/11/temas-del-dia-de-efe-espana-del-jueves-12-de-noviembre-de-2026/"
+    },
+    {
+     "name": "Infobae: cuásares",
+     "url": "https://www.infobae.com/america/ciencia-america/2026/07/06/el-telescopio-euclid-detecto-los-cuasares-mas-antiguos-del-universo-y-dos-rompen-todos-los-records/"
+    },
+    {
+     "name": "Infobae: cometa",
+     "url": "https://www.infobae.com/america/agencias/2026/10/19/el-telescopio-de-la-agencia-espacial-europea-euclid-descubre-su-primer-cometa/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-copa-eibar-amorebieta",
+   "section": "deportes",
+   "weight": 1,
+   "title": "Eibar y Amorebieta pasan a la segunda eliminatoria de la Copa del Rey",
+   "dek": "Ambos equipos vascos superaron a Pamplona y a la UD Logroñés.",
+   "figure": {
+    "value": "2",
+    "label": "equipos vascos"
+   },
+   "place": "Euskadi",
+   "body": [
+    "Eibar y Amorebieta se clasificaron para la segunda eliminatoria de la Copa del Rey tras derrotar al Pamplona y a la UD Logroñés, según Kirolak EITB (Orain).",
+    "El texto consultado no incluye los marcadores."
+   ],
+   "keys": [
+    "Eibar y Amorebieta, a la segunda ronda"
+   ],
+   "why": "Dos equipos de aquí siguen vivos en la Copa.",
+   "sources": [
+    {
+     "name": "Kirolak (Orain)",
+     "url": "https://kirolakeitb.eus/es/futbol/equipos/eibar/2026/11/10/eibar-amorebieta-pasan-a-segunda-eliminatoria-copa-del-rey-derrotar-pamplona-ud-logrones/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-12-euskal-selekzioa-oficialidad",
+   "section": "deportes",
+   "weight": 1,
+   "title": "La Federación Vasca de Fútbol reactiva el proceso de oficialidad internacional de Euskal Selekzioa",
+   "dek": "Busca reconocimiento oficial para la selección vasca.",
+   "figure": {
+    "value": "1",
+    "label": "objetivo: oficialidad"
+   },
+   "place": "Euskadi",
+   "body": [
+    "La Federación Vasca de Fútbol reactiva el proceso para lograr la oficialidad internacional de la selección vasca, según Orain.",
+    "El resumen consultado no detalla plazos ni los pasos concretos que se darán."
+   ],
+   "keys": [
+    "Se reactiva el proceso de oficialidad"
+   ],
+   "why": "Tema recurrente del deporte vasco.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/sociedad/2026/11/10/la-federacion-vasca-futbol-reactiva-el-proceso-lograr-la-oficialidad-internacional-euskal-selekzioa/"
+    }
+   ]
+  }
+ ],
+ "briefs": [
+  {
+   "id": "2026-11-12-b01",
+   "section": "euskadi",
+   "tag": "Presupuestos",
+   "text": "El Gobierno Vasco admite que el contexto electoral «no ayuda» a un pacto presupuestario con la oposición.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/politica/2026/11/10/el-gobierno-vasco-constata-el-contexto-electoral-no-ayuda-un-pacto-presupuestario/"
+   }
+  },
+  {
+   "id": "2026-11-12-b02",
+   "section": "euskadi",
+   "tag": "Memoria",
+   "text": "Pradales en el Día de la Memoria: «No podemos cambiar la historia pero sí aprender de las lecciones que nos deja».",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/politica/2026/11/10/dia-la-memoria-en-euskadi-pradales-no-podemos-cambiar-la-historia-aprender-las-lecciones-nos-deja/"
+   }
+  },
+  {
+   "id": "2026-11-12-b03",
+   "section": "euskadi",
+   "tag": "Empleo",
+   "text": "Vicinay mantiene los 60 despidos anunciados y el comité anuncia nuevas movilizaciones.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/economia/2026/11/09/vicinay-mantiene-los-60-despidos-anunciados-el-comite-anuncia-nuevas-movilizaciones/"
+   }
+  },
+  {
+   "id": "2026-11-12-b04",
+   "section": "euskadi",
+   "tag": "Oposiciones",
+   "text": "Absueltas las dos personas acusadas de filtrar los exámenes de la OPE de Osakidetza.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/economia/2026/11/10/absueltas-las-dos-personas-acusadas-filtrar-los-examenes-la-ope-osakidetza/"
+   }
+  },
+  {
+   "id": "2026-11-12-b05",
+   "section": "euskadi",
+   "tag": "Sanidad",
+   "text": "La Unidad de Protonterapia de Euskadi supera uno de sus hitos para arrancar en 2028.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/11/10/la-unidad-protonterapia-euskadi-supera-uno-sus-hitos-arrancar-en-2028/"
+   }
+  },
+  {
+   "id": "2026-11-12-b06",
+   "section": "euskadi",
+   "tag": "Vivienda",
+   "text": "Donostia aprueba el proyecto de reparcelación de Txomin Enea II: 400 viviendas protegidas.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/11/10/400-viviendas-protegidas-en-donostia-el-ayuntamiento-aprueba-el-proyecto-reparcelacion-txomin-enea-ii/"
+   }
+  },
+  {
+   "id": "2026-11-12-b07",
+   "section": "espana",
+   "tag": "Tribunales",
+   "text": "La Audiencia Nacional rechaza apartar de la causa el informe sobre los 200.000 euros que Zapatero cobró por sus gestiones en Bolivia.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/espana/2026/11/10/nuevo-reves-judicial-para-zapatero-la-audiencia-nacional-rechaza-apartar-de-la-causa-el-informe-sobre-los-200000-euros-que-cobro-por-sus-gestiones-en-bolivia/"
+   }
+  },
+  {
+   "id": "2026-11-12-b08",
+   "section": "espana",
+   "tag": "Campaña",
+   "text": "El PP propone que los jóvenes de 18 a 35 años no paguen IRPF su primer año como contribuyentes y IVA cero en alimentos básicos.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/espana/2026/11/10/el-pp-anuncia-sus-propuestas-economicas-para-el-29-n-los-jovenes-de-18-a-35-anos-no-pagaran-irpf-en-su-primer-ano-como-contribuyentes-y-los-alimentos-basicos-tendran-iva-cero/"
+   }
+  },
+  {
+   "id": "2026-11-12-b09",
+   "section": "espana",
+   "tag": "Campaña",
+   "text": "El PP promete derogar el pinganillo del Congreso: «El castellano volverá a ser la lengua común», según Orain.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/politica/2026/11/10/el-pp-promete-derogar-el-uso-del-pinganillo-en-el-congreso-el-castellano-volvera-ser-la-lengua-comun/"
+   }
+  },
+  {
+   "id": "2026-11-12-b10",
+   "section": "espana",
+   "tag": "Urda",
+   "text": "Funeral de Estado por las 69 víctimas del accidente ferroviario de Urda.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/11/10/funeral-estado-las-69-victimas-urda/"
+   }
+  },
+  {
+   "id": "2026-11-12-b11",
+   "section": "espana",
+   "tag": "Salario mínimo",
+   "text": "El salario mínimo de 2027 podría quedar libre de IRPF si Hacienda eleva la deducción hasta 1.033 euros.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/espana/2026/11/10/el-salario-minimo-de-2027-podria-quedar-libre-de-irpf-para-ello-hacienda-tiene-que-elevar-la-deduccion-hasta-los-1033-euros/"
+   }
+  },
+  {
+   "id": "2026-11-12-b12",
+   "section": "espana",
+   "tag": "Televisión",
+   "text": "David Broncano pide disculpas en «La Revuelta» tras su entrevista a Santiago Abascal: «La cagué tremendamente».",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/espana/2026/11/11/david-broncano-pide-disculpas-en-la-revuelta-tras-entrevistar-a-santiago-abascal-la-cague-tremendamente/"
+   }
+  },
+  {
+   "id": "2026-11-12-b13",
+   "section": "mundo",
+   "tag": "Rusia",
+   "text": "Muere a los 66 años Alexander Darchiev, embajador de Rusia en Estados Unidos.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/america/mundo/2026/11/11/murio-alexander-darchiev-embajador-de-rusia-en-estados-unidos/"
+   }
+  },
+  {
+   "id": "2026-11-12-b14",
+   "section": "mundo",
+   "tag": "Latinoamérica",
+   "text": "Lula y Delcy Rodríguez acuerdan avanzar hacia la reanudación de relaciones entre Brasil y Venezuela.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/america/america-latina/2026/11/11/lula-y-delcy-rodriguez-acordaron-avanzar-en-la-reanudacion-de-las-relaciones-entre-brasil-y-venezuela/"
+   }
+  },
+  {
+   "id": "2026-11-12-b15",
+   "section": "mundo",
+   "tag": "Paraguay",
+   "text": "Ueno Bank: su caída deja sin empleo a 7.000 personas en cinco países, según Infobae.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/america/america-latina/2026/11/11/la-caida-de-ueno-bank-dejo-sin-empleo-a-7000-personas-en-cinco-paises/"
+   }
+  },
+  {
+   "id": "2026-11-12-b16",
+   "section": "economia",
+   "tag": "Tecnología",
+   "text": "Chile suma una región de Amazon Web Services tras una inversión de 4.000 millones de dólares.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/america/america-latina/2026/11/11/chile-sumo-una-nueva-region-de-infraestructura-de-amazon-web-services-tras-una-inversion-de-usd-4000-millones/"
+   }
+  },
+  {
+   "id": "2026-11-12-b17",
+   "section": "sociedad",
+   "tag": "Costa",
+   "text": "Bizkaia mantendrá en 2027 su descuento del 20 % en los abonos de transporte público, según Orain.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/11/10/bizkaia-mantendra-en-2027-su-descuento-del-20-al-transporte-publico/"
+   },
+   "comarca": "bi"
+  },
+  {
+   "id": "2026-11-12-b18",
+   "section": "cultura",
+   "tag": "Música",
+   "text": "Bulego rompe un año de silencio con el single «Zugatik» y publicará el disco «AMORE» el 12 de enero.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/cultura/musica/2026/11/09/bulego-rompe-ano-silencio-zugatik/"
+   }
+  },
+  {
+   "id": "2026-11-12-b19",
+   "section": "cultura",
+   "tag": "Bertsolaritza",
+   "text": "Aitor Mendiluze gana la semifinal de Gernika-Lumo; la última del primer tramo será la próxima semana en Biarritz.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/cultura/bertsolaritza/2026/11/07/aitor-mendiluze-gana-la-semifinal-gernikalumo/"
+   },
+   "comarca": "bu"
+  },
+  {
+   "id": "2026-11-12-b20",
+   "section": "cultura",
+   "tag": "Cine",
+   "text": "James Dean tendrá un biopic que explora su relación secreta con un escritor, según Infobae.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/espana/cultura/2026/11/11/se-prepara-un-biopic-sobre-james-dean-en-el-que-se-destapa-su-homosexualidad-una-pelicula-sobre-la-relacion-secreta-del-actor-con-un-escritor/"
+   }
+  },
+  {
+   "id": "2026-11-12-b21",
+   "section": "cultura",
+   "tag": "Literatura",
+   "text": "Joseba Sarrionandia afirma que el tema de «Drapetomania» es el tráfico de esclavos.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/cultura/literatura/2026/11/10/joseba-sarrionandia-el-trafico-esclavos-es-el-tema-drapetomania/"
+   }
+  },
+  {
+   "id": "2026-11-12-b22",
+   "section": "ciencia",
+   "tag": "Tecnología",
+   "text": "Ayesa Digital desarrolla un proyecto de computación cuántica para predecir inundaciones y minimizar sus daños.",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/sociedad/2026/11/10/ayesa-digital-desarrolla-un-proyecto-predecir-inundaciones-minimizar-sus-danos-mediante-computacion-cuantica/"
+   }
+  },
+  {
+   "id": "2026-11-12-b23",
+   "section": "deportes",
+   "tag": "Baloncesto",
+   "text": "Surne Bilbao Basket vuelve al liderato de la Champions tras ganar al Alba Berlín 83-75 en el Bilbao Arena.",
+   "source": {
+    "name": "Kirolak (Orain)",
+    "url": "https://kirolakeitb.eus/es/baloncesto/equipos/bilbao-basket/2026/11/10/surne-bilbao-vuelve-al-liderato-tras-ganar-al-alba-berlin-83-75/"
+   },
+   "comarca": "bi"
+  }
+ ]
+}
