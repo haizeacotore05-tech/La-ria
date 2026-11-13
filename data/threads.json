@@ -1,21 +1,63 @@
 {
- "vivienda": {
-  "label": "Crisis de la vivienda",
-  "last": "2026-11-12",
-  "first": "2026-10-08",
-  "count": 79
- },
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-11-12",
+  "last": "2026-11-13",
   "first": "2026-10-08",
-  "count": 80
+  "count": 82
+ },
+ "sanidad": {
+  "label": "Sanidad",
+  "last": "2026-11-13",
+  "first": "2026-10-08",
+  "count": 21
+ },
+ "vivienda": {
+  "label": "Crisis de la vivienda",
+  "last": "2026-11-13",
+  "first": "2026-10-08",
+  "count": 81
  },
  "ucrania": {
   "label": "Guerra de Ucrania",
-  "last": "2026-11-12",
+  "last": "2026-11-13",
   "first": "2026-10-08",
-  "count": 28
+  "count": 30
+ },
+ "gaza": {
+  "label": "Guerra de Gaza",
+  "last": "2026-11-13",
+  "first": "2026-10-08",
+  "count": 12
+ },
+ "italia-ucrania": {
+  "label": "Italia y la guerra en Ucrania",
+  "last": "2026-11-13",
+  "first": "2026-11-13",
+  "count": 1
+ },
+ "italia-manovra": {
+  "label": "Manovra 2027",
+  "last": "2026-11-13",
+  "first": "2026-11-13",
+  "count": 2
+ },
+ "italia-francia-nations": {
+  "label": "Italia-Francia, Nations League",
+  "last": "2026-11-13",
+  "first": "2026-11-13",
+  "count": 1
+ },
+ "nvidia-huang": {
+  "label": "Nvidia y Jensen Huang",
+  "last": "2026-11-13",
+  "first": "2026-11-12",
+  "count": 2
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-11-13",
+  "first": "2026-10-08",
+  "count": 40
  },
  "guerra-iran": {
   "label": "Guerra con Irán",
@@ -31,12 +73,6 @@
  },
  "italia-nations-league": {
   "label": "Italia en la Nations League",
-  "last": "2026-11-12",
-  "first": "2026-11-12",
-  "count": 1
- },
- "nvidia-huang": {
-  "label": "Nvidia y Jensen Huang",
   "last": "2026-11-12",
   "first": "2026-11-12",
   "count": 1
@@ -58,24 +94,6 @@
   "last": "2026-11-11",
   "first": "2026-10-08",
   "count": 10
- },
- "gaza": {
-  "label": "Guerra de Gaza",
-  "last": "2026-11-11",
-  "first": "2026-10-08",
-  "count": 11
- },
- "sanidad": {
-  "label": "Sanidad",
-  "last": "2026-11-11",
-  "first": "2026-10-08",
-  "count": 20
- },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-11-11",
-  "first": "2026-10-08",
-  "count": 39
  },
  "italia-meloni": {
   "label": "Meloni",
