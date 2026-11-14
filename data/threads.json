@@ -1,27 +1,75 @@
 {
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-11-13",
+  "last": "2026-11-14",
   "first": "2026-10-08",
-  "count": 82
+  "count": 84
+ },
+ "plus-ultra": {
+  "label": "Caso Plus Ultra",
+  "last": "2026-11-14",
+  "first": "2026-11-14",
+  "count": 1
+ },
+ "guerra-iran": {
+  "label": "Guerra con Irán",
+  "last": "2026-11-14",
+  "first": "2026-10-09",
+  "count": 28
+ },
+ "ucrania": {
+  "label": "Guerra de Ucrania",
+  "last": "2026-11-14",
+  "first": "2026-10-08",
+  "count": 31
+ },
+ "nvidia-huang": {
+  "label": "Nvidia y Jensen Huang",
+  "last": "2026-11-14",
+  "first": "2026-11-12",
+  "count": 3
+ },
+ "euskal-selekzioa": {
+  "label": "Selección vasca",
+  "last": "2026-11-14",
+  "first": "2026-11-14",
+  "count": 1
  },
  "sanidad": {
   "label": "Sanidad",
-  "last": "2026-11-13",
+  "last": "2026-11-14",
   "first": "2026-10-08",
-  "count": 21
+  "count": 22
+ },
+ "allarmi-bomba-scuole": {
+  "label": "Alarmas de bomba en escuelas",
+  "last": "2026-11-14",
+  "first": "2026-11-12",
+  "count": 2
+ },
+ "italia-meloni": {
+  "label": "Meloni",
+  "last": "2026-11-14",
+  "first": "2026-10-08",
+  "count": 38
+ },
+ "italia-francia-nations": {
+  "label": "Italia-Francia, Nations League",
+  "last": "2026-11-14",
+  "first": "2026-11-13",
+  "count": 2
+ },
+ "oviedo-explosion": {
+  "label": "Policía muerto en Oviedo",
+  "last": "2026-11-14",
+  "first": "2026-11-11",
+  "count": 2
  },
  "vivienda": {
   "label": "Crisis de la vivienda",
   "last": "2026-11-13",
   "first": "2026-10-08",
   "count": 81
- },
- "ucrania": {
-  "label": "Guerra de Ucrania",
-  "last": "2026-11-13",
-  "first": "2026-10-08",
-  "count": 30
  },
  "gaza": {
   "label": "Guerra de Gaza",
@@ -41,46 +89,16 @@
   "first": "2026-11-13",
   "count": 2
  },
- "italia-francia-nations": {
-  "label": "Italia-Francia, Nations League",
-  "last": "2026-11-13",
-  "first": "2026-11-13",
-  "count": 1
- },
- "nvidia-huang": {
-  "label": "Nvidia y Jensen Huang",
-  "last": "2026-11-13",
-  "first": "2026-11-12",
-  "count": 2
- },
  "athletic": {
   "label": "Athletic Club",
   "last": "2026-11-13",
   "first": "2026-10-08",
   "count": 40
  },
- "guerra-iran": {
-  "label": "Guerra con Irán",
-  "last": "2026-11-12",
-  "first": "2026-10-09",
-  "count": 27
- },
- "allarmi-bomba-scuole": {
-  "label": "Alarmas de bomba en escuelas",
-  "last": "2026-11-12",
-  "first": "2026-11-12",
-  "count": 1
- },
  "italia-nations-league": {
   "label": "Italia en la Nations League",
   "last": "2026-11-12",
   "first": "2026-11-12",
-  "count": 1
- },
- "oviedo-explosion": {
-  "label": "Policía muerto en Oviedo",
-  "last": "2026-11-11",
-  "first": "2026-11-11",
   "count": 1
  },
  "accidente-toledo": {
@@ -94,12 +112,6 @@
   "last": "2026-11-11",
   "first": "2026-10-08",
   "count": 10
- },
- "italia-meloni": {
-  "label": "Meloni",
-  "last": "2026-11-11",
-  "first": "2026-10-08",
-  "count": 37
  },
  "protestas-italia": {
   "label": "Protestas en Italia",
