@@ -1,15 +1,51 @@
 {
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-11-16",
+  "last": "2026-11-17",
   "first": "2026-10-08",
-  "count": 91
+  "count": 92
+ },
+ "caso-kitchen": {
+  "label": "Caso Kitchen",
+  "last": "2026-11-17",
+  "first": "2026-11-17",
+  "count": 1
+ },
+ "ucrania": {
+  "label": "Guerra de Ucrania",
+  "last": "2026-11-17",
+  "first": "2026-10-08",
+  "count": 34
+ },
+ "guerra-iran": {
+  "label": "Guerra con Irán",
+  "last": "2026-11-17",
+  "first": "2026-10-09",
+  "count": 31
  },
  "vivienda": {
   "label": "Crisis de la vivienda",
-  "last": "2026-11-16",
+  "last": "2026-11-17",
   "first": "2026-10-08",
-  "count": 84
+  "count": 85
+ },
+ "nvidia-huang": {
+  "label": "Nvidia y Jensen Huang",
+  "last": "2026-11-17",
+  "first": "2026-11-12",
+  "count": 6
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-11-17",
+  "first": "2026-10-08",
+  "count": 43
+ },
+ "italia-manovra": {
+  "label": "Manovra italiana",
+  "last": "2026-11-17",
+  "first": "2026-11-13",
+  "count": 6
  },
  "nucleo-nacional": {
   "label": "Núcleo Nacional",
@@ -23,12 +59,6 @@
   "first": "2026-11-16",
   "count": 1
  },
- "guerra-iran": {
-  "label": "Guerra con Irán",
-  "last": "2026-11-16",
-  "first": "2026-10-09",
-  "count": 30
- },
  "euskal-selekzioa": {
   "label": "Selección vasca",
   "last": "2026-11-16",
@@ -41,35 +71,11 @@
   "first": "2026-10-08",
   "count": 23
  },
- "nvidia-huang": {
-  "label": "Nvidia y Jensen Huang",
-  "last": "2026-11-16",
-  "first": "2026-11-12",
-  "count": 5
- },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-11-16",
-  "first": "2026-10-08",
-  "count": 42
- },
- "italia-manovra": {
-  "label": "Manovra 2027",
-  "last": "2026-11-16",
-  "first": "2026-11-13",
-  "count": 4
- },
  "francia-protestas": {
   "label": "Protestas en Francia",
   "last": "2026-11-15",
   "first": "2026-10-20",
   "count": 20
- },
- "ucrania": {
-  "label": "Guerra de Ucrania",
-  "last": "2026-11-15",
-  "first": "2026-10-08",
-  "count": 32
  },
  "tubos-reunidos": {
   "label": "Tubos Reunidos",
