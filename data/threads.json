@@ -1,4 +1,16 @@
 {
+ "canarias-migracion": {
+  "label": "Migración en Canarias",
+  "last": "2026-11-18",
+  "first": "2026-11-16",
+  "count": 2
+ },
+ "sanidad": {
+  "label": "Sanidad",
+  "last": "2026-11-18",
+  "first": "2026-10-08",
+  "count": 24
+ },
  "elecciones-29n": {
   "label": "Elecciones 29-N",
   "last": "2026-11-17",
@@ -53,23 +65,11 @@
   "first": "2026-11-16",
   "count": 1
  },
- "canarias-migracion": {
-  "label": "Migración en Canarias",
-  "last": "2026-11-16",
-  "first": "2026-11-16",
-  "count": 1
- },
  "euskal-selekzioa": {
   "label": "Selección vasca",
   "last": "2026-11-16",
   "first": "2026-11-14",
   "count": 3
- },
- "sanidad": {
-  "label": "Sanidad",
-  "last": "2026-11-16",
-  "first": "2026-10-08",
-  "count": 23
  },
  "francia-protestas": {
   "label": "Protestas en Francia",
