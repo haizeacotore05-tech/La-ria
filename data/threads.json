@@ -1,9 +1,51 @@
 {
+ "elecciones-29n": {
+  "label": "Elecciones 29-N",
+  "last": "2026-11-19",
+  "first": "2026-10-08",
+  "count": 95
+ },
+ "ucrania": {
+  "label": "Guerra de Ucrania",
+  "last": "2026-11-19",
+  "first": "2026-10-08",
+  "count": 36
+ },
+ "nvidia-huang": {
+  "label": "Nvidia y Jensen Huang",
+  "last": "2026-11-19",
+  "first": "2026-11-12",
+  "count": 7
+ },
+ "guerra-iran": {
+  "label": "Guerra con Irán",
+  "last": "2026-11-19",
+  "first": "2026-10-09",
+  "count": 32
+ },
+ "vivienda": {
+  "label": "Crisis de la vivienda",
+  "last": "2026-11-19",
+  "first": "2026-10-08",
+  "count": 88
+ },
  "canarias-migracion": {
   "label": "Migración en Canarias",
-  "last": "2026-11-18",
+  "last": "2026-11-19",
   "first": "2026-11-16",
-  "count": 2
+  "count": 3
+ },
+ "allarmi-bomba-scuole": {
+  "label": "Alarmas de bomba en escuelas",
+  "last": "2026-11-19",
+  "first": "2026-11-12",
+  "count": 3
+ },
+ "italia-meloni": {
+  "label": "Meloni",
+  "last": "2026-11-19",
+  "first": "2026-10-08",
+  "count": 39
  },
  "sanidad": {
   "label": "Sanidad",
@@ -11,41 +53,11 @@
   "first": "2026-10-08",
   "count": 24
  },
- "elecciones-29n": {
-  "label": "Elecciones 29-N",
-  "last": "2026-11-17",
-  "first": "2026-10-08",
-  "count": 92
- },
  "caso-kitchen": {
   "label": "Caso Kitchen",
   "last": "2026-11-17",
   "first": "2026-11-17",
   "count": 1
- },
- "ucrania": {
-  "label": "Guerra de Ucrania",
-  "last": "2026-11-17",
-  "first": "2026-10-08",
-  "count": 34
- },
- "guerra-iran": {
-  "label": "Guerra con Irán",
-  "last": "2026-11-17",
-  "first": "2026-10-09",
-  "count": 31
- },
- "vivienda": {
-  "label": "Crisis de la vivienda",
-  "last": "2026-11-17",
-  "first": "2026-10-08",
-  "count": 85
- },
- "nvidia-huang": {
-  "label": "Nvidia y Jensen Huang",
-  "last": "2026-11-17",
-  "first": "2026-11-12",
-  "count": 6
  },
  "athletic": {
   "label": "Athletic Club",
@@ -88,18 +100,6 @@
   "last": "2026-11-14",
   "first": "2026-11-14",
   "count": 1
- },
- "allarmi-bomba-scuole": {
-  "label": "Alarmas de bomba en escuelas",
-  "last": "2026-11-14",
-  "first": "2026-11-12",
-  "count": 2
- },
- "italia-meloni": {
-  "label": "Meloni",
-  "last": "2026-11-14",
-  "first": "2026-10-08",
-  "count": 38
  },
  "italia-francia-nations": {
   "label": "Italia-Francia, Nations League",
