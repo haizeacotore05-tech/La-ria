@@ -1,33 +1,51 @@
 {
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-11-19",
+  "last": "2026-11-20",
   "first": "2026-10-08",
-  "count": 95
+  "count": 98
  },
  "ucrania": {
   "label": "Guerra de Ucrania",
-  "last": "2026-11-19",
+  "last": "2026-11-20",
   "first": "2026-10-08",
-  "count": 36
+  "count": 38
+ },
+ "guerra-iran": {
+  "label": "Guerra de Irán",
+  "last": "2026-11-20",
+  "first": "2026-10-09",
+  "count": 33
+ },
+ "gaza": {
+  "label": "Guerra de Gaza",
+  "last": "2026-11-20",
+  "first": "2026-10-08",
+  "count": 13
+ },
+ "italia-meloni": {
+  "label": "Italia de Meloni",
+  "last": "2026-11-20",
+  "first": "2026-10-08",
+  "count": 40
  },
  "nvidia-huang": {
   "label": "Nvidia y Jensen Huang",
-  "last": "2026-11-19",
+  "last": "2026-11-20",
   "first": "2026-11-12",
-  "count": 7
- },
- "guerra-iran": {
-  "label": "Guerra con Irán",
-  "last": "2026-11-19",
-  "first": "2026-10-09",
-  "count": 32
+  "count": 8
  },
  "vivienda": {
   "label": "Crisis de la vivienda",
-  "last": "2026-11-19",
+  "last": "2026-11-20",
   "first": "2026-10-08",
-  "count": 88
+  "count": 89
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-11-20",
+  "first": "2026-10-08",
+  "count": 44
  },
  "canarias-migracion": {
   "label": "Migración en Canarias",
@@ -41,12 +59,6 @@
   "first": "2026-11-12",
   "count": 3
  },
- "italia-meloni": {
-  "label": "Meloni",
-  "last": "2026-11-19",
-  "first": "2026-10-08",
-  "count": 39
- },
  "sanidad": {
   "label": "Sanidad",
   "last": "2026-11-18",
@@ -58,12 +70,6 @@
   "last": "2026-11-17",
   "first": "2026-11-17",
   "count": 1
- },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-11-17",
-  "first": "2026-10-08",
-  "count": 43
  },
  "italia-manovra": {
   "label": "Manovra italiana",
@@ -112,12 +118,6 @@
   "last": "2026-11-14",
   "first": "2026-11-11",
   "count": 2
- },
- "gaza": {
-  "label": "Guerra de Gaza",
-  "last": "2026-11-13",
-  "first": "2026-10-08",
-  "count": 12
  },
  "italia-ucrania": {
   "label": "Italia y la guerra en Ucrania",
