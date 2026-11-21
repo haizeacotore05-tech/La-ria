@@ -1,0 +1,2600 @@
+{
+ "date": "2026-11-21",
+ "number": 44,
+ "generatedAt": "2026-11-21T07:30:00+01:00",
+ "summary": "Wall Street se hunde por los temores sobre la IA y arrastra a Nvidia (-14 %), mientras arranca el último fin de semana de campaña del 29-N y los pensionistas marchan en Bilbao.",
+ "essentials": [
+  {
+   "story": "2026-11-21-wall-street-desplome-ia",
+   "text": "Wall Street se hunde (S&P 500 -3,7 %, Nasdaq -5,3 %) y Nvidia pierde un 14 %: el ruido de la IA golpea fondos y bolsa, también el Ibex, que cae a 18.873."
+  },
+  {
+   "story": "2026-11-21-campana-dia-9-ultimo-fin-de-semana",
+   "text": "Último fin de semana de campaña del 29-N: Sánchez en Canarias, Feijóo en Valencia, Abascal en Sevilla y Alicante; se vota el domingo 29."
+  },
+  {
+   "story": "2026-11-21-encuestas-horquilla-cis-sondeos",
+   "text": "El CIS da ventaja al PSOE, pero la media de sondeos privados pone al PP primero (128 escaños) y con opciones de mayoría con Vox."
+  },
+  {
+   "story": "2026-11-21-ucrania-bombardeo-masivo",
+   "text": "Rusia lanza cerca de 100 misiles y 404 drones sobre Ucrania, con ocho muertos; Zelenski pide más defensa aérea."
+  },
+  {
+   "story": "2026-11-21-shenzhen-trump-nuclear",
+   "text": "Tras la cumbre de Shenzhen, Trump admite que un pacto nuclear con China y Rusia será «muy difícil»."
+  },
+  {
+   "story": "2026-11-21-bilbao-marcha-pensionistas",
+   "text": "Hoy marchan los pensionistas en Bilbao: ojo a cortes y tráfico en el centro durante la tarde."
+  },
+  {
+   "story": "2026-11-21-euskadi-campana-pnv-bildu-psee",
+   "text": "En Euskadi, EH Bildu lidera los sondeos y el PNV teme quedar tercero; hoy mitin del PNV en Eibar a las 18:30."
+  },
+  {
+   "story": "2026-11-21-athletic-espanyol-0-1",
+   "text": "El Athletic cae 0-1 ante el Espanyol en San Mamés y se le complica la zona europea."
+  }
+ ],
+ "weather": {
+  "place": "Bilbao",
+  "days": [
+   {
+    "date": "2026-11-21",
+    "sky": "rain-light",
+    "text": "Nublado, lluvia débil",
+    "max": 18,
+    "min": 11
+   },
+   {
+    "date": "2026-11-22",
+    "sky": "rain-light",
+    "text": "Nublado, llovizna",
+    "max": 17,
+    "min": 8
+   },
+   {
+    "date": "2026-11-23",
+    "sky": "partly",
+    "text": "Poco nuboso",
+    "max": 17,
+    "min": 6
+   },
+   {
+    "date": "2026-11-24",
+    "sky": "rain",
+    "text": "Nublado, lluvia",
+    "max": 15,
+    "min": 7
+   }
+  ],
+  "source": {
+   "name": "AEMET",
+   "url": "https://www.aemet.es/es/eltiempo/prediccion/municipios/bilbao-id48020"
+  }
+ },
+ "markets": {
+  "asOf": "Cierre del viernes 20 de noviembre",
+  "items": [
+   {
+    "name": "Nvidia",
+    "value": "125,53 $",
+    "change": -14.0,
+    "mine": true,
+    "note": "Séptima semana seguida a la baja; cifra de Infobae/EFE del 20-11"
+   },
+   {
+    "name": "S&P 500",
+    "value": "precio sin confirmar",
+    "change": -3.7,
+    "mine": true,
+    "note": "Nota de Infobae del 20-11 marcada como provisional; sin nivel en puntos"
+   },
+   {
+    "name": "MSCI World",
+    "value": "precio sin confirmar",
+    "change": null,
+    "mine": true,
+    "note": "No se encontró dato fechado del viernes"
+   },
+   {
+    "name": "Nasdaq (el medio no precisa si Composite o 100)",
+    "value": "precio sin confirmar",
+    "change": -5.28,
+    "mine": true,
+    "note": "Peor semana desde la pandemia; nota provisional"
+   },
+   {
+    "name": "Dow Jones",
+    "value": "precio sin confirmar",
+    "change": -1.94,
+    "mine": true,
+    "note": "Nota provisional; sin nivel en puntos"
+   },
+   {
+    "name": "Ibex 35",
+    "value": "18.873,1",
+    "change": -1.63,
+    "note": "Quinta caída diaria seguida; -5,73 % en la semana; pierde los 19.000 puntos"
+   }
+  ],
+  "comment": "Wall Street cerró con fuertes caídas el viernes (S&P 500 -3,70 %, Nasdaq -5,28 %) por las dudas sobre la rentabilidad de la inversión en inteligencia artificial, tras el descenso de más del 2 % del jueves, día del debut bursátil de Anthropic. Nvidia se hundió un 14 % hasta 125,53 $ por la crisis de liderazgo tras la salida de Jensen Huang; no se halló dato fechado de MSCI World.",
+  "sources": [
+   {
+    "name": "Infobae: Wall Street cerró con fuertes caídas por las preocupaciones sobre la IA",
+    "url": "https://www.infobae.com/estados-unidos/2026/11/20/wall-street-cerro-con-fuertes-caidas-por-las-preocupaciones-sobre-la-ia-el-nasdaq-tuvo-su-peor-semana-desde-la-pandemia/"
+   },
+   {
+    "name": "Infobae: Nvidia se desploma un 14 %",
+    "url": "https://www.infobae.com/america/agencias/2026/11/20/nvidia-se-desploma-un-14-y-pierde-un-326-en-las-ultimas-dos-semanas/"
+   },
+   {
+    "name": "Infobae: La Bolsa española cae el 1,63 %",
+    "url": "https://www.infobae.com/espana/agencias/2026/11/20/la-bolsa-espanola-cae-el-163-y-cede-los-19000-puntos-por-las-dudas-sobre-la-tecnologia/"
+   },
+   {
+    "name": "Infobae: Anthropic subió 17 % en su debut",
+    "url": "https://infobae.com/tecno/2026/11/20/anthropic-subio-17-en-su-debut-en-bolsa-pero-wall-street-cerro-con-una-caida-superior-a-2"
+   }
+  ]
+ },
+ "alerts": [
+  {
+   "kind": "otros",
+   "title": "Marcha de pensionistas en Bilbao",
+   "text": "Salida a las 12:30 de la Plaza Elíptica hasta el Ayuntamiento. Posibles cortes y desvíos en el centro.",
+   "when": "Hoy 12:30",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bilbao/manifestacion-pensionistas-bilbao-21-noviembre-2026/"
+   }
+  },
+  {
+   "kind": "huelga",
+   "title": "Huelga médica del SMU hasta el 27",
+   "text": "Doce jornadas de huelga del sindicato Médicos Unidos hasta el 27 de noviembre; confirma tu cita en el centro de salud.",
+   "when": "Hasta el 27 nov",
+   "source": {
+    "name": "Orain",
+    "url": "https://orain.eus/es/actualidad/economia/2026/11/15/el-nuevo-sindicato-smu-convoca-doce-dias-huelga-medica-partir-del-lunes/"
+   }
+  },
+  {
+   "kind": "obras",
+   "title": "Cierre del túnel de Artxanda",
+   "text": "Cinco meses de cierre, hasta abril de 2027. Bizkaibus al aeropuerto sale solo de Termibus; hay cambios en varias líneas.",
+   "when": "Hasta el 2 abr 2027",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bilbao/cierre-tunel-artxanda-obras-cinco-meses-desvios-bilbao"
+   }
+  },
+  {
+   "kind": "obras",
+   "title": "Corte de tráfico en Matiko un mes",
+   "text": "Bilbao corta durante un mes el tráfico en Matiko por la recta final de las obras de la calle Tíboli. Consulta desvíos en el Ayuntamiento.",
+   "when": "Próximas semanas",
+   "source": {
+    "name": "Deia",
+    "url": "https://www.deia.eus/bizkaia/2026/11/03/bilbao-cortara-durante-mes-trafico-11717661.html"
+   }
+  }
+ ],
+ "agenda": [
+  {
+   "date": "2026-11-21",
+   "time": "10:00-14:00 y 16:00-19:00",
+   "kind": "plan",
+   "title": "Puente Bizkaia: pasarela superior",
+   "place": "Puente Colgante, Portugalete-Getxo",
+   "text": "Subir a la pasarela del puente colgante, Patrimonio Mundial, y cruzar la ría; horario de invierno y ascensor con aforo limitado.",
+   "price": "11 € ida y vuelta; estudiantes 9 €",
+   "couple": true,
+   "source": {
+    "name": "Puente Colgante",
+    "url": "https://puente-colgante.com/en/?p=72758"
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "until": "2027-02-21",
+   "time": "10:00-19:00 (martes a domingo)",
+   "kind": "exposicion",
+   "title": "Steve McQueen: 66–76–26",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Gran exposición del artista y cineasta Steve McQueen; plan seguro para un día de lluvia.",
+   "price": "15 €; estudiantes de 18 a 26 años: 7,50 €",
+   "couple": true,
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://www.guggenheim-bilbao.eus/en/plan-your-visit"
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "until": "2027-01-17",
+   "time": "10:00-19:00 (martes a domingo)",
+   "kind": "exposicion",
+   "title": "Ever is Over All. Pipilotti Rist",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Instalaciones de vídeo muy coloridas de Pipilotti Rist, abiertas desde el 1 de octubre, para pasar una tarde bajo techo.",
+   "price": "15 €; estudiantes de 18 a 26 años: 7,50 €",
+   "couple": true,
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://www.guggenheim-bilbao.eus/en/plan-your-visit"
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "until": "2027-04-04",
+   "time": "10:00-19:00 (martes a domingo)",
+   "kind": "exposicion",
+   "title": "Dan Flavin: Algo de luz",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Muestra del artista de las instalaciones de luz fluorescente, que transforman el espacio del museo.",
+   "price": "15 €; estudiantes de 18 a 26 años: 7,50 €",
+   "couple": true,
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://www.guggenheim-bilbao.eus/en/plan-your-visit"
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "until": "2027-04-11",
+   "time": "10:00-19:00 (martes a domingo)",
+   "kind": "exposicion",
+   "title": "Zadie Xa: serie in situ",
+   "place": "Museo Guggenheim, Bilbao",
+   "text": "Nueva intervención de la artista Zadie Xa que se abre en el Guggenheim esta semana, junto a Flavin, McQueen y Pipilotti Rist.",
+   "price": "15 €; estudiantes de 18 a 26 años: 7,50 €",
+   "couple": true,
+   "source": {
+    "name": "Museo Guggenheim Bilbao",
+    "url": "https://www.guggenheim-bilbao.eus/en/plan-your-visit"
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "time": "18:00-23:00",
+   "kind": "fiesta",
+   "title": "Santa Zezilia en la calle Aurrekoetxea: chocolatada, juegos y música",
+   "place": "Calle Aurrekoetxea, Bermeo",
+   "text": "Fiesta vecinal con chocolate con bizcochos, juegos infantiles y música; a media hora larga de Bilbao.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Ayuntamiento de Bermeo",
+    "url": "https://www.bermeo.eus/agenda-detalle.html?id_evento=10757"
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "time": "18:30",
+   "kind": "teatro",
+   "title": "Paloma de Parque",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Función de tarde del sábado en el Campos Elíseos.",
+   "price": "Desde 13,60 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "time": "20:00",
+   "kind": "concierto",
+   "title": "Zinebi: Bocachico Band",
+   "place": "Sala BBK, Bilbao",
+   "text": "Concierto de música colombiana dentro de Zinebiskopio, el programa musical del festival de cine documental de Bilbao.",
+   "price": "15 €",
+   "couple": true,
+   "source": {
+    "name": "Sala BBK",
+    "url": "https://salabbk.bbk.eus/eventos/zinebi-bocachica-band/"
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "time": "20:00",
+   "kind": "concierto",
+   "title": "Zeballos",
+   "place": "Sala Azkena, Bilbao",
+   "text": "El rapero uruguayo presenta «Amor Fiado», su séptimo álbum, publicado en marzo de 2026.",
+   "price": "Desde 22 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/zeballos-bilbao-1015686"
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "time": "20:00",
+   "kind": "teatro",
+   "title": "Mi vida en el arte",
+   "place": "Teatro Barakaldo, Barakaldo",
+   "text": "Función de sábado noche en el Teatro Barakaldo.",
+   "price": "Desde 12,75 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/barakaldo/teatro-barakaldo"
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "time": "22:00",
+   "kind": "teatro",
+   "title": "David Puerto: Bien",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Show de humor del cómico David Puerto para empezar la noche del sábado.",
+   "price": "Desde 15,30 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "time": "12:00",
+   "kind": "concierto",
+   "title": "Musika Banda: temporada 2026-27",
+   "place": "Palacio Euskalduna, Bilbao",
+   "text": "Concierto matinal de la temporada de Musika Banda en el Euskalduna, a un precio muy bajo.",
+   "price": "Desde 4 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/palacio-euskalduna-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "time": "12:00",
+   "kind": "cine",
+   "title": "Zinebi: Putanesca + Prejuicios + Headscarf",
+   "place": "Sala BBK, Bilbao",
+   "text": "Programa de tres cortometrajes sobre barrios que cambian, discriminación en los años 70 y miedo a reconquistarse.",
+   "price": "5 €",
+   "source": {
+    "name": "Sala BBK",
+    "url": "https://salabbk.bbk.eus/eventos/zinebi-putanesca-prejuicios-headscarf/"
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "time": "12:00",
+   "kind": "deporte",
+   "title": "Surne Bilbao Basket - Kosner Baskonia (Liga Endesa, jornada 9)",
+   "place": "Bilbao Arena, Miribilla, Bilbao",
+   "text": "Derbi vasco de baloncesto en domingo a mediodía en Miribilla.",
+   "price": "Consulta la tarifa en su web",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/deportes/ponsarnau-bilbao-basket-baskonia-derbi-miribilla-rueda-prensa"
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "time": "16:30 y 18:00",
+   "kind": "teatro",
+   "title": "Univers",
+   "place": "Teatro Barakaldo, Barakaldo",
+   "text": "Dos pases de tarde el domingo en el Teatro Barakaldo, con entradas muy económicas.",
+   "price": "Desde 4,50 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/barakaldo/teatro-barakaldo"
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "time": "17:00",
+   "kind": "teatro",
+   "title": "No me toques el cuento",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Obra en la que cuatro princesas se rebelan y cuentan la cara menos bonita de sus cuentos de hadas.",
+   "price": "17,85-23 €",
+   "source": {
+    "name": "Kulturklik",
+    "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/22/no-me-toques-el-cuento-/z12-detalle/es"
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "time": "17:00",
+   "kind": "cine",
+   "title": "Zinebi: cortos colombianos (Zinebiskopio)",
+   "place": "Sala BBK, Bilbao",
+   "text": "Cinco cortometrajes colombianos en castellano dentro de la sección Zinebiskopio.",
+   "price": "5 €",
+   "source": {
+    "name": "Sala BBK",
+    "url": "https://salabbk.bbk.eus/eventos/zinebi-todo-incluido-por-que-migran-los-peces-tuktu-padre-maiz-el-futuro-ya-paso-decaer/"
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "time": "17:30",
+   "kind": "teatro",
+   "title": "Iñaki Urrutia: Perdone caballero",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Función de humor de Iñaki Urrutia en el Campos Elíseos.",
+   "price": "Desde 16 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "time": "19:00",
+   "kind": "concierto",
+   "title": "L.A. Guns",
+   "place": "Sala Kafe Antzokia, Bilbao",
+   "text": "Sleaze rock de Los Ángeles con Phil Lewis y Tracii Guns, ex Guns N' Roses, en su gira «Lucky MF'r Tour».",
+   "price": "Desde 35 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/l-a-guns-bilbao-1015089"
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "time": "19:30",
+   "kind": "concierto",
+   "title": "Musikene: Etorkizuneko talentua. Max Reger erronka",
+   "place": "Palacio Euskalduna, Bilbao",
+   "text": "Concierto con jóvenes talentos de Musikene dedicado a un reto con obras de Max Reger.",
+   "price": "Desde 17 €",
+   "couple": true,
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/palacio-euskalduna-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "time": "20:00",
+   "kind": "cine",
+   "title": "Zinebi: «La maleta de Álex»",
+   "place": "Sala BBK, Bilbao",
+   "text": "Documental sobre el actor Álex Angulo, contado por su hija adoptiva Dodó, que viaja de Taiwán a Bilbao para conocerle.",
+   "price": "5 €",
+   "couple": true,
+   "source": {
+    "name": "Sala BBK",
+    "url": "https://salabbk.bbk.eus/eventos/zinebi-la-maleta-de-alex/"
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "time": "20:00",
+   "kind": "teatro",
+   "title": "Show patético",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Función de cierre del domingo en el Campos Elíseos.",
+   "price": "Desde 16,15 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-23",
+   "time": "17:30",
+   "kind": "deporte",
+   "title": "Entrenamiento a puerta abierta del Athletic",
+   "place": "Lezama, Bizkaia",
+   "text": "Ver al primer equipo del Athletic entrenar de cerca; hay que reservar plaza antes en la web oficial del club.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/deportes/entrenamiento-athletic-lezama-puertas-abiertas-lunes-23"
+   }
+  },
+  {
+   "date": "2026-11-23",
+   "time": "19:00",
+   "kind": "concierto",
+   "title": "El Señor de los Anillos en concierto (The Lords of the Sound)",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "La banda sonora de la saga interpretada en directo; un plan para fans de la fantasía.",
+   "price": "Desde 29,75 €",
+   "couple": true,
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-23",
+   "time": "20:00",
+   "kind": "cine",
+   "title": "Zinebi: «Pedro Arrupe. Yo viví la bomba atómica» + coloquio",
+   "place": "Sala BBK, Bilbao",
+   "text": "Documental sobre el jesuita vasco Pedro Arrupe, superviviente de Hiroshima, con coloquio posterior dentro de Zinebi.",
+   "price": "5 €",
+   "couple": true,
+   "source": {
+    "name": "Sala BBK",
+    "url": "https://salabbk.bbk.eus/eventos/zinebi-pedro-arrupe-yo-vivi-la-bomba-atomica-coloquio/"
+   }
+  },
+  {
+   "date": "2026-11-24",
+   "until": "2027-01-10",
+   "time": "11:00-15:00 y 16:00-22:00",
+   "kind": "experiencia",
+   "title": "Pista de hielo y tobogán de Navidad",
+   "place": "El Arenal y muelle de Ripa, Bilbao",
+   "text": "Pista de hielo natural y tobogán con trineos hinchables junto a la ría, abiertos hasta el 10 de enero.",
+   "price": "Pista: 8,50 € la hora; tobogán: 5 € (3 bajadas)",
+   "couple": true,
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bilbao/pista-hielo-tobogan-bilbao-2026-precios-horario"
+   }
+  },
+  {
+   "date": "2026-11-24",
+   "time": "17:00",
+   "kind": "cine",
+   "title": "Zinebi: Simulacro + coloquio",
+   "place": "Sala BBK, Bilbao",
+   "text": "Un director recrea con actores la discusión que separó a sus padres; en castellano y euskera, con coloquio.",
+   "price": "5 €",
+   "source": {
+    "name": "Sala BBK",
+    "url": "https://salabbk.bbk.eus/eventos/zinebi-simulacro-coloquio/"
+   }
+  },
+  {
+   "date": "2026-11-24",
+   "time": "19:30",
+   "kind": "teatro",
+   "title": "Il Barbiere di Siviglia",
+   "place": "Palacio Euskalduna, Bilbao",
+   "text": "Función de la ópera de Rossini en el Euskalduna; también el 27 y el 30 de noviembre a las 19:30.",
+   "price": "Desde 31 €",
+   "couple": true,
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/palacio-euskalduna-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-24",
+   "time": "20:00",
+   "kind": "cine",
+   "title": "Zinebi: Empoderío + El regalo + coloquio",
+   "place": "Sala BBK, Bilbao",
+   "text": "Dos films de Lara Izagirre sobre mujeres gitanas de Bilbao, con coloquio posterior; buen plan para conocer la ciudad.",
+   "price": "5 €",
+   "couple": true,
+   "source": {
+    "name": "Sala BBK",
+    "url": "https://salabbk.bbk.eus/eventos/zinebi-empoderio-el-regalo-coloquio/"
+   }
+  },
+  {
+   "date": "2026-11-25",
+   "time": "20:00",
+   "kind": "cine",
+   "title": "Zinebi: Bertoko luze (ETS – Itzal argitan) + coloquio",
+   "place": "Sala BBK, Bilbao",
+   "text": "Documental en euskera sobre el cantante Iñigo Etxezarreta y su banda tras veinte años de carrera, con coloquio.",
+   "price": "5 €",
+   "couple": true,
+   "source": {
+    "name": "Sala BBK",
+    "url": "https://salabbk.bbk.eus/eventos/zinebi-ets-itzal-argitan-coloquio/"
+   }
+  },
+  {
+   "date": "2026-11-26",
+   "time": "20:00",
+   "kind": "teatro",
+   "title": "JAC",
+   "place": "Teatro Barakaldo, Barakaldo",
+   "text": "Función de jueves por la noche en el Teatro Barakaldo.",
+   "price": "Desde 11,25 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/barakaldo/teatro-barakaldo"
+   }
+  },
+  {
+   "date": "2026-11-26",
+   "time": "21:30",
+   "kind": "concierto",
+   "title": "Carlos Ares (segunda fecha)",
+   "place": "Sala Santana 27, Bilbao",
+   "text": "Segunda fecha del cantautor en Bilbao, en la sala de Bolueta.",
+   "price": "Desde 30,80 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/carlos-ares-segunda-fecha-bilbao-bilbao-1016854"
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "time": "19:00",
+   "kind": "teatro",
+   "title": "La segunda venida de Cristo",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Función de viernes por la tarde en el Campos Elíseos.",
+   "price": "Desde 18 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "time": "20:00",
+   "kind": "teatro",
+   "title": "Adulto en prácticas",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Función de viernes por la noche en el Campos Elíseos.",
+   "price": "Desde 13,60 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "time": "21:30",
+   "kind": "concierto",
+   "title": "Carlos Ares",
+   "place": "Sala Santana 27, Bilbao",
+   "text": "Concierto del cantautor de pop rock y folk en la sala de Bolueta; primera fecha de sus dos noches en Bilbao.",
+   "price": "Desde 30,80 €",
+   "source": {
+    "name": "La Ganzúa",
+    "url": "https://www.laganzua.net/conciertos/carlos-ares-bilbao-1016365"
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "time": "22:00",
+   "kind": "teatro",
+   "title": "Vaquero",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Función nocturna del viernes en el Campos Elíseos.",
+   "price": "Desde 22 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:00",
+   "kind": "concierto",
+   "title": "Revólver: LA 03010 Tour",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Carlos Goñi combina canciones nuevas de su disco con grandes éxitos, unos 90 minutos de rock en el Arriaga.",
+   "price": "22-42 €",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/revolver/"
+   }
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "kind": "fiesta",
+   "title": "San Andrés en Barrika: concierto de cierre y feria",
+   "place": "Barrika",
+   "text": "Feria artesanal y agrícola desde las 11:00, magia a las 12:30 y cierre con La Fabulosa y Decadente Mambo Express a las 20:30. Programa previsto.",
+   "price": "Gratis",
+   "couple": true,
+   "source": {
+    "name": "Festivales de España",
+    "url": "https://www.festivalesdeespana.com/festival/fiestas-de-san-andres-barrika"
+   }
+  },
+  {
+   "date": "2026-11-28",
+   "time": "20:30",
+   "kind": "concierto",
+   "title": "Jorge Drexler",
+   "place": "Palacio Euskalduna, Bilbao",
+   "text": "Concierto del cantautor uruguayo en el Euskalduna.",
+   "price": "Desde 38 €",
+   "couple": true,
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/palacio-euskalduna-bilbao"
+   }
+  },
+  {
+   "date": "2026-11-29",
+   "time": "19:00",
+   "kind": "teatro",
+   "title": "Vientos del pueblo (Pep Tosar sobre Miguel Hernández)",
+   "place": "Teatro Arriaga, Bilbao",
+   "text": "Guitarra, voz, danza y vídeo para recorrer la vida del poeta Miguel Hernández, sin mitos.",
+   "price": "21 €; cupo joven: 5 €",
+   "couple": true,
+   "source": {
+    "name": "Teatro Arriaga",
+    "url": "https://www.teatroarriaga.eus/programacion/vientos-del-pueblo/"
+   }
+  },
+  {
+   "date": "2026-11-29",
+   "time": "19:00",
+   "kind": "teatro",
+   "title": "50º Aniversario Rosalía de Castro",
+   "place": "Teatro Campos Elíseos, Bilbao",
+   "text": "Función de domingo por la tarde en el Campos Elíseos.",
+   "price": "Desde 25 €",
+   "source": {
+    "name": "Taquilla.com",
+    "url": "https://www.taquilla.com/bilbao/teatro-campos-eliseos-antzokia-bilbao"
+   }
+  }
+ ],
+ "jobs": [
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "Cuerpo de Auxilio Judicial (OEP 2026) · País Vasco",
+   "org": "Ministerio de Justicia",
+   "text": "OEP 2026 (RD 387/2026): 335 plazas. Convocatoria sin publicar a 21-11-2026 (esperada dic 2026-feb 2027); sin novedades localizadas en BOE ni en Justicia.",
+   "requirements": [
+    "ESO, Graduado Escolar o equivalente (grupo C2)",
+    "Nacionalidad española y 18 años cumplidos (según la web del Ministerio)",
+    "Dos tests: 100 preguntas de temario y 50 de caso práctico",
+    "Plazas del País Vasco, tasa y temario nuevos: pendientes de la convocatoria",
+    "Inscripción: 20 días hábiles tras publicarse en el BOE"
+   ],
+   "how": "Vigila el BOE, mjusticia.gob.es y justizia.eus; inscripción telemática cuando salga la convocatoria. Consulta notas de la convocatoria 2025 como referencia.",
+   "source": {
+    "name": "Ministerio de Justicia · Auxilio Judicial",
+    "url": "https://www.mjusticia.gob.es/es/ciudadania/empleo-publico/acceso-convocatorias-perfiles/auxilio-judicial"
+   }
+  },
+  {
+   "kind": "bolsa",
+   "title": "Bolsa de interinos · Auxilio Judicial (Euskadi)",
+   "org": "Gobierno Vasco · Administración de Justicia",
+   "text": "Bolsa de funcionarios interinos de Auxilio Judicial que se abre periódicamente; la última apertura localizada es de octubre de 2024. No consta plazo abierto ahora.",
+   "requirements": [
+    "ESO o equivalente",
+    "Nacionalidad española y mayoría de edad",
+    "Euskera: la web no lo menciona; confirmar en las bases",
+    "Fechas de apertura: confirmar en las bases"
+   ],
+   "how": "Vigila justizia.eus (buscador de convocatorias) o llama al 945 019 132 / infoadmjustizia@euskadi.eus; hay oficina en Bilbao.",
+   "source": {
+    "name": "Justizia.eus · Bolsa de trabajo",
+    "url": "https://www.justizia.eus/bolsa-de-trabajo/webjus00-contentgen/es/"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "en-curso",
+   "title": "Auxiliar administrativo/a (3 plazas) · Getxo Kirolak",
+   "org": "Getxo Kirolak (organismo autónomo del Ayuntamiento de Getxo)",
+   "text": "3 plazas de personal laboral. Bases en el BOB del 24-09-2026 y BOE del 02-10-2026; instancias hasta el 02-11, ya cerrado. Faltan listas de admitidas y examen.",
+   "requirements": [
+    "Grupo C2 / auxiliar administrativo: titulación exacta, confirmar en las bases",
+    "Euskera: no consta en la fuente; confirmar en las bases",
+    "Plazo cerrado el 02-11-2026",
+    "Tasa y nacionalidad: confirmar en las bases"
+   ],
+   "how": "Plazo cerrado. Sigue listas y fecha de examen en la web de Getxo Kirolak y en el IVAP.",
+   "source": {
+    "name": "Opo Bizkaia · Ayuntamientos",
+    "url": "https://www.opobizkaia.com/ayuntamientos"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "en-curso",
+   "title": "Personal de Apoyo · Gobierno Vasco",
+   "org": "Gobierno Vasco (Administración General)",
+   "text": "117 plazas turno libre (112 generales, 5 discapacidad), concurso-oposición, sin titulación exigida. Recepción, correspondencia, almacén. Plazo cerrado el 16-09; primera prueba prevista en enero de 2027.",
+   "requirements": [
+    "No se exige titulación; la ESO suma 7,20 puntos de mérito",
+    "Euskera: 107 plazas generales exigen PL1; 5 sin perfil",
+    "Tasa 8,18 €",
+    "Oposición (30 temas, hasta 100 puntos) más concurso (hasta 45)"
+   ],
+   "how": "Plazo cerrado el 16-09-2026. Vigila listas de admitidas y fecha de examen en la sede de empleo público de euskadi.eus.",
+   "source": {
+    "name": "BOPV · Orden de 30-07-2026, Agrupación Profesional de Personal de Apoyo",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/08/2603653a.shtml"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "en-curso",
+   "title": "Auxiliar de Biblioteca · Diputación Foral de Bizkaia",
+   "org": "Diputación Foral de Bizkaia",
+   "text": "Bases en el BOB del 12-06-2026 (corrección el 10-07). Plazo cerrado el 13-08-2026 para auxiliar de biblioteca: 4 plazas (3 libres, 1 discapacidad). Faltan listas y examen; la OPE 2026 suma 69 plazas.",
+   "requirements": [
+    "ESO, Graduado Escolar, FP1 o equivalente",
+    "Euskera: B2; preceptivo en 1 plaza libre, no preceptivo en las otras 2",
+    "Plazo cerrado: vigila listas de admitidas y fecha de examen",
+    "Nacionalidad y tasa: confirmar en las bases"
+   ],
+   "how": "Plazo cerrado. Sigue listas y exámenes en la web de empleo público de la Diputación y en Bizkaia Gazteak; contacto Oep-epe@bizkaia.eus.",
+   "source": {
+    "name": "Bizkaia Gazteak · Dipu Auxiliar de Biblioteca",
+    "url": "https://gazteak.bizkaia.eus/es/-/dipu-liburutegiko-laguntzaile"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "en-curso",
+   "title": "Celador/a y Operario/a de servicios · Osakidetza",
+   "org": "Osakidetza",
+   "text": "OPE de subalternos (Resolución 468/2026): plazo cerrado el 22-04-2026; examen en junio. Faltan plantilla definitiva y resultados. La 2.ª fase de la OPE (exámenes 6-27 nov) no incluye celador ni operario.",
+   "requirements": [
+    "Certificación de años cursados: ESO o equivalente",
+    "Euskera no obligatorio para celador/a; puntúa como mérito en el concurso",
+    "7 % de destinos reservado a discapacidad",
+    "Resolución 468/2026, BOPV nº 54 (20-03-2026)"
+   ],
+   "how": "Plazo cerrado. Sigue plantillas, notas y la fase de concurso en la web de la OPE de Osakidetza.",
+   "source": {
+    "name": "BOPV · Resolución 468/2026 de Osakidetza (subalternos)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/03/2601239a.shtml"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "Subalterno/a (Grupo E) · UPV/EHU",
+   "org": "UPV/EHU",
+   "text": "10 plazas de funcionariado de carrera, Escala Subalterna, concurso-oposición: 9 de acceso libre (6 con PL2, 3 con PL1) y 1 para discapacidad. Bases en el BOPV nº 144 (30-07-2026).",
+   "requirements": [
+    "Certificado de Escolaridad",
+    "Perfil lingüístico: PL2 (6 plazas) o PL1 (3 plazas), preceptivo",
+    "Tasa de 20,68 €",
+    "Plazo de solicitud y fecha de examen: confirmar en las bases generales"
+   ],
+   "how": "Consulta el plazo en las bases generales (base 5.1) y en la web de la UPV/EHU antes de inscribirte.",
+   "source": {
+    "name": "BOPV nº 144 · Resolución del rector de 15-07-2026 (Grupo E)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/07/2603395a.pdf"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "Auxiliar Administrativo del Estado (OEP 2026)",
+   "org": "Administración General del Estado (Función Pública / INAP)",
+   "text": "La convocatoria anterior (1.700 plazas, examen 23-05-2026) está resuelta. La OEP 2026 (RD 387/2026) refuerza el cuerpo, pero su convocatoria aún no consta en el BOE a 21-11-2026.",
+   "requirements": [
+    "ESO, Graduado Escolar, FP1 o equivalente (grupo C2, como en la convocatoria anterior)",
+    "Nacionalidad y edad: según el EBEP; confirmar en las bases",
+    "Tasa de la anterior: 11,66 € (turno libre); la nueva, pendiente",
+    "Plazas, plazo y fechas: pendientes de la convocatoria"
+   ],
+   "how": "Cuando se publique en el BOE, inscripción telemática en el plazo que fije la convocatoria; vigila el BOE.",
+   "source": {
+    "name": "INAP · Oferta de empleo público 2026",
+    "url": "https://laadministracionaldia.inap.es/noticia.asp?id=1265646"
+   }
+  },
+  {
+   "kind": "oposicion",
+   "status": "proxima",
+   "title": "Auxiliar administrativo/a de servicios generales · Trapagaran",
+   "org": "Ayuntamiento de Trapagaran",
+   "text": "1 plaza C2, concurso-oposición. Bases en el BOB del 20-07-2026; falta el anuncio en BOE, así que el plazo de instancias aún no se ha abierto (a 21-11, sin novedades localizadas).",
+   "requirements": [
+    "Grupo C2: titulación exacta, confirmar en las bases",
+    "Perfil lingüístico PL2P: euskera preceptivo (requisito imprescindible)",
+    "Plazo: 20 días hábiles tras el anuncio en BOE (confirmar en las bases)",
+    "Tasa y nacionalidad: confirmar en las bases"
+   ],
+   "how": "Vigila el BOE y la web municipal de empleo público; inscripción según las bases.",
+   "source": {
+    "name": "BOB 20-07-2026 · Bases Trapagaran",
+    "url": "https://www.bizkaia.eus/lehendakaritza/Bao_bob/2026/07/20/II-3930_cas.pdf"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "abierta",
+   "title": "Gaztelagun 2026 · ayuda al alquiler joven",
+   "org": "Gobierno Vasco · Alokabide",
+   "text": "Pago mensual de parte del alquiler de vivienda libre a jóvenes de 18 a 35 años (cumples). Cubre habitaciones y subarriendo. Orden urgente mantiene pagos en 2026; borrador para hacerla permanente en 2027.",
+   "amount": "Hasta el 60 % de la renta, máx. 300 €/mes",
+   "requirements": [
+    "18 a 35 años (se extingue al cumplir 36)",
+    "6 meses de residencia efectiva e ininterrumpida en Euskadi",
+    "Ingresos brutos individuales entre 3.000 y 30.000 € al año",
+    "Contrato de alquiler de vivienda libre como domicilio habitual, sin parentesco hasta 3.er grado con el arrendador",
+    "Renta inicial máxima 900 € en Bilbao, pagada por transferencia",
+    "Incompatible con VPP en alquiler, RGI, IMV y PCV"
+   ],
+   "deadline": "2026-12-31",
+   "how": "Sede electrónica de Euskadi (Mi carpeta) o con cita en Zuzenean o Alokabide; adjunta contrato y justificantes de pago.",
+   "source": {
+    "name": "BOPV · Orden de 5-06-2026 (Gaztelagun)",
+    "url": "https://www.euskadi.eus/bopv2/datos/2026/06/2602608a.shtml"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "title": "Subvención HABE para estudiar euskera",
+   "org": "Gobierno Vasco · HABE",
+   "text": "Ayuda fija por nivel superado en euskaltegi homologado (curso 2025-2026; segundo turno se resuelve antes del 14-12-2026). Útil para el perfil lingüístico de las oposiciones. Edad: sin límite, cumples.",
+   "amount": "A1 600 €, A2 800 €, B1 900 €, B2 1.000 €, C1 700 € (nacidos desde 1996), C2 100 € (máx. matrícula pagada)",
+   "requirements": [
+    "Matrícula entre 01-06-2025 y 30-09-2026 en euskaltegi homologado",
+    "Haber superado el nivel o acreditarlo",
+    "No estar escolarizada con financiación pública",
+    "Cada nivel se subvenciona una sola vez",
+    "Plazo de solicitud: confirmar en las bases"
+   ],
+   "how": "Formulario online en euskadi.eus con identificación electrónica, o presencial con cita en HABE Bilbao. Dudas: ikasle-laguntzak@habe.eus, 943 022600.",
+   "source": {
+    "name": "Euskadi.eus · Subvenciones 2026 para estudiantes de euskera",
+    "url": "https://www.euskadi.eus/ayuda_subvencion/2026/subvenciones-de-2026-para-estudiantes-de-euskera/web01-tramite/es/"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "permanente",
+   "title": "Alokaplus · seguro público de impago de alquiler",
+   "org": "Gobierno Vasco · Vivienda",
+   "text": "Seguro público y gratuito lanzado el 29-10-2026. Lo contrata el propietario (hasta 5 viviendas) junto a ti. Cubre hasta 14 mensualidades impagadas, 20 si el inquilino tiene 35 años o menos.",
+   "amount": "Gratuito para el propietario; hasta 14 mensualidades (20 si el inquilino tiene 35 años o menos)",
+   "requirements": [
+    "Lo solicita el propietario, no la inquilina; ambos firman un compromiso",
+    "Vivienda en zona tensionada, habitual del inquilino y renta dentro del índice de referencia",
+    "Edad: cumples (20 mensualidades hasta 35 años)",
+    "No borra la deuda: si paga la Administración, el inquilino debe devolverlo después"
+   ],
+   "how": "Propone a tu casero que se adhiera: ambos firman el compromiso. Canal exacto de solicitud: confirmar en euskadi.eus.",
+   "source": {
+    "name": "Orain · Alokaplus, seguro público contra impagos (29-10-2026)",
+    "url": "https://orain.eus/es/actualidad/economia/2026/10/29/alokaplus-seguro-publico-contra-impagos-del-alquiler-en-euskadi/"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "permanente",
+   "title": "Gazte 70 y Gazte Oro (Barik, menores de 26)",
+   "org": "Consorcio de Transportes de Bizkaia · Bizkaibus",
+   "text": "Abonos Barik para menores de 26: Gazte 70 (70 viajes en 30 días) y Gazte Oro (ilimitado 30 días). Valen en Bizkaibus, Metro Bilbao, Euskotren y Tranvía. Cumples la edad.",
+   "amount": "50 % de reducción hasta 31-12-2026 (aviso Bizkaibus)",
+   "requirements": [
+    "Menor de 26 años",
+    "Empadronada en un municipio de Bizkaia",
+    "Tarjeta Barik personalizada",
+    "Uso personal e intransferible"
+   ],
+   "how": "Cárgalo en tu tarjeta Barik personalizada; consulta puntos de recarga y oficinas en la web de Bizkaibus.",
+   "source": {
+    "name": "Bizkaibus · Tarifas",
+    "url": "https://www.bizkaia.eus/es/web/bizkaibus/tarifas"
+   }
+  },
+  {
+   "kind": "ayuda",
+   "status": "permanente",
+   "title": "Gazte-txartela · descuentos para jóvenes",
+   "org": "Gobierno Vasco · Gazteaukera",
+   "text": "Tarjeta con unos 2.000 descuentos en Euskadi (cultura, deporte, transporte, formación, salud, turismo), cupones anuales, sorteos y seguro de viaje gratuito. Cumples la edad.",
+   "amount": "Descuentos variables; precio de la tarjeta: confirmar en la web",
+   "requirements": [
+    "Tener entre 14 y 29 años (caduca al cumplir 30)",
+    "Estar empadronada en la Comunidad Autónoma Vasca",
+    "No hace falta ser estudiante"
+   ],
+   "how": "Solicítala en Gazteaukera; el procedimiento y el precio exactos, en sus preguntas frecuentes.",
+   "source": {
+    "name": "Gazteaukera · ¿Qué es Gazte-txartela?",
+    "url": "https://www.gazteaukera.euskadi.eus/que-es-gazte-txartela/webgaz00-gtxarte0/es/"
+   }
+  }
+ ],
+ "elections": {
+  "title": "Elecciones generales 29-N",
+  "date": "2026-11-29",
+  "status": "Quedan ocho días para el 29-N en el último fin de semana de campaña: Sánchez visita Canarias, Feijóo cierra un mitin en Valencia y Abascal habla en Sevilla y Alicante. El CIS da ventaja al PSOE, pero la media de sondeos privados sitúa al PP primero con 128 escaños y una posible mayoría con Vox. Moncloa defiende su estrategia en el debate, mientras la prensa conservadora habla de victoria de Feijóo.",
+  "euskadi": "En Euskadi, el PNV celebra hoy un mitin en Eibar con Aitor Esteban y el lehendakari Imanol Pradales, a las 18:30, según EFE.",
+  "polls": {
+   "name": "SocioMétrica (El Español)",
+   "date": "2026-11-16",
+   "url": "https://www.elespanol.com/espana/politica/20261116/faltan-dias-pp-opciones-partido-escanos-votado-lograr-mayoria-vox/1003744459163_0.html",
+   "items": [
+    {
+     "party": "PP",
+     "value": 31.6,
+     "seats": "130"
+    },
+    {
+     "party": "PSOE",
+     "value": 27.8,
+     "seats": "110"
+    },
+    {
+     "party": "Vox",
+     "value": null,
+     "seats": "67"
+    }
+   ]
+  },
+  "keyDates": [
+   {
+    "date": "2026-11-25",
+    "text": "Fin del plazo para entregar el voto por correo"
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Debate a cuatro con Abascal y Colau (Academia de TV)"
+   },
+   {
+    "date": "2026-11-27",
+    "text": "Abascal cierra campaña en Valencia, según El Debate"
+   },
+   {
+    "date": "2026-11-28",
+    "text": "Jornada de reflexión"
+   },
+   {
+    "date": "2026-11-29",
+    "text": "Elecciones generales"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "id": "2026-11-21-campana-dia-9-ultimo-fin-de-semana",
+   "section": "espana",
+   "weight": 3,
+   "title": "Último fin de semana de campaña: Canarias, Valencia y Sevilla en la agenda de los candidatos",
+   "dek": "En el noveno día de campaña, Sánchez visita Tenerife y Gran Canaria, Feijóo cierra un gran mitin en Valencia y Abascal habla en Sevilla y Alicante.",
+   "figure": {
+    "value": "8 días",
+    "label": "para votar el 29-N"
+   },
+   "place": "Valencia / Canarias",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "Este sábado 21 de noviembre es el noveno día de campaña para las generales del 29-N, y los partidos afrontan el último fin de semana completo antes de la jornada de reflexión. Según la agenda que recoge EFE, Pedro Sánchez empieza con una entrevista en Onda Cero a las 8:30 y viaja después a Tenerife, al mediodía, y a Gran Canaria, por la tarde, en actos con el ministro Ángel Víctor Torres.",
+    "Alberto Núñez Feijóo ocupa la plaza de toros de Valencia en el mitin central del PP del día, con la alcaldesa Catalá como cabeza de lista por la provincia. El diario El Debate, de línea conservadora, lo presenta como una prueba de la capacidad de movilización del PP, con aforo para hasta 14.000 personas y 300 autobuses organizados, y destaca que Sánchez descartó finalmente un acto propio en ese recinto. Esa lectura es de su columnista Alberto Caparrós, no un hecho contrastado.",
+    "Santiago Abascal (Vox) tiene dos mítines, en Sevilla a mediodía y en Alicante a las 20:00. En la izquierda, Ada Colau lidera por la mañana en Barcelona un acto de Frente Amplio con Yolanda Díaz, que reaparece en campaña; Ione Belarra sustituye a Irene Montero en un mitin de Podemos en Murcia. Hay también actos de BNG y Coalición Canaria, y en Euskadi el PNV celebra un mitin en Eibar con Aitor Esteban y el lehendakari Imanol Pradales.",
+    "La visita de Sánchez a Canarias llega después de las de Feijóo y Abascal, y la inmigración irregular en las islas se ha convertido en uno de los temas de los últimos días. Por la tarde habrá además actos de Junts en Vic y la constitución del consell nacional de Aliança Catalana en Ripoll."
+   ],
+   "keys": [
+    "Sánchez: Tenerife y Gran Canaria",
+    "Feijóo: mitin en la plaza de toros de Valencia",
+    "Abascal: Sevilla y Alicante",
+    "Colau y Díaz juntas en Barcelona"
+   ],
+   "why": "Quedan pocos mítines grandes: si quieres votar por correo o decidir tu voto, esta semana es cuando los partidos concretan sus propuestas.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/21/dia-9-de-campana-sanchez-a-canarias-feijoo-a-valencia-y-yolanda-diaz-reaparece-con-colau/"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/20/temas-del-dia-de-efe-espana-del-sabado-21-de-noviembre-de-2026/"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/espana/comunidad-valenciana/20261121/encuestas-electorales-29n-plaza-toros-valencia-enesimo-cambio-opinion-sanchez_483125.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-encuestas-horquilla-cis-sondeos",
+   "section": "espana",
+   "weight": 2,
+   "title": "Encuestas del 29-N: el CIS da ventaja al PSOE y casi todos los demás sondeos al PP",
+   "dek": "Entre el CIS, que ve ganar a Sánchez, y los sondeos privados, que ponen al PP primero, hay una distancia enorme en escaños.",
+   "figure": {
+    "value": "128",
+    "label": "escaños PP, media"
+   },
+   "place": "España",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "A ocho días de las elecciones, las encuestas no cuentan la misma historia. El CIS preelectoral, publicado el 12 de noviembre con 45.074 entrevistas telefónicas hechas entre el 7 y el 30 de octubre, da al PSOE un 33,3% y entre 134 y 143 escaños, frente al 25,5% y 98-106 del PP, según la información de Diario de Avisos. Vox tendría un 18,4%, con 57-65 escaños, y esas cifras no darían mayoría a PP y Vox.",
+    "Los sondeos privados dibujan lo contrario. El Independiente, de línea conservadora, cita una media de 23 encuestas de los días 14 a 17 de noviembre con 128 escaños para el PP, 114 para el PSOE y 64 para Vox, lo que sumaría 192 para PP y Vox frente a la mayoría absoluta de 176. Las mediciones diarias del 17 de noviembre son más ajustadas: 40dB da 122 al PSOE y 131-132 al PP; Sigma Dos, 110 y 126.",
+    "El mismo diario recuerda que en 2023 los sondeos subestimaron al PSOE en unos 14 escaños e intenta aplicar ese error a las cifras actuales. Es un ejercicio de su autor, no una previsión, y aun así concluye que la derecha conservaría margen. En otro sondeo, SocioMétrica para El Español, del 16 de noviembre, el PP lleva 130 escaños y el PSOE 110.",
+    "En la práctica, lo que decide el resultado es la participación y cuántos escaños se lleven los partidos pequeños y los territorios clave. Las encuestas no incluyen nada posterior al cara a cara de anoche más allá de sondeos aislados."
+   ],
+   "keys": [
+    "CIS: PSOE 134-143, PP 98-106",
+    "Media de 23 sondeos: PP 128, PSOE 114, Vox 64",
+    "Mayoría absoluta: 176 escaños",
+    "El CIS es un caso aparte por su metodología y fechas"
+   ],
+   "why": "Cuando veas un titular de encuesta, mira quién la hace y cuándo se hizo el trabajo de campo: las diferencias entre ellas son enormes este año.",
+   "sources": [
+    {
+     "name": "Diario de Avisos (El Español)",
+     "url": "https://diariodeavisos.elespanol.com/2026/11/cis-preelecotral-psoe-pp-vox/"
+    },
+    {
+     "name": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/11/17/sanchez-lejos-remontada-desvio-encuestas-2023-a-esta-altura-campana-29-n/"
+    },
+    {
+     "name": "El Español",
+     "url": "https://www.elespanol.com/espana/politica/20261116/faltan-dias-pp-opciones-partido-escanos-votado-lograr-mayoria-vox/1003744459163_0.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-moncloa-tras-el-debate",
+   "section": "espana",
+   "weight": 1,
+   "title": "Moncloa defiende que su estrategia en el debate «tenía un plan»",
+   "dek": "Un día después del cara a cara, el equipo de Sánchez insiste en que cumplió su objetivo, mientras la prensa conservadora habla de derrota del presidente.",
+   "figure": {
+    "value": "45%",
+    "label": "ven ganar a Feijóo"
+   },
+   "place": "Madrid",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "El equipo de campaña de Pedro Sánchez trata de reconducir la conversación tras el debate de la Academia de Televisión del jueves. Según eldiario.es, que recoge fuentes de Moncloa, el plan era mostrar una imagen serena a votantes influidos por la idea de que el presidente es un dictador y rechazar el formato de espectáculo; sostienen que el relato de que ganó Feijóo implica aceptar que alguien que miente puede ganar.",
+    "El propio diario progresista reconoce desconcierto entre votantes de izquierda y en parte del PSOE por esa contención, y cita un sondeo en el que el 45% de los encuestados veía a Feijóo como ganador sin que la intención de voto se moviera apenas. Moncloa admite que ha perdido la batalla en los medios tradicionales y se centra ahora en las redes sociales.",
+    "El Debate, de línea conservadora, titula que Feijóo «arrolla» a Sánchez y que el Gobierno «tira de la palanca de emergencia» para convencer de que el presidente no perdió. Y Feijóo, según eldiario.es, pidió a los suyos «darlo todo» porque aún no han ganado las elecciones. Quién ganó el debate es una valoración, no un dato; lo comprobable es que las encuestas no se movieron mucho."
+   ],
+   "keys": [
+    "Moncloa: había un plan",
+    "El Debate: Feijóo «arrolla»",
+    "Un sondeo: 45% ve ganador a Feijóo",
+    "Intención de voto casi sin cambios"
+   ],
+   "why": "Los debates mueven poco el voto, pero marcan la conversación en redes y entre amigos: conviene saber qué se dice y quién lo dice.",
+   "sources": [
+    {
+     "name": "eldiario.es",
+     "url": "https://www.eldiario.es/politica/moncloa-remontar-desconcierto-estrategia-debate-cara-cara-no-operacion-triunfo_1_13681455.html"
+    },
+    {
+     "name": "El Debate",
+     "url": "https://www.eldebate.com/espana/20261120/gobierno-tira-palanca-emergencia-convencer-sanchez-no-perdio-habia-plan_483347.html"
+    },
+    {
+     "name": "eldiario.es",
+     "url": "https://www.eldiario.es/politica/ultima-hora-elecciones-generales-actualidad-politica-directo_6_13679242_1126758.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-vox-denuncia-puigdemont-supremo",
+   "section": "espana",
+   "weight": 1,
+   "title": "Vox lleva a la Fiscalía del Supremo los pactos de investidura de Sánchez tras las palabras de Puigdemont",
+   "dek": "El partido de Abascal pide investigar si los acuerdos de 2023 con Junts constituyen delito; Puigdemont dice en El Mundo que aprovechó la «ambición desmedida» de Sánchez.",
+   "figure": {
+    "value": "4",
+    "label": "personas citadas"
+   },
+   "place": "Madrid",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "Vox presentó el 19 de noviembre un escrito ante la Fiscalía del Tribunal Supremo para que abra diligencias sobre los compromisos adquiridos en la investidura de Pedro Sánchez en 2023. El partido pide que se aclare si constituyen delitos y cita, entre otros, cohecho, tráfico de influencias, malversación, prevaricación, organización criminal y traición. Es una denuncia de parte, no una investigación abierta.",
+    "Pide que declaren Sánchez, José Luis Rodríguez Zapatero, José Luis Ábalos y Santos Cerdán por su papel en las negociaciones, con especial atención a Zapatero y Cerdán. El Objective, de línea conservadora, cuenta que la denuncia llega tras una entrevista de Carles Puigdemont en El Mundo.",
+    "En ella, según ese diario, Puigdemont dijo que Junts aprovechó la ambición del presidente para lograr concesiones, que el PSOE aceptó algunas peticiones, como la amnistía, antes de lo previsto, y que rechazó una oferta de indulto personal de un representante socialista. Abascal ha utilizado esas declaraciones para decir que Sánchez «ha vendido España».",
+    "Feijóo ya citó a Puigdemont en el debate. En eldiario.es aparece un análisis que habla de un «regalo» de Puigdemont a PP y Vox, pero no se pudo leer su contenido, así que no se recoge aquí la posición progresista. Falta ver si la Fiscalía actúa; no hay fecha anunciada y en campaña el calendario judicial queda en segundo plano."
+   ],
+   "keys": [
+    "Denuncia de Vox del 19-N",
+    "Piden declarar a Sánchez, Zapatero, Ábalos y Cerdán",
+    "Puigdemont, en El Mundo, habla de concesiones",
+    "Sin investigación abierta por ahora"
+   ],
+   "why": "Es un caso judicial que el PP y Vox usarán hasta el 29-N; distinguir entre denuncia y decisión de un juez te ayuda a leer los titulares.",
+   "sources": [
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-11-19/vox-sanchez-supremo-puigdemont/"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-11-19/abascal-denuncia-sanchez-espana-confesion-puigdemont/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-feijoo-mando-unico-inmigracion",
+   "section": "espana",
+   "weight": 1,
+   "title": "Feijóo promete un «mando único» de inmigración desde El Hierro",
+   "dek": "El líder del PP aprovechó la llegada de cayucos para prometer concentrar las competencias; hoy Sánchez visita Canarias.",
+   "figure": {
+    "value": "11.037",
+    "label": "llegadas en noviembre"
+   },
+   "place": "El Hierro",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "Feijóo hizo campaña el viernes en el muelle de La Restinga, en El Hierro, y anunció que, si gobierna, creará un mando único para la inmigración porque ahora hay siete ministerios con competencias. Según eldiario.es, defendió que el control de fronteras es competencia exclusiva del Estado, acusó al Gobierno de irresponsabilidad continuada y prometió endurecer el Código Penal contra la trata.",
+    "El diario recoge datos de Interior: 11.037 llegadas irregulares a Canarias en la primera quincena de noviembre, casi nueve de cada diez barcos a El Hierro. Feijóo comparó la cifra con la población de la isla. El presidente del PP canario, Manuel Domínguez, dijo que la situación ha alterado la vida local.",
+    "Eldiario.es presenta la visita como un aprovechamiento del repunte migratorio en campaña. En el debate, el ministro Torres calificó de incoherencias e hipocresía el discurso de Feijóo; hoy Sánchez viaja con él a Tenerife y Gran Canaria. No se ha explicado cómo funcionaría el mando único ni qué ministerios perderían competencias."
+   ],
+   "keys": [
+    "11.037 llegadas en la primera quincena",
+    "Casi 9 de cada 10 barcos, a El Hierro",
+    "Propuesta: mando único de inmigración",
+    "Sánchez visita las islas hoy"
+   ],
+   "why": "La inmigración es uno de los ejes de la campaña y también de Vox; saber qué propone cada partido te ayuda a comparar.",
+   "sources": [
+    {
+     "name": "eldiario.es (Canarias Ahora)",
+     "url": "https://www.eldiario.es/canariasahora/politica/feijoo-aprovecha-repunte-migratorio-campana-hierro-anuncia-mando-unico-inmigracion-si-gobierna_1_13681071.html"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/21/dia-9-de-campana-sanchez-a-canarias-feijoo-a-valencia-y-yolanda-diaz-reaparece-con-colau/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-noname057-burgos",
+   "section": "espana",
+   "weight": 1,
+   "title": "Detenido en Burgos el presunto impulsor de la primera célula española de NoName057(16)",
+   "dek": "La Policía dice que evitó que el grupo prorruso pasara de los ciberataques a acciones violentas.",
+   "figure": {
+    "value": "447",
+    "label": "ciberataques desde 2024"
+   },
+   "place": "Burgos",
+   "body": [
+    "La Policía Nacional detuvo el martes en Burgos a un hombre al que atribuye la promoción de la primera célula en España del colectivo prorruso NoName057(16), sancionado por la UE. Según los agentes, se ocupaba de propaganda, captación y llamamientos a atacar instituciones, y colocó pegatinas con QR en ocho localidades.",
+    "En su domicilio se intervino un rifle semiautomático, carabinas y escopetas, más de 5.000 cartuchos, armas blancas y productos químicos, además de tres monederos físicos de criptomonedas. Se le investiga por pertenencia a organización terrorista, enaltecimiento y tenencia de armas, y la Audiencia Nacional lo dejó en libertad provisional con medidas cautelares.",
+    "La Policía atribuye al grupo al menos 447 ciberataques en España desde 2024 contra organismos públicos, bancos y transportes. El 16 de noviembre el Consejo de la UE lo incluyó en su régimen de sanciones, con congelación de activos."
+   ],
+   "keys": [
+    "Arresto en Burgos el martes",
+    "Más de 5.000 cartuchos",
+    "Libertad provisional por la Audiencia Nacional",
+    "UE lo sancionó el 16-N"
+   ],
+   "why": "Los ciberataques contra bancos y transporte pueden afectar a servicios cotidianos como pagos o trenes.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/espana/2026/11/20/detienen-al-impulsor-de-la-primera-celula-del-grupo-prorruso-noname05716-en-espana-con-un-arsenal-de-armas-y-propaganda-del-kremlin/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-wall-street-desplome-ia",
+   "section": "economia",
+   "weight": 3,
+   "title": "Wall Street se hunde: el Nasdaq cae un 5,3 % en su peor semana desde la pandemia",
+   "dek": "El viernes el S&P 500 perdió un 3,7 % y el Nasdaq un 5,28 % por una oleada de ventas de tecnológicas ligadas a la IA. El Ibex lo notó y cerró por debajo de 19.000 puntos.",
+   "figure": {
+    "value": "-5,3 %",
+    "label": "Nasdaq en una sesión"
+   },
+   "place": "Nueva York",
+   "thread": {
+    "id": "nvidia-huang",
+    "label": "Nvidia y Jensen Huang"
+   },
+   "body": [
+    "La bolsa estadounidense cerró el viernes 20 de noviembre con fuertes pérdidas. Según Infobae, el Nasdaq cedió un 5,28 %, el S&P 500 un 3,7 % y el Dow Jones un 1,94 %. El Nasdaq firmó su peor semana desde la pandemia, y el S&P 500 entró en territorio de corrección tras la racha de pérdidas más larga desde 2020.",
+    "El detonante inmediato fue una venta masiva de valores tecnológicos vinculados a la inteligencia artificial, con Nvidia a la cabeza (se hundió un 14 % en la jornada). Pero las crónicas apuntan a varios factores a la vez: una inflación persistente que mantiene sobre la mesa nuevas subidas de tipos de la Reserva Federal, tensiones en el crédito que podrían encarecer la financiación de centros de datos, y un exceso de oferta de papel, con la salida a bolsa de Anthropic (unos 100.000 millones de dólares captados) y emisiones masivas de deuda y acciones. Se suma la investigación de la SEC a Nvidia y un informe sobre los vínculos de AMD con China.",
+    "Los inversores se refugiaron en bonos del Tesoro; el rendimiento a diez años bajó del 5 %. Las ventas de acciones estadounidenses sumaron unos 125.000 millones de dólares en la semana, la cifra más alta en más de una década, y el bitcóin cayó por debajo de 60.000 dólares, su nivel más bajo en dos años. Los bonos basura llegaron a su mayor rendimiento en 19 meses.",
+    "Los analistas citados por la agencia se reparten. Unos hablan de pasar de buscar oportunidades a proteger carteras y se preguntan si habrá liquidez suficiente en 2027 para tanta emisión. Otros, como un estratega de Needham, creen que la sobresuscripción de la salida de Anthropic demuestra que la ventana de capital sigue abierta. Bloomberg Intelligence advierte de que el mercado exigirá cada vez más rentabilidad al gasto en IA, y estima que el crecimiento de ventas de las empresas de IA del S&P 500 bajará del 35 % al menos del 25 % a finales del próximo año.",
+    "Qué esperar: nadie da un suelo. El Nasdaq 100 quedó a menos de 50 puntos de un mercado bajista (-20 %), y la sesión del lunes dirá si hay rebote o continuidad. Esta crónica explica lo ocurrido; no es una recomendación de inversión."
+   ],
+   "keys": [
+    "S&P 500 -3,7 %, Nasdaq -5,28 %, Dow -1,94 %",
+    "Peor semana del Nasdaq desde la pandemia",
+    "Causas: tipos, oferta de papel, SEC, dudas sobre rentabilidad de la IA"
+   ],
+   "why": "Si tienes ahorros en fondos indexados o acciones tecnológicas, verás hoy números rojos; la volatilidad es alta y conviene entender por qué antes de mirar la cartera.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/estados-unidos/2026/11/20/wall-street-cerro-con-fuertes-caidas-por-las-preocupaciones-sobre-la-ia-el-nasdaq-tuvo-su-peor-semana-desde-la-pandemia/"
+    },
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/estados-unidos/2026/11/20/wall-street-quedo-al-borde-del-colapso-ante-el-miedo-que-se-apodera-de-los-mercados-globales/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-nvidia-cae-14",
+   "section": "economia",
+   "weight": 2,
+   "title": "Nvidia se desploma un 14 % y pierde un 32,6 % en dos semanas",
+   "dek": "La tecnológica cerró el viernes a 125,53 dólares, con siete semanas seguidas a la baja, pese a duplicar beneficios en su último trimestre.",
+   "figure": {
+    "value": "-32,6 %",
+    "label": "en dos semanas"
+   },
+   "place": "Santa Clara (EE. UU.)",
+   "thread": {
+    "id": "nvidia-huang",
+    "label": "Nvidia y Jensen Huang"
+   },
+   "body": [
+    "Las acciones de Nvidia se hundieron un 14 % el viernes 20 de noviembre y cerraron a 125,53 dólares, según EFE vía Infobae. En la semana pierden un 22,9 % y, en dos, cerca del 32,6 % (el cuerpo de la nota habla de 32,7 %). Es la séptima semana consecutiva de caídas, una racha que los medios especializados sitúan como la peor desde 2008.",
+    "La paradoja es que el martes la compañía presentó cifras muy buenas: 115.800 millones de dólares de ingresos en el trimestre (un 103 % más) y 65.300 millones de beneficio, con previsiones por encima de lo esperado. El mercado, sin embargo, mira otra cosa: la salida de Jensen Huang como consejero delegado tras reconocer una conducta personal contraria al código ético, y la investigación civil de la SEC que, según el Wall Street Journal, se abrió el 17 de noviembre. The Guardian la vincula con los negocios de la empresa en China.",
+    "El consejo ha descartado reponer a Huang; la directora financiera, Colette Kress, dirige la empresa de forma interina mientras se busca sustituto. Huang declarará en diciembre ante comités de la Cámara de Representantes. A ello se suman las pesquisas de Justicia y Comercio a Megaspeed, socia singapurense, por posibles violaciones de controles de exportación.",
+    "A la presión específica de Nvidia se añade la de todo el sector: dudas sobre si las enormes inversiones en IA serán rentables, tipos altos y mucha emisión de papel. El viernes también cayeron AMD, Intel y otras compañías del sector.",
+    "Qué se espera: la actualidad inmediata dependerá de la elección de un nuevo consejero delegado, de lo que concluya la SEC y de si el sector se estabiliza el lunes. Ningún medio consultado da un pronóstico firme, y esto no es una recomendación de inversión."
+   ],
+   "keys": [
+    "Cierre: 125,53 dólares (-14 %)",
+    "Siete semanas seguidas de caída",
+    "Salida de Huang e investigación de la SEC"
+   ],
+   "why": "Nvidia pesa mucho en índices globales como el S&P 500 o el MSCI World, así que su caída se nota aunque no tengas sus acciones directamente.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/20/nvidia-se-desploma-un-14-y-pierde-un-326-en-las-ultimas-dos-semanas/"
+    },
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/tecno/2026/11/17/la-sec-abrio-una-investigacion-civil-a-nvidia-tras-la-salida-de-jensen-huang-segun-the-wall-street-journal/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-ibex-quinta-caida",
+   "section": "economia",
+   "weight": 1,
+   "title": "El Ibex 35 cae un 1,63 %, pierde los 19.000 puntos y deja la semana en -5,73 %",
+   "dek": "Quinta sesión seguida de descensos y segunda peor semana del año por el contagio de las dudas sobre la tecnología.",
+   "figure": {
+    "value": "18.873",
+    "label": "puntos del Ibex"
+   },
+   "place": "Madrid",
+   "body": [
+    "El Ibex 35 cerró el viernes en 18.873,1 puntos, 313,1 menos que el jueves (-1,63 %), según EFE vía Infobae. Es su quinta caída consecutiva y pierde el listón de los 19.000.",
+    "En la semana acumula un recorte del 5,73 %, su segunda peor del año, y la ganancia anual queda en el 9,04 %. El selectivo siguió el tono negativo del resto de bolsas europeas, que a su vez reaccionaban a las pérdidas en Wall Street por las dudas sobre las empresas de IA.",
+    "La agencia no detalla el efecto sobre valores concretos ni da previsiones. El lunes se verá si el mercado español sigue a lo que haga Nueva York."
+   ],
+   "keys": [
+    "Cierre: 18.873,1 puntos",
+    "Semana: -5,73 %",
+    "Ganancia anual: 9,04 %"
+   ],
+   "why": "Tu fondo o plan de pensiones con renta variable europea puede reflejar este bajón en el extracto del mes.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/20/la-bolsa-espanola-cae-el-163-y-cede-los-19000-puntos-por-las-dudas-sobre-la-tecnologia/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-ucrania-bombardeo-masivo",
+   "section": "mundo",
+   "weight": 2,
+   "title": "Rusia lanza un bombardeo masivo sobre Ucrania y Zelenski pide al Pentágono sus misiles Patriot",
+   "dek": "Casi un centenar de misiles y más de 400 drones dejaron al menos ocho muertos; Kiev solo interceptó tres misiles balísticos.",
+   "figure": {
+    "value": "8",
+    "label": "muertos como mínimo"
+   },
+   "place": "Kiev (Ucrania)",
+   "thread": {
+    "id": "ucrania",
+    "label": "Guerra de Ucrania"
+   },
+   "body": [
+    "Rusia lanzó el 20 de noviembre un ataque combinado con casi 100 misiles (unos 80 de crucero y cerca de 20 balísticos) y 404 drones de largo alcance, según la fuerza aérea ucraniana citada por Infobae. Hubo al menos ocho muertos: seis en Kiev, tres de ellos trabajadores de la empresa municipal de aguas, y dos en la región de Lviv.",
+    "Tres puentes sobre el Dniéper en la capital quedaron dañados y hubo impactos en infraestructura industrial y energética de Kiev, Mykolaiv, Odesa y Chernihiv. Zelenski denunció el uso de munición de racimo y subrayó que se atacaron subestaciones que conectan la red ucraniana con los países vecinos de la UE que envían electricidad de emergencia.",
+    "Ucrania derribó 79 misiles de crucero y 380 drones, pero solo tres misiles balísticos. Zelenski pidió al Pentágono que libere cuanto antes los interceptores Patriot PAC-2 y PAC-3, que según Kiev sus socios ya pagaron y EE. UU. no ha entregado a tiempo, y ordenó acelerar los paquetes de defensa aérea con otros aliados.",
+    "Moscú presenta el golpe como respuesta a los ataques sobre el puente de Crimea, alcanzado tres veces en una semana. Putin prometió desde la cumbre de Shenzhen represalias «mucho más dolorosas» y descartó retomar las conversaciones sobre frenar los ataques a infraestructuras. Zelenski reconoce que los golpes al puente buscaban presionar a Rusia tras rechazar una tregua energética en las conversaciones de Abu Dabi."
+   ],
+   "keys": [
+    "Casi 100 misiles y 404 drones",
+    "Solo 3 balísticos interceptados",
+    "Putin descarta negociar sobre infraestructuras"
+   ],
+   "why": "Con el invierno encima, los ataques a la red eléctrica ucraniana afectan también a la UE, que le manda electricidad de emergencia.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/america/mundo/2026/11/20/putin-ordeno-un-bombardeo-masivo-contra-ucrania-tras-el-ataque-en-crimea-casi-100-misiles-mas-de-400-drones-y-al-menos-ocho-muertos/"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/20/zelenski-pide-al-pentagono-que-libere-suministros-de-misiles-tras-nuevo-gran-ataque-ruso/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-shenzhen-trump-nuclear",
+   "section": "mundo",
+   "weight": 2,
+   "title": "Trump admite que limitar armas nucleares con China y Rusia será «muy difícil»",
+   "dek": "Tras la cumbre de Shenzhen, el presidente habla en el avión de regreso de un acuerdo que ve necesario pero complicado.",
+   "figure": {
+    "value": "3",
+    "label": "potencias en Shenzhen"
+   },
+   "place": "Shenzhen (China)",
+   "thread": {
+    "id": "ucrania",
+    "label": "Guerra de Ucrania"
+   },
+   "body": [
+    "Donald Trump dijo a Reuters, de vuelta de la cumbre trilateral con Xi Jinping y Vladímir Putin, que un pacto para limitar arsenales nucleares entre EE. UU., China y Rusia es difícil. Defendió que hay que seguir planteándolo porque «debería hacerse», aunque lo calificó de psicológicamente complicado, según Infobae.",
+    "La declaración conjunta afirma que una guerra nuclear no se puede ganar y promete diálogo sobre reducción de riesgos y no proliferación. También recoge compromisos de reformar la ONU, limitar el poder de la Corte Penal Internacional y impulsar el suministro de derivados del petróleo. No hubo avances mayores en lo diplomático.",
+    "Según Trump, Xi comparte el concepto de limitar armas, aunque recortar un arsenal es difícil para cualquier líder. Sobre Irán pospuso la decisión de nuevos ataques («tenemos tiempo») y mencionó el 1 de enero como referencia.",
+    "El New York Times describió que Putin salió airoso de la cumbre y dijo compartir valores con Trump, mientras en Ucrania caían los misiles. Hoy, Trump tiene prevista una rueda de prensa en la Casa Blanca centrada en acuerdos comerciales con varios países."
+   ],
+   "keys": [
+    "Declaración: una guerra nuclear no se puede ganar",
+    "Sin avances concretos sobre Ucrania",
+    "Irán: decisión aplazada"
+   ],
+   "why": "Un acuerdo nuclear entre las tres potencias afectaría a la seguridad europea, pero de momento solo hay intención de hablar.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/america/mundo/2026/11/20/donald-trump-dijo-que-la-negociacion-para-alcanzar-un-acuerdo-nuclear-con-china-y-rusia-sera-muy-dificil/"
+    },
+    {
+     "name": "Infobae (NYT)",
+     "url": "https://www.infobae.com/america/the-new-york-times/2026/11/20/putin-sale-airoso-de-la-cumbre-y-dice-que-comparte-valores-con-trump/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-iran-armas-quimicas",
+   "section": "mundo",
+   "weight": 2,
+   "title": "Irán rechaza que busque armas químicas y compara a Trump con el guion de Irak 2003",
+   "dek": "Teherán responde mientras el NYT dice que Washington sopesa nuevos ataques de entre cuatro y siete días.",
+   "figure": {
+    "value": "4-7",
+    "label": "días de ataques sopesados"
+   },
+   "place": "Teherán / Washington",
+   "thread": {
+    "id": "guerra-iran",
+    "label": "Guerra de Irán"
+   },
+   "body": [
+    "Trump dijo a Fox que hay indicios de que Irán investiga armas químicas y biológicas porque EE. UU. le ha cerrado la vía nuclear. El portavoz de Exteriores iraní, Ismail Baghaei, lo negó en X y lo comparó con el «guion fraudulento» previo a la invasión de Irak en 2003, según Infobae.",
+    "Teherán ya había dicho que EE. UU. e Israel intentan «preparar el terreno mediático» para nuevos ataques, tras informaciones sobre un supuesto plan iraní de atacar Washington con una bomba sucia, que Trump dice que no permitirá.",
+    "El NYT, con fuentes anónimas estadounidenses e israelíes, cuenta que Trump estudia bombardeos de cuatro a siete días y que Israel presiona. Tras Shenzhen, Trump dijo que decidirá más adelante y citó el 1 de enero.",
+    "La guerra lleva casi nueve meses, con ataques cruzados e incidentes en el estrecho de Ormuz en las últimas semanas y sin resultados de la mediación. El Brent cerró a 92,57 dólares, con tres semanas de caídas por el aumento de exportaciones de Oriente Medio y la expectativa de exceso de oferta."
+   ],
+   "keys": [
+    "Irán niega la acusación",
+    "NYT: ataques de 4 a 7 días en estudio",
+    "Brent: 92,57 dólares"
+   ],
+   "why": "Una escalada en Ormuz puede encarecer el petróleo y, con él, la gasolina y la factura.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/america/agencias/2026/11/20/iran-niega-la-alegacion-de-trump-de-que-busca-armas-quimicas-y-lo-compara-con-iraq-en-2003/"
+    },
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/america/agencias/2026/11/19/trump-valora-volver-a-atacar-iran-de-4-a-7-dias-tras-presiones-de-israel-segun-el-nyt/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-gaza-bureij",
+   "section": "mundo",
+   "weight": 1,
+   "title": "Un ataque israelí en el centro de Gaza mata a cuatro palestinos junto a Bureij",
+   "dek": "Israel dice que eran miembros de Hamás; la tregua sigue bajo tensión por incursiones y acusaciones cruzadas.",
+   "figure": {
+    "value": "4",
+    "label": "palestinos muertos"
+   },
+   "place": "Bureij (Gaza)",
+   "thread": {
+    "id": "gaza",
+    "label": "Guerra de Gaza"
+   },
+   "body": [
+    "Un bombardeo israelí mató el 20 de noviembre a cuatro palestinos cerca del campo de refugiados de Bureij, en el centro de la Franja, según fuentes médicas citadas por la agencia palestina Sanad e Infobae.",
+    "El Ejército israelí afirma que eran milicianos de Hamás que se reunían para planear ataques y que algunos participaron en el 7 de octubre de 2023; los acusa de violar el alto el fuego.",
+    "Es parte de una serie de incursiones y ataques de los últimos días. Hamás había acusado a Israel de violar la tregua con una incursión dentro de la «línea amarilla», y Israel dice que busca destruir un túnel en el centro de Gaza."
+   ],
+   "keys": [
+    "Cuatro muertos cerca de Bureij",
+    "Versiones enfrentadas: Israel habla de milicianos",
+    "Tregua frágil"
+   ],
+   "why": "La tregua de Gaza sigue sin consolidarse y condiciona la política de Oriente Medio, incluido Irán.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/america/agencias/2026/11/20/un-nuevo-ataque-israeli-en-el-centro-de-gaza-mata-a-cuatro-palestinos/"
+    },
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/america/agencias/2026/11/18/hamas-acusa-a-israel-de-violar-la-tregua-con-su-incursion-en-gaza-dentro-de-linea-amarilla/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-huelga-estudiantil-alemania",
+   "section": "mundo",
+   "weight": 1,
+   "title": "Miles de jóvenes marchan en Alemania en la huelga estudiantil europea",
+   "dek": "En Berlín, 4.500 según la policía y 15.000 según los organizadores; hubo forcejeos en Colonia.",
+   "figure": {
+    "value": "4.500",
+    "label": "según la policía en Berlín"
+   },
+   "place": "Berlín (Alemania)",
+   "body": [
+    "La huelga estudiantil europea del 20 de noviembre llegó a Alemania con protestas contra el rearme, el servicio militar y los recortes sociales. En Berlín la marcha terminó pacíficamente: 4.500 personas en el punto álgido según la policía, hasta 15.000 según los organizadores, informa Infobae.",
+    "En Fráncfort acudieron unos pocos cientos, en parte por la lluvia; hace tres semanas, saqueos tras una marcha juvenil llevaron a reforzar la seguridad. En Colonia hubo forcejeos con la policía, que identificó a participantes por pirotecnia o ir encapuchados.",
+    "La plataforma convocante, «Gen Z regelt», convocó por la noche en Kreuzberg bajo el lema «Merz debe marcharse». En España también se sumaron miles de estudiantes, según EFE."
+   ],
+   "keys": [
+    "Cifras discrepantes en Berlín",
+    "Forcejeos en Colonia",
+    "Protesta contra servicio militar y recortes"
+   ],
+   "why": "Es la misma convocatoria a la que se sumó el Sindicato de Estudiantes en España.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/america/agencias/2026/11/20/miles-de-jovenes-se-manifiestan-en-alemania-con-ocasion-de-la-huelga-estudiantil/"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/20/miles-de-estudiantes-espanoles-se-suman-a-la-huelga-europea-por-mas-educacion-publica/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-bilbao-tiempo-sabado-lluvia-debil",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "Sábado nublado con lluvia débil en Bilbao y semana que se enfría",
+   "dek": "Euskalmet no tiene avisos activados para hoy, pero el cielo se cubre y las temperaturas bajan. El lunes da un respiro y de martes a jueves vuelve la lluvia.",
+   "figure": {
+    "value": "18°",
+    "label": "máxima hoy"
+   },
+   "place": "Bilbao",
+   "body": [
+    "Según la predicción de AEMET para Bilbao, hoy sábado 21 habrá cielo cubierto con intervalos de lluvia, con 11 grados de mínima y 18 de máxima. Bilbao Hiria, que cita a Euskalmet, habla de lluvia débil, temperaturas en descenso y viento moderado, sin ningún aviso activado.",
+    "El domingo 22 seguirá nublado con lluvia débil (entre 8 y 17 grados). El lunes 23 será el día más despejado y seco de la semana, con 6 de mínima y 17 de máxima, antes de que el martes vuelva la lluvia con 15 grados.",
+    "Para la mitad de la semana AEMET anticipa un descenso más claro: el miércoles 25 se quedaría en 11 grados de máxima con cielo muy cubierto y lluvia, y el jueves 26 en 13 grados, también con lluvia. Los avisos por oleaje de los días anteriores, en cambio, ya terminaron el viernes por la tarde.",
+    "Sobre la marea, Bilbao Hiria apunta que la pleamar de mediodía llegará a unos 4,07 metros a las 13:59; conviene tenerlo en cuenta si paseas cerca de la ría."
+   ],
+   "keys": [
+    "Hoy: 11 a 18 grados, nublado, lluvia débil",
+    "Sin avisos de Euskalmet para el sábado",
+    "Lunes seco; martes a jueves, lluvia",
+    "El miércoles, máxima de solo 11 grados"
+   ],
+   "why": "Saca el paraguas hoy y mañana, y guarda el plan de paseo largo para el lunes, el día más seco.",
+   "sources": [
+    {
+     "name": "AEMET",
+     "url": "https://www.aemet.es/es/eltiempo/prediccion/municipios/bilbao-id48020"
+    },
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bilbao/tiempo-bilbao-hoy-viernes-20-noviembre-2026"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-bilbao-marcha-pensionistas",
+   "section": "bilbao",
+   "weight": 2,
+   "title": "Los pensionistas marchan hoy en Bilbao seis días antes de conocer la subida de 2027",
+   "dek": "El Movimiento de Pensionistas de Euskal Herria sale a las 12:30 de la Plaza Elíptica hacia el Ayuntamiento, en plena campaña del 29-N.",
+   "figure": {
+    "value": "12:30",
+    "label": "salida, Plaza Elíptica"
+   },
+   "place": "Bilbao",
+   "body": [
+    "El Movimiento de Pensionistas de Euskal Herria convoca hoy sábado 21 una marcha en Bilbao que parte a las 12:30 de la Plaza Elíptica y termina en el Ayuntamiento. Según Bilbao Hiria, el motivo es la incertidumbre sobre cómo evolucionarán las pensiones y la exigencia de que suban al ritmo del coste de la vida.",
+    "El calendario marca el tono: el 27 de noviembre el INE publica el IPC adelantado de noviembre, que fija la revalorización de 2027. Bilbao Hiria anticipa una subida de entre el 3,5 % y el 3,6 %, y recuerda que, con las generales el día 29, el decreto lo aprobaría previsiblemente un Gobierno en funciones.",
+    "Al Gobierno central le piden que la próxima subida no vuelva a restar poder adquisitivo, una paga compensatoria a final de año por lo perdido en 2026 y desde 2019, y pensión completa para quien acredite 40 años cotizados, sin coeficientes reductores. Al Gobierno vasco le reclaman una partida en los presupuestos de 2027 para completar las pensiones más bajas hasta el salario mínimo neto.",
+    "Como contexto, en septiembre de 2025 PNV, PSE-EE y Vox rechazaron tramitar una iniciativa popular sobre pensiones que había reunido 145.142 firmas. Esta es la fuente consultada; no se ha podido contrastar con otros medios cuántas personas se esperan en la marcha."
+   ],
+   "keys": [
+    "Hoy a las 12:30, de la Plaza Elíptica al Ayuntamiento",
+    "IPC adelantado de noviembre el 27",
+    "Piden paga compensatoria y complemento vasco",
+    "Las generales son el 29"
+   ],
+   "why": "Si bajas hoy al centro a mediodía, cuenta con cortes y mucha gente entre la Plaza Elíptica y la plaza del Ayuntamiento.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bilbao/manifestacion-pensionistas-bilbao-21-noviembre-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-bilbao-mundial-2030-sede-individual",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "Bilbao pospone su decisión sobre el Mundial 2030 tras el no de la FIFA a la sede conjunta",
+   "dek": "La FIFA rechazó la candidatura compartida con Donostia; el Ayuntamiento decidirá a finales de 2026 o principios de 2027 si va sola, y la FIFA cerrará en marzo.",
+   "figure": {
+    "value": "~50 M€",
+    "label": "coste estimado San Mamés"
+   },
+   "place": "Bilbao",
+   "body": [
+    "La FIFA rechazó la candidatura conjunta de Bilbao y Donostia al Mundial 2030 mediante una breve nota a ambos ayuntamientos, y el presidente de la RFEF, Rafael Louzán, lo confirmó. San Mamés y Anoeta siguen en la carrera de estadios, pero ahora por separado, según Bilbao Hiria.",
+    "El Ayuntamiento de Bilbao ha aplazado su respuesta hasta finales de este año o principios de 2027, tras analizar los informes de la FIFA. Hay tres escenarios: seguir ambas ciudades por separado, que continúe solo una, o que se retiren las dos. La FIFA prevé su decisión final en marzo.",
+    "El coste pesa: en mayo la Diputación y el Ayuntamiento revisaron San Mamés por una inversión estimada de unos 50 millones, y el alcalde Juan Mari Aburto admitió en junio que acoger solo supone un esfuerzo grande. Las instituciones vascas llevan meses cuestionando las condiciones de la FIFA: inversiones obligatorias, cambios de normas y restricciones a otros eventos.",
+    "En lo político, la concejala socialista Ane Oyarbide afirmó que la candidatura conjunta fue una decisión del PNV que no se consultó al PSE. Hay vecinos que rechazan el Mundial por la presión turística y comercios y hostelería que esperan más ventas."
+   ],
+   "keys": [
+    "Rechazo de la FIFA a la sede conjunta",
+    "Bilbao decide a finales de 2026 o inicios de 2027",
+    "FIFA decide en marzo",
+    "Debate sobre coste y presión turística"
+   ],
+   "why": "Si el Mundial llega, afectaría a los alquileres turísticos y al ambiente del centro; de momento, solo hay una decisión pendiente.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bilbao/mundial-2030-bilbao-decision-sede-individual-san-mames"
+    },
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/euskal-herria/louzan-fifa-rechaza-sede-conjunta-bilbao-donostia-mundial-2030/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-bilbao-presupuestos-2027-bildu-oferta",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "EH Bildu ofrece no enmendar a la totalidad el presupuesto de Bilbao si hay negociación",
+   "dek": "El proyecto de 2027 suma 797 millones, un 6,1 % más que el actual.",
+   "figure": {
+    "value": "797 M€",
+    "label": "presupuesto 2027"
+   },
+   "place": "Bilbao",
+   "thread": {
+    "id": "vivienda",
+    "label": "Crisis de la vivienda"
+   },
+   "body": [
+    "María del Río, portavoz de EH Bildu en Bilbao, ofreció el jueves al gobierno municipal del PNV y el PSE-EE negociar las cuentas de 2027: a cambio, su grupo no presentaría una enmienda a la totalidad o la retiraría, siempre que la negociación sea real, según Bilbao Hiria.",
+    "El borrador asciende a 797 millones de euros, un 6,1 % más que el de 2026, y el Ayuntamiento lo describe como el mayor de su historia. En años anteriores PNV y PSE-EE rechazaron las enmiendas a la totalidad y sacaron adelante el presupuesto de 2026 solos.",
+    "Las prioridades de EH Bildu son la vivienda y los servicios de cuidados, con atención a personas mayores y familias monoparentales, aunque no ha concretado partidas ni importes. La oferta llega pocos meses antes de las municipales de 2027, en las que Del Río encabezará la lista de la coalición, y unas seis semanas después de que criticara al alcalde por cerrado.",
+    "El texto no da fecha límite para las conversaciones ni para la votación. Si el gobierno municipal no acepta negociar, EH Bildu volvería a presentar la enmienda, como en otras ocasiones."
+   ],
+   "keys": [
+    "Oferta: sin enmienda a la totalidad si hay diálogo",
+    "Prioridades: vivienda y cuidados",
+    "Sin fecha de votación conocida"
+   ],
+   "why": "El presupuesto decide cuánto dinero municipal va a vivienda y a servicios; es la antesala de la campaña municipal de 2027.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bilbao/presupuestos-bilbao-2027-eh-bildu-maria-del-rio-negociar/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-bilbao-metro-simulacro-sarin",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "Metro Bilbao ensaya un ataque con gas sarín en San Mamés",
+   "dek": "Simulacro de madrugada con Ertzaintza, Osakidetza y Policía Municipal; el lunes se probarán sirenas de emergencia química en cuatro municipios.",
+   "figure": {
+    "value": "1995",
+    "label": "año del atentado de Tokio"
+   },
+   "place": "Bilbao",
+   "thread": {
+    "id": "metro-bilbao",
+    "label": "Metro de Bilbao"
+   },
+   "body": [
+    "En la madrugada del miércoles 18, Metro Bilbao y Protección Civil de Bilbao simularon un ataque con gas sarín en un tren de la estación de San Mamés, informa Bilbao Hiria. Participaron el TEDAX de la Ertzaintza, Emergencias de Osakidetza, la Policía Municipal y el 112 SOS Deiak.",
+    "El ejercicio recuerda el atentado de la secta Aum Shinrikyo en el metro de Tokio en 1995. Bilbao Hiria no indica cuántos figurantes intervinieron, cuánto duró ni qué conclusiones sacaron los servicios.",
+    "El Gobierno Vasco prevé presentar antes de fin de año su Plan de Seguridad Integral 2026-2030, que incluirá la prevención de ataques complejos. San Mamés conecta metro, tranvía, Cercanías y la intermodal, y el 4 de agosto un incendio en sus escaleras obligó a desalojarla sin heridos.",
+    "El lunes 23 se probarán las sirenas de emergencia química en Muskiz, Abanto-Zierbena, Santurtzi y Zierbena; si las oyes, es una prueba."
+   ],
+   "keys": [
+    "Simulacro del miércoles en San Mamés",
+    "Plan de Seguridad Integral antes de fin de año",
+    "Sirenas de prueba el lunes 23"
+   ],
+   "why": "Es un ensayo, no hay riesgo: sirve para que Metro y emergencias coordinen respuesta en una estación muy concurrida.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bilbao/simulacro-gas-sarin-metro-bilbao-san-mames/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-euskadi-campana-pnv-bildu-psee",
+   "section": "euskadi",
+   "weight": 2,
+   "title": "Campaña en Euskadi: EH Bildu lidera los sondeos y el PNV teme quedar tercero",
+   "dek": "A una semana del 29-N, las encuestas sitúan a EH Bildu por delante del PNV, mientras el PSE-EE aspira a siete escaños y Otegi pide concentrar el voto.",
+   "figure": {
+    "value": "7-8",
+    "label": "escaños previstos EH Bildu"
+   },
+   "place": "Euskadi",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "Euskadi elige 18 diputados el 29-N: 8 por Bizkaia, 6 por Gipuzkoa y 4 por Álava. Según elDiario.es/Euskadi, las encuestas dan la victoria a EH Bildu, que con el escaño navarro podría sumar entre siete y ocho; la mayoría de sondeos coloca al PNV tercero, algo que ya le pasó en las europeas de 2024. El Sociometro, citado por Bilbao Hiria, atribuye 25,9 % a EH Bildu y 17,4 % al PNV en Euskadi.",
+    "El PSE-EE, con Patxi López, aspira a siete escaños tras ganar en votos en 2023. Para el PNV hay un umbral clave: por debajo de cinco diputados perdería grupo propio, según ese mismo medio, que lo presenta con tono crítico hacia el partido.",
+    "El viernes EH Bildu recordó en Rekalde a Santi Brouard y Josu Muguruza, asesinados un 20 de noviembre. Arnaldo Otegi pidió concentrar el voto en la coalición y Oskar Matute defendió sus logros en vivienda, pensiones y fiscalidad, según elDiario.es. Matute también pidió en Balmaseda un voto «eficaz», según Bilbao Hiria.",
+    "El PNV, por su parte, rechaza que el 29-N vaya de elegir entre Sánchez y Feijóo y acusa a EH Bildu de perdonar todo al PSOE, según titulares de elDiario.es y Crónica Vasca (El Español). Del lado conservador solo se han podido ver titulares de Crónica Vasca, que recoge sondeos favorables a Bildu y críticas de Otegi a PP y Vox; no se pudo leer ningún artículo completo de un medio conservador, así que este contraste es limitado.",
+    "Tras el cara a cara Sánchez-Feijóo y el debate de ETB-1 del jueves, la campaña termina el viernes 27, el sábado 28 es jornada de reflexión y el 29 se vota."
+   ],
+   "keys": [
+    "EH Bildu, primera en los sondeos",
+    "PNV: riesgo de quedar tercero",
+    "Campaña hasta el 27; reflexión el 28",
+    "Contraste conservador limitado"
+   ],
+   "why": "Tu voto en Bizkaia reparte 8 escaños; si votas por correo, el plazo se ha ampliado hasta el 26 de noviembre.",
+   "sources": [
+    {
+     "name": "elDiario.es/Euskadi",
+     "url": "https://www.eldiario.es/euskadi/generales-acento-vasco-batalla-cabeza-pse-ee-eh-bildu-pnv-apuros_1_13657136.html"
+    },
+    {
+     "name": "elDiario.es/Euskadi",
+     "url": "https://www.eldiario.es/euskadi/eh-bildu-recuerda-asesinatos-brouard-muguruza-denuncia-violencia-campana_1_13681829.html"
+    },
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bizkaia/oskar-matute-balmaseda-eh-bildu-29n-voto-eficaz/"
+    },
+    {
+     "name": "Crónica Vasca (El Español)",
+     "url": "https://cronicavasca.elespanol.com/politica/20261112/encuestas-situan-eh-bildu-decimas-delante-pnv/1003742811169_0.html"
+    },
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/euskal-herria/encuesta-elecciones-generales-29n-partidos-nacionalistas-eh-bildu/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-euskadi-bildu-programa-vivienda-pensiones",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "Qué propone EH Bildu para el 29-N: pensión mínima de 1.220 euros y semana de 32 horas",
+   "dek": "El programa incluye tope del 2 % a la subida del alquiler, prohibición de compras especulativas y traspaso de competencias.",
+   "figure": {
+    "value": "1.220 €",
+    "label": "pensión mínima propuesta"
+   },
+   "place": "Euskadi",
+   "thread": {
+    "id": "elecciones-29n",
+    "label": "Elecciones 29-N"
+   },
+   "body": [
+    "Según Bilbao Hiria, el programa de EH Bildu propone una pensión mínima de al menos 1.220 euros, ligada al salario mínimo, y subir un 15 % como mínimo las de viudedad y no contributivas. También jubilación sin penalización con 40 años cotizados.",
+    "En empleo plantea la jornada de 32 horas o cuatro días sin bajar sueldo, con un plazo máximo de tres años para las pequeñas empresas, un salario mínimo propio para Euskadi y Navarra y 45 días por año en despidos improcedentes.",
+    "En vivienda propone prohibir desahucios de familias vulnerables sin alternativa, limitar al 2 % la subida anual del alquiler cuando el IPC la supere, prohibir la compra especulativa de fondos y grandes tenedores y subir al 21 % el IVA de los alojamientos turísticos de corta duración.",
+    "En autogobierno pide traspasar competencias en Seguridad Social, empleo, energía e inmigración, y en política exterior rechaza la OTAN y el aumento del gasto militar. Se trata de propuestas de partido, no de medidas aprobadas, y esta es una sola fuente."
+   ],
+   "keys": [
+    "Pensión mínima de 1.220 €",
+    "Jornada de 32 horas",
+    "Alquiler: tope del 2 %",
+    "Traspaso de competencias"
+   ],
+   "why": "Si alquilas o buscas piso, mira qué dice cada programa sobre topes y pisos turísticos antes del 29.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/euskal-herria/programa-electoral-eh-bildu-29n-pensiones-32-horas/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-euskadi-tubos-reunidos-compradores",
+   "section": "euskadi",
+   "weight": 2,
+   "title": "Tubos Reunidos: la plantilla pide implicación a Madrid y a Gasteiz ante cinco posibles compradores",
+   "dek": "Tras entrar las sociedades en liquidación, el comité ve los interesados como buena noticia, pero exige un proyecto industrial que garantice empleo.",
+   "figure": {
+    "value": "5",
+    "label": "posibles compradores"
+   },
+   "place": "Amurrio",
+   "body": [
+    "El comité de empresa de Tubos Reunidos pidió el viernes la implicación de las instituciones tras entrar las sociedades de la empresa en liquidación. Según Orain, hay cinco posibles compradores que podrían dar un futuro a la compañía.",
+    "Los portavoces atribuyen la situación a la «nefasta gestión de la dirección y la avaricia de los accionistas» y niegan que la responsabilidad sea de la plantilla. Valoran positivamente a los interesados, pero insisten en que no basta sin un proyecto industrial que mantenga actividad y empleo.",
+    "Al Gobierno de España le exigen que deje de ser un obstáculo, recuerdan los objetivos de la SEPI y piden a la Abogacía del Estado que deje de impugnar procedimientos ante el juzgado mercantil. Al Gobierno Vasco le piden concretar cómo acompañará a los inversores y con qué garantías de empleo; se reunirán con él, sin fecha conocida.",
+    "El texto no detalla cifras de plantilla, el procedimiento de venta ni la identidad de los compradores, así que son datos que quedan por aclarar."
+   ],
+   "keys": [
+    "Sociedades en liquidación",
+    "Cinco posibles compradores",
+    "Piden reunión con el Gobierno Vasco",
+    "Critican a SEPI y Abogacía del Estado"
+   ],
+   "why": "Es una de las industrias históricas de Euskadi: lo que pase afecta a cientos de familias del valle de Ayala.",
+   "sources": [
+    {
+     "name": "Orain",
+     "url": "https://orain.eus/es/actualidad/economia/2026/11/20/la-plantilla-tubos-reunidos-pide-implicacion-institucional-garantizar-el-futuro-la-empresa/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-euskadi-bizkaia-transporte-2027",
+   "section": "euskadi",
+   "weight": 1,
+   "title": "Bizkaia mantendrá el 20 % de descuento en transporte en 2027 y bajará de cinco a tres zonas",
+   "dek": "El Consorcio aprobó las nuevas tarifas, que estarán en exposición pública hasta el 21 de diciembre y se aplicarán desde el 1 de enero.",
+   "figure": {
+    "value": "20 %",
+    "label": "descuento en 2027"
+   },
+   "place": "Bizkaia",
+   "body": [
+    "El Consorcio de Transportes de Bizkaia aprobó el 4 de noviembre mantener una rebaja del 20 % durante todo 2027, independiente de las ayudas estatales, según Bilbao Hiria. Hoy, sumadas ambas administraciones, el descuento llega al 40 %, y podría subir si el Gobierno central prorroga sus subvenciones.",
+    "Un viaje de dos zonas con Barik costará 1 euro o 0,75 euros desde enero, frente a los 0,72 actuales, según la ayuda estatal. Las zonas pasarán de cinco a tres y el trayecto más caro de Bizkaibus bajará de 4,50 a 2,15 euros. En la misma sesión se aprobó una subida media del 3,9 % en los títulos más usados.",
+    "En 2027 desaparecerá el coste de los transbordos entre tren, tranvía y autobús, y el precio dependerá de las zonas recorridas. Las Juntas Generales anunciaron además descuentos según renta familiar, que deberían estar implantados a finales de 2027.",
+    "EH Bildu pidió mantener las bonificaciones y armonizar tarifas en toda Euskadi; PNV y PSE votaron en contra y el PP se abstuvo."
+   ],
+   "keys": [
+    "20 % de descuento todo 2027",
+    "Zonas: de cinco a tres",
+    "Sin coste de transbordo",
+    "Alegaciones hasta el 21 de diciembre"
+   ],
+   "why": "Si usas Metro y Bizkaibus a diario, tu abono puede salirte distinto desde enero; revisa las nuevas tarifas.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bizkaia/descuento-transporte-bizkaia-2027-renta-zonas-transbordos/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-athletic-espanyol-0-1",
+   "section": "deportes",
+   "weight": 2,
+   "title": "El Athletic cae 0-1 ante el Espanyol en San Mamés pese a mandar en la segunda parte",
+   "dek": "Un gol de Roberto Fernández en el minuto 66, tras un desajuste defensivo, decide el partido del viernes y estropea el estreno en casa de la sexta plaza. Eder Sarabia debuta con victoria en el banquillo perico.",
+   "figure": {
+    "value": "0-1",
+    "label": "Athletic-Espanyol"
+   },
+   "place": "San Mamés, Bilbao",
+   "thread": {
+    "id": "athletic",
+    "label": "Athletic Club"
+   },
+   "body": [
+    "El Athletic perdió el viernes por la noche en San Mamés (21:00) contra el Espanyol por 0-1, en la jornada 13 de LaLiga, ante 46.107 espectadores. Era el primer partido de la jornada y los rojiblancos llegaban con cinco encuentros invictos en casa, con la idea de acercarse a puestos europeos. La derrota es la cuarta de la temporada, según la crónica de Kirolak.",
+    "El único gol llegó en el minuto 66. Tras un desajuste en la defensa local, Roberto Fernández se quedó solo ante Unai Simón y lo batió; es su séptimo tanto del curso. Poco después, Puado entró en el tramo final por el goleador, y el Espanyol supo cerrar espacios y aguantar la presión alta de Terzic, como cuenta EFE.",
+    "El equipo de Terzic tuvo más balón y 17 disparos, pero le faltó puntería. Iñaki Williams avisó a los cinco minutos y, hacia el 31, Fortuño le detuvo un remate desde el segundo palo. Tras el descanso, dos intentos ligados a los hermanos Williams (minutos 48 y 60) salieron muy flojos, y Sancet tampoco inquietó. Hubo cuatro amonestaciones en total (Iñaki, Galarreta, Yeray y, por el Espanyol, Riedel), sin expulsados.",
+    "Las valoraciones giran en torno a la falta de acierto. Kirolak titula su crónica con ese argumento y recoge a Nico Williams diciendo que el equipo está «capacitado para hacer mucho más». Iñaki Williams, citado por EFE, opinó que fueron superiores sin que el marcador lo reflejara. Por el lado perico, Eder Sarabia, en su primer partido al frente tras la salida de Manolo González, destacó que el equipo se fue adaptando a lo que pedía el partido; el Espanyol suma ya siete de nueve puntos con el cambio.",
+    "Antes del pitido inicial el club homenajeó a Elene Gurtubay y Daniela Agote, campeonas del mundo sub-20. Las fuentes consultadas no detallan la clasificación tras la jornada ni la fecha del próximo compromiso liguero, así que conviene confirmar ambos datos en la web del club."
+   ],
+   "keys": [
+    "Gol de Roberto Fernández en el 66', su séptimo de la temporada.",
+    "17 disparos del Athletic, sin acierto.",
+    "Debut con victoria de Eder Sarabia en el Espanyol.",
+    "Cuarta derrota liguera del Athletic."
+   ],
+   "why": "Si ibas a San Mamés o a verlo en un bar del Casco Viejo, el fin de semana empieza con mal sabor; la pelea por Europa se complica.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/20/0-1-el-efecto-sarabia-aturde-al-athletic-y-relanza-al-espanyol-en-san-mames/"
+    },
+    {
+     "name": "Kirolak",
+     "url": "https://kirolakeitb.eus/es/futbol/equipos/athletic-club/2026/11/20/la-falta-punteria-castiga-al-athletic-ante-el-espanyol-0-1/"
+    },
+    {
+     "name": "Kirolak",
+     "url": "https://kirolakeitb.eus/es/futbol/equipos/athletic-club/2026/11/20/nico-estamos-capacitados-hacer-mucho-mas/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-laliga-jornada-13",
+   "section": "deportes",
+   "weight": 1,
+   "title": "Jornada 13 de LaLiga: Madrid-Celta, Alavés-Deportivo y un Barça-Villarreal con ventaja de tres puntos",
+   "dek": "Tras el viernes del Athletic, el sábado y el domingo traen al líder Barça ante el Villarreal, al Madrid con ocho victorias seguidas y varios duelos de abajo.",
+   "figure": {
+    "value": "3",
+    "label": "puntos de ventaja del Barça"
+   },
+   "place": "España",
+   "body": [
+    "El Athletic abrió la jornada 13 el viernes. El sábado el Real Madrid, segundo con ocho triunfos consecutivos en todas las competiciones desde la derrota ante el Atlético del 20 de septiembre, recibe al Celta. También ese día el Alavés, con ocho jornadas sin ganar (cinco derrotas y tres empates), juega contra el Deportivo en Vitoria, y el Valencia visita al Rayo con apenas 9 de 36 puntos posibles, penúltimo y a tres del conjunto madrileño.",
+    "El domingo el Barcelona, líder con tres puntos sobre el Madrid, recibe al Villarreal, que ganó dos de sus tres últimas visitas ligueras al Camp Nou. El Atlético, con cuatro victorias seguidas como visitante, juega en el Coliseum ante el Getafe, la Real Sociedad visita al Racing y el Málaga, que no gana en 12 jornadas desde su regreso a Primera, va a Osasuna.",
+    "El Sevilla-Betis del sábado (18:30) llega con un balance reciente favorable al Betis: de los últimos ocho derbis ligueros el Sevilla ganó uno y el Betis dos, con cinco empates. El lunes, Levante y Elche, separados por un punto, se miden en Valencia con el Elche en zona de descenso, según los datos que recopila EFE."
+   ],
+   "keys": [
+    "Barça líder con 3 puntos sobre el Madrid.",
+    "El Alavés suma ocho jornadas sin ganar.",
+    "El Málaga, 12 jornadas sin victoria."
+   ],
+   "why": "Para elegir partido en el bar: el Barça-Villarreal del domingo y el derbi sevillano del sábado son los de más tensión.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/19/la-jornada-13-de-laliga-en-11-numeros/"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/21/sevilla-betis-sabado-21-de-noviembre-a-las-1830-y-barca-villarreal-domingo-a-las-1400/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-madrid-olympiacos-euroliga",
+   "section": "deportes",
+   "weight": 1,
+   "title": "El Real Madrid de baloncesto cae 92-76 ante el Olympiacos y cierra una mala semana en la Euroliga",
+   "dek": "Segunda derrota fuera de casa en tres días para el equipo blanco, que queda con balance de 7-6.",
+   "figure": {
+    "value": "92-76",
+    "label": "Olympiacos-Real Madrid"
+   },
+   "place": "Grecia",
+   "body": [
+    "El Real Madrid perdió el viernes 92-76 ante el Olympiacos, vigente campeón de la Euroliga, en la jornada 13. Fue su segunda derrota a domicilio de la semana, después de la sufrida frente al Besiktas dos días antes, y el equipo queda con 7 victorias y 6 derrotas.",
+    "El partido se decidió pronto. El Olympiacos se fue al descanso 50-33 y llegó al último cuarto con 73-52. Según la crónica de EFE, el Madrid sufrió con las pérdidas y se desmoronó tras el descanso. Tyrique Jones fue el máximo anotador del partido con 22 puntos; por el Madrid, Maledon sumó 17.",
+    "Antes de las ventanas FIBA, al Madrid le esperan un partido de Liga Endesa ante el Joventut y otro de Euroliga contra el Zalgiris Kaunas. La crónica sitúa el choque en sedes incompatibles entre sí, por lo que no damos aquí la sede."
+   ],
+   "keys": [
+    "Balance de 7-6 en Euroliga.",
+    "Cae por 19 puntos ante el campeón."
+   ],
+   "why": "Contexto para quien siga el baloncesto: la Euroliga está igualada y ni siquiera el Madrid tiene sitio asegurado.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://infobae.com/espana/agencias/2026/11/20/92-76-el-real-madrid-recibe-un-correctivo-del-campeon-y-cierra-una-mala-semana-europea"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-desinformacion-climatica-jovenes",
+   "section": "sociedad",
+   "weight": 1,
+   "title": "Más de la mitad de los jóvenes ve imágenes o vídeos falsos sobre el clima, según Plan International",
+   "dek": "Un informe de la ONG señala que la desinformación climática forma parte del día a día de quienes tienen entre 16 y 24 años.",
+   "figure": {
+    "value": "54,7%",
+    "label": "ve bulos con frecuencia"
+   },
+   "place": "España",
+   "body": [
+    "Plan International ha publicado un informe, difundido por EFE el 20 de noviembre, según el cual el 54,7 % de los jóvenes de 16 a 24 años ve a menudo o siempre imágenes o vídeos falsos sobre el clima. El 46 % encuentra mensajes que presentan las soluciones como inútiles y el 35,9 % se topa con contenido negacionista.",
+    "Quienes vivieron la dana de octubre de 2024 declaran una exposición unos diez puntos mayor. El análisis de conversaciones, entre el 29 de octubre de 2024 y el 31 de enero de 2025, detectó que Telegram acogía relatos conspirativos elaborados que luego circulaban resumidos en TikTok e Instagram. Las redes son la principal fuente de información climática para el 62 % de este grupo.",
+    "El 72 % dice estar dispuesto a cambiar hábitos, pero solo algo más de cuatro de cada diez lo hicieron el último año; el 52 % querría implicarse y no sabe cómo. Virginia Saiz, directora de Plan International en España, pide información fiable y vías concretas de participación. Un dato positivo: el 65 % confía mucho en los científicos y el 17 % en los creadores de contenido."
+   ],
+   "keys": [
+    "54,7 % ve bulos climáticos con frecuencia.",
+    "62 % se informa del clima en redes.",
+    "72 % dispuesto a cambiar hábitos."
+   ],
+   "why": "Es tu franja de edad: Bizkaia vivió inundaciones recientes y los bulos sobre ellas circulan por las mismas redes que usas.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/20/informe-denuncia-que-desinformacion-climatica-es-parte-del-paisaje-diario-de-la-juventud/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-guardia-civil-setas-apps",
+   "section": "sociedad",
+   "weight": 1,
+   "title": "La Guardia Civil desaconseja identificar setas solo con una aplicación móvil",
+   "dek": "El cuerpo recuerda que algunas especies son mortales y que una foto no basta para distinguirlas.",
+   "figure": {
+    "value": "112",
+    "label": "teléfono en intoxicación"
+   },
+   "place": "España",
+   "body": [
+    "La Guardia Civil difundió el 19 de noviembre un aviso en redes: las aplicaciones de identificación no deben ser la única herramienta para decidir si una seta es comestible. Color, tamaño y forma cambian con la edad, el clima y el entorno, y las especies venenosas pueden parecerse mucho a las comestibles.",
+    "Sus consejos: coger solo lo que se conoce con total seguridad, dejar en el monte ejemplares muy jóvenes o deteriorados y consultar a un especialista ante la duda. Si hay sospecha de intoxicación, llamar al 112 o ir a urgencias y guardar restos de las setas consumidas.",
+    "El aviso llega con controles reforzados: en Navarra se intervinieron 88 kilos a finales de octubre, y en Ávila cerca de 130 kilos de boletus con seis denuncias, además de límites de cinco kilos diarios en la Sierra de los Filabres."
+   ],
+   "keys": [
+    "Una app no basta para identificar una seta.",
+    "Ante una intoxicación, 112 y guardar restos."
+   ],
+   "why": "Si sales al monte en otoño, mejor ir con alguien que sepa de setas que fiarte de la cámara del móvil.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/espana/2026/11/20/la-guardia-civil-avisa-del-riesgo-de-utilizar-aplicaciones-moviles-para-identificar-setas-sin-la-supervision-de-un-experto/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-zinebi-gala-barea",
+   "section": "cultura",
+   "weight": 1,
+   "title": "ZINEBI 68 inaugura el festival con la gala del Mikeldi de Honor a Ramón Barea",
+   "dek": "La 68.ª edición del festival de documental y cortometraje de Bilbao abrió el viernes en el Teatro Arriaga.",
+   "figure": {
+    "value": "68",
+    "label": "edición de ZINEBI"
+   },
+   "place": "Bilbao",
+   "body": [
+    "El Festival Internacional de Cine Documental y Cortometraje de Bilbao, ZINEBI, celebró el viernes a las 19:30 en el Teatro Arriaga su gala inaugural, en la que se entregó el Mikeldi de Honor al actor, director y autor bilbaíno Ramón Barea, según la agenda de EFE. El certamen lo organiza el Ayuntamiento y lo dirige Joseba Lopezortega.",
+    "Barea, nacido en 1949, suma más de cien películas y el Premio Nacional de Teatro de 2013. En una entrevista con EFE contó que no tuvo representante, lo que, a su juicio, le permitió alternar cine, teatro y televisión, y resumió su trayectoria diciendo que ha aprendido a convivir con el éxito y el fracaso.",
+    "Las fuentes consultadas no detallan el programa ni las fechas de cierre, por lo que recomendamos mirar la web del festival antes de elegir sesiones."
+   ],
+   "keys": [
+    "Mikeldi de Honor para Ramón Barea.",
+    "Gala en el Teatro Arriaga."
+   ],
+   "why": "Un festival de cine en tu ciudad con programa de cortos y documentales, buen plan de invierno.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/16/ramon-barea-premio-mikeldi-de-honor-he-aprendido-a-convivir-con-el-exito-y-el-fracaso/"
+    },
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/19/temas-del-dia-de-efe-espana-del-viernes-20-de-noviembre/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-artium-lempert-tartalo",
+   "section": "cultura",
+   "weight": 1,
+   "title": "Vitoria: exposición de Jochen Lempert en el Artium y clausura de Tartalo",
+   "dek": "Dos citas culturales alavesas para el sábado, a poco más de una hora de Bilbao.",
+   "figure": {
+    "value": "19:00",
+    "label": "gala de Tartalo"
+   },
+   "place": "Vitoria-Gasteiz",
+   "body": [
+    "El Museo Artium de Vitoria presenta hoy a las 10:30, según la agenda de EFE, la exposición «Local Ecology» del fotógrafo alemán Jochen Lempert. La agenda no ofrece más detalles de la muestra.",
+    "A las 19:00 se clausura la cuarta edición de Tartalo, la Semana de lo Fantástico en las Artes, con un concierto de La MODA. Los datos disponibles se limitan a ese horario."
+   ],
+   "keys": [
+    "Artium, 10:30.",
+    "Clausura de Tartalo, 19:00."
+   ],
+   "why": "Un plan de sábado cercano: Vitoria queda a poco más de una hora de Bilbao.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/20/temas-del-dia-de-efe-espana-del-sabado-21-de-noviembre-de-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-agenda-conciertos",
+   "section": "cultura",
+   "weight": 1,
+   "title": "Sábado de conciertos: Elrow en Barakaldo, La Oreja de Van Gogh en Pamplona y clausura en Gijón",
+   "dek": "La agenda de EFE reúne las citas musicales y de cine más destacadas de la noche.",
+   "figure": {
+    "value": "20:00",
+    "label": "Elrow en BEC"
+   },
+   "place": "Barakaldo",
+   "body": [
+    "A las 20:00 hay sesión de música electrónica de Elrow Bilbao en el Bilbao Exhibition Centre de Barakaldo. A las 21:00, La Oreja de Van Gogh actúa en el Navarra Arena de Pamplona.",
+    "Fuera de Euskal Herria, a las 19:00 se clausura el 64 Festival Internacional de Cine de Gijón en el Teatro Jovellanos, y a las 20:00 Christina Rosenvinge toca en València.",
+    "Los datos proceden de la agenda de EFE, que no informa de entradas ni de aforo."
+   ],
+   "keys": [
+    "Elrow, 20:00 en el BEC.",
+    "La Oreja de Van Gogh, 21:00 en Pamplona."
+   ],
+   "why": "Hoy tienes un macroevento electrónico en Barakaldo y, a una hora y media, a La Oreja en Pamplona.",
+   "sources": [
+    {
+     "name": "Infobae (EFE)",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/20/temas-del-dia-de-efe-espana-del-sabado-21-de-noviembre-de-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-atlas-envejecimiento-vascular",
+   "section": "ciencia",
+   "weight": 1,
+   "title": "Crean el primer mapa del envejecimiento de los vasos sanguíneos a partir de 375.000 células",
+   "dek": "Un equipo del CeMM de Viena publica en Nature Aging un atlas con células de 12 tejidos y un gen candidato, MAFF.",
+   "figure": {
+    "value": "375.000",
+    "label": "células analizadas"
+   },
+   "place": "Viena (Austria)",
+   "body": [
+    "Un equipo dirigido por Laura de Rooij en el Centro de Medicina Molecular CeMM de la Academia de Ciencias de Austria ha construido el Atlas de Envejecimiento Endotelial Humano, publicado en Nature Aging. Reúne más de 375.000 células endoteliales, las que recubren los vasos, de 290 muestras de 12 tejidos y 34 estudios previos.",
+    "Según Infobae, los vasos no envejecen igual en todo el cuerpo, aunque se repiten rasgos: las venas de mayores muestran menos actividad de genes ligados a formar vasos nuevos y más actividad de genes de inflamación y senescencia. La proteína YAP aparece más en el núcleo de células de donantes mayores, aunque no se sabe si es adaptación o daño.",
+    "Activar artificialmente el gen MAFF en células jóvenes produjo en laboratorio rasgos de envejecimiento. Los autores avisan de límites: compararon personas de edades distintas en lugar de seguir a las mismas en el tiempo y los datos clínicos de los donantes eran incompletos. El atlas está en un portal abierto para otros equipos."
+   ],
+   "keys": [
+    "Más de 375.000 células de 12 tejidos.",
+    "MAFF, gen candidato.",
+    "Comparó edades, no siguió individuos."
+   ],
+   "why": "Ayuda a entender por qué crece el riesgo cardiovascular con los años; por ahora es ciencia básica, sin aplicación clínica.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/salud/ciencia/2026/11/20/375000-celulas-y-un-hallazgo-historico-crean-el-primer-mapa-del-envejecimiento-del-sistema-circulatorio/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-manovra-retoques",
+   "section": "italia",
+   "weight": 2,
+   "title": "Meloni prepara retoques a los presupuestos tras la huelga: sanidad, pensiones y superbonus",
+   "dek": "El Gobierno italiano afina la «manovra» sin tocar las cuentas y Giorgetti presentará un esquema a los aliados la semana próxima. Un día después de la huelga de la CGIL, la sanidad es la prioridad.",
+   "figure": {
+    "value": "5,5 M",
+    "label": "beneficiarios tarjeta mayores"
+   },
+   "place": "Roma",
+   "thread": {
+    "id": "italia-meloni",
+    "label": "Meloni y los presupuestos"
+   },
+   "body": [
+    "Según ANSA, el Ejecutivo trabaja en correcciones puntuales al proyecto de presupuestos, con la condición de no alterar los saldos. El ministro de Economía, Giancarlo Giorgetti, redactará un borrador que llevará a una cumbre de la mayoría prevista para la semana que viene, y los técnicos del ministerio buscarán este fin de semana de dónde sacar el dinero. El 24 de noviembre Bruselas examinará el documento programático, y Roma aspira a salir del procedimiento por déficit excesivo en primavera.",
+    "La sanidad encabeza la lista de prioridades. El ministro Orazio Schillaci habla de reforzar el fondo sanitario, y una de las hipótesis es recortar el número de perceptores de la tarjeta de 300 euros para mayores de 75 años, manteniendo el importe, para destinar ese dinero a la sanidad pública. Antonio Tajani cifra en unos 5,5 millones los beneficiarios y promete respuestas para médicos y enfermeros. En pensiones habrá algo de margen para la clase media, aunque se descartan las propuestas de Forza Italia y la Lega de subir el listón.",
+    "Otras piezas del paquete: el superbonus de rehabilitación podría suavizar el endurecimiento para las pymes, y se estudia aliviar el impuesto de salida a quienes trasladan su residencia fiscal, con un umbral entre 2 y 3 millones de euros frente a los 800.000 del texto original. Salvini quiere que bancos, aseguradoras y juego en línea aporten más. El presidente de Confindustria, Emanuele Orsini, recuerda que no es un presupuesto expansivo y que hay que cuidar las cuentas."
+   ],
+   "keys": [
+    "Cumbre de mayoría la próxima semana con el esquema de Giorgetti",
+    "Bruselas evalúa el documento presupuestario el 24 de noviembre",
+    "Se baraja recortar beneficiarios de la tarjeta de 300 euros a mayores de 75",
+    "El impuesto de salida subiría su umbral a entre 2 y 3 millones"
+   ],
+   "why": "Es la respuesta del Gobierno a las calles que ayer llenó la CGIL, y marca la sanidad y las pensiones que afectan a la familia de tu pareja.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/politica/2026/11/20/manovra-correzioni-col-contagocce.-sanita-e-superbonus-in-cima_0dcb8aae-a8b7-4f30-a80a-52210de85ee8.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-bruselas-deficit-italia",
+   "section": "italia",
+   "weight": 1,
+   "title": "Bruselas ve el déficit italiano en el 2,9 % este año, pero otra vez al 3,5 % en 2027",
+   "dek": "Las previsiones de otoño de la Comisión Europea mejoran el crecimiento de Italia, aunque advierten de un repunte del déficit el año próximo.",
+   "figure": {
+    "value": "2,9 %",
+    "label": "déficit previsto 2026"
+   },
+   "place": "Bruselas",
+   "body": [
+    "La Comisión Europea calcula que el déficit público italiano bajará del 3,1 % del PIB en 2025 al 2,9 % en 2026, por debajo del 3 % que activa el procedimiento por déficit excesivo. Para 2027, sin embargo, prevé que vuelva a subir hasta el 3,5 %. Roma ha pedido acogerse a la cláusula nacional de salvaguardia por el gasto en energía y defensa.",
+    "El crecimiento sale mejor de lo esperado: 1 % en 2026 (en primavera se preveía 0,5 %), apoyado en las inversiones de los fondos europeos del PNRR, y 0,7 % en 2027, cuando pesarán unas condiciones de financiación menos favorables. En 2028 sería del 0,8 %.",
+    "La inflación seguiría alta: 3,4 % en Italia este año y 3,1 % el próximo, frente al 3,2 % y 3,1 % de la eurozona. Los precios de la energía, que llegaron a subir más del 20 % interanual, se moderarían en 2027. Este dato se publicó el 17 de noviembre, pero es el telón de fondo del examen presupuestario del 24."
+   ],
+   "keys": [
+    "Déficit: 3,1 % (2025), 2,9 % (2026), 3,5 % (2027)",
+    "PIB: 1 % en 2026 y 0,7 % en 2027",
+    "Inflación italiana: 3,4 % en 2026",
+    "Italia aspira a salir del procedimiento por déficit en primavera"
+   ],
+   "why": "Precios y empleo en Italia condicionan la vida de la familia de tu pareja, y el déficit decide cuánto margen hay para sanidad y pensiones.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/economia/2026/11/17/lue-vede-il-deficit-dellitalia-al-29-nel-2026-e-al-35-nel-2027_fbbb83af-4520-4450-8937-938dd816a2c9.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-estudiantes-calles",
+   "section": "italia",
+   "weight": 1,
+   "title": "Estudiantes toman las calles italianas el día de la huelga, con incidentes en Roma y Bolonia",
+   "dek": "Marchas juveniles paralelas a la huelga de la CGIL pidieron más fondos para la universidad y rechazaron el rearme. En Roma hubo lanzamiento de objetos contra el Ministerio de Educación.",
+   "figure": {
+    "value": "50+",
+    "label": "marchas estudiantiles"
+   },
+   "place": "Roma y Bolonia",
+   "body": [
+    "En Roma, estudiantes que marchaban hacia el Ministerio de Educación lanzaron petardos, botellas y otros objetos contra la policía mientras coreaban contra el ministro Giuseppe Valditara. Dos jóvenes se sentaron entre los agentes, con la cara descubierta, para rechazar la violencia, y recibieron la protesta de otros manifestantes.",
+    "En Bolonia marcharon miles de universitarios y de secundaria para reclamar más financiación y decir no al rearme; hubo enfrentamientos al intentar llegar a la sede de Confindustria. En Milán se concentraron unos mil en largo Cairoli y en Génova unos 500, según ANSA. En Turín se quemó una imagen de los ministros Bernini y Crosetto.",
+    "El colectivo Osa anunció nueva movilización el 12 de diciembre. Una titular de ANSA habla de más de 50 marchas en el país. El resumen de la jornada no informa de heridos ni detenidos en Roma ni en Bolonia."
+   ],
+   "keys": [
+    "Más de 50 marchas estudiantiles según un titular de ANSA",
+    "Reclaman fondos para la universidad y rechazan el rearme",
+    "Incidentes ante el Ministerio de Educación en Roma",
+    "Nueva movilización del colectivo Osa el 12 de diciembre"
+   ],
+   "why": "Son jóvenes de tu edad protestando por estudios y precio de vida, tema que también oirás en la familia italiana de tu pareja.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/petardi-contro-il-ministero-due-studenti-in-dissenso-tra-i-poliziotti_81ec06b5-2dba-4b72-b8d1-f0341d4535cb.html"
+    },
+    {
+     "name": "ANSA (huelga y plazas)",
+     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/oggi-lo-sciopero-generale.-in-piazza-lavoratori-e-studenti.-landini-ascoltare-le-piazze-non_599c502c-b0d3-44aa-8e7b-cdf04b274aeb.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-jovenes-italianos-futuro",
+   "section": "italia",
+   "weight": 1,
+   "title": "Los jóvenes italianos temen más por el coste de la vida que por nada: solo el 19 % confía en las instituciones",
+   "dek": "Una encuesta a más de 4.000 personas de 14 a 35 años retrata una generación más optimista sobre su vida que sobre el país.",
+   "figure": {
+    "value": "67,8 %",
+    "label": "preocupa el coste de vida"
+   },
+   "place": "Italia",
+   "body": [
+    "El estudio de Ecosistema Futuro, difundido por ANSA el 16 de noviembre, entrevistó a más de 4.000 jóvenes de 14 a 35 años. En una escala de 0 a 10, su optimismo sobre el futuro personal es de 6,4, pero baja a 4,6 cuando se trata del país.",
+    "Las mayores preocupaciones son el coste de la vida y el poder adquisitivo (67,8 %), un trabajo estable y bien pagado (65,7 %), una sanidad pública accesible (59,3 %) y el cambio climático (46,3 %). El 75 % cree que Gobierno y Parlamento deben actuar por el futuro del país, pero solo el 19 % confía en ellos.",
+    "Los jóvenes confían más en la ciencia y la investigación (53 % con nota alta), en las organizaciones juveniles (44 %) y en la escuela y la universidad (37 %). Un 27,1 % no se reconoce en ninguna categoría política. Es un dato de hace unos días, pero explica el clima de las protestas."
+   ],
+   "keys": [
+    "Optimismo personal 6,4 sobre 10, nacional 4,6",
+    "Solo el 19 % confía en Gobierno y Parlamento",
+    "Preocupa el coste de vida, el empleo y la sanidad",
+    "El 27,1 % no se ve representado en categorías políticas"
+   ],
+   "why": "Habla de tu generación al otro lado del Mediterráneo y de las preocupaciones que seguro comparte tu pareja.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/ansa2030/notizie/diritti_uguaglianze/2026/11/16/poco-ottimismo-e-timori-per-lavoro-e-prezzi-giovani-preoccupati-per-il-futuro_44fb17aa-5129-4244-950b-ba5311464468.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-peter-pan-20-anos",
+   "section": "italia",
+   "weight": 1,
+   "title": "«Peter Pan», el musical de Bennato, cumple 20 años con una edición especial en Milán",
+   "dek": "Más de un millón de espectadores han visto el espectáculo italiano, que vuelve al Arcimboldi con la orquesta en el escenario y una Wendy más decidida.",
+   "figure": {
+    "value": "1 M+",
+    "label": "espectadores acumulados"
+   },
+   "place": "Milán",
+   "body": [
+    "El musical «Peter Pan», con música rock de Edoardo Bennato, celebra dos décadas con una edición especial en el Tam Teatro Arcimboldi de Milán, del 23 de diciembre al 10 de enero. Nació en 2006, ha superado el millón de espectadores y ha conquistado a tres generaciones, además de salir de gira hasta la Royal Opera House de Mascate, en Omán.",
+    "La dirección artística es de Daniele Finzi Pasca, con larga trayectoria en el Cirque du Soleil. Vuelven Leonardo Cecchi como Peter Pan y Martha Rossi como Wendy, mientras Filippo Strocchi debuta como Capitán Garfio. La orquesta en directo deja el foso y se sitúa sobre el escenario, interactuando con el reparto.",
+    "Maurizio Colombi, director y cocreador, recordó que en Omán hubo problemas de censura religiosa que se superaron gracias a los niños de la sala. La nueva versión presenta a una Wendy más consciente de sus decisiones sin traicionar la historia original. La banda sonora incluye temas como «L'Isola che non c'è»."
+   ],
+   "keys": [
+    "Funciones del 23 de diciembre al 10 de enero en Milán",
+    "Música de Edoardo Bennato, dirección de Finzi Pasca",
+    "Orquesta en vivo sobre el escenario",
+    "Más de un millón de espectadores desde 2006"
+   ],
+   "why": "Si pasas las fiestas con tu pareja en Italia, es un plan familiar y muy italiano para ver en Milán.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/20/peter-pan-compie-20-anni-e-trascina-ancora-in-volo-chi-vuole-sognare_78017506-04bd-4c4a-8c59-66f41071814c.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21-atalanta-inter-kean",
+   "section": "italia",
+   "weight": 1,
+   "title": "Serie A: Atalanta-Inter, plato fuerte del domingo, y Kean fuera varios meses",
+   "dek": "El líder Inter visita Bérgamo el domingo a las 20:45. Mientras, el Como, que hoy recibe al Cagliari, pierde a Moise Kean por una fisura ósea.",
+   "figure": {
+    "value": "20:45",
+    "label": "Atalanta-Inter, domingo"
+   },
+   "place": "Bérgamo",
+   "body": [
+    "La jornada de Serie A incluye hoy Lazio-Lecce y Como-Cagliari (15:00) y Parma-Roma (18:00). El domingo juegan Juventus-Venezia (12:30) y Milan-Frosinone (18:00), y a las 20:45 Atalanta-Inter y Napoli-Torino. El Inter es líder, con el Milan y el Como entre sus perseguidores, y recupera a Frattesi y Lautaro.",
+    "El Napoli, en crisis según ANSA, necesita ganar al Torino antes de su duelo de Champions con el Manchester City. La Roma, con el mejor ataque de la liga, busca su cuarta victoria seguida ante el Parma, y el Monza, con cuatro derrotas, tiene a Juric en la cuerda floja.",
+    "En el Como, Cesc Fabregas explicó que Moise Kean estará de baja «unos meses» (dos o tres) por una fisura ósea en la pierna derecha, originada por un golpe con la selección en septiembre. Tras una intervención en Barcelona sin éxito, sufrió un fuerte dolor en un entrenamiento y fue llevado al hospital en ambulancia."
+   ],
+   "keys": [
+    "Atalanta-Inter y Napoli-Torino, domingo 20:45",
+    "Inter lidera; Roma tiene el mejor ataque",
+    "Kean, baja de dos o tres meses",
+    "Napoli visita al Manchester City en Champions tras el Torino"
+   ],
+   "why": "El calcio es tema fijo en casa de una pareja italiana, y con partidos así tendrás conversación y rivalidades de hinchas.",
+   "sources": [
+    {
+     "name": "ANSA (Serie A)",
+     "url": "https://www.ansa.it/sito/notizie/sport/2026/11/20/serie-a-atalanta-insidia-per-linter-lazio-e-roma-chance-di-allungo_22979e61-8c1d-43e7-b377-21dc805316ea.html"
+    },
+    {
+     "name": "ANSA (Kean)",
+     "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/20/como-fabregas-serviranno-mesi-per-riavere-in-campo-kean_51bbf83b-dda1-40d8-ac5f-86f4d04c3a55.html"
+    }
+   ]
+  }
+ ],
+ "briefs": [
+  {
+   "id": "2026-11-21-b12",
+   "section": "bilbao",
+   "tag": "Premios",
+   "text": "Hasta el 29 de noviembre se vota la Persona Ilustre de Bilbao 2026 entre La Otxoa, Amaya Uranga y el pediatra Jesús Sánchez Etxaniz. Votan mayores de 16 empadronados.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bilbao/persona-ilustre-bilbao-2026-votacion-otxoa-amaya-uranga/"
+   },
+   "comarca": "bi"
+  },
+  {
+   "id": "2026-11-21-b13",
+   "section": "bilbao",
+   "tag": "Sucesos",
+   "text": "La Ertzaintza detuvo a cuatro hombres por dos robos con fuerza en un estanco de Miribilla y una frutería de Ibarrekolanda; dos de ellos acumulaban 24 detenciones previas.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bilbao/detenidos-bilbao-robo-estanco-miribilla-fruteria-ibarrekolanda/"
+   },
+   "comarca": "bi"
+  },
+  {
+   "id": "2026-11-21-b14",
+   "section": "euskadi",
+   "tag": "Vivienda",
+   "text": "Santurtzi abre hasta el 4 de diciembre su ayuda al alquiler para jóvenes de 18 a 36 años: entre el 10 % y el 60 % de la renta, con máximos de 95 a 570 euros y 100.000 euros de dotación.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/ayudas-alquiler-jovenes-santurtzi-requisitos-cuantia-plazo-diciembre/"
+   },
+   "comarca": "mi"
+  },
+  {
+   "id": "2026-11-21-b15",
+   "section": "euskadi",
+   "tag": "Sucesos",
+   "text": "Detenido un joven de 18 años por atracar con cuchillo, el 11 de noviembre, a otro de 19 en Sopela; la Ertzaintza le acusa de robo con violencia e intimidación.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/detenido-sopela-joven-18-anos-robo-cuchillo/"
+   },
+   "comarca": "uk"
+  },
+  {
+   "id": "2026-11-21-b16",
+   "section": "euskadi",
+   "tag": "Energía",
+   "text": "Merlin Properties paraliza las obras de Arasur 4 y 5, en Álava, por dudas sobre el suministro eléctrico; era parte del que sería mayor centro de datos de España, para CoreWeave.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/euskal-herria/merlin-arasur-centro-datos-paraliza-suministro-electrico-solaria/"
+   }
+  },
+  {
+   "id": "2026-11-21-b17",
+   "section": "euskadi",
+   "tag": "Cultura",
+   "text": "Mural en Plentzia con grafiti de las ikurriñas de Iribar y Kortabarria como homenaje a los dos capitanes disidentes del fútbol vasco.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/mural-plentzia-iribar-kortabarria-ikurrina-disidentes/"
+   },
+   "comarca": "uk"
+  },
+  {
+   "id": "2026-11-21-b18",
+   "section": "euskadi",
+   "tag": "Mar",
+   "text": "La flota vasca cierra la costera del bonito del norte con más de 10 millones de kilos capturados.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/euskal-herria/costera-bonito-norte-2026-flota-vasca-balance/"
+   }
+  },
+  {
+   "id": "2026-11-21-b06",
+   "section": "espana",
+   "tag": "Tiempo",
+   "text": "Aemet prevé un fin de semana otoñal: lluvia fuerte en Galicia, oeste de Castilla y León y norte de Extremadura, y viento fuerte en el litoral gallego y el Cantábrico.",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/espana/agencias/2026/11/20/temas-del-dia-de-efe-espana-del-sabado-21-de-noviembre-de-2026/"
+   }
+  },
+  {
+   "id": "2026-11-21-b11",
+   "section": "mundo",
+   "tag": "Crimea",
+   "text": "El puente de Crimea sufrió tres ataques en una semana: daños leves el lunes, su arco central destruido el martes y el tren paralizado por un dron el jueves.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/america/mundo/2026/11/20/putin-ordeno-un-bombardeo-masivo-contra-ucrania-tras-el-ataque-en-crimea-casi-100-misiles-mas-de-400-drones-y-al-menos-ocho-muertos/"
+   }
+  },
+  {
+   "id": "2026-11-21-b03",
+   "section": "economia",
+   "tag": "Pensiones",
+   "text": "El Movimiento de Pensionistas de Euskal Herria se manifiesta hoy a las 12:30 en Bilbao contra recortes en las pensiones.",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/espana/agencias/2026/11/20/temas-del-dia-de-efe-espana-del-sabado-21-de-noviembre-de-2026/"
+   },
+   "comarca": "bi"
+  },
+  {
+   "id": "2026-11-21-b04",
+   "section": "economia",
+   "tag": "Black Friday",
+   "text": "Los consumidores llegan al Black Friday del 27 de noviembre con compras más meditadas y comparadores con IA, según EFE; se espera mayor gasto por la subida de precios.",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/espana/agencias/2026/11/20/temas-del-dia-de-efe-espana-del-sabado-21-de-noviembre-de-2026/"
+   }
+  },
+  {
+   "id": "2026-11-21-b05",
+   "section": "economia",
+   "tag": "Aceite",
+   "text": "Empieza la recogida generalizada de la aceituna; la retirada obligatoria del 12% de la producción ha recuperado algo los precios en origen.",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/espana/agencias/2026/11/20/temas-del-dia-de-efe-espana-del-sabado-21-de-noviembre-de-2026/"
+   }
+  },
+  {
+   "id": "2026-11-21-b07",
+   "section": "economia",
+   "tag": "Anthropic",
+   "text": "Las acciones de Anthropic caen en su segundo día de cotización y borran gran parte de las ganancias del debut (salió a 83 dólares y llegó a abrir a 111,50).",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/america/agencias/2026/11/20/las-acciones-de-anthropic-se-desploman-en-su-segundo-dia-de-operaciones-en-wall-street/"
+   }
+  },
+  {
+   "id": "2026-11-21-b08",
+   "section": "economia",
+   "tag": "Petróleo",
+   "text": "El Brent cierra a 92,57 dólares, un 0,64 % más, pero acumula tres semanas de caídas por más exportaciones de Oriente Medio y temor a exceso de oferta.",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/america/agencias/2026/11/20/el-brent-sube-064-hasta-9257-dolares-pero-firma-tres-semanas-consecutivas-de-caidas/"
+   }
+  },
+  {
+   "id": "2026-11-21-b09",
+   "section": "economia",
+   "tag": "BCE",
+   "text": "Alemania y Francia presentan candidaturas a puestos del BCE sin disputar la presidencia, lo que acerca al español De Cos; los líderes de la UE podrían cerrarlo el jueves.",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/america/agencias/2026/11/20/las-candidaturas-de-alemania-y-francia-acercan-la-presidencia-del-bce-al-espanol-de-cos/"
+   }
+  },
+  {
+   "id": "2026-11-21-b10",
+   "section": "economia",
+   "tag": "Bitcóin",
+   "text": "El bitcóin cae por debajo de 60.000 dólares, su nivel más bajo en dos años, en plena huida de activos de riesgo.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/estados-unidos/2026/11/20/wall-street-quedo-al-borde-del-colapso-ante-el-miedo-que-se-apodera-de-los-mercados-globales/"
+   }
+  },
+  {
+   "id": "2026-11-21-b01",
+   "section": "sociedad",
+   "tag": "Educación",
+   "text": "Miles de estudiantes secundan en 11 comunidades la huelga europea por más educación pública, convocada por el Sindicato de Estudiantes; hubo marchas en Madrid, Barcelona y Bilbao, entre otras ciudades.",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/espana/agencias/2026/11/20/miles-de-estudiantes-espanoles-se-suman-a-la-huelga-europea-por-mas-educacion-publica/"
+   }
+  },
+  {
+   "id": "2026-11-21-b02",
+   "section": "sociedad",
+   "tag": "Huelga docente",
+   "text": "Los docentes de Cataluña se manifiestan hoy en Barcelona como antesala de la huelga del jueves 26 de noviembre acordada por su asamblea.",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/espana/agencias/2026/11/20/temas-del-dia-de-efe-espana-del-sabado-21-de-noviembre-de-2026/"
+   }
+  },
+  {
+   "id": "2026-11-21-b19",
+   "section": "cultura",
+   "tag": "Cómic",
+   "text": "El cómic «Sacamantecas» rescata la figura de Juan Díaz de Garayo, considerado el primer asesino en serie de España, y la lucha de Ángela Berrosteguieta.",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/espana/agencias/2026/11/20/temas-del-dia-de-efe-espana-del-sabado-21-de-noviembre-de-2026/"
+   }
+  },
+  {
+   "id": "2026-11-21-b20",
+   "section": "cultura",
+   "tag": "Elrow Bilbao",
+   "text": "Elrow Bilbao celebra esta noche a las 20:00 una sesión de música electrónica en el Bilbao Exhibition Centre de Barakaldo.",
+   "source": {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/espana/agencias/2026/11/20/temas-del-dia-de-efe-espana-del-sabado-21-de-noviembre-de-2026/"
+   },
+   "comarca": "mi"
+  },
+  {
+   "id": "2026-11-21-b21",
+   "section": "deportes",
+   "tag": "Nations League",
+   "text": "España se medirá a Francia en los cuartos de final de la Nations League, primer gran examen de la era Zidane tras el sorteo del viernes.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/espana/deportes/2026/11/20/espana-se-enfrentara-a-francia-en-los-cuartos-de-final-de-la-nations-league-el-primer-gran-examen-de-la-era-zidane/"
+   }
+  },
+  {
+   "id": "2026-11-21-b22",
+   "section": "deportes",
+   "tag": "Tenis",
+   "text": "Carlos Alcaraz dice que se ha sentido muy bien y disipa las dudas sobre la lesión en los isquiotibiales, que habían puesto en duda su presencia en la Copa Davis.",
+   "source": {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/espana/deportes/2026/11/20/carlos-alcaraz-disipa-las-dudas-sobre-su-lesion-en-los-isquiotibiales-no-soy-un-superhumano-pero-me-he-sentido-muy-bien/"
+   }
+  }
+ ]
+}

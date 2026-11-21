@@ -1,51 +1,57 @@
 {
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-11-20",
+  "last": "2026-11-21",
   "first": "2026-10-08",
-  "count": 98
- },
- "ucrania": {
-  "label": "Guerra de Ucrania",
-  "last": "2026-11-20",
-  "first": "2026-10-08",
-  "count": 38
- },
- "guerra-iran": {
-  "label": "Guerra de Irán",
-  "last": "2026-11-20",
-  "first": "2026-10-09",
-  "count": 33
- },
- "gaza": {
-  "label": "Guerra de Gaza",
-  "last": "2026-11-20",
-  "first": "2026-10-08",
-  "count": 13
- },
- "italia-meloni": {
-  "label": "Italia de Meloni",
-  "last": "2026-11-20",
-  "first": "2026-10-08",
-  "count": 40
+  "count": 105
  },
  "nvidia-huang": {
   "label": "Nvidia y Jensen Huang",
-  "last": "2026-11-20",
+  "last": "2026-11-21",
   "first": "2026-11-12",
-  "count": 8
+  "count": 10
+ },
+ "ucrania": {
+  "label": "Guerra de Ucrania",
+  "last": "2026-11-21",
+  "first": "2026-10-08",
+  "count": 40
+ },
+ "guerra-iran": {
+  "label": "Guerra de Irán",
+  "last": "2026-11-21",
+  "first": "2026-10-09",
+  "count": 34
+ },
+ "gaza": {
+  "label": "Guerra de Gaza",
+  "last": "2026-11-21",
+  "first": "2026-10-08",
+  "count": 14
  },
  "vivienda": {
   "label": "Crisis de la vivienda",
-  "last": "2026-11-20",
+  "last": "2026-11-21",
   "first": "2026-10-08",
-  "count": 89
+  "count": 90
+ },
+ "metro-bilbao": {
+  "label": "Metro de Bilbao",
+  "last": "2026-11-21",
+  "first": "2026-10-08",
+  "count": 11
  },
  "athletic": {
   "label": "Athletic Club",
-  "last": "2026-11-20",
+  "last": "2026-11-21",
   "first": "2026-10-08",
-  "count": 44
+  "count": 45
+ },
+ "italia-meloni": {
+  "label": "Meloni y los presupuestos",
+  "last": "2026-11-21",
+  "first": "2026-10-08",
+  "count": 41
  },
  "canarias-migracion": {
   "label": "Migración en Canarias",
@@ -136,12 +142,6 @@
   "last": "2026-11-11",
   "first": "2026-10-29",
   "count": 21
- },
- "metro-bilbao": {
-  "label": "Metro de Bilbao",
-  "last": "2026-11-11",
-  "first": "2026-10-08",
-  "count": 10
  },
  "protestas-italia": {
   "label": "Protestas en Italia",
