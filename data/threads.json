@@ -1,27 +1,51 @@
 {
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-11-22",
+  "last": "2026-11-23",
   "first": "2026-10-08",
-  "count": 108
+  "count": 111
  },
- "vivienda": {
-  "label": "Crisis de la vivienda",
-  "last": "2026-11-22",
+ "tribunales-psoe": {
+  "label": "Casos judiciales del PSOE",
+  "last": "2026-11-23",
   "first": "2026-10-08",
-  "count": 91
- },
- "nvidia-huang": {
-  "label": "Nvidia y la IA",
-  "last": "2026-11-22",
-  "first": "2026-11-12",
-  "count": 11
+  "count": 15
  },
  "ucrania": {
   "label": "Guerra de Ucrania",
-  "last": "2026-11-22",
+  "last": "2026-11-23",
   "first": "2026-10-08",
-  "count": 42
+  "count": 43
+ },
+ "yemen-huties": {
+  "label": "Guerra en Yemen",
+  "last": "2026-11-23",
+  "first": "2026-11-23",
+  "count": 1
+ },
+ "vivienda": {
+  "label": "Crisis de la vivienda",
+  "last": "2026-11-23",
+  "first": "2026-10-08",
+  "count": 92
+ },
+ "nvidia-huang": {
+  "label": "Nvidia y la IA",
+  "last": "2026-11-23",
+  "first": "2026-11-12",
+  "count": 12
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-11-23",
+  "first": "2026-10-08",
+  "count": 46
+ },
+ "italia-manovra": {
+  "label": "Italia manovra",
+  "last": "2026-11-23",
+  "first": "2026-11-13",
+  "count": 7
  },
  "gaza": {
   "label": "Guerra de Gaza",
@@ -53,12 +77,6 @@
   "first": "2026-10-08",
   "count": 42
  },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-11-21",
-  "first": "2026-10-08",
-  "count": 45
- },
  "canarias-migracion": {
   "label": "Migración en Canarias",
   "last": "2026-11-19",
@@ -76,12 +94,6 @@
   "last": "2026-11-17",
   "first": "2026-11-17",
   "count": 1
- },
- "italia-manovra": {
-  "label": "Manovra italiana",
-  "last": "2026-11-17",
-  "first": "2026-11-13",
-  "count": 6
  },
  "nucleo-nacional": {
   "label": "Núcleo Nacional",
@@ -154,12 +166,6 @@
   "last": "2026-11-09",
   "first": "2026-10-08",
   "count": 15
- },
- "tribunales-psoe": {
-  "label": "Casos judiciales del PSOE",
-  "last": "2026-11-08",
-  "first": "2026-10-08",
-  "count": 14
  },
  "pnv-bizkaia": {
   "label": "PNV de Bizkaia",
