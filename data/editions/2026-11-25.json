@@ -2014,5 +2014,10 @@
     "url": "https://www.infobae.com/espana/deportes/"
    }
   }
- ]
+ ],
+ "deploy": {
+  "ok": true,
+  "at": "2026-11-25T06:28:30+01:00",
+  "log": "index.json: 48 ediciones · threads.json: 45 temas\n[main 3c237ed] Edición 2026-11-25\n 3 files changed, 2050 insertions(+), 32 deletions(-)\n create mode 100644 data/editions/2026-11-25.json\nTo https://github.com/haizeacotore05-tech/La-ria\n   be61203..3c237ed  main -> main\n3c237edb889074b237f23d49c4f91c8a6edf846b\trefs/heads/main\n3c237edb889074b237f23d49c4f91c8a6edf846b\n"
+ }
 }
