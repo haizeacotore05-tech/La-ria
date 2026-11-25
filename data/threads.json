@@ -1,21 +1,45 @@
 {
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-11-24",
+  "last": "2026-11-25",
   "first": "2026-10-08",
-  "count": 115
+  "count": 118
  },
  "amnistia": {
-  "label": "Amnistía y procés",
-  "last": "2026-11-24",
+  "label": "Amnistía",
+  "last": "2026-11-25",
   "first": "2026-10-20",
-  "count": 4
+  "count": 5
+ },
+ "gaza": {
+  "label": "Guerra de Gaza",
+  "last": "2026-11-25",
+  "first": "2026-10-08",
+  "count": 16
+ },
+ "guerra-iran": {
+  "label": "Guerra con Irán",
+  "last": "2026-11-25",
+  "first": "2026-10-09",
+  "count": 37
  },
  "vivienda": {
   "label": "Crisis de la vivienda",
-  "last": "2026-11-24",
+  "last": "2026-11-25",
   "first": "2026-10-08",
-  "count": 93
+  "count": 94
+ },
+ "nvidia-huang": {
+  "label": "Nvidia y Jensen Huang",
+  "last": "2026-11-25",
+  "first": "2026-11-12",
+  "count": 15
+ },
+ "manovra-2027": {
+  "label": "Manovra 2027",
+  "last": "2026-11-25",
+  "first": "2026-11-24",
+  "count": 2
  },
  "tribunales-psoe": {
   "label": "Casos judiciales del PSOE",
@@ -23,29 +47,11 @@
   "first": "2026-10-08",
   "count": 16
  },
- "nvidia-huang": {
-  "label": "Nvidia y Jensen Huang",
-  "last": "2026-11-24",
-  "first": "2026-11-12",
-  "count": 13
- },
- "guerra-iran": {
-  "label": "Guerra con Irán",
-  "last": "2026-11-24",
-  "first": "2026-10-09",
-  "count": 36
- },
  "ucrania": {
   "label": "Guerra de Ucrania",
   "last": "2026-11-24",
   "first": "2026-10-08",
   "count": 44
- },
- "manovra-2027": {
-  "label": "Manovra y presupuestos",
-  "last": "2026-11-24",
-  "first": "2026-11-24",
-  "count": 1
  },
  "yemen-huties": {
   "label": "Guerra en Yemen",
@@ -64,12 +70,6 @@
   "last": "2026-11-23",
   "first": "2026-11-13",
   "count": 7
- },
- "gaza": {
-  "label": "Guerra de Gaza",
-  "last": "2026-11-22",
-  "first": "2026-10-08",
-  "count": 15
  },
  "sanidad": {
   "label": "Sanidad",
