@@ -1,9 +1,57 @@
 {
+ "metro-bilbao": {
+  "label": "Metro de Bilbao",
+  "last": "2026-11-26",
+  "first": "2026-10-08",
+  "count": 14
+ },
  "elecciones-29n": {
   "label": "Elecciones 29-N",
-  "last": "2026-11-25",
+  "last": "2026-11-26",
   "first": "2026-10-08",
-  "count": 118
+  "count": 121
+ },
+ "canarias-migracion": {
+  "label": "Migración en Canarias",
+  "last": "2026-11-26",
+  "first": "2026-11-16",
+  "count": 4
+ },
+ "tribunales-psoe": {
+  "label": "Casos judiciales del PSOE",
+  "last": "2026-11-26",
+  "first": "2026-10-08",
+  "count": 17
+ },
+ "ucrania": {
+  "label": "Guerra de Ucrania",
+  "last": "2026-11-26",
+  "first": "2026-10-08",
+  "count": 45
+ },
+ "yemen-huties": {
+  "label": "Guerra en Yemen",
+  "last": "2026-11-26",
+  "first": "2026-11-23",
+  "count": 2
+ },
+ "caso-de-gennaro": {
+  "label": "Caso De Gennaro",
+  "last": "2026-11-26",
+  "first": "2026-11-26",
+  "count": 1
+ },
+ "vivienda": {
+  "label": "Crisis de la vivienda",
+  "last": "2026-11-26",
+  "first": "2026-10-08",
+  "count": 95
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-11-26",
+  "first": "2026-10-08",
+  "count": 47
  },
  "amnistia": {
   "label": "Amnistía",
@@ -23,12 +71,6 @@
   "first": "2026-10-09",
   "count": 37
  },
- "vivienda": {
-  "label": "Crisis de la vivienda",
-  "last": "2026-11-25",
-  "first": "2026-10-08",
-  "count": 94
- },
  "nvidia-huang": {
   "label": "Nvidia y Jensen Huang",
   "last": "2026-11-25",
@@ -40,30 +82,6 @@
   "last": "2026-11-25",
   "first": "2026-11-24",
   "count": 2
- },
- "tribunales-psoe": {
-  "label": "Casos judiciales del PSOE",
-  "last": "2026-11-24",
-  "first": "2026-10-08",
-  "count": 16
- },
- "ucrania": {
-  "label": "Guerra de Ucrania",
-  "last": "2026-11-24",
-  "first": "2026-10-08",
-  "count": 44
- },
- "yemen-huties": {
-  "label": "Guerra en Yemen",
-  "last": "2026-11-23",
-  "first": "2026-11-23",
-  "count": 1
- },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-11-23",
-  "first": "2026-10-08",
-  "count": 46
  },
  "italia-manovra": {
   "label": "Italia manovra",
@@ -77,23 +95,11 @@
   "first": "2026-10-08",
   "count": 25
  },
- "metro-bilbao": {
-  "label": "Metro de Bilbao",
-  "last": "2026-11-22",
-  "first": "2026-10-08",
-  "count": 12
- },
  "italia-meloni": {
   "label": "Meloni y los presupuestos",
   "last": "2026-11-22",
   "first": "2026-10-08",
   "count": 42
- },
- "canarias-migracion": {
-  "label": "Migración en Canarias",
-  "last": "2026-11-19",
-  "first": "2026-11-16",
-  "count": 3
  },
  "allarmi-bomba-scuole": {
   "label": "Alarmas de bomba en escuelas",
