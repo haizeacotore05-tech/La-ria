@@ -2541,5 +2541,10 @@
     "url": "https://www.infobae.com/espana/agencias/2026/11/25/duelo-de-necesidades-europeas-en-selhurst-park/"
    }
   }
- ]
+ ],
+ "deploy": {
+  "ok": true,
+  "at": "2026-11-26T06:35:20+01:00",
+  "log": "index.json: 49 ediciones · threads.json: 46 temas\nTo https://github.com/haizeacotore05-tech/La-ria\n   c5c38e8..ae5a979  main -> main\nae5a9798066b5bd6b94488f9df1d8b1667c1665d\trefs/heads/main\nae5a9798066b5bd6b94488f9df1d8b1667c1665d\n"
+ }
 }
