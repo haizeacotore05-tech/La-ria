@@ -1,7 +1,7 @@
 {
  "date": "2026-11-27",
  "number": 50,
- "generatedAt": "2026-11-27T06:37:43+01:00",
+ "generatedAt": "2026-11-27T06:38:55+01:00",
  "summary": "Último día de campaña tras un debate a cuatro bronco; naufragio de un petrolero en Ibiza, Hernández de Cos al BCE y Bilbao frena los pisos turísticos.",
  "essentials": [
   {
@@ -1130,6 +1130,35 @@
    ]
   },
   {
+   "id": "2026-11-27-txakoli-limite-vinedos",
+   "section": "bilbao",
+   "weight": 1,
+   "title": "El txakoli de Bizkaia frena sus viñedos: solo 7 hectáreas nuevas en 2027",
+   "dek": "La Diputación asume la recomendación de la DO Bizkaiko Txakolina y cierra además la replantación para uva de la denominación.",
+   "figure": {
+    "value": "7 ha",
+    "label": "nuevas plantaciones"
+   },
+   "place": "Bizkaia",
+   "body": [
+    "La Diputación Foral de Bizkaia ha publicado en el Boletín Oficial de Bizkaia una orden foral que limita a 7 hectáreas las nuevas plantaciones de viñedo para txakoli en 2027. Es la misma cifra que este año y tres hectáreas menos que en 2025, cuando el tope fue de 10.",
+    "La orden recoge dos recomendaciones que aprobó el Consejo Regulador de la Denominación de Origen Bizkaiko Txakolina el 21 de octubre. Además del límite, cierra en 2027 la replantación de viñedo para uva destinada a vino de la DO, salvo dos excepciones que prevé la normativa europea.",
+    "Los límites no se aplicarán hasta que el Ministerio de Agricultura los publique en el BOE, algo que el año pasado ocurrió a finales de diciembre. Se pueden recurrir en un mes ante la Diputación o en dos ante el Tribunal Superior de Justicia del País Vasco."
+   ],
+   "keys": [
+    "Tope de 7 hectáreas",
+    "Sin replantación para la DO",
+    "Falta su publicación en el BOE"
+   ],
+   "why": "El txakoli es un clásico para enseñar Bizkaia a tu pareja: la DO quiere controlar cuánto crece para cuidar su valor.",
+   "sources": [
+    {
+     "name": "Bilbao Hiria",
+     "url": "https://bilbaohiria.com/bizkaia/txakoli-bizkaia-limite-nuevas-plantaciones-vinedo-2027/"
+    }
+   ]
+  },
+  {
    "id": "2026-11-27-cierre-campana-euskadi",
    "section": "euskadi",
    "weight": 2,
@@ -1251,7 +1280,7 @@
     "Pedro Sánchez (PSOE), Alberto Núñez Feijóo (PP), Santiago Abascal (Vox) y Ada Colau (Frente Amplio) se enfrentaron el jueves por la noche en el último debate de la campaña, organizado por la Academia de Televisión y moderado por su presidenta, María Casado. Se trataron cinco bloques: vivienda, economía y fiscalidad, políticas sociales, corrupción, y migración y política exterior. Hoy viernes es el último día de campaña, mañana sábado la jornada de reflexión y el domingo se vota.",
     "Según la crónica de Infobae, el debate funcionó en dos bloques: Sánchez y Colau se trataron de tú y se apoyaron, mientras Feijóo y Abascal apenas se dirigieron la palabra y centraron sus ataques en la corrupción. El momento más comentado fue cuando Feijóo le dijo a Colau «usted calladita» al hablar de la DANA de Valencia; Sánchez lo calificó de machista y Feijóo lo retiró «si he ofendido a alguien».",
     "En economía, Feijóo afirmó que la cesta de la compra ha subido un 43 % con Sánchez y propuso IVA cero para los alimentos básicos mientras la inflación supere la media europea, además de rebajar impuestos a la luz, deflactar el IRPF y una cuota cero para los autónomos que menos facturan. Sánchez defendió que la renta real de los hogares ha crecido por encima de la inflación y propuso que paguen más los ultrarricos; Colau habló de limitar el alquiler y gravar grandes fortunas.",
-    "Sánchez y Colau atacaron a Abascal por el plan de Vox de recortar 112.000 millones de gasto público. Feijóo, por su parte, lanzó un órdago: si pierde, dejará la presidencia del PP y también su escaño. El Español destaca que fue el PP quien puso más medidas fiscales concretas sobre la mesa; Infobae, en su análisis, ve a Colau como la más solvente. El Debate recoge en sus columnas que el debate fue duro pero difícilmente cambiará el voto.",
+    "Sánchez y Colau atacaron a Abascal por el plan de Vox de recortar 112.000 millones de gasto público. Feijóo, por su parte, lanzó un órdago: si pierde, dejará la presidencia del PP y también su escaño. El Español destaca que fue el PP quien puso más medidas fiscales concretas sobre la mesa; Infobae, en su análisis, ve a Colau como la más solvente. El Debate recoge en sus columnas que el debate fue duro pero difícilmente cambiará el voto. The Objective, con fuentes socialistas, cuenta que en el PSOE creen que Sánchez ganó el debate y que aún puede remontar en las urnas.",
     "Ahora llegan los cierres de campaña esta tarde y, después, la jornada de reflexión del sábado, en la que no se puede pedir el voto. Los colegios abren el domingo de 9:00 a 20:00."
    ],
    "keys": [
@@ -1277,6 +1306,10 @@
     {
      "name": "El Debate",
      "url": "https://www.eldebate.com/espana/20261127/veredicto-columnistas-debate-debate-cuatro-antes-29n_485727.html"
+    },
+    {
+     "name": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-11-27/psoe-remontada-debate-sanchez-queriamos/"
     }
    ]
   },
@@ -2051,6 +2084,17 @@
   },
   {
    "id": "2026-11-27-b02",
+   "section": "bilbao",
+   "tag": "Bidegorri",
+   "text": "La Diputación prevé abrir a finales de noviembre el tramo Lutxana-Altzaga del bidegorri de 5 km entre Elorrieta (Bilbao) y Lamiako (Leioa) por Erandio, una obra de 40,57 millones.",
+   "source": {
+    "name": "Bilbao Hiria",
+    "url": "https://bilbaohiria.com/bizkaia/bidegorri-erandio-elorrieta-lamiako-leioa-noviembre"
+   },
+   "comarca": "md"
+  },
+  {
+   "id": "2026-11-27-b03",
    "section": "espana",
    "tag": "Ceuta",
    "text": "El cónsul español en Tetuán avisó al embajador de que la situación en la frontera de Ceuta estaba «caliente» horas antes de la entrada masiva de migrantes de este año, según Infobae. El Gobierno asegura que Marruecos se ha comprometido a evitar otra avalancha.",
@@ -2060,7 +2104,7 @@
    }
   },
   {
-   "id": "2026-11-27-b03",
+   "id": "2026-11-27-b04",
    "section": "espana",
    "tag": "Sueldos",
    "text": "Pedro Sánchez cobra algo más de 110.000 euros al año como presidente del Gobierno y no recibe sueldo del PSOE, según los datos que recopila Infobae.",
@@ -2070,7 +2114,7 @@
    }
   },
   {
-   "id": "2026-11-27-b04",
+   "id": "2026-11-27-b05",
    "section": "mundo",
    "tag": "UE",
    "text": "La cumbre de líderes europeos termina hoy en Bruselas con el presupuesto comunitario 2028-2034 y la financiación de Ucrania sobre la mesa, tras pactar la nueva cúpula del BCE.",
@@ -2080,7 +2124,7 @@
    }
   },
   {
-   "id": "2026-11-27-b05",
+   "id": "2026-11-27-b06",
    "section": "mundo",
    "tag": "Irán",
    "text": "Nueve meses después del ataque atribuido a EE. UU. que mató a 157 personas, 120 de ellas niños, en un colegio de Minab (Irán), las familias siguen reclamando justicia.",
@@ -2090,7 +2134,7 @@
    }
   },
   {
-   "id": "2026-11-27-b06",
+   "id": "2026-11-27-b07",
    "section": "mundo",
    "tag": "Redes sociales",
    "text": "Australia aprueba una ley pionera para que los usuarios puedan desactivar los algoritmos de recomendación de las redes sociales.",
@@ -2100,7 +2144,7 @@
    }
   },
   {
-   "id": "2026-11-27-b07",
+   "id": "2026-11-27-b08",
    "section": "mundo",
    "tag": "Japón",
    "text": "La oposición japonesa presenta una moción de censura contra el ministro de Educación, Yoshihiro Seki.",
@@ -2110,7 +2154,7 @@
    }
   },
   {
-   "id": "2026-11-27-b08",
+   "id": "2026-11-27-b09",
    "section": "mundo",
    "tag": "Chile",
    "text": "Al menos cinco exagentes de la dictadura de Pinochet han salido en libertad en Chile antes de cumplir su condena, según EFE.",
@@ -2120,7 +2164,7 @@
    }
   },
   {
-   "id": "2026-11-27-b09",
+   "id": "2026-11-27-b10",
    "section": "mundo",
    "tag": "Perú-Bolivia",
    "text": "Keiko Fujimori y Rodrigo Paz encabezan en Lima el primer gabinete binacional entre Perú y Bolivia en cinco años.",
@@ -2130,7 +2174,7 @@
    }
   },
   {
-   "id": "2026-11-27-b10",
+   "id": "2026-11-27-b11",
    "section": "sociedad",
    "tag": "Violencia machista",
    "text": "Igualdad confirmó el asesinato machista de una mujer en Chiclana (Cádiz), con el que Andalucía suma 13 víctimas este año, la comunidad con más casos.",
@@ -2140,7 +2184,7 @@
    }
   },
   {
-   "id": "2026-11-27-b11",
+   "id": "2026-11-27-b12",
    "section": "cultura",
    "tag": "Umberto Eco",
    "text": "La biblioteca personal de Umberto Eco ya está en Bolonia, la ciudad donde el autor de «El nombre de la rosa» fue profesor durante décadas.",
@@ -2150,7 +2194,7 @@
    }
   },
   {
-   "id": "2026-11-27-b12",
+   "id": "2026-11-27-b13",
    "section": "cultura",
    "tag": "Música",
    "text": "Se cumplen 50 años de «Anarchy in the UK», el primer single de los Sex Pistols, que en 1976 puso el punk británico en el mapa.",
@@ -2160,7 +2204,7 @@
    }
   },
   {
-   "id": "2026-11-27-b13",
+   "id": "2026-11-27-b14",
    "section": "cultura",
    "tag": "Memoria",
    "text": "Un proyecto en París rescata la «presse des sables», los periódicos que hicieron los republicanos españoles en los campos de refugiados franceses en 1939.",
@@ -2170,7 +2214,7 @@
    }
   },
   {
-   "id": "2026-11-27-b14",
+   "id": "2026-11-27-b15",
    "section": "ciencia",
    "tag": "Glaciares",
    "text": "Los glaciares que acaban en un lago pierden 66 cm de agua al año, frente a 40 cm los de tierra firme, según un estudio en Nature Climate Change. Hay un 35 % más de lagos glaciares que en 2000.",
@@ -2180,7 +2224,7 @@
    }
   },
   {
-   "id": "2026-11-27-b15",
+   "id": "2026-11-27-b16",
    "section": "deportes",
    "tag": "LaLiga",
    "text": "El Levante-Racing de Santander abre hoy a las 21:00 la 14ª jornada de LaLiga.",
@@ -2190,7 +2234,7 @@
    }
   },
   {
-   "id": "2026-11-27-b16",
+   "id": "2026-11-27-b17",
    "section": "deportes",
    "tag": "Fútbol femenino",
    "text": "La selección española femenina juega mañana un amistoso ante Chile en el estadio Reino de León; la seleccionadora, Sonia Bermúdez, da hoy rueda de prensa a las 19:00.",
@@ -2200,7 +2244,7 @@
    }
   },
   {
-   "id": "2026-11-27-b17",
+   "id": "2026-11-27-b18",
    "section": "deportes",
    "tag": "Libertadores",
    "text": "Estudiantes de La Plata y Palmeiras disputan mañana en Montevideo la final de la Copa Libertadores.",
@@ -2210,7 +2254,7 @@
    }
   },
   {
-   "id": "2026-11-27-b18",
+   "id": "2026-11-27-b19",
    "section": "deportes",
    "tag": "Balonmano",
    "text": "El Irudek Bidasoa Irún visita hoy a las 19:00 al Bathco Torrelavega en la 11ª jornada de la Liga Asobal.",
