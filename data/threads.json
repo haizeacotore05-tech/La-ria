@@ -1,15 +1,51 @@
 {
+ "vivienda": {
+  "label": "Crisis de la vivienda",
+  "last": "2026-11-27",
+  "first": "2026-10-08",
+  "count": 97
+ },
+ "elecciones-29n": {
+  "label": "Elecciones 29-N",
+  "last": "2026-11-27",
+  "first": "2026-10-08",
+  "count": 127
+ },
+ "ucrania": {
+  "label": "Guerra de Ucrania",
+  "last": "2026-11-27",
+  "first": "2026-10-08",
+  "count": 46
+ },
+ "gaza": {
+  "label": "Guerra de Gaza",
+  "last": "2026-11-27",
+  "first": "2026-10-08",
+  "count": 17
+ },
+ "manovra-2027": {
+  "label": "Manovra 2027",
+  "last": "2026-11-27",
+  "first": "2026-11-24",
+  "count": 3
+ },
+ "nvidia-huang": {
+  "label": "Nvidia y Jensen Huang",
+  "last": "2026-11-27",
+  "first": "2026-11-12",
+  "count": 16
+ },
+ "athletic": {
+  "label": "Athletic Club",
+  "last": "2026-11-27",
+  "first": "2026-10-08",
+  "count": 48
+ },
  "metro-bilbao": {
   "label": "Metro de Bilbao",
   "last": "2026-11-26",
   "first": "2026-10-08",
   "count": 14
- },
- "elecciones-29n": {
-  "label": "Elecciones 29-N",
-  "last": "2026-11-26",
-  "first": "2026-10-08",
-  "count": 121
  },
  "canarias-migracion": {
   "label": "Migración en Canarias",
@@ -23,12 +59,6 @@
   "first": "2026-10-08",
   "count": 17
  },
- "ucrania": {
-  "label": "Guerra de Ucrania",
-  "last": "2026-11-26",
-  "first": "2026-10-08",
-  "count": 45
- },
  "yemen-huties": {
   "label": "Guerra en Yemen",
   "last": "2026-11-26",
@@ -41,47 +71,17 @@
   "first": "2026-11-26",
   "count": 1
  },
- "vivienda": {
-  "label": "Crisis de la vivienda",
-  "last": "2026-11-26",
-  "first": "2026-10-08",
-  "count": 95
- },
- "athletic": {
-  "label": "Athletic Club",
-  "last": "2026-11-26",
-  "first": "2026-10-08",
-  "count": 47
- },
  "amnistia": {
   "label": "Amnistía",
   "last": "2026-11-25",
   "first": "2026-10-20",
   "count": 5
  },
- "gaza": {
-  "label": "Guerra de Gaza",
-  "last": "2026-11-25",
-  "first": "2026-10-08",
-  "count": 16
- },
  "guerra-iran": {
   "label": "Guerra con Irán",
   "last": "2026-11-25",
   "first": "2026-10-09",
   "count": 37
- },
- "nvidia-huang": {
-  "label": "Nvidia y Jensen Huang",
-  "last": "2026-11-25",
-  "first": "2026-11-12",
-  "count": 15
- },
- "manovra-2027": {
-  "label": "Manovra 2027",
-  "last": "2026-11-25",
-  "first": "2026-11-24",
-  "count": 2
  },
  "italia-manovra": {
   "label": "Italia manovra",
